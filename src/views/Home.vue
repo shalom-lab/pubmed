@@ -28,7 +28,7 @@ const selectFile = (file) => {
 
 <template>
   <div class="min-h-screen bg-gray-50">
-    <nav class="bg-blue-600 text-white shadow-md">
+    <nav class="bg-blue-400 text-white shadow-md">
       <div class="container mx-auto px-4 py-4">
         <div class="flex items-center justify-between">
           <h1 class="text-xl font-bold">PubMed Watcher</h1>

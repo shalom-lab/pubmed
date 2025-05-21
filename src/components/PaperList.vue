@@ -10,25 +10,19 @@
       </div>
 
       <ul class="bg-white rounded-lg shadow divide-y divide-gray-100">
-        <li
-          v-for="paper in filteredPapers"
-          :key="paper.id"
-          class="group py-5 px-4 hover:bg-blue-50 transition cursor-pointer"
-        >
-          <a
-            :href="'https://pubmed.ncbi.nlm.nih.gov/' + paper.id + '/'"
-            target="_blank"
-            class="block"
-          >
+        <li v-for="paper in filteredPapers" :key="paper.id"
+          class="group py-5 px-4 hover:bg-blue-50 transition cursor-pointer">
+          <a :href="'https://pubmed.ncbi.nlm.nih.gov/' + paper.id + '/'" target="_blank" class="block">
             <div class="flex flex-col gap-1">
               <!-- 标题 -->
-              <span class="text-lg font-bold text-blue-700 group-hover:underline group-hover:text-blue-900 leading-snug">
+              <span
+                class="text-lg font-bold text-blue-700 group-hover:underline group-hover:text-blue-900 leading-snug">
                 {{ paper.title }}
               </span>
               <!-- 期刊和日期 -->
               <span class="text-sm text-gray-500">
                 {{ paper.source }} <span class="mx-1">|</span>
-                <span class="text-gray-400">{{ formatDate(paper.sortpubdate) }}</span>
+                <span class="text-gray-400">{{ formatDate(paper.epubdate) }}</span>
               </span>
               <!-- 作者 -->
               <span class="text-sm text-gray-700 truncate">
@@ -101,7 +95,8 @@ const filteredPapers = computed(() => {
   // Apply sorting
   result.sort((a, b) => {
     if (sortBy.value === 'date') {
-      return new Date(b.pubdate) - new Date(a.pubdate)
+      // 用 formatDateForSort 统一格式后比较
+      return new Date(formatDateForSort(b.pubdate)) - new Date(formatDateForSort(a.pubdate))
     } else if (sortBy.value === 'title') {
       return a.title.localeCompare(b.title)
     } else if (sortBy.value === 'authors') {
@@ -145,7 +140,47 @@ watch(() => props.filename, loadPapers, { immediate: true })
 function formatDate(dateStr) {
   if (!dateStr) return ''
   // "sortpubdate": "2025/04/17 00:00",
-  return dateStr.slice(0, 10).replace(/\//g, '-')
+  // return dateStr.slice(0, 10).replace(/\//g, '-')
+  //"epubdate": "2025 May 20" 请返回2025-05-20
+  const monthMap = {
+    Jan: '01', Feb: '02', Mar: '03', Apr: '04', May: '05', Jun: '06',
+    Jul: '07', Aug: '08', Sep: '09', Oct: '10', Nov: '11', Dec: '12'
+  };
+  // 匹配 "YYYY MMM DD"
+  const match = dateStr.match(/^(\d{4}) (\w{3}) (\d{1,2})$/);
+  if (match) {
+    const [, year, mon, day] = match;
+    return `${year}-${monthMap[mon] || '01'}-${day.padStart(2, '0')}`;
+  }
+  // 其他格式直接替换空格为-
+  return dateStr.replace(/ /g, '-');
+}
+
+function formatDateForSort(dateStr) {
+  if (!dateStr) return '';
+  const monthMap = {
+    Jan: '01', Feb: '02', Mar: '03', Apr: '04', May: '05', Jun: '06',
+    Jul: '07', Aug: '08', Sep: '09', Oct: '10', Nov: '11', Dec: '12'
+  };
+  // "YYYY MMM DD"
+  let match = dateStr.match(/^(\d{4}) (\w{3}) (\d{1,2})$/);
+  if (match) {
+    const [, year, mon, day] = match;
+    return `${year}-${monthMap[mon] || '01'}-${day.padStart(2, '0')}`;
+  }
+  // "YYYY MMM"
+  match = dateStr.match(/^(\d{4}) (\w{3})$/);
+  if (match) {
+    const [, year, mon] = match;
+    return `${year}-${monthMap[mon] || '01'}-01`;
+  }
+  // "YYYY"
+  match = dateStr.match(/^(\d{4})$/);
+  if (match) {
+    return `${match[1]}-01-01`;
+  }
+  // 其他格式直接替换空格为-
+  return dateStr.replace(/ /g, '-');
 }
 </script>
 
