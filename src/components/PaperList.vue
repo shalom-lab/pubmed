@@ -28,20 +28,15 @@
               <!-- 期刊和日期 -->
               <span class="text-sm text-gray-500">
                 {{ paper.source }} <span class="mx-1">|</span>
-                <span class="text-gray-400">{{ formatDate(paper.pubdate) }}</span>
+                <span class="text-gray-400">{{ formatDate(paper.sortpubdate) }}</span>
               </span>
               <!-- 作者 -->
               <span class="text-sm text-gray-700 truncate">
                 {{ paper.authors.join(', ') }}
               </span>
               <!-- DOI -->
-              <span v-if="paper.doi" class="text-xs text-gray-400">
-                DOI: 
-                <a
-                  :href="'https://doi.org/' + paper.doi.replace(/^doi:/i, '').replace(/^\\s+|\\s+$/g, '')"
-                  target="_blank"
-                  class="hover:underline hover:text-blue-600"
-                >{{ paper.doi }}</a>
+              <span v-if="paper.doi">
+                DOI: {{ paper.doi }}
               </span>
             </div>
           </a>
@@ -58,7 +53,6 @@
 
 <script setup>
 import { ref, computed, watch, onMounted } from 'vue'
-import { useRouter } from 'vue-router'
 import SearchBar from './SearchBar.vue'
 
 const props = defineProps({
@@ -68,15 +62,11 @@ const props = defineProps({
   }
 })
 
-const router = useRouter()
 const papers = ref([])
 const searchQuery = ref('')
 const sortBy = ref('date')
 const filterBy = ref('all')
 
-const formatFileName = (fileName) => {
-  return fileName.replace('.json', '').replace(/_/g, ' ')
-}
 
 const filteredPapers = computed(() => {
   let result = [...papers.value]
@@ -142,7 +132,7 @@ const clearSearch = () => {
 const loadPapers = async () => {
   if (!props.filename) return
   try {
-    const response = await fetch(`/${props.filename}`)
+    const response = await fetch(import.meta.env.BASE_URL + props.filename)
     papers.value = await response.json()
   } catch (error) {
     console.error('Error loading papers:', error)
@@ -154,12 +144,8 @@ watch(() => props.filename, loadPapers, { immediate: true })
 
 function formatDate(dateStr) {
   if (!dateStr) return ''
-  // 兼容只有年份或年月的情况
-  const parts = dateStr.split(/[- /.]/)
-  const year = parts[0]
-  const month = parts[1] ? parts[1].padStart(2, '0') : '01'
-  const day = parts[2] ? parts[2].padStart(2, '0') : '01'
-  return `${year}-${month}-${day}`
+  // "sortpubdate": "2025/04/17 00:00",
+  return dateStr.slice(0, 10).replace(/\//g, '-')
 }
 </script>
 

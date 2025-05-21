@@ -11,7 +11,7 @@ const formatFileName = (fileName) => {
 
 onMounted(async () => {
   try {
-    const response = await fetch('/index.json')
+    const response = await fetch(import.meta.env.BASE_URL + 'index.json')
     files.value = await response.json()
     if (files.value.length > 0) {
       currentFile.value = files.value[0]
