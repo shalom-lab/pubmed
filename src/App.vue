@@ -28,8 +28,6 @@
       </div>
     </div>
   </div>
-  <!-- 固定在右下角的悬浮菜单 -->
-
 </template>
 
 <style>
