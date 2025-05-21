@@ -46,7 +46,6 @@
 ```bash
 npm install
 npm run pubmed      # Fetch latest PubMed data (scripts/pubmed.cjs)
-npm run prebuild    # Preprocess/merge data for frontend
 npm run dev         # Start local dev server
 ```
 
