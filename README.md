@@ -1,6 +1,16 @@
-# PubMed  Watcher 🧬
+<h1 align="center">
+  PubMed Watcher 🧬
+</h1>
 
-A modern, automated dashboard for browsing, searching, and visualizing PubMed research data. Built with Vue 3, Vite, and Tailwind CSS, and powered by automated PubMed data crawling and GitHub Actions CI/CD.
+<p align="center">
+  <a href="https://shalom-lab.github.io/pubmed/"><b>🌐 Live Demo (GitHub Pages)</b></a>
+</p>
+
+<p align="center">
+  A modern, automated dashboard that <b>auto-updates recent PubMed articles</b> for a specific topic.
+</p>
+
+> **Note:** You can customize the PubMed search topics, date ranges, and output files by editing the `scripts/query.json` file. This file is user-editable and controls which queries are run and what data is collected.
 
 ## ✨ Features
 
@@ -18,6 +28,7 @@ A modern, automated dashboard for browsing, searching, and visualizing PubMed re
 ├── scripts/
 │   ├── pubmed.cjs       # PubMed crawler script (Node.js, CommonJS)
 │   └── prebuild.js      # Data pre-processing script
+│   └── query.json       # User-editable PubMed query configuration
 ├── src/
 │   ├── components/      # Vue components
 │   ├── views/           # Main views
