@@ -31,7 +31,7 @@ const selectFile = (file) => {
     <nav class="bg-blue-600 text-white shadow-md">
       <div class="container mx-auto px-4 py-4">
         <div class="flex items-center justify-between">
-          <h1 class="text-xl font-bold">PubMed Research</h1>
+          <h1 class="text-xl font-bold">PubMed Watcher</h1>
           <!-- 右侧 GitHub 链接 -->
           <a href="https://github.com/shalom-lab/pubmed" target="_blank"
             class="flex items-center gap-1 px-3 py-1 rounded hover:bg-blue-500 transition" title="View on GitHub">
