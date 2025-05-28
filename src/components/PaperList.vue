@@ -96,7 +96,7 @@ const filteredPapers = computed(() => {
   result.sort((a, b) => {
     if (sortBy.value === 'date') {
       // 用 formatDateForSort 统一格式后比较
-      return new Date(formatDateForSort(b.pubdate)) - new Date(formatDateForSort(a.pubdate))
+      return new Date(formatDateForSort(b.epubdate)) - new Date(formatDateForSort(a.epubdate))
     } else if (sortBy.value === 'title') {
       return a.title.localeCompare(b.title)
     } else if (sortBy.value === 'authors') {
