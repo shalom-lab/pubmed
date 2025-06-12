@@ -3,7 +3,7 @@
     <router-view></router-view>
     <div class="float-menu">
       <!-- 编辑按钮 -->
-      <a href="https://github.com/shalom-lab/pubmed/edit/main/scripts/query.json" target="_blank" class="menu-item">
+      <a href="https://github.com/shalom-lab/pubmed/edit/master/scripts/query.json" target="_blank" class="menu-item">
         <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 text-gray-600" fill="none" viewBox="0 0 24 24"
           stroke="currentColor">
           <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"

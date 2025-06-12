@@ -37,7 +37,7 @@ function readAndDeduplicate(filePath, newArticles) {
 
   // 使用DOI作为唯一标识符进行去重
   const doiMap = new Map();
-  
+
   // 首先添加现有文章
   existingArticles.forEach(article => {
     if (article.doi) {
@@ -55,14 +55,38 @@ function readAndDeduplicate(filePath, newArticles) {
   return Array.from(doiMap.values());
 }
 
+function buildEsearchUrl(params) {
+  const {
+    term,
+    retmax,
+    reldate,
+    minDate,
+    maxDate
+  } = params;
 
-async function searchPubMedByDateRange(keyword, startDate, endDate, maxResults = 5, filename,name) {
-  // 构建日期范围查询
-  const dateRange = `${startDate}:${endDate}[pdat]`;
-  const searchTerm = `${keyword} AND ${dateRange}`;
-  
-  // esearch 加入 sort=pubdate 参数，按发表日期排序
-  const esearchUrl = `https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term=${encodeURIComponent(searchTerm)}&retmax=${maxResults}&retmode=json&sort=pubdate`;
+  const dateParams = reldate !== undefined && reldate !== null
+    ? `&reldate=${reldate}`
+    : (minDate && maxDate
+      ? `&mindate=${minDate}&maxdate=${maxDate}`
+      : '');
+  const retmaxParams = retmax !== undefined && retmax !== null
+    ? `&retmax=${retmax}`
+    : '&retmax=50';
+
+  const url = `https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?` +
+    `db=pubmed&term=${encodeURIComponent(term)}` +
+    dateParams +
+    retmaxParams +
+    `&retmode=json&sort=pubdate&datetype=pdat`;
+
+  return url;
+}
+
+
+async function searchPubMed(query) {
+  const { name, filename } = query;
+  const esearchUrl = buildEsearchUrl(query);
+  console.log(esearchUrl);
   const searchResult = await fetchJSON(esearchUrl);
   const idList = searchResult.esearchresult.idlist;
   if (idList.length === 0) {
@@ -98,10 +122,10 @@ async function searchPubMedByDateRange(keyword, startDate, endDate, maxResults =
   // 保存到文件
   const dataDir = ensureDataDirectory();
   const filePath = path.join(dataDir, `${filename}`);
-  
+
   // 读取现有数据并去重
   const deduplicatedArticles = readAndDeduplicate(filePath, articles);
-  
+
   // 保存去重后的数据
   fs.writeFileSync(filePath, JSON.stringify(deduplicatedArticles, null, 2));
   console.log(`Results saved to: ${filePath}`);
@@ -109,11 +133,11 @@ async function searchPubMedByDateRange(keyword, startDate, endDate, maxResults =
   // 打印结果
   articles.forEach(article => {
     console.log(`Title: ${article.title}`);
-/*     console.log(`Source: ${article.source}`);
-    console.log(`Journal: ${article.journal}`);
-    console.log(`DOI: ${article.doi}`);
-    console.log(`PubDate: ${article.pubdate}`);
-    console.log(`Authors: ${article.authors.join(', ')}`); */
+    /*     console.log(`Source: ${article.source}`);
+        console.log(`Journal: ${article.journal}`);
+        console.log(`DOI: ${article.doi}`);
+        console.log(`PubDate: ${article.pubdate}`);
+        console.log(`Authors: ${article.authors.join(', ')}`); */
     console.log('---');
   });
 }
@@ -123,15 +147,8 @@ async function processQueries() {
   try {
     const queryConfig = JSON.parse(fs.readFileSync(path.join(__dirname, 'query.json'), 'utf8'));
     for (const query of queryConfig) {
-      console.log(`Processing query: ${query.query}`);
-      await searchPubMedByDateRange(
-        query.query,
-        query.date,
-        new Date().toISOString().split('T')[0], // 使用当前日期作为结束日期
-        query.maxResults,
-        query.filename,
-        query.name
-      );
+      console.log(`Processing query: ${query.name}`);
+      await searchPubMed(query);
     }
   } catch (error) {
     console.error('Error processing queries:', error);
