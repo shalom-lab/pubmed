@@ -545,10 +545,57 @@
     "essn": "1479-683X"
   },
   {
+    "source": "JAMA",
+    "journal": "JAMA",
+    "issn": "0098-7484",
+    "essn": "1538-3598"
+  },
+  {
+    "source": "Pediatr Infect Dis J",
+    "journal": "The Pediatric infectious disease journal",
+    "issn": "0891-3668",
+    "essn": "1532-0987"
+  },
+  {
+    "source": "J Public Health Afr",
+    "journal": "Journal of public health in Africa",
+    "issn": "2038-9922",
+    "essn": "2038-9930"
+  },
+  {
+    "source": "Enferm Infecc Microbiol Clin (Engl Ed)",
+    "journal": "Enfermedades infecciosas y microbiologia clinica (English ed.)",
+    "essn": "2529-993X"
+  },
+  {
+    "source": "Expert Rev Pharmacoecon Outcomes Res",
+    "journal": "Expert review of pharmacoeconomics & outcomes research",
+    "issn": "1473-7167",
+    "essn": "1744-8379"
+  },
+  {
+    "source": "Vaccines (Basel)",
+    "journal": "Vaccines",
+    "issn": "2076-393X",
+    "essn": "2076-393X"
+  },
+  {
+    "source": "Med J Aust",
+    "journal": "The Medical journal of Australia",
+    "issn": "0025-729X",
+    "essn": "1326-5377"
+  },
+  {
     "source": "Hum Vaccin Immunother",
     "journal": "Human vaccines & immunotherapeutics",
     "issn": "2164-5515",
     "essn": "2164-554X"
+  },
+  {
+    "source": "Lancet Child Adolesc Health",
+    "journal": "The Lancet. Child & adolescent health",
+    "issn": "2352-4642",
+    "essn": "2352-4650"
   },
   {
     "source": "Eur J Pediatr",
@@ -561,12 +608,6 @@
     "journal": "Vaccine",
     "issn": "0264-410X",
     "essn": "1873-2518"
-  },
-  {
-    "source": "Lancet Child Adolesc Health",
-    "journal": "The Lancet. Child & adolescent health",
-    "issn": "2352-4642",
-    "essn": "2352-4650"
   },
   {
     "source": "Clin Drug Investig",
@@ -627,12 +668,6 @@
     "essn": "1941-837X"
   },
   {
-    "source": "Vaccines (Basel)",
-    "journal": "Vaccines",
-    "issn": "2076-393X",
-    "essn": "2076-393X"
-  },
-  {
     "source": "NEJM Evid",
     "journal": "NEJM evidence",
     "essn": "2766-5526"
@@ -685,12 +720,6 @@
     "essn": "1537-6613"
   },
   {
-    "source": "Pediatr Infect Dis J",
-    "journal": "The Pediatric infectious disease journal",
-    "issn": "0891-3668",
-    "essn": "1532-0987"
-  },
-  {
     "source": "Ther Adv Vaccines Immunother",
     "journal": "Therapeutic advances in vaccines and immunotherapy",
     "issn": "2515-1355",
@@ -739,60 +768,36 @@
     "essn": "1715-5258"
   },
   {
-    "source": "Pediatrics",
-    "journal": "Pediatrics",
-    "issn": "0031-4005",
-    "essn": "1098-4275"
+    "source": "Tob Use Insights",
+    "journal": "Tobacco use insights",
+    "issn": "1179-173X",
+    "essn": "1179-173X"
   },
   {
-    "source": "Nat Commun",
-    "journal": "Nature communications",
-    "essn": "2041-1723"
+    "source": "Int J Epidemiol",
+    "journal": "International journal of epidemiology",
+    "issn": "0300-5771",
+    "essn": "1464-3685"
   },
   {
-    "source": "Hosp Pediatr",
-    "journal": "Hospital pediatrics",
-    "essn": "2154-1671"
+    "source": "Genome Biol Evol",
+    "journal": "Genome biology and evolution",
+    "essn": "1759-6653"
   },
   {
-    "source": "MMWR Morb Mortal Wkly Rep",
-    "journal": "MMWR. Morbidity and mortality weekly report",
-    "issn": "0149-2195",
-    "essn": "1545-861X"
+    "source": "Virol J",
+    "journal": "Virology journal",
+    "essn": "1743-422X"
   },
   {
-    "source": "Microbiol Spectr",
-    "journal": "Microbiology spectrum",
-    "essn": "2165-0497"
+    "source": "Lancet Glob Health",
+    "journal": "The Lancet. Global health",
+    "essn": "2214-109X"
   },
   {
-    "source": "JAMA",
-    "journal": "JAMA",
-    "issn": "0098-7484",
-    "essn": "1538-3598"
-  },
-  {
-    "source": "J Public Health Afr",
-    "journal": "Journal of public health in Africa",
-    "issn": "2038-9922",
-    "essn": "2038-9930"
-  },
-  {
-    "source": "Enferm Infecc Microbiol Clin (Engl Ed)",
-    "journal": "Enfermedades infecciosas y microbiologia clinica (English ed.)",
-    "essn": "2529-993X"
-  },
-  {
-    "source": "Expert Rev Pharmacoecon Outcomes Res",
-    "journal": "Expert review of pharmacoeconomics & outcomes research",
-    "issn": "1473-7167",
-    "essn": "1744-8379"
-  },
-  {
-    "source": "Med J Aust",
-    "journal": "The Medical journal of Australia",
-    "issn": "0025-729X",
-    "essn": "1326-5377"
+    "source": "Geohealth",
+    "journal": "GeoHealth",
+    "essn": "2471-1403"
   },
   {
     "source": "Front Microbiol",
@@ -876,88 +881,32 @@
     "essn": "2692-8205"
   },
   {
-    "source": "Pediatr Pulmonol",
-    "journal": "Pediatric pulmonology",
-    "issn": "8755-6863",
-    "essn": "1099-0496"
+    "source": "Diagn Microbiol Infect Dis",
+    "journal": "Diagnostic microbiology and infectious disease",
+    "issn": "0732-8893",
+    "essn": "1879-0070"
   },
   {
-    "source": "Bundesgesundheitsblatt Gesundheitsforschung Gesundheitsschutz",
-    "journal": "Bundesgesundheitsblatt, Gesundheitsforschung, Gesundheitsschutz",
-    "issn": "1436-9990",
-    "essn": "1437-1588"
+    "source": "Eur J Clin Microbiol Infect Dis",
+    "journal": "European journal of clinical microbiology & infectious diseases : official publication of the European Society of Clinical Microbiology",
+    "issn": "0934-9723",
+    "essn": "1435-4373"
   },
   {
-    "source": "Poult Sci",
-    "journal": "Poultry science",
-    "issn": "0032-5791",
-    "essn": "1525-3171"
+    "source": "Viruses",
+    "journal": "Viruses",
+    "essn": "1999-4915"
   },
   {
-    "source": "Colloids Surf B Biointerfaces",
-    "journal": "Colloids and surfaces. B, Biointerfaces",
-    "issn": "0927-7765",
-    "essn": "1873-4367"
+    "source": "J Med Virol",
+    "journal": "Journal of medical virology",
+    "issn": "0146-6615",
+    "essn": "1096-9071"
   },
   {
-    "source": "BMJ Public Health",
-    "journal": "BMJ public health",
-    "essn": "2753-4294"
-  },
-  {
-    "source": "Lancet Reg Health Eur",
-    "journal": "The Lancet regional health. Europe",
-    "essn": "2666-7762"
-  },
-  {
-    "source": "Curr Allergy Asthma Rep",
-    "journal": "Current allergy and asthma reports",
-    "issn": "1529-7322",
-    "essn": "1534-6315"
-  },
-  {
-    "source": "Environ Sci Pollut Res Int",
-    "journal": "Environmental science and pollution research international",
-    "issn": "0944-1344",
-    "essn": "1614-7499"
-  },
-  {
-    "source": "Virol J",
-    "journal": "Virology journal",
-    "essn": "1743-422X"
-  },
-  {
-    "source": "J Gen Virol",
-    "journal": "The Journal of general virology",
-    "issn": "0022-1317",
-    "essn": "1465-2099"
-  },
-  {
-    "source": "Tob Use Insights",
-    "journal": "Tobacco use insights",
-    "issn": "1179-173X",
-    "essn": "1179-173X"
-  },
-  {
-    "source": "Int J Epidemiol",
-    "journal": "International journal of epidemiology",
-    "issn": "0300-5771",
-    "essn": "1464-3685"
-  },
-  {
-    "source": "Genome Biol Evol",
-    "journal": "Genome biology and evolution",
-    "essn": "1759-6653"
-  },
-  {
-    "source": "Lancet Glob Health",
-    "journal": "The Lancet. Global health",
-    "essn": "2214-109X"
-  },
-  {
-    "source": "Geohealth",
-    "journal": "GeoHealth",
-    "essn": "2471-1403"
+    "source": "Microbiol Spectr",
+    "journal": "Microbiology spectrum",
+    "essn": "2165-0497"
   },
   {
     "source": "Trop Med Int Health",
@@ -975,12 +924,6 @@
     "journal": "Journal of clinical medicine",
     "issn": "2077-0383",
     "essn": "2077-0383"
-  },
-  {
-    "source": "Eur J Clin Microbiol Infect Dis",
-    "journal": "European journal of clinical microbiology & infectious diseases : official publication of the European Society of Clinical Microbiology",
-    "issn": "0934-9723",
-    "essn": "1435-4373"
   },
   {
     "source": "Sci Total Environ",
@@ -1001,6 +944,12 @@
     "essn": "2200-6133"
   },
   {
+    "source": "MMWR Morb Mortal Wkly Rep",
+    "journal": "MMWR. Morbidity and mortality weekly report",
+    "issn": "0149-2195",
+    "essn": "1545-861X"
+  },
+  {
     "source": "Zoonoses Public Health",
     "journal": "Zoonoses and public health",
     "issn": "1863-1959",
@@ -1018,23 +967,6 @@
     "essn": "1369-1619"
   },
   {
-    "source": "J Med Virol",
-    "journal": "Journal of medical virology",
-    "issn": "0146-6615",
-    "essn": "1096-9071"
-  },
-  {
-    "source": "Diagn Microbiol Infect Dis",
-    "journal": "Diagnostic microbiology and infectious disease",
-    "issn": "0732-8893",
-    "essn": "1879-0070"
-  },
-  {
-    "source": "Viruses",
-    "journal": "Viruses",
-    "essn": "1999-4915"
-  },
-  {
     "source": "Pathogens",
     "journal": "Pathogens (Basel, Switzerland)",
     "essn": "2076-0817"
@@ -1049,29 +981,6 @@
     "source": "Zhonghua Yi Xue Za Zhi",
     "journal": "Zhonghua yi xue za zhi",
     "issn": "0376-2491"
-  },
-  {
-    "source": "Virus Res",
-    "journal": "Virus research",
-    "issn": "0168-1702",
-    "essn": "1872-7492"
-  },
-  {
-    "source": "Int J Environ Res Public Health",
-    "journal": "International journal of environmental research and public health",
-    "issn": "1661-7827",
-    "essn": "1660-4601"
-  },
-  {
-    "source": "Arch Med Res",
-    "journal": "Archives of medical research",
-    "issn": "0188-4409",
-    "essn": "1873-5487"
-  },
-  {
-    "source": "ACS ES T Water",
-    "journal": "ACS ES&T water",
-    "essn": "2690-0637"
   },
   {
     "source": "Pediatr Int",

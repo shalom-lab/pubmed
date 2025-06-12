@@ -5,16 +5,13 @@ import PaperList from '../components/PaperList.vue'
 const files = ref([])
 const currentFile = ref('')
 
-const formatFileName = (fileName) => {
-  return fileName.replace('.json', '').replace(/_/g, ' ')
-}
 
 onMounted(async () => {
   try {
     const response = await fetch(import.meta.env.BASE_URL + 'index.json')
     files.value = await response.json()
     if (files.value.length > 0) {
-      currentFile.value = files.value[0]
+      currentFile.value = files.value[0].filename
     }
   } catch (error) {
     console.error('Error loading file list:', error)
@@ -22,7 +19,7 @@ onMounted(async () => {
 })
 
 const selectFile = (file) => {
-  currentFile.value = file
+  currentFile.value = file.filename
 }
 </script>
 
@@ -50,10 +47,10 @@ const selectFile = (file) => {
           <div class="bg-white rounded-lg shadow p-4">
             <h2 class="text-lg font-semibold mb-4">Topics</h2>
             <ul>
-              <li v-for="file in files" :key="file">
+              <li v-for="file in files" :key="file.name">
                 <button class="w-full text-left px-2 py-1 rounded hover:bg-blue-100"
-                  :class="{ 'bg-blue-200 font-bold': currentFile === file }" @click="selectFile(file)">
-                  {{ formatFileName(file) }}
+                  :class="{ 'bg-blue-200 font-bold': currentFile === file.filename }" @click="selectFile(file)">
+                  {{ file.name }}
                 </button>
               </li>
             </ul>
