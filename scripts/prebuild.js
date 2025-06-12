@@ -7,7 +7,7 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const dataDir = path.join(__dirname, '../data');
 const publicDir = path.join(__dirname, '../public');
 
-const files = fs.readdirSync(dataDir).filter(f => f.endsWith('.json'));
+const files = fs.readdirSync(dataDir).filter(f => f.endsWith('.json') && !f.startsWith('journals'));
 
 fs.writeFileSync(
     path.join(publicDir, 'index.json'),
@@ -21,3 +21,8 @@ for (const file of files) {
         path.join(publicDir, file)
     );
 }
+
+fs.copyFileSync(
+    path.join(dataDir, 'journals.json'),
+    path.join(publicDir, 'journals.json')
+);

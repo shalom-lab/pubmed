@@ -142,7 +142,56 @@ async function searchPubMed(query) {
   });
 }
 
-// 从query.json读取配置并执行查询
+// 读取所有JSON文件并提取期刊信息
+async function collectJournalInfo() {
+  const dataDir = ensureDataDirectory();
+  const journalMap = new Map(); // 使用Map来存储唯一的期刊信息
+
+  // 读取现有的journals.json（如果存在）
+  const journalsPath = path.join(dataDir, 'journals.json');
+  if (fs.existsSync(journalsPath)) {
+    const existingJournals = JSON.parse(fs.readFileSync(journalsPath, 'utf8'));
+    existingJournals.forEach(journal => {
+      const key = journal.source || journal.journal;
+      if (key) {
+        journalMap.set(key, journal);
+      }
+    });
+  }
+
+  // 读取data目录下的所有JSON文件
+  const files = fs.readdirSync(dataDir).filter(file => file.endsWith('.json') && file !== 'journals.json');
+  
+  for (const file of files) {
+    const filePath = path.join(dataDir, file);
+    const articles = JSON.parse(fs.readFileSync(filePath, 'utf8'));
+    
+    // 从每篇文章中提取期刊信息
+    articles.forEach(article => {
+      const key = article.source || article.journal;
+      if (key) {
+        // 如果这个期刊还没有被记录，或者有新的信息，就更新
+        if (!journalMap.has(key) || 
+            (article.issn && !journalMap.get(key).issn) || 
+            (article.essn && !journalMap.get(key).essn)) {
+          journalMap.set(key, {
+            source: article.source,
+            journal: article.journal,
+            issn: article.issn || journalMap.get(key)?.issn,
+            essn: article.essn || journalMap.get(key)?.essn
+          });
+        }
+      }
+    });
+  }
+
+  // 将Map转换为数组并保存
+  const journals = Array.from(journalMap.values());
+  fs.writeFileSync(journalsPath, JSON.stringify(journals, null, 2));
+  console.log(`Updated journals.json with ${journals.length} unique journals`);
+}
+
+// 修改 processQueries 函数，在最后添加对 collectJournalInfo 的调用
 async function processQueries() {
   try {
     const queryConfig = JSON.parse(fs.readFileSync(path.join(__dirname, 'query.json'), 'utf8'));
@@ -150,6 +199,8 @@ async function processQueries() {
       console.log(`Processing query: ${query.name}`);
       await searchPubMed(query);
     }
+    // 在所有查询完成后，收集期刊信息
+    await collectJournalInfo();
   } catch (error) {
     console.error('Error processing queries:', error);
   }

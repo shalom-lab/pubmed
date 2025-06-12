@@ -1,6 +1,6 @@
 [
     {
-        "name": "nirsevimab effectiveness",
+        "name": "Nirsevimab effectiveness",
         "term": "(nirsevimab[Title/Abstract] OR \"MEDI8897\"[Title/Abstract]) AND (effectiveness[Title/Abstract] OR efficacy[Title/Abstract] OR \"real-world\"[Title/Abstract] OR \"real world\"[Title/Abstract] OR \"clinical trial\"[Publication Type] OR \"randomized controlled trial\"[Publication Type]) AND (\"respiratory syncytial virus\"[Title/Abstract] OR RSV[Title/Abstract])",
         "reldate": 365,
         "retmax": 50,
@@ -21,7 +21,7 @@
         "filename": "RSV_modeling.json"
     },
     {
-        "name": "vitamin D and respiratory infections",
+        "name": "Vitamin D and respiratory infections",
         "term": "(\"vitamin D\"[MeSH Terms] OR \"vitamin D\"[All Fields]) AND (\"respiratory tract infections\"[MeSH Terms] OR \"respiratory infection\"[Title/Abstract])",
         "reldate": 365,
         "retmax": 50,
@@ -35,7 +35,7 @@
         "filename": "Global_Burden_of_Disease.json"
     },
     {
-        "name": "clinical prediction models",
+        "name": "Clinical prediction models",
         "term": "(\"China\"[Affiliation] OR \"Chinese\"[Affiliation]) AND (\"clinical\"[Title/Abstract]) AND (\"prediction model\"[Title/Abstract] OR \"predictive model\"[Title/Abstract] OR \"nomogram\"[Title/Abstract] OR \"risk score\"[Title/Abstract] OR \"risk model\"[Title/Abstract] OR \"logistic regression\"[Title/Abstract] OR \"machine learning\"[Title/Abstract])",
         "reldate": 365,
         "retmax": 50,
