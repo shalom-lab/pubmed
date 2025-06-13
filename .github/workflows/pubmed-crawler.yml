@@ -30,6 +30,9 @@ jobs:
     - name: Run PubMed crawler
       run: npm run pubmed
       
+    - name: Clean dist directory
+      run: rm -rf dist/*
+      
     - name: Build
       run: npm run build
       
