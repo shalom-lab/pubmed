@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Nirsevimab effectiveness",
+        "filename": "nirsevimab_effectiveness.json",
+        "term": "(nirsevimab[Title/Abstract] OR \"MEDI8897\"[Title/Abstract]) AND (effectiveness[Title/Abstract] OR efficacy[Title/Abstract] OR \"real-world\"[Title/Abstract] OR \"real world\"[Title/Abstract] OR \"clinical trial\"[Publication Type] OR \"randomized controlled trial\"[Publication Type]) AND (\"respiratory syncytial virus\"[Title/Abstract] OR RSV[Title/Abstract])",
+        "reldate": 365,
+        "retmax": 50
+    },
+    {
+        "name": "RSV seasonality",
+        "filename": "rsv_seasonality.json",
+        "term": "(\"respiratory syncytial virus\"[Title/Abstract] OR RSV[Title/Abstract]) AND (seasonality[Title/Abstract] OR seasonal[Title/Abstract] OR \"seasonal pattern\"[Title/Abstract] OR \"seasonal variation\"[Title/Abstract] OR \"seasonal distribution\"[Title/Abstract] OR \"seasonal trend\"[Title/Abstract] OR \"seasonal peak\"[Title/Abstract] OR \"seasonal outbreak\"[Title/Abstract] OR \"seasonal epidemic\"[Title/Abstract] OR \"seasonal activity\"[Title/Abstract] OR \"temporal pattern\"[Title/Abstract] OR \"temporal distribution\"[Title/Abstract] OR \"epidemiological pattern\"[Title/Abstract] OR \"epidemiological trend\"[Title/Abstract]) AND (\"surveillance\"[Title/Abstract] OR \"epidemiology\"[Title/Abstract] OR \"incidence\"[Title/Abstract] OR \"prevalence\"[Title/Abstract] OR \"outbreak\"[Title/Abstract] OR \"epidemic\"[Title/Abstract])",
+        "reldate": 365,
+        "retmax": 50
+    },
+    {
+        "name": "RSV modeling",
+        "filename": "rsv_modeling.json",
+        "term": "(\"respiratory syncytial virus\"[Title/Abstract] OR RSV[Title/Abstract]) AND (model[Title/Abstract] OR modeling[Title/Abstract] OR \"mathematical model\"[Title/Abstract] OR \"statistical model\"[Title/Abstract] OR \"predictive model\"[Title/Abstract] OR \"forecasting model\"[Title/Abstract] OR \"transmission model\"[Title/Abstract] OR \"epidemiological model\"[Title/Abstract] OR \"compartmental model\"[Title/Abstract] OR \"SEIR model\"[Title/Abstract] OR \"SIR model\"[Title/Abstract] OR \"agent-based model\"[Title/Abstract] OR \"simulation\"[Title/Abstract] OR \"time series\"[Title/Abstract] OR \"machine learning\"[Title/Abstract] OR \"artificial intelligence\"[Title/Abstract] OR \"deep learning\"[Title/Abstract] OR \"neural network\"[Title/Abstract]) AND (\"prediction\"[Title/Abstract] OR \"forecast\"[Title/Abstract] OR \"transmission\"[Title/Abstract] OR \"spread\"[Title/Abstract] OR \"dynamics\"[Title/Abstract] OR \"epidemic\"[Title/Abstract] OR \"outbreak\"[Title/Abstract] OR \"incidence\"[Title/Abstract] OR \"prevalence\"[Title/Abstract] OR \"burden\"[Title/Abstract])",
+        "reldate": 365,
+        "retmax": 50
+    },
+    {
+        "name": "American Journal of Epidemiology",
+        "filename": "american_journal_of_epidemiology.json",
+        "term": "\"Am J Epidemiol\"[Journal]",
+        "reldate": 365,
+        "retmax": 50
+    },
+    {
+        "name": "GBD database",
+        "filename": "gbd_database.json",
+        "term": "(\"Global Burden of Disease\"[Title/Abstract] OR GBD[Title/Abstract])",
+        "reldate": 365,
+        "retmax": 50
+    },
+    {
+        "name": "Clinical prediction models",
+        "filename": "clinical_prediction_models.json",
+        "term": "(\"China\"[Affiliation] OR \"Chinese\"[Affiliation]) AND (\"clinical\"[Title/Abstract]) AND (\"prediction model\"[Title/Abstract] OR \"predictive model\"[Title/Abstract] OR \"nomogram\"[Title/Abstract] OR \"risk score\"[Title/Abstract] OR \"risk model\"[Title/Abstract] OR \"logistic regression\"[Title/Abstract] OR \"machine learning\"[Title/Abstract])",
+        "reldate": 365,
+        "retmax": 50
+    },
+    {
+        "name": "NHANES",
+        "filename": "nhanes.json",
+        "term": "(\"NHANES\"[Title/Abstract] OR \"National Health and Nutrition Examination Survey\"[Title/Abstract])",
+        "reldate": 365,
+        "retmax": 50
+    },
+    {
+        "name": "Vitamin D and respiratory infections",
+        "filename": "vitamin_d_and_respiratory_infections.json",
+        "term": "(\"vitamin D\"[MeSH Terms] OR \"vitamin D\"[All Fields]) AND (\"respiratory tract infections\"[MeSH Terms] OR \"respiratory infection\"[Title/Abstract])",
+        "reldate": 365,
+        "retmax": 50
+    }
+]

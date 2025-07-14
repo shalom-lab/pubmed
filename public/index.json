@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Nirsevimab effectiveness",
+    "filename": "nirsevimab_effectiveness.json"
+  },
+  {
+    "name": "RSV seasonality",
+    "filename": "rsv_seasonality.json"
+  },
+  {
+    "name": "RSV modeling",
+    "filename": "rsv_modeling.json"
+  },
+  {
+    "name": "American Journal of Epidemiology",
+    "filename": "american_journal_of_epidemiology.json"
+  },
+  {
+    "name": "GBD database",
+    "filename": "gbd_database.json"
+  },
+  {
+    "name": "Clinical prediction models",
+    "filename": "clinical_prediction_models.json"
+  },
+  {
+    "name": "NHANES",
+    "filename": "nhanes.json"
+  },
+  {
+    "name": "Vitamin D and respiratory infections",
+    "filename": "vitamin_d_and_respiratory_infections.json"
+  }
+]

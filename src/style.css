@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+@layer components {
+  .paper-card {
+    @apply bg-white rounded-lg shadow-sm transition-transform duration-200 hover:-translate-y-1 hover:shadow-lg;
+  }
+  .paper-title {
+    @apply text-lg font-semibold mb-2;
+  }
+  .paper-meta {
+    @apply text-sm text-gray-600 mb-2;
+  }
+  .paper-authors {
+    @apply text-sm text-gray-700 italic mb-2;
+  }
+}

@@ -1,0 +1,14 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="64" height="64" rx="16" fill="#2563eb"/>
+  <g>
+    <ellipse cx="32" cy="32" rx="18" ry="8" fill="#fff" fill-opacity="0.15"/>
+    <ellipse cx="32" cy="32" rx="12" ry="4" fill="#fff" fill-opacity="0.25"/>
+    <path d="M20 44C28 28 36 36 44 20" stroke="#fff" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M20 20C28 36 36 28 44 44" stroke="#fff" stroke-width="2.5" stroke-linecap="round"/>
+    <circle cx="20" cy="20" r="2.5" fill="#fff"/>
+    <circle cx="44" cy="20" r="2.5" fill="#fff"/>
+    <circle cx="20" cy="44" r="2.5" fill="#fff"/>
+    <circle cx="44" cy="44" r="2.5" fill="#fff"/>
+  </g>
+  <text x="32" y="58" text-anchor="middle" font-size="10" fill="#fff" font-family="Arial, Helvetica, sans-serif">PMW</text>
+</svg>
