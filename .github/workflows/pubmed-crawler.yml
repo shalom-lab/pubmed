@@ -48,27 +48,16 @@ jobs:
     runs-on: ubuntu-latest
     needs: fetch-data
     steps:
-      - uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-      - name: Pull latest changes
-        run: git pull origin master
+      - name: Checkout
+        uses: actions/checkout@v4
       - name: Set up Node.js
         uses: actions/setup-node@v4
         with:
           node-version: '20'
       - name: Install dependencies
         run: npm install
-      - name: Show public/index.json before build
-        run: cat public/index.json
       - name: Build
         run: npm run build
-      - name: Show public/index.json after build
-        run: cat public/index.json
-      - name: Overwrite dist/index.json with public/index.json
-        run: cp -f public/index.json dist/index1.json
-      - name: Show dist/index.json after build
-        run: cat dist/index1.json
       - name: Setup Pages
         uses: actions/configure-pages@v3
       - name: Upload Pages artifact
