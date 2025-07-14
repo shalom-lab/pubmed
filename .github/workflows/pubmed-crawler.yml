@@ -61,11 +61,6 @@ jobs:
         run: npm install
       - name: Show public/index.json before build
         run: cat public/index.json
-      - name: "show file in public and data and dist"
-        run: |
-          ls -l public/
-          ls -l data/
-          ls -l dist/
       - name: Build
         run: npm run build
       - name: Show public/index.json after build
