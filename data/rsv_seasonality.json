@@ -1181,5 +1181,33 @@
     "doi": "doi: 10.1186/s41479-025-00160-4",
     "sortpubdate": "2025/04/05 00:00",
     "epubdate": "2025 Apr 5"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "40656201",
+    "title": "Respiratory pathogens detected in children aged <5 years hospitalized with severe respiratory illness, South Africa, 2017.",
+    "source": "Front Pediatr",
+    "pubdate": "2025",
+    "authors": [
+      "Moleleki M",
+      "Reddy C",
+      "Ndlangisa K",
+      "du Plessis M",
+      "Hellferscee O",
+      "Mekgoe O",
+      "Walaza S",
+      "Tempia S",
+      "Cohen C",
+      "von Gottberg A",
+      "Wolter N"
+    ],
+    "lastauthor": "Wolter N",
+    "sortfirstauthor": "Moleleki M",
+    "journal": "Frontiers in pediatrics",
+    "issn": "2296-2360",
+    "essn": "",
+    "doi": "doi: 10.3389/fped.2025.1498197",
+    "sortpubdate": "2025/06/27 00:00",
+    "epubdate": "2025 Jun 27"
   }
 ]
