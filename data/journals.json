@@ -187,7 +187,8 @@
   {
     "source": "Cancers (Basel)",
     "journal": "Cancers",
-    "issn": "2072-6694"
+    "issn": "2072-6694",
+    "essn": "2072-6694"
   },
   {
     "source": "Diabetol Metab Syndr",
@@ -1187,7 +1188,8 @@
   {
     "source": "Front Pharmacol",
     "journal": "Frontiers in pharmacology",
-    "issn": "1663-9812"
+    "issn": "1663-9812",
+    "essn": "1663-9812"
   },
   {
     "source": "Front Psychol",
@@ -1222,7 +1224,8 @@
   {
     "source": "Geriatr Orthop Surg Rehabil",
     "journal": "Geriatric orthopaedic surgery & rehabilitation",
-    "issn": "2151-4585"
+    "issn": "2151-4585",
+    "essn": "2151-4593"
   },
   {
     "source": "Front Mol Biosci",
@@ -1232,12 +1235,14 @@
   {
     "source": "Digit Health",
     "journal": "Digital health",
-    "issn": "2055-2076"
+    "issn": "2055-2076",
+    "essn": "2055-2076"
   },
   {
     "source": "Cardiovasc Diagn Ther",
     "journal": "Cardiovascular diagnosis and therapy",
-    "issn": "2223-3652"
+    "issn": "2223-3652",
+    "essn": "2223-3660"
   },
   {
     "source": "World J Gastroenterol",
@@ -1253,7 +1258,8 @@
   {
     "source": "Front Psychiatry",
     "journal": "Frontiers in psychiatry",
-    "issn": "1664-0640"
+    "issn": "1664-0640",
+    "essn": "1664-0640"
   },
   {
     "source": "Front Cell Dev Biol",
@@ -1290,7 +1296,8 @@
   {
     "source": "Front Aging Neurosci",
     "journal": "Frontiers in aging neuroscience",
-    "issn": "1663-4365"
+    "issn": "1663-4365",
+    "essn": "1663-4365"
   },
   {
     "source": "JNMA J Nepal Med Assoc",
@@ -1301,12 +1308,14 @@
   {
     "source": "Tob Induc Dis",
     "journal": "Tobacco induced diseases",
+    "issn": "2070-7266",
     "essn": "1617-9625"
   },
   {
     "source": "Front Endocrinol (Lausanne)",
     "journal": "Frontiers in endocrinology",
-    "issn": "1664-2392"
+    "issn": "1664-2392",
+    "essn": "1664-2392"
   },
   {
     "source": "Epigenetics",
@@ -1317,7 +1326,8 @@
   {
     "source": "Indian J Orthop",
     "journal": "Indian journal of orthopaedics",
-    "issn": "0019-5413"
+    "issn": "0019-5413",
+    "essn": "1998-3727"
   },
   {
     "source": "Iran J Public Health",
@@ -1335,5 +1345,202 @@
     "journal": "Journal of dental sciences",
     "issn": "1991-7902",
     "essn": "2213-8862"
+  },
+  {
+    "source": "Shock",
+    "journal": "Shock (Augusta, Ga.)",
+    "issn": "1073-2322",
+    "essn": "1540-0514"
+  },
+  {
+    "source": "Med Educ Online",
+    "journal": "Medical education online",
+    "essn": "1087-2981"
+  },
+  {
+    "source": "Jpn J Radiol",
+    "journal": "Japanese journal of radiology",
+    "issn": "1867-1071",
+    "essn": "1867-108X"
+  },
+  {
+    "source": "Comb Chem High Throughput Screen",
+    "journal": "Combinatorial chemistry & high throughput screening",
+    "issn": "1386-2073",
+    "essn": "1875-5402"
+  },
+  {
+    "source": "J Dermatolog Treat",
+    "journal": "The Journal of dermatological treatment",
+    "issn": "0954-6634",
+    "essn": "1471-1753"
+  },
+  {
+    "source": "Ther Clin Risk Manag",
+    "journal": "Therapeutics and clinical risk management",
+    "issn": "1176-6336",
+    "essn": "1178-203X"
+  },
+  {
+    "source": "Front Digit Health",
+    "journal": "Frontiers in digital health",
+    "essn": "2673-253X"
+  },
+  {
+    "source": "BJUI Compass",
+    "journal": "BJUI compass",
+    "essn": "2688-4526"
+  },
+  {
+    "source": "J Inflamm Res",
+    "journal": "Journal of inflammation research",
+    "issn": "1178-7031",
+    "essn": "1178-7031"
+  },
+  {
+    "source": "Zhonghua Yu Fang Yi Xue Za Zhi",
+    "journal": "Zhonghua yu fang yi xue za zhi [Chinese journal of preventive medicine]",
+    "issn": "0253-9624"
+  },
+  {
+    "source": "Zhonghua Yi Xue Za Zhi",
+    "journal": "Zhonghua yi xue za zhi",
+    "issn": "0376-2491"
+  },
+  {
+    "source": "CNS Neurosci Ther",
+    "journal": "CNS neuroscience & therapeutics",
+    "issn": "1755-5930",
+    "essn": "1755-5949"
+  },
+  {
+    "source": "Neural Netw",
+    "journal": "Neural networks : the official journal of the International Neural Network Society",
+    "issn": "0893-6080",
+    "essn": "1879-2782"
+  },
+  {
+    "source": "World J Emerg Surg",
+    "journal": "World journal of emergency surgery : WJES",
+    "essn": "1749-7922"
+  },
+  {
+    "source": "BMC Womens Health",
+    "journal": "BMC women's health",
+    "essn": "1472-6874"
+  },
+  {
+    "source": "BMC Endocr Disord",
+    "journal": "BMC endocrine disorders",
+    "essn": "1472-6823"
+  },
+  {
+    "source": "BMC Nephrol",
+    "journal": "BMC nephrology",
+    "essn": "1471-2369"
+  },
+  {
+    "source": "Int Urol Nephrol",
+    "journal": "International urology and nephrology",
+    "issn": "0301-1623",
+    "essn": "1573-2584"
+  },
+  {
+    "source": "Pediatr Surg Int",
+    "journal": "Pediatric surgery international",
+    "issn": "0179-0358",
+    "essn": "1437-9813"
+  },
+  {
+    "source": "J Korean Med Sci",
+    "journal": "Journal of Korean medical science",
+    "issn": "1011-8934",
+    "essn": "1598-6357"
+  },
+  {
+    "source": "J Interpers Violence",
+    "journal": "Journal of interpersonal violence",
+    "issn": "0886-2605",
+    "essn": "1552-6518"
+  },
+  {
+    "source": "Spine (Phila Pa 1976)",
+    "journal": "Spine",
+    "issn": "0362-2436",
+    "essn": "1528-1159"
+  },
+  {
+    "source": "Clin Epidemiol",
+    "journal": "Clinical epidemiology",
+    "issn": "1179-1349",
+    "essn": "1179-1349"
+  },
+  {
+    "source": "Front Neurol",
+    "journal": "Frontiers in neurology",
+    "issn": "1664-2295",
+    "essn": "1664-2295"
+  },
+  {
+    "source": "BMC Glob Public Health",
+    "journal": "BMC global and public health",
+    "essn": "2731-913X"
+  },
+  {
+    "source": "Trop Med Health",
+    "journal": "Tropical medicine and health",
+    "issn": "1348-8945",
+    "essn": "1349-4147"
+  },
+  {
+    "source": "J Diabetes",
+    "journal": "Journal of diabetes",
+    "essn": "1753-0407"
+  },
+  {
+    "source": "J Occup Environ Med",
+    "journal": "Journal of occupational and environmental medicine",
+    "issn": "1076-2752",
+    "essn": "1536-5948"
+  },
+  {
+    "source": "Blood Press",
+    "journal": "Blood pressure",
+    "issn": "0803-7051",
+    "essn": "1651-1999"
+  },
+  {
+    "source": "Food Sci Nutr",
+    "journal": "Food science & nutrition",
+    "issn": "2048-7177",
+    "essn": "2048-7177"
+  },
+  {
+    "source": "J Laryngol Otol",
+    "journal": "The Journal of laryngology and otology",
+    "issn": "0022-2151",
+    "essn": "1748-5460"
+  },
+  {
+    "source": "BMC Gastroenterol",
+    "journal": "BMC gastroenterology",
+    "essn": "1471-230X"
+  },
+  {
+    "source": "J Womens Health (Larchmt)",
+    "journal": "Journal of women's health (2002)",
+    "issn": "1540-9996",
+    "essn": "1931-843X"
+  },
+  {
+    "source": "Lifestyle Genom",
+    "journal": "Lifestyle genomics",
+    "issn": "2504-3161",
+    "essn": "2504-3188"
+  },
+  {
+    "source": "Pediatr Pulmonol",
+    "journal": "Pediatric pulmonology",
+    "essn": "1099-0496"
   }
 ]

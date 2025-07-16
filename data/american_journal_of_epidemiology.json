@@ -1212,5 +1212,97 @@
     "doi": "pii: kwaf098. doi: 10.1093/aje/kwaf098",
     "sortpubdate": "2025/05/07 00:00",
     "epubdate": "2025 May 7"
+  },
+  {
+    "name": "American Journal of Epidemiology",
+    "id": "40663096",
+    "title": "COVID-19 pandemic impact on clinical condition capture in real-world data: an assessment framework.",
+    "source": "Am J Epidemiol",
+    "pubdate": "2025 Jul 11",
+    "authors": [
+      "Wang Y",
+      "Wang Y",
+      "Morris EJ",
+      "Smolinski NE",
+      "Thai TN",
+      "Winterstein AG"
+    ],
+    "lastauthor": "Winterstein AG",
+    "sortfirstauthor": "Wang Y",
+    "journal": "American journal of epidemiology",
+    "issn": "0002-9262",
+    "essn": "1476-6256",
+    "doi": "pii: kwaf153. doi: 10.1093/aje/kwaf153",
+    "sortpubdate": "2025/07/11 00:00",
+    "epubdate": "2025 Jul 11"
+  },
+  {
+    "name": "American Journal of Epidemiology",
+    "id": "40663094",
+    "title": "Two-Stage Interrupted Time Series Analysis with Machine Learning: Evaluating the Health Effects of the 2018 Wildfire Smoke Event in San Francisco County as a Case Study.",
+    "source": "Am J Epidemiol",
+    "pubdate": "2025 Jul 11",
+    "authors": [
+      "Dey AK",
+      "Ma Y",
+      "Carrasco-Escobar G",
+      "Han C",
+      "Rerolle F",
+      "Benmarhnia T"
+    ],
+    "lastauthor": "Benmarhnia T",
+    "sortfirstauthor": "Dey AK",
+    "journal": "American journal of epidemiology",
+    "issn": "0002-9262",
+    "essn": "1476-6256",
+    "doi": "pii: kwaf147. doi: 10.1093/aje/kwaf147",
+    "sortpubdate": "2025/07/11 00:00",
+    "epubdate": "2025 Jul 11"
+  },
+  {
+    "name": "American Journal of Epidemiology",
+    "id": "40663061",
+    "title": "Evaluating administrative measures of school quality as mediators of the relationship between attending a segregated school and cognitive function among older Black individuals: The STAR Study.",
+    "source": "Am J Epidemiol",
+    "pubdate": "2025 Jul 11",
+    "authors": [
+      "Gutierrez S",
+      "Whitmer RA",
+      "Thomas MD",
+      "George KM",
+      "Peterson R",
+      "Barnes LL",
+      "Allen IE",
+      "Glymour MM",
+      "Torres JM",
+      "Gilsanz P"
+    ],
+    "lastauthor": "Gilsanz P",
+    "sortfirstauthor": "Gutierrez S",
+    "journal": "American journal of epidemiology",
+    "issn": "0002-9262",
+    "essn": "1476-6256",
+    "doi": "pii: kwaf150. doi: 10.1093/aje/kwaf150",
+    "sortpubdate": "2025/07/11 00:00",
+    "epubdate": "2025 Jul 11"
+  },
+  {
+    "name": "American Journal of Epidemiology",
+    "id": "40663057",
+    "title": "Immortal time bias from selection: a principal stratification perspective.",
+    "source": "Am J Epidemiol",
+    "pubdate": "2025 Jul 11",
+    "authors": [
+      "Gonçalves BP",
+      "Suzuki E"
+    ],
+    "lastauthor": "Suzuki E",
+    "sortfirstauthor": "Gonçalves BP",
+    "journal": "American journal of epidemiology",
+    "issn": "0002-9262",
+    "essn": "1476-6256",
+    "doi": "pii: kwaf146. doi: 10.1093/aje/kwaf146",
+    "sortpubdate": "2025/07/11 00:00",
+    "epubdate": "2025 Jul 11"
   }
 ]
