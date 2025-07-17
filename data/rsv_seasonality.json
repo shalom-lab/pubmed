@@ -1237,5 +1237,48 @@
     "doi": "doi: 10.1002/ppul.71059",
     "sortpubdate": "2025/07/01 00:00",
     "epubdate": ""
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "40668101",
+    "title": "Post-Pandemic Dynamics of the Global Circulation of Human Metapneumovirus and Respiratory Syncytial Virus.",
+    "source": "J Infect Dis",
+    "pubdate": "2025 Jul 16",
+    "authors": [
+      "Billard MN",
+      "Wildenbeest JG",
+      "Kole R",
+      "Rodgers-Gray B",
+      "Fullarton J",
+      "Bont L"
+    ],
+    "lastauthor": "Bont L",
+    "sortfirstauthor": "Billard MN",
+    "journal": "The Journal of infectious diseases",
+    "issn": "0022-1899",
+    "essn": "1537-6613",
+    "doi": "doi: 10.1093/infdis/jiaf086",
+    "sortpubdate": "2025/07/16 00:00",
+    "epubdate": ""
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "40666369",
+    "title": "Mobility-informed metapopulation models predict the spatio-temporal spread of respiratory epidemics across scales.",
+    "source": "medRxiv",
+    "pubdate": "2025 Jun 26",
+    "authors": [
+      "Pandey A",
+      "Zhong L",
+      "Rennert L"
+    ],
+    "lastauthor": "Rennert L",
+    "sortfirstauthor": "Pandey A",
+    "journal": "medRxiv : the preprint server for health sciences",
+    "issn": "",
+    "essn": "",
+    "doi": "pii: 2025.06.26.25330297. doi: 10.1101/2025.06.26.25330297",
+    "sortpubdate": "2025/06/26 00:00",
+    "epubdate": "2025 Jun 26"
   }
 ]
