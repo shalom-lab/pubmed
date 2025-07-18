@@ -1357,5 +1357,47 @@
     "doi": "pii: 2025.06.26.25330297. doi: 10.1101/2025.06.26.25330297",
     "sortpubdate": "2025/06/26 00:00",
     "epubdate": "2025 Jun 26"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "40674645",
+    "title": "Development and Validation of a Temporal Progression-based Risk Assessment Tool for Respiratory Syncytial Virus Infection in Infants.",
+    "source": "Pediatr Infect Dis J",
+    "pubdate": "2025 Jul 3",
+    "authors": [
+      "Kawamoto S",
+      "Morikawa Y",
+      "Yahagi N"
+    ],
+    "lastauthor": "Yahagi N",
+    "sortfirstauthor": "Kawamoto S",
+    "journal": "The Pediatric infectious disease journal",
+    "issn": "0891-3668",
+    "essn": "1532-0987",
+    "doi": "doi: 10.1097/INF.0000000000004912",
+    "sortpubdate": "2025/07/03 00:00",
+    "epubdate": "2025 Jul 3"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "40673296",
+    "title": "Public health impact of nirsevimab against acute lower respiratory infections associated with respiratory syncytial virus among Chinese infants: a modelling study.",
+    "source": "Expert Rev Vaccines",
+    "pubdate": "2025 Jul 17",
+    "authors": [
+      "Lai X",
+      "Ma Y",
+      "Zou W",
+      "Soudani S",
+      "Fang H"
+    ],
+    "lastauthor": "Fang H",
+    "sortfirstauthor": "Lai X",
+    "journal": "Expert review of vaccines",
+    "issn": "1476-0584",
+    "essn": "1744-8395",
+    "doi": "doi: 10.1080/14760584.2025.2526601",
+    "sortpubdate": "2025/07/17 00:00",
+    "epubdate": "2025 Jul 17"
   }
 ]

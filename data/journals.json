@@ -1264,7 +1264,8 @@
   {
     "source": "Front Cell Dev Biol",
     "journal": "Frontiers in cell and developmental biology",
-    "issn": "2296-634X"
+    "issn": "2296-634X",
+    "essn": "2296-634X"
   },
   {
     "source": "Int J Chron Obstruct Pulmon Dis",
@@ -1722,5 +1723,120 @@
     "journal": "Ecotoxicology and environmental safety",
     "issn": "0147-6513",
     "essn": "1090-2414"
+  },
+  {
+    "source": "Med Ultrason",
+    "journal": "Medical ultrasonography",
+    "issn": "1844-4172",
+    "essn": "2066-8643"
+  },
+  {
+    "source": "Adv Sci (Weinh)",
+    "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+    "essn": "2198-3844"
+  },
+  {
+    "source": "J Cell Mol Med",
+    "journal": "Journal of cellular and molecular medicine",
+    "issn": "1582-1838",
+    "essn": "1582-4934"
+  },
+  {
+    "source": "Front Artif Intell",
+    "journal": "Frontiers in artificial intelligence",
+    "essn": "2624-8212"
+  },
+  {
+    "source": "Transl Lung Cancer Res",
+    "journal": "Translational lung cancer research",
+    "issn": "2218-6751",
+    "essn": "2226-4477"
+  },
+  {
+    "source": "Kidney Dis (Basel)",
+    "journal": "Kidney diseases (Basel, Switzerland)",
+    "issn": "2296-9381",
+    "essn": "2296-9357"
+  },
+  {
+    "source": "Vasc Health Risk Manag",
+    "journal": "Vascular health and risk management",
+    "issn": "1176-6344",
+    "essn": "1178-2048"
+  },
+  {
+    "source": "Front Hum Neurosci",
+    "journal": "Frontiers in human neuroscience",
+    "issn": "1662-5161",
+    "essn": "1662-5161"
+  },
+  {
+    "source": "Am J Transl Res",
+    "journal": "American journal of translational research",
+    "issn": "1943-8141",
+    "essn": "1943-8141"
+  },
+  {
+    "source": "Front Surg",
+    "journal": "Frontiers in surgery",
+    "issn": "2296-875X",
+    "essn": "2296-875X"
+  },
+  {
+    "source": "J Gastrointest Oncol",
+    "journal": "Journal of gastrointestinal oncology",
+    "issn": "2078-6891",
+    "essn": "2219-679X"
+  },
+  {
+    "source": "J Periodontol",
+    "journal": "Journal of periodontology",
+    "issn": "0022-3492",
+    "essn": "1943-3670"
+  },
+  {
+    "source": "Int J Public Health",
+    "journal": "International journal of public health",
+    "issn": "1661-8556",
+    "essn": "1661-8564"
+  },
+  {
+    "source": "Environ Health Prev Med",
+    "journal": "Environmental health and preventive medicine",
+    "issn": "1342-078X",
+    "essn": "1347-4715"
+  },
+  {
+    "source": "Eur J Prev Cardiol",
+    "journal": "European journal of preventive cardiology",
+    "issn": "2047-4873",
+    "essn": "2047-4881"
+  },
+  {
+    "source": "BMC Oral Health",
+    "journal": "BMC oral health",
+    "essn": "1472-6831"
+  },
+  {
+    "source": "Ren Fail",
+    "journal": "Renal failure",
+    "issn": "0886-022X",
+    "essn": "1525-6049"
+  },
+  {
+    "source": "Bone",
+    "journal": "Bone",
+    "essn": "1873-2763"
+  },
+  {
+    "source": "J Nutr Biochem",
+    "journal": "The Journal of nutritional biochemistry",
+    "issn": "0955-2863",
+    "essn": "1873-4847"
+  },
+  {
+    "source": "BMC Pediatr",
+    "journal": "BMC pediatrics",
+    "essn": "1471-2431"
   }
 ]
