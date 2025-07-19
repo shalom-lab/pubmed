@@ -1230,7 +1230,8 @@
   {
     "source": "Front Mol Biosci",
     "journal": "Frontiers in molecular biosciences",
-    "issn": "2296-889X"
+    "issn": "2296-889X",
+    "essn": "2296-889X"
   },
   {
     "source": "Digit Health",
@@ -1542,6 +1543,7 @@
   {
     "source": "Pediatr Pulmonol",
     "journal": "Pediatric pulmonology",
+    "issn": "8755-6863",
     "essn": "1099-0496"
   },
   {
@@ -1838,5 +1840,169 @@
     "source": "BMC Pediatr",
     "journal": "BMC pediatrics",
     "essn": "1471-2431"
+  },
+  {
+    "source": "Clin Chem",
+    "journal": "Clinical chemistry",
+    "issn": "0009-9147",
+    "essn": "1530-8561"
+  },
+  {
+    "source": "Radiol Imaging Cancer",
+    "journal": "Radiology. Imaging cancer",
+    "essn": "2638-616X"
+  },
+  {
+    "source": "Gynecol Endocrinol",
+    "journal": "Gynecological endocrinology : the official journal of the International Society of Gynecological Endocrinology",
+    "issn": "0951-3590",
+    "essn": "1473-0766"
+  },
+  {
+    "source": "Aging Male",
+    "journal": "The aging male : the official journal of the International Society for the Study of the Aging Male",
+    "issn": "1368-5538",
+    "essn": "1473-0790"
+  },
+  {
+    "source": "Cancer Rep (Hoboken)",
+    "journal": "Cancer reports (Hoboken, N.J.)",
+    "essn": "2573-8348"
+  },
+  {
+    "source": "J Alzheimers Dis Rep",
+    "journal": "Journal of Alzheimer's disease reports",
+    "essn": "2542-4823"
+  },
+  {
+    "source": "iScience",
+    "journal": "iScience",
+    "essn": "2589-0042"
+  },
+  {
+    "source": "J Pharm Anal",
+    "journal": "Journal of pharmaceutical analysis",
+    "issn": "2095-1779",
+    "essn": "2214-0883"
+  },
+  {
+    "source": "Noncoding RNA Res",
+    "journal": "Non-coding RNA research",
+    "essn": "2468-0540"
+  },
+  {
+    "source": "J Multidiscip Healthc",
+    "journal": "Journal of multidisciplinary healthcare",
+    "issn": "1178-2390",
+    "essn": "1178-2390"
+  },
+  {
+    "source": "World J Gastrointest Endosc",
+    "journal": "World journal of gastrointestinal endoscopy",
+    "issn": "1948-5190",
+    "essn": "1948-5190"
+  },
+  {
+    "source": "Comput Struct Biotechnol J",
+    "journal": "Computational and structural biotechnology journal",
+    "issn": "2001-0370",
+    "essn": "2001-0370"
+  },
+  {
+    "source": "Clin Otolaryngol",
+    "journal": "Clinical otolaryngology : official journal of ENT-UK ; official journal of Netherlands Society for Oto-Rhino-Laryngology & Cervico-Facial Surgery",
+    "issn": "1749-4478",
+    "essn": "1749-4486"
+  },
+  {
+    "source": "Radiol Oncol",
+    "journal": "Radiology and oncology",
+    "issn": "1318-2099",
+    "essn": "1581-3207"
+  },
+  {
+    "source": "Technol Health Care",
+    "journal": "Technology and health care : official journal of the European Society for Engineering and Medicine",
+    "issn": "0928-7329",
+    "essn": "1878-7401"
+  },
+  {
+    "source": "Cancer Sci",
+    "journal": "Cancer science",
+    "issn": "1347-9032",
+    "essn": "1349-7006"
+  },
+  {
+    "source": "Reprod Biol Endocrinol",
+    "journal": "Reproductive biology and endocrinology : RB&E",
+    "essn": "1477-7827"
+  },
+  {
+    "source": "BMC Anesthesiol",
+    "journal": "BMC anesthesiology",
+    "essn": "1471-2253"
+  },
+  {
+    "source": "Clin Exp Med",
+    "journal": "Clinical and experimental medicine",
+    "issn": "1591-8890",
+    "essn": "1591-9528"
+  },
+  {
+    "source": "Immunol Res",
+    "journal": "Immunologic research",
+    "issn": "0257-277X",
+    "essn": "1559-0755"
+  },
+  {
+    "source": "World J Urol",
+    "journal": "World journal of urology",
+    "issn": "0724-4983",
+    "essn": "1433-8726"
+  },
+  {
+    "source": "Traffic Inj Prev",
+    "journal": "Traffic injury prevention",
+    "issn": "1538-9588",
+    "essn": "1538-957X"
+  },
+  {
+    "source": "AJOG Glob Rep",
+    "journal": "AJOG global reports",
+    "essn": "2666-5778"
+  },
+  {
+    "source": "Chin Med J Pulm Crit Care Med",
+    "journal": "Chinese medical journal pulmonary and critical care medicine",
+    "issn": "2097-1982",
+    "essn": "2772-5588"
+  },
+  {
+    "source": "Zhonghua Liu Xing Bing Xue Za Zhi",
+    "journal": "Zhonghua liu xing bing xue za zhi = Zhonghua liuxingbingxue zazhi",
+    "issn": "0254-6450"
+  },
+  {
+    "source": "Exp Hematol Oncol",
+    "journal": "Experimental hematology & oncology",
+    "issn": "2162-3619"
+  },
+  {
+    "source": "Prev Med Rep",
+    "journal": "Preventive medicine reports",
+    "issn": "2211-3355",
+    "essn": "2211-3355"
+  },
+  {
+    "source": "Acta Neurol Belg",
+    "journal": "Acta neurologica Belgica",
+    "issn": "0300-9009",
+    "essn": "2240-2993"
+  },
+  {
+    "source": "Prev Med",
+    "journal": "Preventive medicine",
+    "issn": "0091-7435",
+    "essn": "1096-0260"
   }
 ]

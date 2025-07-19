@@ -1232,7 +1232,7 @@
     "lastauthor": "Nuñez-Cuadros E",
     "sortfirstauthor": "Guerrero-Del-Cueto F",
     "journal": "Pediatric pulmonology",
-    "issn": "",
+    "issn": "8755-6863",
     "essn": "1099-0496",
     "doi": "doi: 10.1002/ppul.71059",
     "sortpubdate": "2025/07/01 00:00",
@@ -1280,5 +1280,38 @@
     "doi": "pii: 2025.06.26.25330297. doi: 10.1101/2025.06.26.25330297",
     "sortpubdate": "2025/06/26 00:00",
     "epubdate": "2025 Jun 26"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "40678647",
+    "title": "The impact of nirsevimab prophylaxis on RSV hospitalizations: a real-world cost-benefit analysis in Tuscany, Italy.",
+    "source": "Front Public Health",
+    "pubdate": "2025",
+    "authors": [
+      "Lastrucci V",
+      "Pacifici M",
+      "Alderotti G",
+      "Puglia M",
+      "Berti E",
+      "Barbati F",
+      "Lodi L",
+      "Boscia S",
+      "Nieddu F",
+      "Indolfi G",
+      "Peroni D",
+      "Martini M",
+      "Azzari C",
+      "Voller F",
+      "Moriondo M",
+      "Ricci S"
+    ],
+    "lastauthor": "Ricci S",
+    "sortfirstauthor": "Lastrucci V",
+    "journal": "Frontiers in public health",
+    "issn": "",
+    "essn": "2296-2565",
+    "doi": "doi: 10.3389/fpubh.2025.1604331",
+    "sortpubdate": "2025/07/03 00:00",
+    "epubdate": "2025 Jul 3"
   }
 ]

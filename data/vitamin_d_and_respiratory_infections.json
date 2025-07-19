@@ -318,7 +318,7 @@
       "Gómez-Manzo S",
       "Ortega-Cuellar D",
       "Ignacio-Mejía F",
-      "C��rdenas-Rodríguez N"
+      "Cárdenas-Rodríguez N"
     ],
     "lastauthor": "Cárdenas-Rodríguez N",
     "sortfirstauthor": "Ignacio-Mejía I",
@@ -1282,5 +1282,30 @@
     "doi": "doi: 10.3390/nu17030540",
     "sortpubdate": "2025/01/31 00:00",
     "epubdate": "2025 Jan 31"
+  },
+  {
+    "name": "Vitamin D and respiratory infections",
+    "id": "40679964",
+    "title": "Effects of vitamin D on COVID-19 risk and hospitalisation in the UK biobank.",
+    "source": "PLoS One",
+    "pubdate": "2025",
+    "authors": [
+      "Monroy-Iglesias MJ",
+      "Thavarajah R",
+      "Beckmann K",
+      "Josephs DH",
+      "Irshad S",
+      "Karagiannis SN",
+      "Van Hemelrijck M",
+      "Santaolalla A"
+    ],
+    "lastauthor": "Santaolalla A",
+    "sortfirstauthor": "Monroy-Iglesias MJ",
+    "journal": "PloS one",
+    "issn": "",
+    "essn": "1932-6203",
+    "doi": "doi: 10.1371/journal.pone.0328232",
+    "sortpubdate": "2025/07/18 00:00",
+    "epubdate": "2025 Jul 18"
   }
 ]
