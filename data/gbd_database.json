@@ -2833,7 +2833,7 @@
     "sortfirstauthor": "Pan T",
     "journal": "Experimental hematology & oncology",
     "issn": "2162-3619",
-    "essn": "",
+    "essn": "2162-3619",
     "doi": "doi: 10.1186/s40164-025-00684-x",
     "sortpubdate": "2025/07/17 00:00",
     "epubdate": "2025 Jul 17"
@@ -2864,5 +2864,54 @@
     "doi": "doi: 10.1038/s41598-025-11266-6",
     "sortpubdate": "2025/07/17 00:00",
     "epubdate": "2025 Jul 17"
+  },
+  {
+    "name": "GBD database",
+    "id": "40681909",
+    "title": "The global, regional, and national disease burden of laryngeal cancer attributable to high alcohol use from 1990 to 2021: a global burden of disease study.",
+    "source": "Eur Arch Otorhinolaryngol",
+    "pubdate": "2025 Jul 18",
+    "authors": [
+      "Tong XT",
+      "Zhang ML",
+      "Liu Y",
+      "Xiang R",
+      "Li HL",
+      "Wang CH",
+      "Zhu T",
+      "Deng ZF"
+    ],
+    "lastauthor": "Deng ZF",
+    "sortfirstauthor": "Tong XT",
+    "journal": "European archives of oto-rhino-laryngology : official journal of the European Federation of Oto-Rhino-Laryngological Societies (EUFOS) : affiliated with the German Society for Oto-Rhino-Laryngology - Head and Neck Surgery",
+    "issn": "0937-4477",
+    "essn": "1434-4726",
+    "doi": "doi: 10.1007/s00405-025-09552-0",
+    "sortpubdate": "2025/07/18 00:00",
+    "epubdate": "2025 Jul 18"
+  },
+  {
+    "name": "GBD database",
+    "id": "40680755",
+    "title": "Global, regional, and national health-care inefficiency and associated factors in 201 countries, 1995-2022: a stochastic frontier meta-analysis for the Global Burden of Disease Study 2023.",
+    "source": "Lancet Glob Health",
+    "pubdate": "2025 Jul 9",
+    "authors": [
+      "Lastuka A",
+      "Breshock MR",
+      "Hay SI",
+      "Taylor KV",
+      "Lim SS",
+      "Murray CJL",
+      "Dieleman JL"
+    ],
+    "lastauthor": "Dieleman JL",
+    "sortfirstauthor": "Lastuka A",
+    "journal": "The Lancet. Global health",
+    "issn": "",
+    "essn": "2214-109X",
+    "doi": "pii: S2214-109X(25)00178-0. doi: 10.1016/S2214-109X(25)00178-0",
+    "sortpubdate": "2025/07/09 00:00",
+    "epubdate": "2025 Jul 9"
   }
 ]

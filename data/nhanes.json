@@ -3895,7 +3895,7 @@
     "id": "40675391",
     "title": "The association between life's essential 8 health behavior component score and all-cause and cardiovascular mortality among U.S. adults with cardiovascular-kidney-metabolic syndrome stages 0-3.",
     "source": "Prev Med",
-    "pubdate": "2025 Jul 15",
+    "pubdate": "2025 Jul 16",
     "authors": [
       "Wang Y",
       "Dong T",
@@ -3908,7 +3908,182 @@
     "issn": "0091-7435",
     "essn": "1096-0260",
     "doi": "doi: 10.1016/j.ypmed.2025.108360",
-    "sortpubdate": "2025/07/15 00:00",
-    "epubdate": "2025 Jul 15"
+    "sortpubdate": "2025/07/16 00:00",
+    "epubdate": "2025 Jul 16"
+  },
+  {
+    "name": "NHANES",
+    "id": "40682044",
+    "title": "The association between dietary fiber intake and pelvic inflammatory disease in women: findings from the NHANES 2015-2018.",
+    "source": "BMC Womens Health",
+    "pubdate": "2025 Jul 18",
+    "authors": [
+      "Jin H",
+      "Niu Z",
+      "Zhao X"
+    ],
+    "lastauthor": "Zhao X",
+    "sortfirstauthor": "Jin H",
+    "journal": "BMC women's health",
+    "issn": "",
+    "essn": "1472-6874",
+    "doi": "doi: 10.1186/s12905-025-03911-z",
+    "sortpubdate": "2025/07/18 00:00",
+    "epubdate": "2025 Jul 18"
+  },
+  {
+    "name": "NHANES",
+    "id": "40682012",
+    "title": "Association between calcium intake and risk of congestive heart failure: a cross-sectional study from the 2003-2018 NHANES database.",
+    "source": "BMC Cardiovasc Disord",
+    "pubdate": "2025 Jul 18",
+    "authors": [
+      "Zhu B",
+      "Wan L",
+      "Chen X",
+      "Wang Z",
+      "Rao H",
+      "Li Q",
+      "Huang C"
+    ],
+    "lastauthor": "Huang C",
+    "sortfirstauthor": "Zhu B",
+    "journal": "BMC cardiovascular disorders",
+    "issn": "",
+    "essn": "1471-2261",
+    "doi": "doi: 10.1186/s12872-025-05008-9",
+    "sortpubdate": "2025/07/18 00:00",
+    "epubdate": "2025 Jul 18"
+  },
+  {
+    "name": "NHANES",
+    "id": "40681986",
+    "title": "Lifestyle modifications and control of cardiovascular risk factors in older adults with hypertension: from NHANES 1999-2018.",
+    "source": "BMC Geriatr",
+    "pubdate": "2025 Jul 18",
+    "authors": [
+      "Tang Y",
+      "Zhang Z",
+      "Liu X"
+    ],
+    "lastauthor": "Liu X",
+    "sortfirstauthor": "Tang Y",
+    "journal": "BMC geriatrics",
+    "issn": "",
+    "essn": "1471-2318",
+    "doi": "doi: 10.1186/s12877-025-06204-0",
+    "sortpubdate": "2025/07/18 00:00",
+    "epubdate": "2025 Jul 18"
+  },
+  {
+    "name": "NHANES",
+    "id": "40681985",
+    "title": "Association of triglyceride-glucose related indices with colorectal cancer risk among the US population: a cross-sectional study.",
+    "source": "BMC Cancer",
+    "pubdate": "2025 Jul 18",
+    "authors": [
+      "Niu S",
+      "Jiang C",
+      "Miao X",
+      "Zhang Y",
+      "Li Z",
+      "Wang T"
+    ],
+    "lastauthor": "Wang T",
+    "sortfirstauthor": "Niu S",
+    "journal": "BMC cancer",
+    "issn": "",
+    "essn": "1471-2407",
+    "doi": "doi: 10.1186/s12885-025-14625-8",
+    "sortpubdate": "2025/07/18 00:00",
+    "epubdate": "2025 Jul 18"
+  },
+  {
+    "name": "NHANES",
+    "id": "40681912",
+    "title": "\"Relationship between obstructive sleep apnea and metabolic syndrome based on the NHANES and Mendelian randomization study\".",
+    "source": "Eur Arch Otorhinolaryngol",
+    "pubdate": "2025 Jul 18",
+    "authors": [
+      "Zhang Y"
+    ],
+    "lastauthor": "Zhang Y",
+    "sortfirstauthor": "Zhang Y",
+    "journal": "European archives of oto-rhino-laryngology : official journal of the European Federation of Oto-Rhino-Laryngological Societies (EUFOS) : affiliated with the German Society for Oto-Rhino-Laryngology - Head and Neck Surgery",
+    "issn": "0937-4477",
+    "essn": "1434-4726",
+    "doi": "doi: 10.1007/s00405-025-09588-2",
+    "sortpubdate": "2025/07/18 00:00",
+    "epubdate": "2025 Jul 18"
+  },
+  {
+    "name": "NHANES",
+    "id": "40681902",
+    "title": "Associations of cadmium exposure within heavy metal combinations with osteoporosis risk: an analysis of NHANES data (2013-2014 and 2017-2018).",
+    "source": "Aging Clin Exp Res",
+    "pubdate": "2025 Jul 18",
+    "authors": [
+      "Li Z",
+      "Jiang R",
+      "Qu Q",
+      "Mou S",
+      "Zhang Z",
+      "Zhu W"
+    ],
+    "lastauthor": "Zhu W",
+    "sortfirstauthor": "Li Z",
+    "journal": "Aging clinical and experimental research",
+    "issn": "1594-0667",
+    "essn": "1720-8319",
+    "doi": "doi: 10.1007/s40520-025-03047-y",
+    "sortpubdate": "2025/07/18 00:00",
+    "epubdate": "2025 Jul 18"
+  },
+  {
+    "name": "NHANES",
+    "id": "40681107",
+    "title": "Association of circulating fatty acids with metabolic dysfunction-associated steatotic liver disease: a cross-sectional analysis and Mendelian randomization study.",
+    "source": "Clin Nutr ESPEN",
+    "pubdate": "2025 Jul 16",
+    "authors": [
+      "Liu Z",
+      "Wang P",
+      "Wang Y",
+      "Yu J",
+      "Wang Q",
+      "Li J",
+      "Shi D"
+    ],
+    "lastauthor": "Shi D",
+    "sortfirstauthor": "Liu Z",
+    "journal": "Clinical nutrition ESPEN",
+    "issn": "",
+    "essn": "2405-4577",
+    "doi": "pii: S2405-4577(25)01774-7. doi: 10.1016/j.clnesp.2025.07.027",
+    "sortpubdate": "2025/07/16 00:00",
+    "epubdate": "2025 Jul 16"
+  },
+  {
+    "name": "NHANES",
+    "id": "40680486",
+    "title": "Mediating role of depression in the relationship between allostatic load and mortality.",
+    "source": "Psychoneuroendocrinology",
+    "pubdate": "2025 Jul 14",
+    "authors": [
+      "Huang Y",
+      "Han L",
+      "Xiao Y",
+      "Wang R",
+      "Liu D",
+      "Cao B"
+    ],
+    "lastauthor": "Cao B",
+    "sortfirstauthor": "Huang Y",
+    "journal": "Psychoneuroendocrinology",
+    "issn": "0306-4530",
+    "essn": "1873-3360",
+    "doi": "doi: 10.1016/j.psyneuen.2025.107550",
+    "sortpubdate": "2025/07/14 00:00",
+    "epubdate": "2025 Jul 14"
   }
 ]

@@ -1985,7 +1985,8 @@
   {
     "source": "Exp Hematol Oncol",
     "journal": "Experimental hematology & oncology",
-    "issn": "2162-3619"
+    "issn": "2162-3619",
+    "essn": "2162-3619"
   },
   {
     "source": "Prev Med Rep",
@@ -2004,5 +2005,67 @@
     "journal": "Preventive medicine",
     "issn": "0091-7435",
     "essn": "1096-0260"
+  },
+  {
+    "source": "J Ovarian Res",
+    "journal": "Journal of ovarian research",
+    "essn": "1757-2215"
+  },
+  {
+    "source": "Respir Res",
+    "journal": "Respiratory research",
+    "issn": "1465-9921",
+    "essn": "1465-993X"
+  },
+  {
+    "source": "BMC Health Serv Res",
+    "journal": "BMC health services research",
+    "essn": "1472-6963"
+  },
+  {
+    "source": "BMC Bioinformatics",
+    "journal": "BMC bioinformatics",
+    "essn": "1471-2105"
+  },
+  {
+    "source": "Nurs Open",
+    "journal": "Nursing open",
+    "essn": "2054-1058"
+  },
+  {
+    "source": "Acad Radiol",
+    "journal": "Academic radiology",
+    "issn": "1076-6332",
+    "essn": "1878-4046"
+  },
+  {
+    "source": "J Neurotrauma",
+    "journal": "Journal of neurotrauma",
+    "issn": "0897-7151",
+    "essn": "1557-9042"
+  },
+  {
+    "source": "World Neurosurg",
+    "journal": "World neurosurgery",
+    "issn": "1878-8750",
+    "essn": "1878-8769"
+  },
+  {
+    "source": "J Shoulder Elbow Surg",
+    "journal": "Journal of shoulder and elbow surgery",
+    "issn": "1058-2746",
+    "essn": "1532-6500"
+  },
+  {
+    "source": "Mod Pathol",
+    "journal": "Modern pathology : an official journal of the United States and Canadian Academy of Pathology, Inc",
+    "issn": "0893-3952",
+    "essn": "1530-0285"
+  },
+  {
+    "source": "Eur J Radiol",
+    "journal": "European journal of radiology",
+    "issn": "0720-048X",
+    "essn": "1872-7727"
   }
 ]

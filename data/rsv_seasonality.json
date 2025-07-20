@@ -1313,5 +1313,29 @@
     "doi": "doi: 10.3389/fpubh.2025.1604331",
     "sortpubdate": "2025/07/03 00:00",
     "epubdate": "2025 Jul 3"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "40681977",
+    "title": "Pre-COVID-19 epidemiology of community respiratory viruses at a single US center reveals sex differences in influenza A and a higher ICU incidence of human metapneumovirus in the elderly population.",
+    "source": "BMC Infect Dis",
+    "pubdate": "2025 Jul 18",
+    "authors": [
+      "Koirala B",
+      "Azar A",
+      "Fountain B",
+      "McGuirl M",
+      "Stock S",
+      "Galdzicka M",
+      "Ellison RT 3rd"
+    ],
+    "lastauthor": "Ellison RT 3rd",
+    "sortfirstauthor": "Koirala B",
+    "journal": "BMC infectious diseases",
+    "issn": "",
+    "essn": "1471-2334",
+    "doi": "doi: 10.1186/s12879-025-11307-5",
+    "sortpubdate": "2025/07/18 00:00",
+    "epubdate": "2025 Jul 18"
   }
 ]
