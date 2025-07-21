@@ -2913,5 +2913,117 @@
     "doi": "pii: S2214-109X(25)00178-0. doi: 10.1016/S2214-109X(25)00178-0",
     "sortpubdate": "2025/07/09 00:00",
     "epubdate": "2025 Jul 9"
+  },
+  {
+    "name": "GBD database",
+    "id": "40684443",
+    "title": "Musculoskeletal disorders in women of childbearing age: global trends, socio-demographic disparities, and future projections.",
+    "source": "Ann Med",
+    "pubdate": "2025 Dec",
+    "authors": [
+      "Luo L",
+      "Gào X",
+      "Yang J",
+      "Zhang X",
+      "Liu Z",
+      "Li C"
+    ],
+    "lastauthor": "Li C",
+    "sortfirstauthor": "Luo L",
+    "journal": "Annals of medicine",
+    "issn": "0785-3890",
+    "essn": "1365-2060",
+    "doi": "doi: 10.1080/07853890.2025.2532860",
+    "sortpubdate": "2025/12/01 00:00",
+    "epubdate": "2025 Jul 20"
+  },
+  {
+    "name": "GBD database",
+    "id": "40682759",
+    "title": "Global epidemiology of type 1 diabetes in youth: 1990-2021 and projections to 2045.",
+    "source": "Endocrine",
+    "pubdate": "2025 Jul 19",
+    "authors": [
+      "Zhang K",
+      "Kan C",
+      "Han F",
+      "Ma Y",
+      "Wang Y",
+      "Li X",
+      "Xiong G",
+      "Chen J",
+      "Yu X",
+      "Hou N",
+      "Sun X"
+    ],
+    "lastauthor": "Sun X",
+    "sortfirstauthor": "Zhang K",
+    "journal": "Endocrine",
+    "issn": "1355-008X",
+    "essn": "1559-0100",
+    "doi": "doi: 10.1007/s12020-025-04356-y",
+    "sortpubdate": "2025/07/19 00:00",
+    "epubdate": "2025 Jul 19"
+  },
+  {
+    "name": "GBD database",
+    "id": "40682677",
+    "title": "Paeoniflorin and depression: a comprehensive review of underlying molecular mechanisms.",
+    "source": "Metab Brain Dis",
+    "pubdate": "2025 Jul 19",
+    "authors": [
+      "Sahani P",
+      "Singh L"
+    ],
+    "lastauthor": "Singh L",
+    "sortfirstauthor": "Sahani P",
+    "journal": "Metabolic brain disease",
+    "issn": "0885-7490",
+    "essn": "1573-7365",
+    "doi": "doi: 10.1007/s11011-025-01671-1",
+    "sortpubdate": "2025/07/19 00:00",
+    "epubdate": "2025 Jul 19"
+  },
+  {
+    "name": "GBD database",
+    "id": "40682000",
+    "title": "Epidemiology of age-related macular degeneration among elderly in geriatric homes, East Cairo, Egypt.",
+    "source": "BMC Public Health",
+    "pubdate": "2025 Jul 18",
+    "authors": [
+      "Edarous DH",
+      "Fahim HI",
+      "Momen M",
+      "Shaat AAE",
+      "Manzour AF"
+    ],
+    "lastauthor": "Manzour AF",
+    "sortfirstauthor": "Edarous DH",
+    "journal": "BMC public health",
+    "issn": "",
+    "essn": "1471-2458",
+    "doi": "doi: 10.1186/s12889-025-23680-6",
+    "sortpubdate": "2025/07/18 00:00",
+    "epubdate": "2025 Jul 18"
+  },
+  {
+    "name": "GBD database",
+    "id": "40673319",
+    "title": "[Lip and oral cancers in East Asia from 1990 to 2035: trends of disease burden and future projections].",
+    "source": "Nan Fang Yi Ke Da Xue Xue Bao",
+    "pubdate": "2025 Jul 20",
+    "authors": [
+      "Liu Y",
+      "Zhao K",
+      "Wang X"
+    ],
+    "lastauthor": "Wang X",
+    "sortfirstauthor": "Liu Y",
+    "journal": "Nan fang yi ke da xue xue bao = Journal of Southern Medical University",
+    "issn": "1673-4254",
+    "essn": "2663-0842",
+    "doi": "doi: 10.12122/j.issn.1673-4254.2025.07.23",
+    "sortpubdate": "2025/07/20 00:00",
+    "epubdate": ""
   }
 ]
