@@ -1426,5 +1426,29 @@
     "doi": "doi: 10.1080/14760584.2025.2536093",
     "sortpubdate": "2025/07/20 00:00",
     "epubdate": "2025 Jul 20"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "40690502",
+    "title": "Early-life RSV infection modulates innate immune events, preferentially enhancing allergen-induced type 2 lung inflammation in females.",
+    "source": "PLoS Pathog",
+    "pubdate": "2025 Jul 21",
+    "authors": [
+      "Labrie L",
+      "McVea RC",
+      "Karkout R",
+      "Aldossary H",
+      "Gaudreault V",
+      "Ward BJ",
+      "Fixman ED"
+    ],
+    "lastauthor": "Fixman ED",
+    "sortfirstauthor": "Labrie L",
+    "journal": "PLoS pathogens",
+    "issn": "1553-7366",
+    "essn": "1553-7374",
+    "doi": "doi: 10.1371/journal.ppat.1013340",
+    "sortpubdate": "2025/07/21 00:00",
+    "epubdate": "2025 Jul 21"
   }
 ]
