@@ -1344,5 +1344,54 @@
     "doi": "pii: kwaf152. doi: 10.1093/aje/kwaf152",
     "sortpubdate": "2025/07/14 00:00",
     "epubdate": "2025 Jul 14"
+  },
+  {
+    "name": "American Journal of Epidemiology",
+    "id": "40699212",
+    "title": "The impact of statistical adjustment for assay performance on inferences from SARS-CoV-2 serological surveillance studies.",
+    "source": "Am J Epidemiol",
+    "pubdate": "2025 Jul 22",
+    "authors": [
+      "Chen J",
+      "Yu Y",
+      "O'Brien SF",
+      "Charlton CL",
+      "Drews SJ",
+      "Heffernan JM",
+      "Smith AM",
+      "Nakagama Y",
+      "Kido Y",
+      "Buckeridge DL",
+      "Russell WA"
+    ],
+    "lastauthor": "Russell WA",
+    "sortfirstauthor": "Chen J",
+    "journal": "American journal of epidemiology",
+    "issn": "0002-9262",
+    "essn": "1476-6256",
+    "doi": "pii: kwaf157. doi: 10.1093/aje/kwaf157",
+    "sortpubdate": "2025/07/22 00:00",
+    "epubdate": "2025 Jul 22"
+  },
+  {
+    "name": "American Journal of Epidemiology",
+    "id": "40699209",
+    "title": "A spatial framework for selecting sentinel sites for drug and alcohol related early warning for the United States.",
+    "source": "Am J Epidemiol",
+    "pubdate": "2025 Jul 22",
+    "authors": [
+      "Das S",
+      "Goulding L",
+      "Rubalcava K",
+      "Aarvig K"
+    ],
+    "lastauthor": "Aarvig K",
+    "sortfirstauthor": "Das S",
+    "journal": "American journal of epidemiology",
+    "issn": "0002-9262",
+    "essn": "1476-6256",
+    "doi": "pii: kwaf158. doi: 10.1093/aje/kwaf158",
+    "sortpubdate": "2025/07/22 00:00",
+    "epubdate": "2025 Jul 22"
   }
 ]

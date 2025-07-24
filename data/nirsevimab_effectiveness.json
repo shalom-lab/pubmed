@@ -1427,5 +1427,28 @@
     "doi": "pii: e2024069510. doi: 10.1542/peds.2024-069510",
     "sortpubdate": "2025/07/22 00:00",
     "epubdate": "2025 Jul 22"
+  },
+  {
+    "name": "Nirsevimab effectiveness",
+    "id": "40699573",
+    "title": "Optimizing Timing for Respiratory Syncytial Virus Prevention Interventions for Infants.",
+    "source": "JAMA Netw Open",
+    "pubdate": "2025 Jul 1",
+    "authors": [
+      "Nguyen D",
+      "Lee H",
+      "Pavia AT",
+      "Nelson RE",
+      "Samore M",
+      "Chaiyakunapruk N"
+    ],
+    "lastauthor": "Chaiyakunapruk N",
+    "sortfirstauthor": "Nguyen D",
+    "journal": "JAMA network open",
+    "issn": "",
+    "essn": "2574-3805",
+    "doi": "doi: 10.1001/jamanetworkopen.2025.22779",
+    "sortpubdate": "2025/07/01 00:00",
+    "epubdate": "2025 Jul 1"
   }
 ]
