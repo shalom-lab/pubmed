@@ -1457,5 +1457,30 @@
     "doi": "doi: 10.2196/68058",
     "sortpubdate": "2025/07/23 00:00",
     "epubdate": "2025 Jul 23"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "40706102",
+    "title": "Pathogen epidemiological study of hospitalized children with acute respiratory infections based on targeted next-generation sequencing.",
+    "source": "Diagn Microbiol Infect Dis",
+    "pubdate": "2025 Jul 17",
+    "authors": [
+      "Tang J",
+      "Jian Y",
+      "Guo G",
+      "Cheng Z",
+      "Jiang S",
+      "Wu S",
+      "Chen S",
+      "Zhang W"
+    ],
+    "lastauthor": "Zhang W",
+    "sortfirstauthor": "Tang J",
+    "journal": "Diagnostic microbiology and infectious disease",
+    "issn": "0732-8893",
+    "essn": "1879-0070",
+    "doi": "doi: 10.1016/j.diagmicrobio.2025.117017",
+    "sortpubdate": "2025/07/17 00:00",
+    "epubdate": "2025 Jul 17"
   }
 ]
