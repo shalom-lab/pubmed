@@ -4,7 +4,7 @@
     "id": "40651496",
     "title": "Disproportionate Impact of Respiratory Syncytial Virus (RSV) Among Older Adults in Long-Term Care Settings.",
     "source": "J Am Med Dir Assoc",
-    "pubdate": "2025 Jul 9",
+    "pubdate": "2025 Jul 24",
     "authors": [
       "Popham K",
       "St George K",
@@ -18,8 +18,8 @@
     "issn": "1525-8610",
     "essn": "1538-9375",
     "doi": "doi: 10.1016/j.jamda.2025.105760",
-    "sortpubdate": "2025/07/09 00:00",
-    "epubdate": "2025 Jul 9"
+    "sortpubdate": "2025/07/24 00:00",
+    "epubdate": "2025 Jul 24"
   },
   {
     "name": "RSV seasonality",
@@ -267,7 +267,7 @@
   {
     "name": "RSV seasonality",
     "id": "40550307",
-    "title": "Seroprevalence of RSV Antibodies in a Contemporary (2022 - 2023) Cohort of Adults.",
+    "title": "Seroprevalence of RSV antibodies in a contemporary (2022-2023) cohort of adults.",
     "source": "Int J Infect Dis",
     "pubdate": "2025 Jun 21",
     "authors": [
@@ -1482,5 +1482,27 @@
     "doi": "doi: 10.1016/j.diagmicrobio.2025.117017",
     "sortpubdate": "2025/07/17 00:00",
     "epubdate": "2025 Jul 17"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "40712319",
+    "title": "Sociodemographic disparities in COVID-19 and RSV vaccine uptake among California adults ≥60 years old who received influenza vaccination.",
+    "source": "Vaccine",
+    "pubdate": "2025 Jul 24",
+    "authors": [
+      "Rizzo KR",
+      "Yen CJ",
+      "Quint J",
+      "Hoover C",
+      "Schechter R"
+    ],
+    "lastauthor": "Schechter R",
+    "sortfirstauthor": "Rizzo KR",
+    "journal": "Vaccine",
+    "issn": "0264-410X",
+    "essn": "1873-2518",
+    "doi": "doi: 10.1016/j.vaccine.2025.127535",
+    "sortpubdate": "2025/07/24 00:00",
+    "epubdate": "2025 Jul 24"
   }
 ]
