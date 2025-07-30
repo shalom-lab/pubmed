@@ -1781,5 +1781,54 @@
     "doi": "doi: 10.1186/s12889-025-23636-w",
     "sortpubdate": "2025/07/26 00:00",
     "epubdate": "2025 Jul 26"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "40727239",
+    "title": "Excess mortality and hospitalisations associated with respiratory syncytial virus, influenza, and COVID-19 among adults in Denmark (2015-2024): a modelling study.",
+    "source": "Lancet Reg Health Eur",
+    "pubdate": "2025 Aug",
+    "authors": [
+      "Egeskov-Cavling AM",
+      "Hansen CL",
+      "Johannesen CK",
+      "Lindegaard B",
+      "Bhatt S",
+      "Viboud C",
+      "Fischer TK"
+    ],
+    "lastauthor": "Fischer TK",
+    "sortfirstauthor": "Egeskov-Cavling AM",
+    "journal": "The Lancet regional health. Europe",
+    "issn": "",
+    "essn": "2666-7762",
+    "doi": "doi: 10.1016/j.lanepe.2025.101396",
+    "sortpubdate": "2025/07/18 00:00",
+    "epubdate": "2025 Jul 18"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "40717120",
+    "title": "Evolutionary trajectory and spread of respiratory syncytial virus group A in neonatal cohorts in Pakistan amidst the COVID-19 pandemic.",
+    "source": "Sci Rep",
+    "pubdate": "2025 Jul 27",
+    "authors": [
+      "Tamim S",
+      "Trovao NS",
+      "Paoli J",
+      "Ahad A",
+      "Badar N",
+      "Aamir UB",
+      "Salman M",
+      "Ikram A"
+    ],
+    "lastauthor": "Ikram A",
+    "sortfirstauthor": "Tamim S",
+    "journal": "Scientific reports",
+    "issn": "",
+    "essn": "2045-2322",
+    "doi": "doi: 10.1038/s41598-025-87332-w",
+    "sortpubdate": "2025/07/27 00:00",
+    "epubdate": "2025 Jul 27"
   }
 ]

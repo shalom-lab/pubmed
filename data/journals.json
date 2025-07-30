@@ -1277,7 +1277,8 @@
   {
     "source": "Diabetes Metab Syndr Obes",
     "journal": "Diabetes, metabolic syndrome and obesity : targets and therapy",
-    "issn": "1178-7007"
+    "issn": "1178-7007",
+    "essn": "1178-7007"
   },
   {
     "source": "J Am Heart Assoc",
@@ -3042,7 +3043,8 @@
   {
     "source": "Prz Menopauzalny",
     "journal": "Przeglad menopauzalny = Menopause review",
-    "issn": "1643-8876"
+    "issn": "1643-8876",
+    "essn": "2299-0038"
   },
   {
     "source": "JPEN J Parenter Enteral Nutr",
@@ -3073,5 +3075,127 @@
     "journal": "Social science & medicine (1982)",
     "issn": "0277-9536",
     "essn": "1873-5347"
+  },
+  {
+    "source": "J Gastroenterol",
+    "journal": "Journal of gastroenterology",
+    "issn": "0944-1174",
+    "essn": "1435-5922"
+  },
+  {
+    "source": "Immun Inflamm Dis",
+    "journal": "Immunity, inflammation and disease",
+    "essn": "2050-4527"
+  },
+  {
+    "source": "J Invest Surg",
+    "journal": "Journal of investigative surgery : the official journal of the Academy of Surgical Research",
+    "issn": "0894-1939",
+    "essn": "1521-0553"
+  },
+  {
+    "source": "Ther Adv Med Oncol",
+    "journal": "Therapeutic advances in medical oncology",
+    "issn": "1758-8340",
+    "essn": "1758-8359"
+  },
+  {
+    "source": "Orthop Res Rev",
+    "journal": "Orthopedic research and reviews",
+    "essn": "1179-1462"
+  },
+  {
+    "source": "JOR Spine",
+    "journal": "JOR spine",
+    "essn": "2572-1143"
+  },
+  {
+    "source": "Quant Imaging Med Surg",
+    "journal": "Quantitative imaging in medicine and surgery",
+    "issn": "2223-4292",
+    "essn": "2223-4306"
+  },
+  {
+    "source": "Acta Orthop Traumatol Turc",
+    "journal": "Acta orthopaedica et traumatologica turcica",
+    "issn": "1017-995X",
+    "essn": "2589-1294"
+  },
+  {
+    "source": "Cancer Biomark",
+    "journal": "Cancer biomarkers : section A of Disease markers",
+    "issn": "1574-0153",
+    "essn": "1875-8592"
+  },
+  {
+    "source": "J Parkinsons Dis",
+    "journal": "Journal of Parkinson's disease",
+    "issn": "1877-7171",
+    "essn": "1877-718X"
+  },
+  {
+    "source": "Genes (Basel)",
+    "journal": "Genes",
+    "essn": "2073-4425"
+  },
+  {
+    "source": "Children (Basel)",
+    "journal": "Children (Basel, Switzerland)",
+    "issn": "2227-9067"
+  },
+  {
+    "source": "Bioengineering (Basel)",
+    "journal": "Bioengineering (Basel, Switzerland)",
+    "issn": "2306-5354"
+  },
+  {
+    "source": "J Travel Med",
+    "journal": "Journal of travel medicine",
+    "issn": "1195-1982",
+    "essn": "1708-8305"
+  },
+  {
+    "source": "Endosc Int Open",
+    "journal": "Endoscopy international open",
+    "issn": "2364-3722",
+    "essn": "2196-9736"
+  },
+  {
+    "source": "Antibiotics (Basel)",
+    "journal": "Antibiotics (Basel, Switzerland)",
+    "issn": "2079-6382"
+  },
+  {
+    "source": "Global Health",
+    "journal": "Globalization and health",
+    "essn": "1744-8603"
+  },
+  {
+    "source": "Clin Med (Lond)",
+    "journal": "Clinical medicine (London, England)",
+    "issn": "1470-2118",
+    "essn": "1473-4893"
+  },
+  {
+    "source": "Orthop Rev (Pavia)",
+    "journal": "Orthopedic reviews",
+    "issn": "2035-8237",
+    "essn": "2035-8164"
+  },
+  {
+    "source": "Life (Basel)",
+    "journal": "Life (Basel, Switzerland)",
+    "issn": "2075-1729"
+  },
+  {
+    "source": "Toxicol Ind Health",
+    "journal": "Toxicology and industrial health",
+    "issn": "0748-2337",
+    "essn": "1477-0393"
+  },
+  {
+    "source": "Lancet Reg Health Eur",
+    "journal": "The Lancet regional health. Europe",
+    "essn": "2666-7762"
   }
 ]

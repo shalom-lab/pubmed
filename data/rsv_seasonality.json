@@ -1504,5 +1504,29 @@
     "doi": "doi: 10.1016/j.vaccine.2025.127535",
     "sortpubdate": "2025/07/24 00:00",
     "epubdate": "2025 Jul 24"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "40727239",
+    "title": "Excess mortality and hospitalisations associated with respiratory syncytial virus, influenza, and COVID-19 among adults in Denmark (2015-2024): a modelling study.",
+    "source": "Lancet Reg Health Eur",
+    "pubdate": "2025 Aug",
+    "authors": [
+      "Egeskov-Cavling AM",
+      "Hansen CL",
+      "Johannesen CK",
+      "Lindegaard B",
+      "Bhatt S",
+      "Viboud C",
+      "Fischer TK"
+    ],
+    "lastauthor": "Fischer TK",
+    "sortfirstauthor": "Egeskov-Cavling AM",
+    "journal": "The Lancet regional health. Europe",
+    "issn": "",
+    "essn": "2666-7762",
+    "doi": "doi: 10.1016/j.lanepe.2025.101396",
+    "sortpubdate": "2025/07/18 00:00",
+    "epubdate": "2025 Jul 18"
   }
 ]
