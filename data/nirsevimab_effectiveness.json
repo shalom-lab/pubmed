@@ -937,7 +937,7 @@
     "source": "J Med Econ",
     "pubdate": "2025 Dec",
     "authors": [
-      "Mercier É",
+      "Mercier ��",
       "Fullarton JR",
       "Paes BA",
       "Keary IP",
@@ -1470,5 +1470,46 @@
     "doi": "doi: 10.1002/ppul.71215",
     "sortpubdate": "2025/07/01 00:00",
     "epubdate": ""
+  },
+  {
+    "name": "Nirsevimab effectiveness",
+    "id": "40735667",
+    "title": "Beyond the first breath: comprehensive respiratory syncytial virus prevention through maternal immunization and infant immunoprophylaxis.",
+    "source": "Asian Biomed (Res Rev News)",
+    "pubdate": "2025 Jun",
+    "authors": [
+      "Chantasrisawad N",
+      "Boonjindasup W",
+      "Puthanakit T",
+      "Chaithongwongwatthana S"
+    ],
+    "lastauthor": "Chaithongwongwatthana S",
+    "sortfirstauthor": "Chantasrisawad N",
+    "journal": "Asian biomedicine : research, reviews and news",
+    "issn": "1905-7415",
+    "essn": "1875-855X",
+    "doi": "doi: 10.2478/abm-2025-0015",
+    "sortpubdate": "2025/07/28 00:00",
+    "epubdate": "2025 Jul 28"
+  },
+  {
+    "name": "Nirsevimab effectiveness",
+    "id": "40733694",
+    "title": "Challenges and Limitations of Current RSV Prevention Strategies in Infants and Young Children: A Narrative Review.",
+    "source": "Vaccines (Basel)",
+    "pubdate": "2025 Jul 1",
+    "authors": [
+      "Principi N",
+      "Perrone S",
+      "Esposito S"
+    ],
+    "lastauthor": "Esposito S",
+    "sortfirstauthor": "Principi N",
+    "journal": "Vaccines",
+    "issn": "2076-393X",
+    "essn": "",
+    "doi": "pii: 717. doi: 10.3390/vaccines13070717",
+    "sortpubdate": "2025/07/01 00:00",
+    "epubdate": "2025 Jul 1"
   }
 ]

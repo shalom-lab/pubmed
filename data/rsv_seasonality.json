@@ -1528,5 +1528,78 @@
     "doi": "doi: 10.1016/j.lanepe.2025.101396",
     "sortpubdate": "2025/07/18 00:00",
     "epubdate": "2025 Jul 18"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "40733587",
+    "title": "Molecular Detection of Various Non-Seasonal, Zoonotic Influenza Viruses Using BioFire FilmArray and GenXpert Diagnostic Platforms.",
+    "source": "Viruses",
+    "pubdate": "2025 Jul 10",
+    "authors": [
+      "Ranadheera C",
+      "Chestley T",
+      "Perez O",
+      "Meek B",
+      "Hart L",
+      "Johnson M",
+      "Berhane Y",
+      "Bastien N"
+    ],
+    "lastauthor": "Bastien N",
+    "sortfirstauthor": "Ranadheera C",
+    "journal": "Viruses",
+    "issn": "",
+    "essn": "1999-4915",
+    "doi": "pii: 970. doi: 10.3390/v17070970",
+    "sortpubdate": "2025/07/10 00:00",
+    "epubdate": "2025 Jul 10"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "40732705",
+    "title": "Wastewater Surveillance for Group A Streptococcus pyogenes in a Small City.",
+    "source": "Pathogens",
+    "pubdate": "2025 Jul 3",
+    "authors": [
+      "Birch ON",
+      "Garza FM",
+      "Greaves JC"
+    ],
+    "lastauthor": "Greaves JC",
+    "sortfirstauthor": "Birch ON",
+    "journal": "Pathogens (Basel, Switzerland)",
+    "issn": "",
+    "essn": "2076-0817",
+    "doi": "pii: 658. doi: 10.3390/pathogens14070658",
+    "sortpubdate": "2025/07/03 00:00",
+    "epubdate": "2025 Jul 3"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "40732017",
+    "title": "hMPV Outbreaks: Worldwide Implications of a Re-Emerging Respiratory Pathogen.",
+    "source": "Microorganisms",
+    "pubdate": "2025 Jun 27",
+    "authors": [
+      "Lianou A",
+      "Tsantes AG",
+      "Ioannou P",
+      "Bikouli ED",
+      "Batsiou A",
+      "Kokkinou A",
+      "Tsante KA",
+      "Tsilidis D",
+      "Lampridou M",
+      "Iacovidou N",
+      "Sokou R"
+    ],
+    "lastauthor": "Sokou R",
+    "sortfirstauthor": "Lianou A",
+    "journal": "Microorganisms",
+    "issn": "2076-2607",
+    "essn": "",
+    "doi": "pii: 1508. doi: 10.3390/microorganisms13071508",
+    "sortpubdate": "2025/06/27 00:00",
+    "epubdate": "2025 Jun 27"
   }
 ]

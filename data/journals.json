@@ -3141,7 +3141,8 @@
   {
     "source": "Children (Basel)",
     "journal": "Children (Basel, Switzerland)",
-    "issn": "2227-9067"
+    "issn": "2227-9067",
+    "essn": "2227-9067"
   },
   {
     "source": "Bioengineering (Basel)",
@@ -3163,7 +3164,8 @@
   {
     "source": "Antibiotics (Basel)",
     "journal": "Antibiotics (Basel, Switzerland)",
-    "issn": "2079-6382"
+    "issn": "2079-6382",
+    "essn": "2079-6382"
   },
   {
     "source": "Global Health",
@@ -3185,7 +3187,8 @@
   {
     "source": "Life (Basel)",
     "journal": "Life (Basel, Switzerland)",
-    "issn": "2075-1729"
+    "issn": "2075-1729",
+    "essn": "2075-1729"
   },
   {
     "source": "Toxicol Ind Health",
@@ -3197,5 +3200,152 @@
     "source": "Lancet Reg Health Eur",
     "journal": "The Lancet regional health. Europe",
     "essn": "2666-7762"
+  },
+  {
+    "source": "JAMA Surg",
+    "journal": "JAMA surgery",
+    "issn": "2168-6254",
+    "essn": "2168-6262"
+  },
+  {
+    "source": "Ophthalmol Ther",
+    "journal": "Ophthalmology and therapy",
+    "issn": "2193-8245"
+  },
+  {
+    "source": "Pediatr Cardiol",
+    "journal": "Pediatric cardiology",
+    "issn": "0172-0643",
+    "essn": "1432-1971"
+  },
+  {
+    "source": "AJR Am J Roentgenol",
+    "journal": "AJR. American journal of roentgenology",
+    "issn": "0361-803X",
+    "essn": "1546-3141"
+  },
+  {
+    "source": "Nanoscale",
+    "journal": "Nanoscale",
+    "issn": "2040-3364",
+    "essn": "2040-3372"
+  },
+  {
+    "source": "Pak J Med Sci",
+    "journal": "Pakistan journal of medical sciences",
+    "issn": "1682-024X",
+    "essn": "1681-715X"
+  },
+  {
+    "source": "Front Neurosci",
+    "journal": "Frontiers in neuroscience",
+    "issn": "1662-4548",
+    "essn": "1662-453X"
+  },
+  {
+    "source": "Front Chem",
+    "journal": "Frontiers in chemistry",
+    "issn": "2296-2646",
+    "essn": "2296-2646"
+  },
+  {
+    "source": "Cancer Inform",
+    "journal": "Cancer informatics",
+    "issn": "1176-9351",
+    "essn": "1176-9351"
+  },
+  {
+    "source": "Zhonghua Wai Ke Za Zhi",
+    "journal": "Zhonghua wai ke za zhi [Chinese journal of surgery]",
+    "issn": "0529-5815"
+  },
+  {
+    "source": "Sci Prog",
+    "journal": "Science progress",
+    "issn": "0036-8504",
+    "essn": "2047-7163"
+  },
+  {
+    "source": "Pathogens",
+    "journal": "Pathogens (Basel, Switzerland)",
+    "essn": "2076-0817"
+  },
+  {
+    "source": "BMC Musculoskelet Disord",
+    "journal": "BMC musculoskeletal disorders",
+    "essn": "1471-2474"
+  },
+  {
+    "source": "Orphanet J Rare Dis",
+    "journal": "Orphanet journal of rare diseases",
+    "essn": "1750-1172"
+  },
+  {
+    "source": "Eur J Clin Nutr",
+    "journal": "European journal of clinical nutrition",
+    "issn": "0954-3007",
+    "essn": "1476-5640"
+  },
+  {
+    "source": "Cancer Imaging",
+    "journal": "Cancer imaging : the official publication of the International Cancer Imaging Society",
+    "essn": "1470-7330"
+  },
+  {
+    "source": "BMC Immunol",
+    "journal": "BMC immunology",
+    "essn": "1471-2172"
+  },
+  {
+    "source": "Eat Weight Disord",
+    "journal": "Eating and weight disorders : EWD",
+    "issn": "1124-4909",
+    "essn": "1590-1262"
+  },
+  {
+    "source": "Eur J Clin Invest",
+    "journal": "European journal of clinical investigation",
+    "issn": "0014-2972",
+    "essn": "1365-2362"
+  },
+  {
+    "source": "Zhongguo Xue Xi Chong Bing Fang Zhi Za Zhi",
+    "journal": "Zhongguo xue xi chong bing fang zhi za zhi = Chinese journal of schistosomiasis control",
+    "issn": "1005-6661"
+  },
+  {
+    "source": "JACC Heart Fail",
+    "journal": "JACC. Heart failure",
+    "issn": "2213-1779",
+    "essn": "2213-1787"
+  },
+  {
+    "source": "Public Health",
+    "journal": "Public health",
+    "issn": "0033-3506",
+    "essn": "1476-5616"
+  },
+  {
+    "source": "J Diabetes Investig",
+    "journal": "Journal of diabetes investigation",
+    "issn": "2040-1116",
+    "essn": "2040-1124"
+  },
+  {
+    "source": "Gastroenterol Hepatol Bed Bench",
+    "journal": "Gastroenterology and hepatology from bed to bench",
+    "issn": "2008-2258",
+    "essn": "2008-4234"
+  },
+  {
+    "source": "Asian Biomed (Res Rev News)",
+    "journal": "Asian biomedicine : research, reviews and news",
+    "issn": "1905-7415",
+    "essn": "1875-855X"
+  },
+  {
+    "source": "Microorganisms",
+    "journal": "Microorganisms",
+    "issn": "2076-2607"
   }
 ]
