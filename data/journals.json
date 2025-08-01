@@ -1209,7 +1209,8 @@
   {
     "source": "J Cancer",
     "journal": "Journal of Cancer",
-    "issn": "1837-9664"
+    "issn": "1837-9664",
+    "essn": "1837-9664"
   },
   {
     "source": "Breast Cancer (Dove Med Press)",
@@ -3347,5 +3348,145 @@
     "source": "Microorganisms",
     "journal": "Microorganisms",
     "issn": "2076-2607"
+  },
+  {
+    "source": "Proc Natl Acad Sci U S A",
+    "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+    "issn": "0027-8424",
+    "essn": "1091-6490"
+  },
+  {
+    "source": "J Sports Med Phys Fitness",
+    "journal": "The Journal of sports medicine and physical fitness",
+    "issn": "0022-4707",
+    "essn": "1827-1928"
+  },
+  {
+    "source": "Int J Cardiovasc Imaging",
+    "journal": "The international journal of cardiovascular imaging",
+    "issn": "1569-5794",
+    "essn": "1875-8312"
+  },
+  {
+    "source": "Graefes Arch Clin Exp Ophthalmol",
+    "journal": "Graefe's archive for clinical and experimental ophthalmology = Albrecht von Graefes Archiv fur klinische und experimentelle Ophthalmologie",
+    "issn": "0721-832X",
+    "essn": "1435-702X"
+  },
+  {
+    "source": "Biochem Genet",
+    "journal": "Biochemical genetics",
+    "issn": "0006-2928",
+    "essn": "1573-4927"
+  },
+  {
+    "source": "Cancer Res",
+    "journal": "Cancer research",
+    "issn": "0008-5472",
+    "essn": "1538-7445"
+  },
+  {
+    "source": "Eur J Gastroenterol Hepatol",
+    "journal": "European journal of gastroenterology & hepatology",
+    "issn": "0954-691X",
+    "essn": "1473-5687"
+  },
+  {
+    "source": "Clin Spine Surg",
+    "journal": "Clinical spine surgery",
+    "issn": "2380-0186",
+    "essn": "2380-0194"
+  },
+  {
+    "source": "Front Bioeng Biotechnol",
+    "journal": "Frontiers in bioengineering and biotechnology",
+    "issn": "2296-4185",
+    "essn": "2296-4185"
+  },
+  {
+    "source": "World J Cardiol",
+    "journal": "World journal of cardiology",
+    "issn": "1949-8462",
+    "essn": "1949-8462"
+  },
+  {
+    "source": "World J Gastrointest Surg",
+    "journal": "World journal of gastrointestinal surgery",
+    "issn": "1948-9366",
+    "essn": "1948-9366"
+  },
+  {
+    "source": "World J Psychiatry",
+    "journal": "World journal of psychiatry",
+    "issn": "2220-3206",
+    "essn": "2220-3206"
+  },
+  {
+    "source": "Orthop Surg",
+    "journal": "Orthopaedic surgery",
+    "issn": "1757-7853",
+    "essn": "1757-7861"
+  },
+  {
+    "source": "Radiat Oncol",
+    "journal": "Radiation oncology (London, England)",
+    "essn": "1748-717X"
+  },
+  {
+    "source": "Eur J Cancer Prev",
+    "journal": "European journal of cancer prevention : the official journal of the European Cancer Prevention Organisation (ECP)",
+    "issn": "0959-8278",
+    "essn": "1473-5709"
+  },
+  {
+    "source": "J Allergy Clin Immunol Glob",
+    "journal": "The journal of allergy and clinical immunology. Global",
+    "essn": "2772-8293"
+  },
+  {
+    "source": "Int Heart J",
+    "journal": "International heart journal",
+    "issn": "1349-2365",
+    "essn": "1349-3299"
+  },
+  {
+    "source": "J Clin Sleep Med",
+    "journal": "Journal of clinical sleep medicine : JCSM : official publication of the American Academy of Sleep Medicine",
+    "issn": "1550-9389",
+    "essn": "1550-9397"
+  },
+  {
+    "source": "World J Clin Oncol",
+    "journal": "World journal of clinical oncology",
+    "issn": "2218-4333",
+    "essn": "2218-4333"
+  },
+  {
+    "source": "Kidney Med",
+    "journal": "Kidney medicine",
+    "essn": "2590-0595"
+  },
+  {
+    "source": "Demography",
+    "journal": "Demography",
+    "issn": "0070-3370",
+    "essn": "1533-7790"
+  },
+  {
+    "source": "Nutr Neurosci",
+    "journal": "Nutritional neuroscience",
+    "issn": "1028-415X",
+    "essn": "1476-8305"
+  },
+  {
+    "source": "Cardiovasc Diabetol",
+    "journal": "Cardiovascular diabetology",
+    "essn": "1475-2840"
+  },
+  {
+    "source": "Endocr J",
+    "journal": "Endocrine journal",
+    "issn": "0918-8959",
+    "essn": "1348-4540"
   }
 ]

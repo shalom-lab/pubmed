@@ -937,7 +937,7 @@
     "source": "J Med Econ",
     "pubdate": "2025 Dec",
     "authors": [
-      "Mercier ��",
+      "Mercier É",
       "Fullarton JR",
       "Paes BA",
       "Keary IP",
@@ -1509,6 +1509,26 @@
     "issn": "2076-393X",
     "essn": "",
     "doi": "pii: 717. doi: 10.3390/vaccines13070717",
+    "sortpubdate": "2025/07/01 00:00",
+    "epubdate": "2025 Jul 1"
+  },
+  {
+    "name": "Nirsevimab effectiveness",
+    "id": "40733694",
+    "title": "Challenges and Limitations of Current RSV Prevention Strategies in Infants and Young Children: A Narrative Review.",
+    "source": "Vaccines (Basel)",
+    "pubdate": "2025 Jul 1",
+    "authors": [
+      "Principi N",
+      "Perrone S",
+      "Esposito S"
+    ],
+    "lastauthor": "Esposito S",
+    "sortfirstauthor": "Principi N",
+    "journal": "Vaccines",
+    "issn": "2076-393X",
+    "essn": "2076-393X",
+    "doi": "doi: 10.3390/vaccines13070717",
     "sortpubdate": "2025/07/01 00:00",
     "epubdate": "2025 Jul 1"
   }
