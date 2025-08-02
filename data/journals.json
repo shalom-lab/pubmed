@@ -3347,7 +3347,8 @@
   {
     "source": "Microorganisms",
     "journal": "Microorganisms",
-    "issn": "2076-2607"
+    "issn": "2076-2607",
+    "essn": "2076-2607"
   },
   {
     "source": "Proc Natl Acad Sci U S A",
@@ -3488,5 +3489,159 @@
     "journal": "Endocrine journal",
     "issn": "0918-8959",
     "essn": "1348-4540"
+  },
+  {
+    "source": "Emerg Microbes Infect",
+    "journal": "Emerging microbes & infections",
+    "essn": "2222-1751"
+  },
+  {
+    "source": "Nucleosides Nucleotides Nucleic Acids",
+    "journal": "Nucleosides, nucleotides & nucleic acids",
+    "issn": "1525-7770",
+    "essn": "1532-2335"
+  },
+  {
+    "source": "J Dig Dis",
+    "journal": "Journal of digestive diseases",
+    "issn": "1751-2972",
+    "essn": "1751-2980"
+  },
+  {
+    "source": "J Robot Surg",
+    "journal": "Journal of robotic surgery",
+    "issn": "1863-2483",
+    "essn": "1863-2491"
+  },
+  {
+    "source": "J Bone Miner Res",
+    "journal": "Journal of bone and mineral research : the official journal of the American Society for Bone and Mineral Research",
+    "issn": "0884-0431",
+    "essn": "1523-4681"
+  },
+  {
+    "source": "Asia Pac J Oncol Nurs",
+    "journal": "Asia-Pacific journal of oncology nursing",
+    "issn": "2347-5625",
+    "essn": "2349-6673"
+  },
+  {
+    "source": "World J Hepatol",
+    "journal": "World journal of hepatology",
+    "issn": "1948-5182",
+    "essn": "1948-5182"
+  },
+  {
+    "source": "World J Radiol",
+    "journal": "World journal of radiology",
+    "issn": "1949-8470",
+    "essn": "1949-8470"
+  },
+  {
+    "source": "Exp Ther Med",
+    "journal": "Experimental and therapeutic medicine",
+    "issn": "1792-0981",
+    "essn": "1792-1015"
+  },
+  {
+    "source": "Bone Joint J",
+    "journal": "The bone & joint journal",
+    "issn": "2049-4394",
+    "essn": "2049-4408"
+  },
+  {
+    "source": "Thorac Cancer",
+    "journal": "Thoracic cancer",
+    "issn": "1759-7706",
+    "essn": "1759-7714"
+  },
+  {
+    "source": "BMC Med Genomics",
+    "journal": "BMC medical genomics",
+    "essn": "1755-8794"
+  },
+  {
+    "source": "Insights Imaging",
+    "journal": "Insights into imaging",
+    "issn": "1869-4101"
+  },
+  {
+    "source": "Lin Chuang Er Bi Yan Hou Tou Jing Wai Ke Za Zhi",
+    "journal": "Lin chuang er bi yan hou tou jing wai ke za zhi = Journal of clinical otorhinolaryngology head and neck surgery",
+    "issn": "2096-7993"
+  },
+  {
+    "source": "Cancer Res Treat",
+    "journal": "Cancer research and treatment",
+    "issn": "1598-2998",
+    "essn": "2005-9256"
+  },
+  {
+    "source": "J Immunother Cancer",
+    "journal": "Journal for immunotherapy of cancer",
+    "essn": "2051-1426"
+  },
+  {
+    "source": "Comput Methods Biomech Biomed Engin",
+    "journal": "Computer methods in biomechanics and biomedical engineering",
+    "issn": "1025-5842",
+    "essn": "1476-8259"
+  },
+  {
+    "source": "J Pharm Biomed Anal",
+    "journal": "Journal of pharmaceutical and biomedical analysis",
+    "issn": "0731-7085",
+    "essn": "1873-264X"
+  },
+  {
+    "source": "Seizure",
+    "journal": "Seizure",
+    "issn": "1059-1311",
+    "essn": "1532-2688"
+  },
+  {
+    "source": "Popul Health Metr",
+    "journal": "Population health metrics",
+    "essn": "1478-7954"
+  },
+  {
+    "source": "Am J Hypertens",
+    "journal": "American journal of hypertension",
+    "issn": "0895-7061",
+    "essn": "1941-7225"
+  },
+  {
+    "source": "J Rhinol",
+    "journal": "Journal of rhinology : official journal of the Korean Rhinologic Society",
+    "issn": "1229-1498",
+    "essn": "2384-4361"
+  },
+  {
+    "source": "Tuberc Respir Dis (Seoul)",
+    "journal": "Tuberculosis and respiratory diseases",
+    "issn": "1738-3536"
+  },
+  {
+    "source": "J Allergy Clin Immunol Pract",
+    "journal": "The journal of allergy and clinical immunology. In practice",
+    "essn": "2213-2201"
+  },
+  {
+    "source": "Maturitas",
+    "journal": "Maturitas",
+    "issn": "0378-5122",
+    "essn": "1873-4111"
+  },
+  {
+    "source": "Asia Pac J Clin Nutr",
+    "journal": "Asia Pacific journal of clinical nutrition",
+    "issn": "0964-7058",
+    "essn": "1440-6047"
+  },
+  {
+    "source": "Fundam Clin Pharmacol",
+    "journal": "Fundamental & clinical pharmacology",
+    "issn": "0767-3981",
+    "essn": "1472-8206"
   }
 ]
