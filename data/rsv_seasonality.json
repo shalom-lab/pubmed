@@ -1750,5 +1750,31 @@
     "doi": "doi: 10.3390/microorganisms13071508",
     "sortpubdate": "2025/06/27 00:00",
     "epubdate": "2025 Jun 27"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "40752249",
+    "title": "Safety monitoring of Pfizer's Respiratory Syncytial Virus Vaccine in pregnant women in the Vaccine Adverse Event Reporting System (VAERS), 2023-2024, United States.",
+    "source": "Vaccine",
+    "pubdate": "2025 Aug 1",
+    "authors": [
+      "Moro PL",
+      "Getahun A",
+      "Romanson B",
+      "Marquez P",
+      "Tepper NK",
+      "Olson CK",
+      "Jones JM",
+      "Nair N",
+      "Broder KR"
+    ],
+    "lastauthor": "Broder KR",
+    "sortfirstauthor": "Moro PL",
+    "journal": "Vaccine",
+    "issn": "0264-410X",
+    "essn": "1873-2518",
+    "doi": "doi: 10.1016/j.vaccine.2025.127497",
+    "sortpubdate": "2025/08/01 00:00",
+    "epubdate": "2025 Aug 1"
   }
 ]

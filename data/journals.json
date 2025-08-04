@@ -1499,6 +1499,7 @@
   {
     "source": "J Diabetes",
     "journal": "Journal of diabetes",
+    "issn": "1753-0393",
     "essn": "1753-0407"
   },
   {
@@ -3563,7 +3564,8 @@
   {
     "source": "Insights Imaging",
     "journal": "Insights into imaging",
-    "issn": "1869-4101"
+    "issn": "1869-4101",
+    "essn": "1869-4101"
   },
   {
     "source": "Lin Chuang Er Bi Yan Hou Tou Jing Wai Ke Za Zhi",
@@ -3700,5 +3702,81 @@
     "journal": "Environmental pollution (Barking, Essex : 1987)",
     "issn": "0269-7491",
     "essn": "1873-6424"
+  },
+  {
+    "source": "BMC Urol",
+    "journal": "BMC urology",
+    "essn": "1471-2490"
+  },
+  {
+    "source": "J Vasc Surg Venous Lymphat Disord",
+    "journal": "Journal of vascular surgery. Venous and lymphatic disorders",
+    "issn": "2213-333X",
+    "essn": "2213-3348"
+  },
+  {
+    "source": "Respir Med",
+    "journal": "Respiratory medicine",
+    "issn": "0954-6111",
+    "essn": "1532-3064"
+  },
+  {
+    "source": "Geriatr Nurs",
+    "journal": "Geriatric nursing (New York, N.Y.)",
+    "issn": "0197-4572",
+    "essn": "1528-3984"
+  },
+  {
+    "source": "J Appl Genet",
+    "journal": "Journal of applied genetics",
+    "issn": "1234-1983",
+    "essn": "2190-3883"
+  },
+  {
+    "source": "J Assist Reprod Genet",
+    "journal": "Journal of assisted reproduction and genetics",
+    "issn": "1058-0468",
+    "essn": "1573-7330"
+  },
+  {
+    "source": "Int J Stroke",
+    "journal": "International journal of stroke : official journal of the International Stroke Society",
+    "issn": "1747-4930",
+    "essn": "1747-4949"
+  },
+  {
+    "source": "NPJ Vaccines",
+    "journal": "NPJ vaccines",
+    "essn": "2059-0105"
+  },
+  {
+    "source": "Cancer Epidemiol",
+    "journal": "Cancer epidemiology",
+    "issn": "1877-7821",
+    "essn": "1877-783X"
+  },
+  {
+    "source": "J Cancer Res Clin Oncol",
+    "journal": "Journal of cancer research and clinical oncology",
+    "issn": "0171-5216",
+    "essn": "1432-1335"
+  },
+  {
+    "source": "FEBS Lett",
+    "journal": "FEBS letters",
+    "issn": "0014-5793",
+    "essn": "1873-3468"
+  },
+  {
+    "source": "Arch Iran Med",
+    "journal": "Archives of Iranian medicine",
+    "issn": "1029-2977",
+    "essn": "1735-3947"
+  },
+  {
+    "source": "Clin Nutr",
+    "journal": "Clinical nutrition (Edinburgh, Scotland)",
+    "issn": "0261-5614",
+    "essn": "1532-1983"
   }
 ]
