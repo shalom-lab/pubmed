@@ -1579,5 +1579,77 @@
     "doi": "pii: kwaf151. doi: 10.1093/aje/kwaf151",
     "sortpubdate": "2025/07/30 00:00",
     "epubdate": "2025 Jul 30"
+  },
+  {
+    "name": "American Journal of Epidemiology",
+    "id": "40754791",
+    "title": "Robust uncertainty quantification in popular estimators of the instantaneous reproduction number.",
+    "source": "Am J Epidemiol",
+    "pubdate": "2025 Aug 4",
+    "authors": [
+      "Steyn N",
+      "Parag KV"
+    ],
+    "lastauthor": "Parag KV",
+    "sortfirstauthor": "Steyn N",
+    "journal": "American journal of epidemiology",
+    "issn": "0002-9262",
+    "essn": "1476-6256",
+    "doi": "pii: kwaf165. doi: 10.1093/aje/kwaf165",
+    "sortpubdate": "2025/08/04 00:00",
+    "epubdate": "2025 Aug 4"
+  },
+  {
+    "name": "American Journal of Epidemiology",
+    "id": "40754790",
+    "title": "Developing A Novel Algorithm to Identify Incident and Prevalent Dementia in Medicare Claims. The ARIC Study.",
+    "source": "Am J Epidemiol",
+    "pubdate": "2025 Aug 4",
+    "authors": [
+      "Wang T",
+      "Pate V",
+      "Kim DH",
+      "Power MC",
+      "Garden G",
+      "Palta P",
+      "Knopman D",
+      "Jonson-Funk M",
+      "Stürmer T",
+      "Kucharska-Newton AM"
+    ],
+    "lastauthor": "Kucharska-Newton AM",
+    "sortfirstauthor": "Wang T",
+    "journal": "American journal of epidemiology",
+    "issn": "0002-9262",
+    "essn": "1476-6256",
+    "doi": "pii: kwaf166. doi: 10.1093/aje/kwaf166",
+    "sortpubdate": "2025/08/04 00:00",
+    "epubdate": "2025 Aug 4"
+  },
+  {
+    "name": "American Journal of Epidemiology",
+    "id": "40754788",
+    "title": "Delayed primary surgery and outcomes in children with gastrointestinal anomalies in 264 hospitals and 74 countries.",
+    "source": "Am J Epidemiol",
+    "pubdate": "2025 Aug 4",
+    "authors": [
+      "Landrum KR",
+      "Pence BW",
+      "Shrime MG",
+      "Rice HE",
+      "Wright NJ",
+      "Habermann A",
+      "Agala CB",
+      "Smith ER",
+      "Edwards JK"
+    ],
+    "lastauthor": "Edwards JK",
+    "sortfirstauthor": "Landrum KR",
+    "journal": "American journal of epidemiology",
+    "issn": "0002-9262",
+    "essn": "1476-6256",
+    "doi": "pii: kwaf160. doi: 10.1093/aje/kwaf160",
+    "sortpubdate": "2025/08/04 00:00",
+    "epubdate": "2025 Aug 4"
   }
 ]

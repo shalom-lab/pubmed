@@ -1629,7 +1629,7 @@
   {
     "name": "RSV modeling",
     "id": "40706641",
-    "title": "Spatial-temporal Dynamics and Virus Interference of Respiratory Viruses: Insights from Multi-Pathogen Surveillance in China.",
+    "title": "Spatial-temporal dynamics and virus interference of respiratory viruses: Insights from multi-pathogen surveillance in China.",
     "source": "J Infect",
     "pubdate": "2025 Jul 22",
     "authors": [
@@ -1857,5 +1857,63 @@
     "doi": "doi: 10.3389/fpubh.2025.1611483",
     "sortpubdate": "2025/07/16 00:00",
     "epubdate": "2025 Jul 16"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "40756167",
+    "title": "Estimating the economically justifiable price of nirsevimab versus standard of practice for the prevention of respiratory syncytial virus infections in neonates and infants in Spain: a cost-utility modelling study.",
+    "source": "BMJ Public Health",
+    "pubdate": "2025",
+    "authors": [
+      "Gil-Prieto R",
+      "Pérez-Martín J",
+      "Díaz Aguiló A",
+      "Soudani S",
+      "Platero-Alonso L",
+      "López-Belmonte JL",
+      "de la Cuadra-Grande A",
+      "Casado MÁ",
+      "Álvarez Aldean J"
+    ],
+    "lastauthor": "Álvarez Aldean J",
+    "sortfirstauthor": "Gil-Prieto R",
+    "journal": "BMJ public health",
+    "issn": "",
+    "essn": "2753-4294",
+    "doi": "doi: 10.1136/bmjph-2024-002441",
+    "sortpubdate": "2025/07/31 00:00",
+    "epubdate": "2025 Jul 31"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "40754579",
+    "title": "Estimating the respiratory syncytial virus-associated hospitalisation burden in older adults in European countries: a systematic analysis.",
+    "source": "BMC Med",
+    "pubdate": "2025 Aug 4",
+    "authors": [
+      "Zhang T",
+      "Reeves RM",
+      "Ma S",
+      "Miao Y",
+      "Sun S",
+      "Orrico-Sánchez A",
+      "Panning M",
+      "Urchueguía-Fornes A",
+      "Vuichard-Gysin D",
+      "Nair H",
+      "Fonseca MJ",
+      "Marijam A",
+      "Wang X",
+      "Li Y",
+      "Respiratory Virus Global Epidemiology Network"
+    ],
+    "lastauthor": "Li Y",
+    "sortfirstauthor": "Zhang T",
+    "journal": "BMC medicine",
+    "issn": "",
+    "essn": "1741-7015",
+    "doi": "doi: 10.1186/s12916-025-04249-x",
+    "sortpubdate": "2025/08/04 00:00",
+    "epubdate": "2025 Aug 4"
   }
 ]

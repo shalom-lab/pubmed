@@ -1220,7 +1220,8 @@
   {
     "source": "Neuropsychiatr Dis Treat",
     "journal": "Neuropsychiatric disease and treatment",
-    "issn": "1176-6328"
+    "issn": "1176-6328",
+    "essn": "1178-2021"
   },
   {
     "source": "Geriatr Orthop Surg Rehabil",
@@ -3778,5 +3779,136 @@
     "journal": "Clinical nutrition (Edinburgh, Scotland)",
     "issn": "0261-5614",
     "essn": "1532-1983"
+  },
+  {
+    "source": "J Imaging Inform Med",
+    "journal": "Journal of imaging informatics in medicine",
+    "issn": "2948-2925",
+    "essn": "2948-2933"
+  },
+  {
+    "source": "Transl Vis Sci Technol",
+    "journal": "Translational vision science & technology",
+    "essn": "2164-2591"
+  },
+  {
+    "source": "Mol Clin Oncol",
+    "journal": "Molecular and clinical oncology",
+    "issn": "2049-9450",
+    "essn": "2049-9469"
+  },
+  {
+    "source": "Cardiol Res Pract",
+    "journal": "Cardiology research and practice",
+    "issn": "2090-8016",
+    "essn": "2090-0597"
+  },
+  {
+    "source": "J Clin Tuberc Other Mycobact Dis",
+    "journal": "Journal of clinical tuberculosis and other mycobacterial diseases",
+    "essn": "2405-5794"
+  },
+  {
+    "source": "Nano Res",
+    "journal": "Nano research",
+    "issn": "1998-0124",
+    "essn": "1998-0000"
+  },
+  {
+    "source": "Ther Adv Chronic Dis",
+    "journal": "Therapeutic advances in chronic disease",
+    "issn": "2040-6223",
+    "essn": "2040-6231"
+  },
+  {
+    "source": "SAGE Open Med",
+    "journal": "SAGE open medicine",
+    "issn": "2050-3121",
+    "essn": "2050-3121"
+  },
+  {
+    "source": "Theranostics",
+    "journal": "Theranostics",
+    "essn": "1838-7640"
+  },
+  {
+    "source": "Eur Urol Open Sci",
+    "journal": "European urology open science",
+    "issn": "2666-1691",
+    "essn": "2666-1683"
+  },
+  {
+    "source": "Transl Gastroenterol Hepatol",
+    "journal": "Translational gastroenterology and hepatology",
+    "essn": "2415-1289"
+  },
+  {
+    "source": "Curr Med Imaging",
+    "journal": "Current medical imaging",
+    "essn": "1573-4056"
+  },
+  {
+    "source": "Endocr Metab Immune Disord Drug Targets",
+    "journal": "Endocrine, metabolic & immune disorders drug targets",
+    "issn": "1871-5303",
+    "essn": "2212-3873"
+  },
+  {
+    "source": "Mil Med Res",
+    "journal": "Military Medical Research",
+    "essn": "2054-9369"
+  },
+  {
+    "source": "J Clin Gastroenterol",
+    "journal": "Journal of clinical gastroenterology",
+    "issn": "0192-0790",
+    "essn": "1539-2031"
+  },
+  {
+    "source": "J Neurochem",
+    "journal": "Journal of neurochemistry",
+    "issn": "0022-3042",
+    "essn": "1471-4159"
+  },
+  {
+    "source": "Arthritis Care Res (Hoboken)",
+    "journal": "Arthritis care & research",
+    "issn": "2151-464X",
+    "essn": "2151-4658"
+  },
+  {
+    "source": "Mayo Clin Proc",
+    "journal": "Mayo Clinic proceedings",
+    "issn": "0025-6196",
+    "essn": "1942-5546"
+  },
+  {
+    "source": "Oral Health Prev Dent",
+    "journal": "Oral health & preventive dentistry",
+    "issn": "1602-1622",
+    "essn": "1757-9996"
+  },
+  {
+    "source": "Paediatr Child Health",
+    "journal": "Paediatrics & child health",
+    "issn": "1205-7088",
+    "essn": "1918-1485"
+  },
+  {
+    "source": "J Diabetes Metab Disord",
+    "journal": "Journal of diabetes and metabolic disorders",
+    "issn": "2251-6581",
+    "essn": "2251-6581"
+  },
+  {
+    "source": "Kidney Blood Press Res",
+    "journal": "Kidney & blood pressure research",
+    "issn": "1420-4096",
+    "essn": "1423-0143"
+  },
+  {
+    "source": "BMJ Public Health",
+    "journal": "BMJ public health",
+    "essn": "2753-4294"
   }
 ]
