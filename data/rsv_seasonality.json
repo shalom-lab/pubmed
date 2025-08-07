@@ -1776,5 +1776,31 @@
     "doi": "doi: 10.1016/j.vaccine.2025.127497",
     "sortpubdate": "2025/08/01 00:00",
     "epubdate": "2025 Aug 1"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "40764953",
+    "title": "Long-term impact of the SARS-CoV-2 pandemic on respiratory viruses in Germany.",
+    "source": "BMC Public Health",
+    "pubdate": "2025 Aug 5",
+    "authors": [
+      "Eggeling R",
+      "König F",
+      "Koeppel L",
+      "Böhler LI",
+      "Böhm M",
+      "Schmeißer N",
+      "Pfeifer N",
+      "Kaiser R",
+      "Clinical Virology Network"
+    ],
+    "lastauthor": "Kaiser R",
+    "sortfirstauthor": "Eggeling R",
+    "journal": "BMC public health",
+    "issn": "",
+    "essn": "1471-2458",
+    "doi": "doi: 10.1186/s12889-025-23983-8",
+    "sortpubdate": "2025/08/05 00:00",
+    "epubdate": "2025 Aug 5"
   }
 ]
