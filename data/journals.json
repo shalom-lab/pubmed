@@ -1194,7 +1194,8 @@
   {
     "source": "Front Psychol",
     "journal": "Frontiers in psychology",
-    "issn": "1664-1078"
+    "issn": "1664-1078",
+    "essn": "1664-1078"
   },
   {
     "source": "Asia Pac J Sports Med Arthrosc Rehabil Technol",
@@ -4098,5 +4099,90 @@
     "journal": "Journal of trace elements in medicine and biology : organ of the Society for Minerals and Trace Elements (GMS)",
     "issn": "0946-672X",
     "essn": "1878-3252"
+  },
+  {
+    "source": "Scand J Gastroenterol",
+    "journal": "Scandinavian journal of gastroenterology",
+    "issn": "0036-5521",
+    "essn": "1502-7708"
+  },
+  {
+    "source": "Neuroradiology",
+    "journal": "Neuroradiology",
+    "issn": "0028-3940",
+    "essn": "1432-1920"
+  },
+  {
+    "source": "Global Spine J",
+    "journal": "Global spine journal",
+    "issn": "2192-5682"
+  },
+  {
+    "source": "Ann Neurol",
+    "journal": "Annals of neurology",
+    "issn": "0364-5134",
+    "essn": "1531-8249"
+  },
+  {
+    "source": "Pharmgenomics Pers Med",
+    "journal": "Pharmacogenomics and personalized medicine",
+    "issn": "1178-7066",
+    "essn": "1178-7066"
+  },
+  {
+    "source": "Gland Surg",
+    "journal": "Gland surgery",
+    "issn": "2227-684X",
+    "essn": "2227-8575"
+  },
+  {
+    "source": "BMC Pregnancy Childbirth",
+    "journal": "BMC pregnancy and childbirth",
+    "essn": "1471-2393"
+  },
+  {
+    "source": "BMC Surg",
+    "journal": "BMC surgery",
+    "essn": "1471-2482"
+  },
+  {
+    "source": "Ann Gen Psychiatry",
+    "journal": "Annals of general psychiatry",
+    "issn": "1744-859X"
+  },
+  {
+    "source": "Clin Breast Cancer",
+    "journal": "Clinical breast cancer",
+    "issn": "1526-8209",
+    "essn": "1938-0666"
+  },
+  {
+    "source": "Am J Clin Nutr",
+    "journal": "The American journal of clinical nutrition",
+    "issn": "0002-9165",
+    "essn": "1938-3207"
+  },
+  {
+    "source": "Clin Nutr Res",
+    "journal": "Clinical nutrition research",
+    "issn": "2287-3732",
+    "essn": "2287-3740"
+  },
+  {
+    "source": "Clin Cosmet Investig Dent",
+    "journal": "Clinical, cosmetic and investigational dentistry",
+    "issn": "1179-1357",
+    "essn": "1179-1357"
+  },
+  {
+    "source": "BMJ Nutr Prev Health",
+    "journal": "BMJ nutrition, prevention & health",
+    "essn": "2516-5542"
+  },
+  {
+    "source": "Biosens Bioelectron",
+    "journal": "Biosensors & bioelectronics",
+    "issn": "0956-5663",
+    "essn": "1873-4235"
   }
 ]

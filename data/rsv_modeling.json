@@ -202,7 +202,7 @@
     "id": "40571008",
     "title": "Advancing mRNA vaccines: A comprehensive review of design, delivery, and efficacy in infectious diseases.",
     "source": "Int J Biol Macromol",
-    "pubdate": "2025 Jun 24",
+    "pubdate": "2025 Aug",
     "authors": [
       "Lu Y",
       "Qian C",
@@ -218,7 +218,7 @@
     "issn": "0141-8130",
     "essn": "1879-0003",
     "doi": "doi: 10.1016/j.ijbiomac.2025.145501",
-    "sortpubdate": "2025/06/24 00:00",
+    "sortpubdate": "2025/08/01 00:00",
     "epubdate": "2025 Jun 24"
   },
   {
@@ -1915,5 +1915,55 @@
     "doi": "doi: 10.1186/s12916-025-04249-x",
     "sortpubdate": "2025/08/04 00:00",
     "epubdate": "2025 Aug 4"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "40770182",
+    "title": "Using COVID-19 pandemic perturbation to model RSV-hMPV interactions and potential implications under RSV interventions.",
+    "source": "Nat Commun",
+    "pubdate": "2025 Aug 6",
+    "authors": [
+      "Howerton E",
+      "Williams TC",
+      "Casalegno JS",
+      "Dominguez S",
+      "Gunson R",
+      "Messacar K",
+      "Metcalf CJE",
+      "Park SW",
+      "Viboud C",
+      "Grenfell BT"
+    ],
+    "lastauthor": "Grenfell BT",
+    "sortfirstauthor": "Howerton E",
+    "journal": "Nature communications",
+    "issn": "",
+    "essn": "2041-1723",
+    "doi": "doi: 10.1038/s41467-025-62358-w",
+    "sortpubdate": "2025/08/06 00:00",
+    "epubdate": "2025 Aug 6"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "40768948",
+    "title": "Point-of-need one-pot multiplexed RT-LAMP test for detecting three common respiratory viruses in saliva.",
+    "source": "Biosens Bioelectron",
+    "pubdate": "2025 Jul 30",
+    "authors": [
+      "Kshirsagar A",
+      "DeRosa D",
+      "Politza AJ",
+      "Liu T",
+      "Dong M",
+      "Guan W"
+    ],
+    "lastauthor": "Guan W",
+    "sortfirstauthor": "Kshirsagar A",
+    "journal": "Biosensors & bioelectronics",
+    "issn": "0956-5663",
+    "essn": "1873-4235",
+    "doi": "doi: 10.1016/j.bios.2025.117836",
+    "sortpubdate": "2025/07/30 00:00",
+    "epubdate": "2025 Jul 30"
   }
 ]
