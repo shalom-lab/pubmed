@@ -3943,6 +3943,7 @@
   {
     "source": "Infect Dis Poverty",
     "journal": "Infectious diseases of poverty",
+    "issn": "2095-5162",
     "essn": "2049-9957"
   },
   {
@@ -4148,7 +4149,8 @@
   {
     "source": "Ann Gen Psychiatry",
     "journal": "Annals of general psychiatry",
-    "issn": "1744-859X"
+    "issn": "1744-859X",
+    "essn": "1744-859X"
   },
   {
     "source": "Clin Breast Cancer",
@@ -4184,5 +4186,108 @@
     "journal": "Biosensors & bioelectronics",
     "issn": "0956-5663",
     "essn": "1873-4235"
+  },
+  {
+    "source": "JCO Clin Cancer Inform",
+    "journal": "JCO clinical cancer informatics",
+    "essn": "2473-4276"
+  },
+  {
+    "source": "Elife",
+    "journal": "eLife",
+    "essn": "2050-084X"
+  },
+  {
+    "source": "Pacing Clin Electrophysiol",
+    "journal": "Pacing and clinical electrophysiology : PACE",
+    "issn": "0147-8389",
+    "essn": "1540-8159"
+  },
+  {
+    "source": "J Clin Ultrasound",
+    "journal": "Journal of clinical ultrasound : JCU",
+    "issn": "0091-2751",
+    "essn": "1097-0096"
+  },
+  {
+    "source": "Ophthalmol Sci",
+    "journal": "Ophthalmology science",
+    "essn": "2666-9145"
+  },
+  {
+    "source": "Afr Health Sci",
+    "journal": "African health sciences",
+    "issn": "1680-6905",
+    "essn": "1729-0503"
+  },
+  {
+    "source": "J Cent Nerv Syst Dis",
+    "journal": "Journal of central nervous system disease",
+    "issn": "1179-5735",
+    "essn": "1179-5735"
+  },
+  {
+    "source": "Rev Cardiovasc Med",
+    "journal": "Reviews in cardiovascular medicine",
+    "issn": "1530-6550",
+    "essn": "2153-8174"
+  },
+  {
+    "source": "Arch Esp Urol",
+    "journal": "Archivos espanoles de urologia",
+    "issn": "0004-0614"
+  },
+  {
+    "source": "Stud Health Technol Inform",
+    "journal": "Studies in health technology and informatics",
+    "issn": "0926-9630",
+    "essn": "1879-8365"
+  },
+  {
+    "source": "BMC Ophthalmol",
+    "journal": "BMC ophthalmology",
+    "essn": "1471-2415"
+  },
+  {
+    "source": "Behav Brain Res",
+    "journal": "Behavioural brain research",
+    "issn": "0166-4328",
+    "essn": "1872-7549"
+  },
+  {
+    "source": "Dermatology",
+    "journal": "Dermatology (Basel, Switzerland)",
+    "issn": "1018-8665",
+    "essn": "1421-9832"
+  },
+  {
+    "source": "J Sports Sci",
+    "journal": "Journal of sports sciences",
+    "issn": "0264-0414",
+    "essn": "1466-447X"
+  },
+  {
+    "source": "Laryngoscope",
+    "journal": "The Laryngoscope",
+    "issn": "0023-852X",
+    "essn": "1531-4995"
+  },
+  {
+    "source": "J Gastroenterol Hepatol",
+    "journal": "Journal of gastroenterology and hepatology",
+    "issn": "0815-9319",
+    "essn": "1440-1746"
+  },
+  {
+    "source": "Reprod Toxicol",
+    "journal": "Reproductive toxicology (Elmsford, N.Y.)",
+    "issn": "0890-6238",
+    "essn": "1873-1708"
+  },
+  {
+    "source": "Clinics (Sao Paulo)",
+    "journal": "Clinics (Sao Paulo, Brazil)",
+    "issn": "1807-5932",
+    "essn": "1980-5322"
   }
 ]
