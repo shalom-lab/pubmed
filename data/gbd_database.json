@@ -8381,5 +8381,117 @@
     "doi": "doi: 10.1159/000547821",
     "sortpubdate": "2025/08/07 00:00",
     "epubdate": "2025 Aug 7"
+  },
+  {
+    "name": "GBD database",
+    "id": "40781662",
+    "title": "Global, regional, and National burden of urticaria (1990-2021), its potential risk factors, and projections to 2046.",
+    "source": "BMC Public Health",
+    "pubdate": "2025 Aug 8",
+    "authors": [
+      "Tan S",
+      "Chen Z",
+      "Lin T"
+    ],
+    "lastauthor": "Lin T",
+    "sortfirstauthor": "Tan S",
+    "journal": "BMC public health",
+    "issn": "",
+    "essn": "1471-2458",
+    "doi": "doi: 10.1186/s12889-025-23321-y",
+    "sortpubdate": "2025/08/08 00:00",
+    "epubdate": "2025 Aug 8"
+  },
+  {
+    "name": "GBD database",
+    "id": "40780611",
+    "title": "The evolving global burden of ADHD: A comprehensive analysis and future projections (1990-2046).",
+    "source": "J Affect Disord",
+    "pubdate": "2025 Aug 6",
+    "authors": [
+      "Wang C",
+      "Hou L",
+      "Zhou H",
+      "Wang Q",
+      "Yan H",
+      "Lang Y",
+      "Tan J",
+      "Liu Y",
+      "Ge Y",
+      "Lin Y",
+      "Fu C",
+      "Liu J"
+    ],
+    "lastauthor": "Liu J",
+    "sortfirstauthor": "Wang C",
+    "journal": "Journal of affective disorders",
+    "issn": "0165-0327",
+    "essn": "1573-2517",
+    "doi": "doi: 10.1016/j.jad.2025.120037",
+    "sortpubdate": "2025/08/06 00:00",
+    "epubdate": "2025 Aug 6"
+  },
+  {
+    "name": "GBD database",
+    "id": "40780550",
+    "title": "Ischemic Stroke in the Context of High Low-Density Lipoprotein Cholesterol: A 30-Year Global Burden Perspective of 204 Nations.",
+    "source": "J Stroke Cerebrovasc Dis",
+    "pubdate": "2025 Aug 6",
+    "authors": [
+      "Zhang J",
+      "Zhang Q",
+      "Wang X",
+      "Wang B",
+      "Zhou J",
+      "Wu Y"
+    ],
+    "lastauthor": "Wu Y",
+    "sortfirstauthor": "Zhang J",
+    "journal": "Journal of stroke and cerebrovascular diseases : the official journal of National Stroke Association",
+    "issn": "1052-3057",
+    "essn": "1532-8511",
+    "doi": "doi: 10.1016/j.jstrokecerebrovasdis.2025.108418",
+    "sortpubdate": "2025/08/06 00:00",
+    "epubdate": "2025 Aug 6"
+  },
+  {
+    "name": "GBD database",
+    "id": "40780549",
+    "title": "Global, regional, and national burden and trends of of stroke in adolescents and young adults from 1992 to 2021.",
+    "source": "J Stroke Cerebrovasc Dis",
+    "pubdate": "2025 Aug 6",
+    "authors": [
+      "Li Y",
+      "Wang Y",
+      "Wang S",
+      "Zhu H"
+    ],
+    "lastauthor": "Zhu H",
+    "sortfirstauthor": "Li Y",
+    "journal": "Journal of stroke and cerebrovascular diseases : the official journal of National Stroke Association",
+    "issn": "1052-3057",
+    "essn": "1532-8511",
+    "doi": "doi: 10.1016/j.jstrokecerebrovasdis.2025.108414",
+    "sortpubdate": "2025/08/06 00:00",
+    "epubdate": "2025 Aug 6"
+  },
+  {
+    "name": "GBD database",
+    "id": "40780222",
+    "title": "Development and inference of disability-adjusted life years attributable to prolonged radiation exposure based on the calculation method of radiation detriment.",
+    "source": "J Radiol Prot",
+    "pubdate": "2025 Aug 8",
+    "authors": [
+      "Kimura T",
+      "Sasaki M"
+    ],
+    "lastauthor": "Sasaki M",
+    "sortfirstauthor": "Kimura T",
+    "journal": "Journal of radiological protection : official journal of the Society for Radiological Protection",
+    "issn": "0952-4746",
+    "essn": "1361-6498",
+    "doi": "doi: 10.1088/1361-6498/adf973",
+    "sortpubdate": "2025/08/08 00:00",
+    "epubdate": "2025 Aug 8"
   }
 ]
