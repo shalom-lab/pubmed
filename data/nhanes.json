@@ -12803,7 +12803,7 @@
     "id": "40774634",
     "title": "Single and combined brominated flame retardants exposures are associated with sex steroid hormones in US adults: NHANES 2013-2016 analysis.",
     "source": "Reprod Toxicol",
-    "pubdate": "2025 Aug 5",
+    "pubdate": "2025 Aug 6",
     "authors": [
       "Cheng G",
       "Wen J",
@@ -12823,8 +12823,8 @@
     "issn": "0890-6238",
     "essn": "1873-1708",
     "doi": "doi: 10.1016/j.reprotox.2025.109023",
-    "sortpubdate": "2025/08/05 00:00",
-    "epubdate": "2025 Aug 5"
+    "sortpubdate": "2025/08/06 00:00",
+    "epubdate": "2025 Aug 6"
   },
   {
     "name": "NHANES",
@@ -12852,7 +12852,7 @@
   {
     "name": "NHANES",
     "id": "40774406",
-    "title": "Phthalate Reduction as a Mediator Linking Probiotic or Yogurt Consumption to Reduced Depressive Symptoms: Evidence From NHANES 2005-2018.",
+    "title": "Phthalate reduction as a mediator linking probiotic or yogurt consumption to reduced depressive Symptoms: Evidence from NHANES 2005-2018.",
     "source": "Food Chem Toxicol",
     "pubdate": "2025 Aug 5",
     "authors": [
@@ -13233,5 +13233,317 @@
     "doi": "doi: 10.1016/j.ecoenv.2025.118826",
     "sortpubdate": "2025/08/08 00:00",
     "epubdate": "2025 Aug 8"
+  },
+  {
+    "name": "NHANES",
+    "id": "40788771",
+    "title": "Association between the monocyte-to-high-density lipoprotein cholesterol ratio and abdominal aortic calcification in adults: Insights from the National Health and Nutrition Examination Survey (2013-2014).",
+    "source": "J Int Med Res",
+    "pubdate": "2025 Aug",
+    "authors": [
+      "Ding C",
+      "Miao Y",
+      "Li J",
+      "Shen G",
+      "Gao F"
+    ],
+    "lastauthor": "Gao F",
+    "sortfirstauthor": "Ding C",
+    "journal": "The Journal of international medical research",
+    "issn": "0300-0605",
+    "essn": "1473-2300",
+    "doi": "doi: 10.1177/03000605251362017",
+    "sortpubdate": "2025/08/01 00:00",
+    "epubdate": "2025 Aug 11"
+  },
+  {
+    "name": "NHANES",
+    "id": "40788523",
+    "title": "Serum Levels of Per- and Polyfluoroalkyl Substances in Adults Aged 18 and Older in Relation to the Length of Residency in United States.",
+    "source": "J Immigr Minor Health",
+    "pubdate": "2025 Aug 11",
+    "authors": [
+      "Brosset E",
+      "Colussi CL",
+      "Fouotsa N",
+      "Baillargeon JP",
+      "Ngueta G"
+    ],
+    "lastauthor": "Ngueta G",
+    "sortfirstauthor": "Brosset E",
+    "journal": "Journal of immigrant and minority health",
+    "issn": "1557-1912",
+    "essn": "1557-1920",
+    "doi": "doi: 10.1007/s10903-025-01755-1",
+    "sortpubdate": "2025/08/11 00:00",
+    "epubdate": "2025 Aug 11"
+  },
+  {
+    "name": "NHANES",
+    "id": "40788362",
+    "title": "A Cross-Sectional Study of the Relationship Between Low-Level Live Microbe Dietary Intake and Periodontitis among US Adults: Results from the NHANES 2009-2014.",
+    "source": "Clin Invest Med",
+    "pubdate": "2025 Jun",
+    "authors": [
+      "Wang X",
+      "Ji X"
+    ],
+    "lastauthor": "Ji X",
+    "sortfirstauthor": "Wang X",
+    "journal": "Clinical and investigative medicine. Medecine clinique et experimentale",
+    "issn": "0147-958X",
+    "essn": "1488-2353",
+    "doi": "doi: 10.3138/cim-2024-0137",
+    "sortpubdate": "2025/06/01 00:00",
+    "epubdate": ""
+  },
+  {
+    "name": "NHANES",
+    "id": "40787467",
+    "title": "Individualized supplement of water-soluble vitamins: the influence of inflammation and renal function on circulating concentrations in critically digestive disease patients.",
+    "source": "Front Immunol",
+    "pubdate": "2025",
+    "authors": [
+      "Wang J",
+      "Yan J",
+      "Chen Q",
+      "Shi L",
+      "Wang Y",
+      "Tian X",
+      "Qi Y",
+      "Li G",
+      "Cao H"
+    ],
+    "lastauthor": "Cao H",
+    "sortfirstauthor": "Wang J",
+    "journal": "Frontiers in immunology",
+    "issn": "",
+    "essn": "1664-3224",
+    "doi": "doi: 10.3389/fimmu.2025.1583568",
+    "sortpubdate": "2025/07/25 00:00",
+    "epubdate": "2025 Jul 25"
+  },
+  {
+    "name": "NHANES",
+    "id": "40787149",
+    "title": "Nonlinear Association Between Red Cell Distribution Width-to-Albumin Ratio and Retinopathy: A Cross-Sectional Study.",
+    "source": "J Multidiscip Healthc",
+    "pubdate": "2025",
+    "authors": [
+      "Gu J",
+      "Qiu S",
+      "Sun Z"
+    ],
+    "lastauthor": "Sun Z",
+    "sortfirstauthor": "Gu J",
+    "journal": "Journal of multidisciplinary healthcare",
+    "issn": "1178-2390",
+    "essn": "1178-2390",
+    "doi": "doi: 10.2147/JMDH.S530939",
+    "sortpubdate": "2025/08/05 00:00",
+    "epubdate": "2025 Aug 5"
+  },
+  {
+    "name": "NHANES",
+    "id": "40786748",
+    "title": "Observational and Genetic Evidence Reveals the Effect of Serum Lipid Levels on COPD Risk.",
+    "source": "Int J Chron Obstruct Pulmon Dis",
+    "pubdate": "2025",
+    "authors": [
+      "Jia G",
+      "Guo T",
+      "Liu L",
+      "He C"
+    ],
+    "lastauthor": "He C",
+    "sortfirstauthor": "Jia G",
+    "journal": "International journal of chronic obstructive pulmonary disease",
+    "issn": "1176-9106",
+    "essn": "1178-2005",
+    "doi": "doi: 10.2147/COPD.S503030",
+    "sortpubdate": "2025/08/05 00:00",
+    "epubdate": "2025 Aug 5"
+  },
+  {
+    "name": "NHANES",
+    "id": "40786690",
+    "title": "Gender-specific negative association between serum vitamin B12 and testosterone levels in females: the modifying role of BMI in a US adult population.",
+    "source": "Front Nutr",
+    "pubdate": "2025",
+    "authors": [
+      "Zhao X",
+      "Lyu X",
+      "Wang H",
+      "Li Y",
+      "Peng F",
+      "Zhang Y"
+    ],
+    "lastauthor": "Zhang Y",
+    "sortfirstauthor": "Zhao X",
+    "journal": "Frontiers in nutrition",
+    "issn": "2296-861X",
+    "essn": "2296-861X",
+    "doi": "doi: 10.3389/fnut.2025.1579531",
+    "sortpubdate": "2025/07/25 00:00",
+    "epubdate": "2025 Jul 25"
+  },
+  {
+    "name": "NHANES",
+    "id": "40786687",
+    "title": "Association of dietary creatine intake from meat protein sources with different types of intestinal problems: insights from NHANES 2005-2010.",
+    "source": "Front Nutr",
+    "pubdate": "2025",
+    "authors": [
+      "Zheng B",
+      "Huang Z",
+      "Wang Z",
+      "Du J",
+      "Jiang J",
+      "Xiao C",
+      "Wang Y"
+    ],
+    "lastauthor": "Wang Y",
+    "sortfirstauthor": "Zheng B",
+    "journal": "Frontiers in nutrition",
+    "issn": "2296-861X",
+    "essn": "2296-861X",
+    "doi": "doi: 10.3389/fnut.2025.1586569",
+    "sortpubdate": "2025/07/25 00:00",
+    "epubdate": "2025 Jul 25"
+  },
+  {
+    "name": "NHANES",
+    "id": "40785796",
+    "title": "Association between maternal smoking during pregnancy and attention-deficit/hyperactivity disorder (ADHD) in children aged 4-15 years: A secondary data analysis from the NHANES dataset.",
+    "source": "Tob Induc Dis",
+    "pubdate": "2025",
+    "authors": [
+      "He B",
+      "Peng J",
+      "Wu M",
+      "Deng Y",
+      "Zhang Y"
+    ],
+    "lastauthor": "Zhang Y",
+    "sortfirstauthor": "He B",
+    "journal": "Tobacco induced diseases",
+    "issn": "2070-7266",
+    "essn": "1617-9625",
+    "doi": "doi: 10.18332/tid/207094",
+    "sortpubdate": "2025/08/08 00:00",
+    "epubdate": "2025 Aug 8"
+  },
+  {
+    "name": "NHANES",
+    "id": "40785795",
+    "title": "Polycyclic aromatic hydrocarbons exposure as a potential risk factor for miscarriage among women in the United States: A secondary dataset analysis of NHANES data for the period 2005-2014.",
+    "source": "Tob Induc Dis",
+    "pubdate": "2025",
+    "authors": [
+      "Liu X",
+      "Li Y",
+      "Chen N",
+      "Ma J",
+      "Xing Y",
+      "Miao F"
+    ],
+    "lastauthor": "Miao F",
+    "sortfirstauthor": "Liu X",
+    "journal": "Tobacco induced diseases",
+    "issn": "2070-7266",
+    "essn": "1617-9625",
+    "doi": "doi: 10.18332/tid/205903",
+    "sortpubdate": "2025/08/08 00:00",
+    "epubdate": "2025 Aug 8"
+  },
+  {
+    "name": "NHANES",
+    "id": "40785651",
+    "title": "Physical Activity, Sedentary Behavior, and Cardiometabolic Risk Factors in People Living with HIV.",
+    "source": "Behav Med",
+    "pubdate": "2025 Aug 11",
+    "authors": [
+      "Jones R",
+      "Hankes MJ",
+      "Armstrong ND",
+      "Pettee Gabriel K",
+      "Buford TW",
+      "Dooley EE"
+    ],
+    "lastauthor": "Dooley EE",
+    "sortfirstauthor": "Jones R",
+    "journal": "Behavioral medicine (Washington, D.C.)",
+    "issn": "0896-4289",
+    "essn": "",
+    "doi": "doi: 10.1080/08964289.2025.2543263",
+    "sortpubdate": "2025/08/11 00:00",
+    "epubdate": "2025 Aug 11"
+  },
+  {
+    "name": "NHANES",
+    "id": "40785387",
+    "title": "2024 Obesity Fact Sheet in Korea: Prevalence of Obesity, Abdominal Obesity, Obesity Defined by Body Fat Percentage, and Underweight in Adults in Korea from 2013 to 2022.",
+    "source": "J Obes Metab Syndr",
+    "pubdate": "2025 Aug 11",
+    "authors": [
+      "Cho S",
+      "Jung JH",
+      "Nam GE",
+      "Cho IY",
+      "Park KY",
+      "Jeong SM",
+      "Han K",
+      "Taskforce Team of the Obesity Fact Sheet of the Korean Society for the Study of Obesity"
+    ],
+    "lastauthor": "Han K",
+    "sortfirstauthor": "Cho S",
+    "journal": "Journal of obesity & metabolic syndrome",
+    "issn": "2508-6235",
+    "essn": "2508-7576",
+    "doi": "doi: 10.7570/jomes25039",
+    "sortpubdate": "2025/08/11 00:00",
+    "epubdate": "2025 Aug 11"
+  },
+  {
+    "name": "NHANES",
+    "id": "40784950",
+    "title": "Inverse relationship between serum carotenoid levels and obesity prevalence in children and adolescents: a nationwide cross-sectional analysis.",
+    "source": "BMC Pediatr",
+    "pubdate": "2025 Aug 10",
+    "authors": [
+      "Chen Z",
+      "Zhang Y",
+      "Shi J"
+    ],
+    "lastauthor": "Shi J",
+    "sortfirstauthor": "Chen Z",
+    "journal": "BMC pediatrics",
+    "issn": "",
+    "essn": "1471-2431",
+    "doi": "doi: 10.1186/s12887-025-05983-0",
+    "sortpubdate": "2025/08/10 00:00",
+    "epubdate": "2025 Aug 10"
+  },
+  {
+    "name": "NHANES",
+    "id": "40784301",
+    "title": "Physical disability is associated with increased odds for hospitalization in older adults: analysis from NHANES 2009-2018.",
+    "source": "Braz J Phys Ther",
+    "pubdate": "2025 Aug 9",
+    "authors": [
+      "Porto G",
+      "Gil S",
+      "Ferriolli E",
+      "Gualano B",
+      "Roschel H"
+    ],
+    "lastauthor": "Roschel H",
+    "sortfirstauthor": "Porto G",
+    "journal": "Brazilian journal of physical therapy",
+    "issn": "1413-3555",
+    "essn": "1809-9246",
+    "doi": "doi: 10.1016/j.bjpt.2025.101254",
+    "sortpubdate": "2025/08/09 00:00",
+    "epubdate": "2025 Aug 9"
   }
 ]
