@@ -1677,9 +1677,9 @@
   {
     "name": "RSV modeling",
     "id": "40718959",
-    "title": "Public health impact of the adjuvanted RSVPreF3 vaccine in adults aged 60 years and older: results from a modeling study in six Latin America countries.",
+    "title": "Public health impact of the adjuvanted RSVPreF3 vaccine in adults aged 60 years and older: results from a modeling study in six Latin American countries.",
     "source": "Expert Rev Vaccines",
-    "pubdate": "2025 Jul 28",
+    "pubdate": "2025 Dec",
     "authors": [
       "Han R",
       "Gomez JA",
@@ -1695,8 +1695,8 @@
     "issn": "1476-0584",
     "essn": "1744-8395",
     "doi": "doi: 10.1080/14760584.2025.2539892",
-    "sortpubdate": "2025/07/28 00:00",
-    "epubdate": "2025 Jul 28"
+    "sortpubdate": "2025/12/01 00:00",
+    "epubdate": "2025 Aug 13"
   },
   {
     "name": "RSV modeling",
@@ -1965,5 +1965,28 @@
     "doi": "doi: 10.1016/j.bios.2025.117836",
     "sortpubdate": "2025/07/30 00:00",
     "epubdate": "2025 Jul 30"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "40796938",
+    "title": "A modular approach to forecasting COVID-19 hospital bed occupancy.",
+    "source": "Commun Med (Lond)",
+    "pubdate": "2025 Aug 12",
+    "authors": [
+      "Tobin RJ",
+      "Walker CR",
+      "Moss R",
+      "McCaw JM",
+      "Price DJ",
+      "Shearer FM"
+    ],
+    "lastauthor": "Shearer FM",
+    "sortfirstauthor": "Tobin RJ",
+    "journal": "Communications medicine",
+    "issn": "",
+    "essn": "2730-664X",
+    "doi": "doi: 10.1038/s43856-025-01086-0",
+    "sortpubdate": "2025/08/12 00:00",
+    "epubdate": "2025 Aug 12"
   }
 ]
