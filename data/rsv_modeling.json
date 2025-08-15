@@ -1631,7 +1631,7 @@
     "id": "40706641",
     "title": "Spatial-temporal dynamics and virus interference of respiratory viruses: Insights from multi-pathogen surveillance in China.",
     "source": "J Infect",
-    "pubdate": "2025 Jul 22",
+    "pubdate": "2025 Aug",
     "authors": [
       "Zhang S",
       "Liang H",
@@ -1648,7 +1648,7 @@
     "issn": "0163-4453",
     "essn": "1532-2742",
     "doi": "doi: 10.1016/j.jinf.2025.106556",
-    "sortpubdate": "2025/07/22 00:00",
+    "sortpubdate": "2025/08/01 00:00",
     "epubdate": "2025 Jul 22"
   },
   {
@@ -1988,5 +1988,52 @@
     "doi": "doi: 10.1038/s43856-025-01086-0",
     "sortpubdate": "2025/08/12 00:00",
     "epubdate": "2025 Aug 12"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "40809393",
+    "title": "Associations Between Environmental Conditions and Infection With Respiratory Syncytial Virus in Japan: A Spatiotemporal Analysis.",
+    "source": "Open Forum Infect Dis",
+    "pubdate": "2025 Aug",
+    "authors": [
+      "Liang J",
+      "Luz S",
+      "Li Y",
+      "Nair H"
+    ],
+    "lastauthor": "Nair H",
+    "sortfirstauthor": "Liang J",
+    "journal": "Open forum infectious diseases",
+    "issn": "2328-8957",
+    "essn": "2328-8957",
+    "doi": "doi: 10.1093/ofid/ofaf392",
+    "sortpubdate": "2025/08/13 00:00",
+    "epubdate": "2025 Aug 13"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "40809250",
+    "title": "Risk factors for respiratory syncytial virus (RSV) infection in children under 5 years old with acute lower respiratory tract infection.",
+    "source": "J Thorac Dis",
+    "pubdate": "2025 Jul 31",
+    "authors": [
+      "Srisingh K",
+      "Khongthongprasert S",
+      "Jaturabundit T",
+      "Soponwaree N",
+      "Klangsombat K",
+      "Sriwad C",
+      "Oilmungmool N",
+      "Phuaksaman C",
+      "Lawanaskol S"
+    ],
+    "lastauthor": "Lawanaskol S",
+    "sortfirstauthor": "Srisingh K",
+    "journal": "Journal of thoracic disease",
+    "issn": "2072-1439",
+    "essn": "2077-6624",
+    "doi": "doi: 10.21037/jtd-2024-2170",
+    "sortpubdate": "2025/07/31 00:00",
+    "epubdate": "2025 Jul 24"
   }
 ]
