@@ -2035,5 +2035,81 @@
     "doi": "doi: 10.21037/jtd-2024-2170",
     "sortpubdate": "2025/07/31 00:00",
     "epubdate": "2025 Jul 24"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "40811938",
+    "title": "Characterizing potential interaction between respiratory syncytial virus and seasonal influenza in the U.S.",
+    "source": "Epidemics",
+    "pubdate": "2025 Aug 7",
+    "authors": [
+      "Chen J",
+      "Gokhale DV",
+      "Carmola LR",
+      "Liu L",
+      "Rohani P",
+      "Bahl J"
+    ],
+    "lastauthor": "Bahl J",
+    "sortfirstauthor": "Chen J",
+    "journal": "Epidemics",
+    "issn": "",
+    "essn": "1878-0067",
+    "doi": "doi: 10.1016/j.epidem.2025.100850",
+    "sortpubdate": "2025/08/07 00:00",
+    "epubdate": "2025 Aug 7"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "40810757",
+    "title": "Estimated Incidence of Hospitalisations and Deaths Attributable to Respiratory Syncytial Virus Infections in Adults in Norway between 2010 and 2019: A Time-Series Modelling Study.",
+    "source": "J Epidemiol Glob Health",
+    "pubdate": "2025 Aug 14",
+    "authors": [
+      "Casas M",
+      "Liang C",
+      "Molden T",
+      "Bruyndonckx R",
+      "Esnaola M",
+      "Basu S",
+      "Ewnetu WB",
+      "Peerawaranun P",
+      "Moges SM",
+      "Gessner BD",
+      "Polkowska-Kramek A",
+      "Begier E"
+    ],
+    "lastauthor": "Begier E",
+    "sortfirstauthor": "Casas M",
+    "journal": "Journal of epidemiology and global health",
+    "issn": "2210-6006",
+    "essn": "2210-6014",
+    "doi": "doi: 10.1007/s44197-025-00448-0",
+    "sortpubdate": "2025/08/14 00:00",
+    "epubdate": "2025 Aug 14"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "40570137",
+    "title": "Systematic review and meta-analysis of respiratory viral triggers for acute myocardial infarction and stroke.",
+    "source": "Cardiovasc Res",
+    "pubdate": "2025 Aug 14",
+    "authors": [
+      "Nguyen TQ",
+      "Vlasenko D",
+      "Shetty AN",
+      "Zhao E",
+      "Reid CM",
+      "Clothier HJ",
+      "Buttery JP"
+    ],
+    "lastauthor": "Buttery JP",
+    "sortfirstauthor": "Nguyen TQ",
+    "journal": "Cardiovascular research",
+    "issn": "0008-6363",
+    "essn": "1755-3245",
+    "doi": "doi: 10.1093/cvr/cvaf092",
+    "sortpubdate": "2025/08/14 00:00",
+    "epubdate": ""
   }
 ]

@@ -1830,5 +1830,28 @@
     "doi": "doi: 10.31616/asj.2025.0133",
     "sortpubdate": "2025/08/11 00:00",
     "epubdate": "2025 Aug 11"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "40811938",
+    "title": "Characterizing potential interaction between respiratory syncytial virus and seasonal influenza in the U.S.",
+    "source": "Epidemics",
+    "pubdate": "2025 Aug 7",
+    "authors": [
+      "Chen J",
+      "Gokhale DV",
+      "Carmola LR",
+      "Liu L",
+      "Rohani P",
+      "Bahl J"
+    ],
+    "lastauthor": "Bahl J",
+    "sortfirstauthor": "Chen J",
+    "journal": "Epidemics",
+    "issn": "",
+    "essn": "1878-0067",
+    "doi": "doi: 10.1016/j.epidem.2025.100850",
+    "sortpubdate": "2025/08/07 00:00",
+    "epubdate": "2025 Aug 7"
   }
 ]
