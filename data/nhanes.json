@@ -15412,5 +15412,66 @@
     "doi": "doi: 10.3390/nu17152398",
     "sortpubdate": "2025/07/22 00:00",
     "epubdate": "2025 Jul 22"
+  },
+  {
+    "name": "NHANES",
+    "id": "40816966",
+    "title": "Association between neutrophil percentage-to-albumin ratio (NPAR) and long-term mortality in community-dwelling adults with chest pain: Evidence from US NHANES 2001-2018.",
+    "source": "Clin Investig Arterioscler",
+    "pubdate": "2025 Aug 14",
+    "authors": [
+      "Long Q",
+      "Liu Z",
+      "Guo Q",
+      "Song X",
+      "Guo Y"
+    ],
+    "lastauthor": "Guo Y",
+    "sortfirstauthor": "Long Q",
+    "journal": "Clinica e investigacion en arteriosclerosis : publicacion oficial de la Sociedad Espanola de Arteriosclerosis",
+    "issn": "0214-9168",
+    "essn": "1578-1879",
+    "doi": "doi: 10.1016/j.arteri.2025.500843",
+    "sortpubdate": "2025/08/14 00:00",
+    "epubdate": "2025 Aug 14"
+  },
+  {
+    "name": "NHANES",
+    "id": "40816360",
+    "title": "Letter to the editor: Association between overactive bladder and depression in American adults: A cross-sectional study from NHANES 2005-2018.",
+    "source": "J Affect Disord",
+    "pubdate": "2025 Aug 13",
+    "authors": [
+      "Shen L",
+      "Li S"
+    ],
+    "lastauthor": "Li S",
+    "sortfirstauthor": "Shen L",
+    "journal": "Journal of affective disorders",
+    "issn": "0165-0327",
+    "essn": "1573-2517",
+    "doi": "doi: 10.1016/j.jad.2025.120055",
+    "sortpubdate": "2025/08/13 00:00",
+    "epubdate": "2025 Aug 13"
+  },
+  {
+    "name": "NHANES",
+    "id": "40815978",
+    "title": "Metabolic syndrome is associated with increased vitamin C requirements in the US National Health and Nutrition Examination Survey.",
+    "source": "Nutr Res",
+    "pubdate": "2025 Jul 14",
+    "authors": [
+      "Carr AC",
+      "Frampton C",
+      "Lunt H"
+    ],
+    "lastauthor": "Lunt H",
+    "sortfirstauthor": "Carr AC",
+    "journal": "Nutrition research (New York, N.Y.)",
+    "issn": "0271-5317",
+    "essn": "1879-0739",
+    "doi": "doi: 10.1016/j.nutres.2025.07.003",
+    "sortpubdate": "2025/07/14 00:00",
+    "epubdate": "2025 Jul 14"
   }
 ]
