@@ -34385,5 +34385,32 @@
     "doi": "doi: 10.1002/dc.70005",
     "sortpubdate": "2025/08/14 00:00",
     "epubdate": "2025 Aug 14"
+  },
+  {
+    "name": "Clinical prediction models",
+    "id": "40819130",
+    "title": "A prognostic model integrating radiomics and deep learning based on CT for survival prediction in laryngeal squamous cell carcinoma.",
+    "source": "Sci Rep",
+    "pubdate": "2025 Aug 16",
+    "authors": [
+      "Jiang H",
+      "Xie K",
+      "Chen X",
+      "Ning Y",
+      "Yu Q",
+      "Lv F",
+      "Liu R",
+      "Zhou Y",
+      "Xia S",
+      "Peng J"
+    ],
+    "lastauthor": "Peng J",
+    "sortfirstauthor": "Jiang H",
+    "journal": "Scientific reports",
+    "issn": "",
+    "essn": "2045-2322",
+    "doi": "doi: 10.1038/s41598-025-15166-7",
+    "sortpubdate": "2025/08/16 00:00",
+    "epubdate": "2025 Aug 16"
   }
 ]
