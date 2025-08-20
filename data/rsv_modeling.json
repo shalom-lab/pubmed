@@ -1948,7 +1948,7 @@
     "id": "40768948",
     "title": "Point-of-need one-pot multiplexed RT-LAMP test for detecting three common respiratory viruses in saliva.",
     "source": "Biosens Bioelectron",
-    "pubdate": "2025 Jul 30",
+    "pubdate": "2025 Nov 15",
     "authors": [
       "Kshirsagar A",
       "DeRosa D",
@@ -1963,7 +1963,7 @@
     "issn": "0956-5663",
     "essn": "1873-4235",
     "doi": "doi: 10.1016/j.bios.2025.117836",
-    "sortpubdate": "2025/07/30 00:00",
+    "sortpubdate": "2025/11/15 00:00",
     "epubdate": "2025 Jul 30"
   },
   {
@@ -2111,5 +2111,28 @@
     "doi": "doi: 10.1093/cvr/cvaf092",
     "sortpubdate": "2025/08/14 00:00",
     "epubdate": ""
+  },
+  {
+    "name": "RSV modeling",
+    "id": "40825496",
+    "title": "The Dynamics of Common Respiratory Pathogens in Southern China under the Context of COVID-19 Pandemic and Prediction of Mycoplasma Pneumonia (2018-2023).",
+    "source": "J Virol Methods",
+    "pubdate": "2025 Aug 16",
+    "authors": [
+      "Zeng L",
+      "Wang Y",
+      "Xiang B",
+      "Lin J",
+      "Zeng W",
+      "Liang J"
+    ],
+    "lastauthor": "Liang J",
+    "sortfirstauthor": "Zeng L",
+    "journal": "Journal of virological methods",
+    "issn": "0166-0934",
+    "essn": "1879-0984",
+    "doi": "doi: 10.1016/j.jviromet.2025.115240",
+    "sortpubdate": "2025/08/16 00:00",
+    "epubdate": "2025 Aug 16"
   }
 ]
