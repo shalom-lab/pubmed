@@ -4116,7 +4116,8 @@
   {
     "source": "Global Spine J",
     "journal": "Global spine journal",
-    "issn": "2192-5682"
+    "issn": "2192-5682",
+    "essn": "2192-5690"
   },
   {
     "source": "Ann Neurol",
@@ -4865,7 +4866,8 @@
   {
     "source": "Blood Res",
     "journal": "Blood research",
-    "issn": "2287-979X"
+    "issn": "2287-979X",
+    "essn": "2288-0011"
   },
   {
     "source": "Clin Exp Nephrol",
@@ -5013,5 +5015,56 @@
     "journal": "Journal of virological methods",
     "issn": "0166-0934",
     "essn": "1879-0984"
+  },
+  {
+    "source": "Int J Nurs Stud Adv",
+    "journal": "International journal of nursing studies advances",
+    "essn": "2666-142X"
+  },
+  {
+    "source": "Zhongguo Dang Dai Er Ke Za Zhi",
+    "journal": "Zhongguo dang dai er ke za zhi = Chinese journal of contemporary pediatrics",
+    "issn": "1008-8830"
+  },
+  {
+    "source": "Psychooncology",
+    "journal": "Psycho-oncology",
+    "issn": "1057-9249",
+    "essn": "1099-1611"
+  },
+  {
+    "source": "Phys Eng Sci Med",
+    "journal": "Physical and engineering sciences in medicine",
+    "issn": "2662-4729",
+    "essn": "2662-4737"
+  },
+  {
+    "source": "Med Clin (Barc)",
+    "journal": "Medicina clinica",
+    "issn": "0025-7753",
+    "essn": "1578-8989"
+  },
+  {
+    "source": "Mol Cell Biochem",
+    "journal": "Molecular and cellular biochemistry",
+    "issn": "0300-8177",
+    "essn": "1573-4919"
+  },
+  {
+    "source": "Can J Gastroenterol Hepatol",
+    "journal": "Canadian journal of gastroenterology & hepatology",
+    "issn": "2291-2789",
+    "essn": "2291-2797"
+  },
+  {
+    "source": "J Behav Med",
+    "journal": "Journal of behavioral medicine",
+    "issn": "0160-7715",
+    "essn": "1573-3521"
+  },
+  {
+    "source": "Genet Test Mol Biomarkers",
+    "journal": "Genetic testing and molecular biomarkers",
+    "essn": "1945-0257"
   }
 ]

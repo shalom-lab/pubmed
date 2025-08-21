@@ -10408,7 +10408,7 @@
     "sortfirstauthor": "Wei Y",
     "journal": "Global spine journal",
     "issn": "2192-5682",
-    "essn": "",
+    "essn": "2192-5690",
     "doi": "doi: 10.1177/21925682251370639",
     "sortpubdate": "2025/08/18 00:00",
     "epubdate": "2025 Aug 18"
@@ -10904,5 +10904,177 @@
     "doi": "doi: 10.1186/s12889-025-24160-7",
     "sortpubdate": "2025/08/15 00:00",
     "epubdate": "2025 Aug 15"
+  },
+  {
+    "name": "GBD database",
+    "id": "40834466",
+    "title": "Long-term trends in interstitial lung diseases incidence in Spain.",
+    "source": "Med Clin (Barc)",
+    "pubdate": "2025 Aug 19",
+    "authors": [
+      "Cayuela L",
+      "Michela Gaeta A",
+      "Cayuela A"
+    ],
+    "lastauthor": "Cayuela A",
+    "sortfirstauthor": "Cayuela L",
+    "journal": "Medicina clinica",
+    "issn": "0025-7753",
+    "essn": "1578-8989",
+    "doi": "doi: 10.1016/j.medcli.2025.107145",
+    "sortpubdate": "2025/08/19 00:00",
+    "epubdate": "2025 Aug 19"
+  },
+  {
+    "name": "GBD database",
+    "id": "40832837",
+    "title": "Global Burden and Gender Disparities in Head and Neck Cancers Among Adults Aged 40-64, 1990-2021: A Systematic Analysis From the Global Burden of Disease Study 2021.",
+    "source": "Cancer Rep (Hoboken)",
+    "pubdate": "2025 Aug",
+    "authors": [
+      "Luo Z",
+      "Huang Y",
+      "Ye R",
+      "Yin M"
+    ],
+    "lastauthor": "Yin M",
+    "sortfirstauthor": "Luo Z",
+    "journal": "Cancer reports (Hoboken, N.J.)",
+    "issn": "",
+    "essn": "2573-8348",
+    "doi": "doi: 10.1002/cnr2.70287",
+    "sortpubdate": "2025/08/01 00:00",
+    "epubdate": ""
+  },
+  {
+    "name": "GBD database",
+    "id": "40832039",
+    "title": "Decadal trends and regional disparities in tuberculosis burden: a comprehensive analysis of global, African, and Southeast Asian data from the GBD 1990-2021.",
+    "source": "Front Public Health",
+    "pubdate": "2025",
+    "authors": [
+      "Xie S",
+      "Xiao H",
+      "Xu L",
+      "Zhang F",
+      "Luo M"
+    ],
+    "lastauthor": "Luo M",
+    "sortfirstauthor": "Xie S",
+    "journal": "Frontiers in public health",
+    "issn": "",
+    "essn": "2296-2565",
+    "doi": "doi: 10.3389/fpubh.2025.1467509",
+    "sortpubdate": "2025/08/04 00:00",
+    "epubdate": "2025 Aug 4"
+  },
+  {
+    "name": "GBD database",
+    "id": "40832016",
+    "title": "A epidemiological trend of chronic kidney disease due to hypertension among adolescents and young adults: global burden and future 2035 projections.",
+    "source": "Front Public Health",
+    "pubdate": "2025",
+    "authors": [
+      "Wang T",
+      "Pan R",
+      "Li C",
+      "Qin Y",
+      "Song C"
+    ],
+    "lastauthor": "Song C",
+    "sortfirstauthor": "Wang T",
+    "journal": "Frontiers in public health",
+    "issn": "",
+    "essn": "2296-2565",
+    "doi": "doi: 10.3389/fpubh.2025.1618416",
+    "sortpubdate": "2025/08/04 00:00",
+    "epubdate": "2025 Aug 4"
+  },
+  {
+    "name": "GBD database",
+    "id": "40831585",
+    "title": "The Evolving Global Epidemiology of Presenile Dementia in People Aged Under 65: A 40-year Cross-Sectional Study.",
+    "source": "Risk Manag Healthc Policy",
+    "pubdate": "2025",
+    "authors": [
+      "Zhao D",
+      "Luo Y",
+      "Ouyang B",
+      "Wang L",
+      "Xu S",
+      "Zheng Y",
+      "Peng X",
+      "Zhong X"
+    ],
+    "lastauthor": "Zhong X",
+    "sortfirstauthor": "Zhao D",
+    "journal": "Risk management and healthcare policy",
+    "issn": "1179-1594",
+    "essn": "1179-1594",
+    "doi": "doi: 10.2147/RMHP.S534291",
+    "sortpubdate": "2025/08/12 00:00",
+    "epubdate": "2025 Aug 12"
+  },
+  {
+    "name": "GBD database",
+    "id": "40831450",
+    "title": "Letter to the editor regarding: 'global, regional, and national burden of chronic respiratory diseases, 1990-2021 and predictions to 2035: analysis of data from the global burden of disease study 2021'.",
+    "source": "Ann Med",
+    "pubdate": "2025 Dec",
+    "authors": [
+      "Yang C",
+      "Xu T",
+      "Wei Y",
+      "Huang J"
+    ],
+    "lastauthor": "Huang J",
+    "sortfirstauthor": "Yang C",
+    "journal": "Annals of medicine",
+    "issn": "0785-3890",
+    "essn": "1365-2060",
+    "doi": "doi: 10.1080/07853890.2025.2548972",
+    "sortpubdate": "2025/12/01 00:00",
+    "epubdate": "2025 Aug 20"
+  },
+  {
+    "name": "GBD database",
+    "id": "40831165",
+    "title": "[Analysis and prediction of the disease burden of attention-deficit/hyperactivity disorder in Chinese children and adolescents from 1990 to 2021].",
+    "source": "Zhongguo Dang Dai Er Ke Za Zhi",
+    "pubdate": "2025 Aug 15",
+    "authors": [
+      "Jia R",
+      "Han F"
+    ],
+    "lastauthor": "Han F",
+    "sortfirstauthor": "Jia R",
+    "journal": "Zhongguo dang dai er ke za zhi = Chinese journal of contemporary pediatrics",
+    "issn": "1008-8830",
+    "essn": "",
+    "doi": "doi: 10.7499/j.issn.1008-8830.2411122",
+    "sortpubdate": "2025/08/15 00:00",
+    "epubdate": ""
+  },
+  {
+    "name": "GBD database",
+    "id": "40829908",
+    "title": "[Trend and quantitative analysis of disease mortality in China from 1990 to 2021].",
+    "source": "Zhonghua Yu Fang Yi Xue Za Zhi",
+    "pubdate": "2025 Aug 6",
+    "authors": [
+      "Sun K",
+      "Chen L",
+      "Wang JS",
+      "Han YJ",
+      "Luo XF"
+    ],
+    "lastauthor": "Luo XF",
+    "sortfirstauthor": "Sun K",
+    "journal": "Zhonghua yu fang yi xue za zhi [Chinese journal of preventive medicine]",
+    "issn": "0253-9624",
+    "essn": "",
+    "doi": "doi: 10.3760/cma.j.cn112150-20240903-00703",
+    "sortpubdate": "2025/08/06 00:00",
+    "epubdate": ""
   }
 ]
