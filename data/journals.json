@@ -5024,7 +5024,8 @@
   {
     "source": "Zhongguo Dang Dai Er Ke Za Zhi",
     "journal": "Zhongguo dang dai er ke za zhi = Chinese journal of contemporary pediatrics",
-    "issn": "1008-8830"
+    "issn": "1008-8830",
+    "essn": "2096-9228"
   },
   {
     "source": "Psychooncology",
@@ -5152,5 +5153,90 @@
     "journal": "Journal of hypertension",
     "issn": "0263-6352",
     "essn": "1473-5598"
+  },
+  {
+    "source": "J Craniofac Surg",
+    "journal": "The Journal of craniofacial surgery",
+    "issn": "1049-2275",
+    "essn": "1536-3732"
+  },
+  {
+    "source": "J Speech Lang Hear Res",
+    "journal": "Journal of speech, language, and hearing research : JSLHR",
+    "issn": "1092-4388",
+    "essn": "1558-9102"
+  },
+  {
+    "source": "Int J Radiat Oncol Biol Phys",
+    "journal": "International journal of radiation oncology, biology, physics",
+    "issn": "0360-3016",
+    "essn": "1879-355X"
+  },
+  {
+    "source": "Am J Med Genet B Neuropsychiatr Genet",
+    "journal": "American journal of medical genetics. Part B, Neuropsychiatric genetics : the official publication of the International Society of Psychiatric Genetics",
+    "issn": "1552-4841",
+    "essn": "1552-485X"
+  },
+  {
+    "source": "Brain Circ",
+    "journal": "Brain circulation",
+    "issn": "2394-8108",
+    "essn": "2455-4626"
+  },
+  {
+    "source": "Int J Nurs Pract",
+    "journal": "International journal of nursing practice",
+    "issn": "1322-7114",
+    "essn": "1440-172X"
+  },
+  {
+    "source": "Clin Proteomics",
+    "journal": "Clinical proteomics",
+    "issn": "1542-6416"
+  },
+  {
+    "source": "BioData Min",
+    "journal": "BioData mining",
+    "issn": "1756-0381"
+  },
+  {
+    "source": "JACC Asia",
+    "journal": "JACC. Asia",
+    "essn": "2772-3747"
+  },
+  {
+    "source": "Pulm Circ",
+    "journal": "Pulmonary circulation",
+    "issn": "2045-8932",
+    "essn": "2045-8940"
+  },
+  {
+    "source": "Med Sci (Basel)",
+    "journal": "Medical sciences (Basel, Switzerland)",
+    "essn": "2076-3271"
+  },
+  {
+    "source": "Epidemiol Psychiatr Sci",
+    "journal": "Epidemiology and psychiatric sciences",
+    "issn": "2045-7960",
+    "essn": "2045-7979"
+  },
+  {
+    "source": "Environments (Basel)",
+    "journal": "Environments (Basel, Switzerland)",
+    "essn": "2076-3298"
+  },
+  {
+    "source": "Public Health Nutr",
+    "journal": "Public health nutrition",
+    "issn": "1368-9800",
+    "essn": "1475-2727"
+  },
+  {
+    "source": "Am J Geriatr Psychiatry",
+    "journal": "The American journal of geriatric psychiatry : official journal of the American Association for Geriatric Psychiatry",
+    "issn": "1064-7481",
+    "essn": "1545-7214"
   }
 ]
