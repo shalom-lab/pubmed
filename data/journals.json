@@ -5238,5 +5238,56 @@
     "journal": "The American journal of geriatric psychiatry : official journal of the American Association for Geriatric Psychiatry",
     "issn": "1064-7481",
     "essn": "1545-7214"
+  },
+  {
+    "source": "Nano Lett",
+    "journal": "Nano letters",
+    "issn": "1530-6984",
+    "essn": "1530-6992"
+  },
+  {
+    "source": "Autism Res",
+    "journal": "Autism research : official journal of the International Society for Autism Research",
+    "essn": "1939-3806"
+  },
+  {
+    "source": "NPJ Parkinsons Dis",
+    "journal": "NPJ Parkinson's disease",
+    "issn": "2373-8057"
+  },
+  {
+    "source": "J Microbiol Immunol Infect",
+    "journal": "Journal of microbiology, immunology, and infection = Wei mian yu gan ran za zhi",
+    "issn": "1684-1182",
+    "essn": "1995-9133"
+  },
+  {
+    "source": "Drug Discov Today",
+    "journal": "Drug discovery today",
+    "issn": "1359-6446",
+    "essn": "1878-5832"
+  },
+  {
+    "source": "Am J Emerg Med",
+    "journal": "The American journal of emergency medicine",
+    "issn": "0735-6757",
+    "essn": "1532-8171"
+  },
+  {
+    "source": "J Surg Res",
+    "journal": "The Journal of surgical research",
+    "issn": "0022-4804",
+    "essn": "1095-8673"
+  },
+  {
+    "source": "Reprod Health",
+    "journal": "Reproductive health",
+    "essn": "1742-4755"
+  },
+  {
+    "source": "Am J Obstet Gynecol",
+    "journal": "American journal of obstetrics and gynecology",
+    "issn": "0002-9378",
+    "essn": "1097-6868"
   }
 ]

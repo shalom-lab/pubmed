@@ -11673,5 +11673,82 @@
     "doi": "doi: 10.1186/s12889-025-23869-9",
     "sortpubdate": "2025/08/21 00:00",
     "epubdate": "2025 Aug 21"
+  },
+  {
+    "name": "GBD database",
+    "id": "40848052",
+    "title": "The global, regional, and national burden of Non-Hodgkin lymphoma in 204 countries and territories and 811 subnational locations, 1990-2021: an update from the Global Burden of Disease Study 2021.",
+    "source": "Ann Hematol",
+    "pubdate": "2025 Aug 23",
+    "authors": [
+      "Li T",
+      "Liang X",
+      "Lin B",
+      "Luo B",
+      "Liu D",
+      "Lu W",
+      "Tian S",
+      "Guo J",
+      "Zhou X",
+      "Jin Z",
+      "Huang Y",
+      "Guo S"
+    ],
+    "lastauthor": "Guo S",
+    "sortfirstauthor": "Li T",
+    "journal": "Annals of hematology",
+    "issn": "0939-5555",
+    "essn": "1432-0584",
+    "doi": "doi: 10.1007/s00277-025-06559-9",
+    "sortpubdate": "2025/08/23 00:00",
+    "epubdate": "2025 Aug 23"
+  },
+  {
+    "name": "GBD database",
+    "id": "40847503",
+    "title": "Geographic Age Cohort Study of Maternal Hypertensive Disorders.",
+    "source": "J Am Heart Assoc",
+    "pubdate": "2025 Aug 22",
+    "authors": [
+      "Yang R",
+      "Chen Y",
+      "Li Q",
+      "Zhang Y",
+      "Yue C"
+    ],
+    "lastauthor": "Yue C",
+    "sortfirstauthor": "Yang R",
+    "journal": "Journal of the American Heart Association",
+    "issn": "",
+    "essn": "2047-9980",
+    "doi": "doi: 10.1161/JAHA.125.043796",
+    "sortpubdate": "2025/08/22 00:00",
+    "epubdate": "2025 Aug 22"
+  },
+  {
+    "name": "GBD database",
+    "id": "40846981",
+    "title": "Social inequalities in COVID-19-related years of life lost in metropolitan France, 2020.",
+    "source": "Arch Public Health",
+    "pubdate": "2025 Aug 22",
+    "authors": [
+      "Haneef R",
+      "Mahrouseh N",
+      "Bessonneau P",
+      "Vandentorren S",
+      "Minier N",
+      "Chin F",
+      "Bruyère O",
+      "Devleesschauwer B",
+      "Wyper GMA"
+    ],
+    "lastauthor": "Wyper GMA",
+    "sortfirstauthor": "Haneef R",
+    "journal": "Archives of public health = Archives belges de sante publique",
+    "issn": "0778-7367",
+    "essn": "",
+    "doi": "doi: 10.1186/s13690-025-01704-2",
+    "sortpubdate": "2025/08/22 00:00",
+    "epubdate": "2025 Aug 22"
   }
 ]
