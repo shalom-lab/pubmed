@@ -11750,5 +11750,75 @@
     "doi": "doi: 10.1186/s13690-025-01704-2",
     "sortpubdate": "2025/08/22 00:00",
     "epubdate": "2025 Aug 22"
+  },
+  {
+    "name": "GBD database",
+    "id": "40850030",
+    "title": "Evolution of polycystic ovary syndrome and related infertility in women of child-bearing age: A global burden of disease study 2021 analysis.",
+    "source": "Eur J Obstet Gynecol Reprod Biol",
+    "pubdate": "2025 Aug 21",
+    "authors": [
+      "Zhang J",
+      "Zhang J",
+      "Zheng Z",
+      "Zhang R"
+    ],
+    "lastauthor": "Zhang R",
+    "sortfirstauthor": "Zhang J",
+    "journal": "European journal of obstetrics, gynecology, and reproductive biology",
+    "issn": "0301-2115",
+    "essn": "1872-7654",
+    "doi": "doi: 10.1016/j.ejogrb.2025.114659",
+    "sortpubdate": "2025/08/21 00:00",
+    "epubdate": "2025 Aug 21"
+  },
+  {
+    "name": "GBD database",
+    "id": "40849696",
+    "title": "Assessment and Projections of the Burden of Lip and Oral Cancer among Indian Men.",
+    "source": "Asian Pac J Cancer Prev",
+    "pubdate": "2025 Aug 1",
+    "authors": [
+      "Roy Pramanik K",
+      "Biswas S",
+      "Dhar M"
+    ],
+    "lastauthor": "Dhar M",
+    "sortfirstauthor": "Roy Pramanik K",
+    "journal": "Asian Pacific journal of cancer prevention : APJCP",
+    "issn": "1513-7368",
+    "essn": "2476-762X",
+    "doi": "doi: 10.31557/APJCP.2025.26.8.2803",
+    "sortpubdate": "2025/08/01 00:00",
+    "epubdate": "2025 Aug 1"
+  },
+  {
+    "name": "GBD database",
+    "id": "40848775",
+    "title": "Global, regional, and national burden and trends of eating disorders among women of childbearing age from 1990 to 2021: Insights from the global burden of disease study 2021.",
+    "source": "J Affect Disord",
+    "pubdate": "2025 Aug 21",
+    "authors": [
+      "Xin S",
+      "Xu Y",
+      "Feng X",
+      "Zhao J",
+      "Han Y",
+      "Gao Y",
+      "Guo Y",
+      "Wu Z",
+      "Wang F",
+      "Li X",
+      "Li B",
+      "Yao Y"
+    ],
+    "lastauthor": "Yao Y",
+    "sortfirstauthor": "Xin S",
+    "journal": "Journal of affective disorders",
+    "issn": "0165-0327",
+    "essn": "1573-2517",
+    "doi": "doi: 10.1016/j.jad.2025.120091",
+    "sortpubdate": "2025/08/21 00:00",
+    "epubdate": "2025 Aug 21"
   }
 ]

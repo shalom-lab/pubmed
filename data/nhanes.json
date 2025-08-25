@@ -18238,5 +18238,101 @@
     "doi": "doi: 10.1016/j.jstrokecerebrovasdis.2025.108434",
     "sortpubdate": "2025/08/20 00:00",
     "epubdate": "2025 Aug 20"
+  },
+  {
+    "name": "NHANES",
+    "id": "40849494",
+    "title": "Association between the non-high-density lipoprotein cholesterol to high-density lipoprotein cholesterol ratio (NHHR) and early-onset benign prostatic hyperplasia: a cross-sectional analysis based on NHANES.",
+    "source": "J Health Popul Nutr",
+    "pubdate": "2025 Aug 23",
+    "authors": [
+      "Ta P",
+      "Guo W",
+      "Li B",
+      "Xiao C",
+      "Liu K",
+      "Zhang S",
+      "Xiao R"
+    ],
+    "lastauthor": "Xiao R",
+    "sortfirstauthor": "Ta P",
+    "journal": "Journal of health, population, and nutrition",
+    "issn": "1606-0997",
+    "essn": "2072-1315",
+    "doi": "doi: 10.1186/s41043-025-01048-1",
+    "sortpubdate": "2025/08/23 00:00",
+    "epubdate": "2025 Aug 23"
+  },
+  {
+    "name": "NHANES",
+    "id": "40849219",
+    "title": "Association of eating duration less than 8 h with all-cause, cardiovascular, and cancer mortality.",
+    "source": "Diabetes Metab Syndr",
+    "pubdate": "2025 Aug 21",
+    "authors": [
+      "Chen M",
+      "Xu L",
+      "Van Horn L",
+      "Manson JE",
+      "Tucker KL",
+      "Du X",
+      "Feng N",
+      "Rong S",
+      "Zhong VW"
+    ],
+    "lastauthor": "Zhong VW",
+    "sortfirstauthor": "Chen M",
+    "journal": "Diabetes & metabolic syndrome",
+    "issn": "1871-4021",
+    "essn": "1878-0334",
+    "doi": "doi: 10.1016/j.dsx.2025.103278",
+    "sortpubdate": "2025/08/21 00:00",
+    "epubdate": "2025 Aug 21"
+  },
+  {
+    "name": "NHANES",
+    "id": "40849020",
+    "title": "Joint effect of hyperuricemia and severe Vitamin D deficiency on all-cause and cardiovascular mortality among individuals with diabetes.",
+    "source": "J Nutr Biochem",
+    "pubdate": "2025 Aug 21",
+    "authors": [
+      "Han Y",
+      "Xie T",
+      "Li Z",
+      "Yao M",
+      "Zhao H",
+      "Wu J",
+      "Zhang Y",
+      "Zeng X"
+    ],
+    "lastauthor": "Zeng X",
+    "sortfirstauthor": "Han Y",
+    "journal": "The Journal of nutritional biochemistry",
+    "issn": "0955-2863",
+    "essn": "1873-4847",
+    "doi": "doi: 10.1016/j.jnutbio.2025.110083",
+    "sortpubdate": "2025/08/21 00:00",
+    "epubdate": "2025 Aug 21"
+  },
+  {
+    "name": "NHANES",
+    "id": "40848770",
+    "title": "Insulin resistance mediates the association between sedentary behavior and depression: Evidence from a large-scale NHANES analysis.",
+    "source": "J Affect Disord",
+    "pubdate": "2025 Aug 21",
+    "authors": [
+      "Huang X",
+      "Yao X",
+      "Fang M",
+      "Huang L"
+    ],
+    "lastauthor": "Huang L",
+    "sortfirstauthor": "Huang X",
+    "journal": "Journal of affective disorders",
+    "issn": "0165-0327",
+    "essn": "1573-2517",
+    "doi": "doi: 10.1016/j.jad.2025.120111",
+    "sortpubdate": "2025/08/21 00:00",
+    "epubdate": "2025 Aug 21"
   }
 ]
