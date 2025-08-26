@@ -2134,5 +2134,30 @@
     "doi": "doi: 10.1016/j.jviromet.2025.115240",
     "sortpubdate": "2025/08/16 00:00",
     "epubdate": "2025 Aug 16"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "40851257",
+    "title": "Quantitative Analysis of Virus Adsorption and Co-adsorption Behavior Using BET Modeling and SERS Spectroscopy.",
+    "source": "J Phys Chem A",
+    "pubdate": "2025 Aug 24",
+    "authors": [
+      "Cui J",
+      "Yang Y",
+      "Kumar A",
+      "Murray J",
+      "Jones L",
+      "Chen X",
+      "Tripp RA",
+      "Zhao Y"
+    ],
+    "lastauthor": "Zhao Y",
+    "sortfirstauthor": "Cui J",
+    "journal": "The journal of physical chemistry. A",
+    "issn": "1089-5639",
+    "essn": "1520-5215",
+    "doi": "doi: 10.1021/acs.jpca.5c03375",
+    "sortpubdate": "2025/08/24 00:00",
+    "epubdate": "2025 Aug 24"
   }
 ]
