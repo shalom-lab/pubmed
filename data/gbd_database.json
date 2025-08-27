@@ -11746,7 +11746,7 @@
     "sortfirstauthor": "Haneef R",
     "journal": "Archives of public health = Archives belges de sante publique",
     "issn": "0778-7367",
-    "essn": "",
+    "essn": "2049-3258",
     "doi": "doi: 10.1186/s13690-025-01704-2",
     "sortpubdate": "2025/08/22 00:00",
     "epubdate": "2025 Aug 22"
@@ -12042,5 +12042,118 @@
     "doi": "doi: 10.12968/hmed.2025.0408",
     "sortpubdate": "2025/08/25 00:00",
     "epubdate": ""
+  },
+  {
+    "name": "GBD database",
+    "id": "40857242",
+    "title": "Temporal trend in the national and sub-national burden of cancers attributable to risk factors in Iran from 1990 to 2021: Findings from the global burden of disease study 2021.",
+    "source": "PLoS One",
+    "pubdate": "2025",
+    "authors": [
+      "Mousavi SM",
+      "Younesian S",
+      "Katebian S",
+      "Golestani A",
+      "Khanmohammadi S",
+      "Khosravi S",
+      "Etemadi Y",
+      "Rezaei N",
+      "Azadnajafabad S",
+      "Larijani B"
+    ],
+    "lastauthor": "Larijani B",
+    "sortfirstauthor": "Mousavi SM",
+    "journal": "PloS one",
+    "issn": "",
+    "essn": "1932-6203",
+    "doi": "doi: 10.1371/journal.pone.0330993",
+    "sortpubdate": "2025/08/26 00:00",
+    "epubdate": "2025 Aug 26"
+  },
+  {
+    "name": "GBD database",
+    "id": "40855953",
+    "title": "Heterogeneity of frequencies of motor neuron disease across ethnicities and geographical areas: focus on Arabic countries in the Mediterranean area.",
+    "source": "Curr Opin Neurol",
+    "pubdate": "2025 Aug 25",
+    "authors": [
+      "Logroscino G",
+      "Giannoni-Luza S",
+      "Urso D",
+      "Hamdi N"
+    ],
+    "lastauthor": "Hamdi N",
+    "sortfirstauthor": "Logroscino G",
+    "journal": "Current opinion in neurology",
+    "issn": "1350-7540",
+    "essn": "1473-6551",
+    "doi": "doi: 10.1097/WCO.0000000000001415",
+    "sortpubdate": "2025/08/25 00:00",
+    "epubdate": "2025 Aug 25"
+  },
+  {
+    "name": "GBD database",
+    "id": "40855536",
+    "title": "Global trends and future projections of COPD burden under low-temperature risk: a 1990-2041 analysis based on GBD 2021.",
+    "source": "BMC Pulm Med",
+    "pubdate": "2025 Aug 25",
+    "authors": [
+      "Wang X",
+      "Gou A",
+      "Wang J",
+      "Li J",
+      "Gou C"
+    ],
+    "lastauthor": "Gou C",
+    "sortfirstauthor": "Wang X",
+    "journal": "BMC pulmonary medicine",
+    "issn": "",
+    "essn": "1471-2466",
+    "doi": "doi: 10.1186/s12890-025-03811-w",
+    "sortpubdate": "2025/08/25 00:00",
+    "epubdate": "2025 Aug 25"
+  },
+  {
+    "name": "GBD database",
+    "id": "40854764",
+    "title": "[Attributable disease burden of active smoking on cancer mortality among residents aged 30 and above in Zhejiang Province].",
+    "source": "Zhonghua Liu Xing Bing Xue Za Zhi",
+    "pubdate": "2025 Aug 10",
+    "authors": [
+      "Xu Y",
+      "Hu XJ",
+      "Zhou XY",
+      "Chen HN",
+      "Zhang XH",
+      "Li N",
+      "Yu M"
+    ],
+    "lastauthor": "Yu M",
+    "sortfirstauthor": "Xu Y",
+    "journal": "Zhonghua liu xing bing xue za zhi = Zhonghua liuxingbingxue zazhi",
+    "issn": "0254-6450",
+    "essn": "",
+    "doi": "doi: 10.3760/cma.j.cn112338-20241209-00783",
+    "sortpubdate": "2025/08/10 00:00",
+    "epubdate": ""
+  },
+  {
+    "name": "GBD database",
+    "id": "40854329",
+    "title": "Global, regional, and national burden of type 1 diabetes mellitus and chronic kidney disease due to type 1 diabetes mellitus in children aged 0-14 years from 1990 to 2021.",
+    "source": "Diabetes Res Clin Pract",
+    "pubdate": "2025 Aug 23",
+    "authors": [
+      "Li J",
+      "Zhang J"
+    ],
+    "lastauthor": "Zhang J",
+    "sortfirstauthor": "Li J",
+    "journal": "Diabetes research and clinical practice",
+    "issn": "0168-8227",
+    "essn": "1872-8227",
+    "doi": "doi: 10.1016/j.diabres.2025.112432",
+    "sortpubdate": "2025/08/23 00:00",
+    "epubdate": "2025 Aug 23"
   }
 ]
