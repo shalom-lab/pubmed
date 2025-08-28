@@ -2200,5 +2200,31 @@
     "doi": "doi: 10.1080/22221751.2025.2552724",
     "sortpubdate": "2025/08/25 00:00",
     "epubdate": "2025 Aug 25"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "40859009",
+    "title": "Predicting regional and temporal incidence of RSV and influenza hospitalizations in a birth cohort of young Australian children.",
+    "source": "Sci Rep",
+    "pubdate": "2025 Aug 26",
+    "authors": [
+      "Taye B",
+      "Levy A",
+      "Sarna M",
+      "Minney-Smith C",
+      "Menzies R",
+      "Le H",
+      "Richmond P",
+      "Blyth CC",
+      "Moore HC"
+    ],
+    "lastauthor": "Moore HC",
+    "sortfirstauthor": "Taye B",
+    "journal": "Scientific reports",
+    "issn": "",
+    "essn": "2045-2322",
+    "doi": "doi: 10.1038/s41598-025-16802-y",
+    "sortpubdate": "2025/08/26 00:00",
+    "epubdate": "2025 Aug 26"
   }
 ]
