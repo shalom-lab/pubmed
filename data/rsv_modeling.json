@@ -2226,5 +2226,26 @@
     "doi": "doi: 10.1038/s41598-025-16802-y",
     "sortpubdate": "2025/08/26 00:00",
     "epubdate": "2025 Aug 26"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "40872258",
+    "title": "AI Methods Tailored to Influenza, RSV, HIV, and SARS-CoV-2: A Focused Review.",
+    "source": "Pathogens",
+    "pubdate": "2025 Jul 30",
+    "authors": [
+      "Livieratos A",
+      "Kagadis GC",
+      "Gogos C",
+      "Akinosoglou K"
+    ],
+    "lastauthor": "Akinosoglou K",
+    "sortfirstauthor": "Livieratos A",
+    "journal": "Pathogens (Basel, Switzerland)",
+    "issn": "",
+    "essn": "2076-0817",
+    "doi": "pii: 748. doi: 10.3390/pathogens14080748",
+    "sortpubdate": "2025/07/30 00:00",
+    "epubdate": "2025 Jul 30"
   }
 ]

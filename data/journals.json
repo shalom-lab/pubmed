@@ -5484,12 +5484,137 @@
   {
     "source": "Diseases",
     "journal": "Diseases (Basel, Switzerland)",
-    "issn": "2079-9721"
+    "issn": "2079-9721",
+    "essn": "2079-9721"
   },
   {
     "source": "Alzheimers Dement (Amst)",
     "journal": "Alzheimer's & dementia (Amsterdam, Netherlands)",
     "issn": "2352-8729",
     "essn": "2352-8729"
+  },
+  {
+    "source": "Breast",
+    "journal": "Breast (Edinburgh, Scotland)",
+    "issn": "0960-9776",
+    "essn": "1532-3080"
+  },
+  {
+    "source": "Contemp Nurse",
+    "journal": "Contemporary nurse",
+    "issn": "1037-6178",
+    "essn": "1839-3535"
+  },
+  {
+    "source": "J Xray Sci Technol",
+    "journal": "Journal of X-ray science and technology",
+    "issn": "0895-3996",
+    "essn": "1095-9114"
+  },
+  {
+    "source": "Head Neck",
+    "journal": "Head & neck",
+    "issn": "1043-3074",
+    "essn": "1097-0347"
+  },
+  {
+    "source": "SAGE Open Nurs",
+    "journal": "SAGE open nursing",
+    "essn": "2377-9608"
+  },
+  {
+    "source": "Emerg Med Int",
+    "journal": "Emergency medicine international",
+    "issn": "2090-2840",
+    "essn": "2090-2859"
+  },
+  {
+    "source": "Zhonghua Gan Zang Bing Za Zhi",
+    "journal": "Zhonghua gan zang bing za zhi = Zhonghua ganzangbing zazhi = Chinese journal of hepatology",
+    "issn": "1007-3418"
+  },
+  {
+    "source": "Entropy (Basel)",
+    "journal": "Entropy (Basel, Switzerland)",
+    "essn": "1099-4300"
+  },
+  {
+    "source": "Biomolecules",
+    "journal": "Biomolecules",
+    "essn": "2218-273X"
+  },
+  {
+    "source": "Neurol Ther",
+    "journal": "Neurology and therapy",
+    "issn": "2193-8253",
+    "essn": "2193-6536"
+  },
+  {
+    "source": "Semin Ophthalmol",
+    "journal": "Seminars in ophthalmology",
+    "issn": "0882-0538",
+    "essn": "1744-5205"
+  },
+  {
+    "source": "Psychother Psychosom",
+    "journal": "Psychotherapy and psychosomatics",
+    "issn": "0033-3190",
+    "essn": "1423-0348"
+  },
+  {
+    "source": "Front Clin Diabetes Healthc",
+    "journal": "Frontiers in clinical diabetes and healthcare",
+    "essn": "2673-6616"
+  },
+  {
+    "source": "Saudi J Gastroenterol",
+    "journal": "Saudi journal of gastroenterology : official journal of the Saudi Gastroenterology Association",
+    "issn": "1319-3767",
+    "essn": "1998-4049"
+  },
+  {
+    "source": "Pharmaceuticals (Basel)",
+    "journal": "Pharmaceuticals (Basel, Switzerland)",
+    "issn": "1424-8247"
+  },
+  {
+    "source": "Int J Environ Res Public Health",
+    "journal": "International journal of environmental research and public health",
+    "essn": "1660-4601"
+  },
+  {
+    "source": "Nat Med",
+    "journal": "Nature medicine",
+    "issn": "1078-8956",
+    "essn": "1546-170X"
+  },
+  {
+    "source": "Int Emerg Nurs",
+    "journal": "International emergency nursing",
+    "essn": "1878-013X"
+  },
+  {
+    "source": "Nephron",
+    "journal": "Nephron",
+    "issn": "1660-8151",
+    "essn": "2235-3186"
+  },
+  {
+    "source": "Sleep",
+    "journal": "Sleep",
+    "issn": "0161-8105",
+    "essn": "1550-9109"
+  },
+  {
+    "source": "Public Health Rep",
+    "journal": "Public health reports (Washington, D.C. : 1974)",
+    "issn": "0033-3549",
+    "essn": "1468-2877"
+  },
+  {
+    "source": "Clin Infect Dis",
+    "journal": "Clinical infectious diseases : an official publication of the Infectious Diseases Society of America",
+    "issn": "1058-4838",
+    "essn": "1537-6591"
   }
 ]
