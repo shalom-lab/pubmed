@@ -2247,5 +2247,48 @@
     "doi": "pii: 748. doi: 10.3390/pathogens14080748",
     "sortpubdate": "2025/07/30 00:00",
     "epubdate": "2025 Jul 30"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "40879915",
+    "title": "Visualizing Respiratory Syncytial Virus Replication in Live Mice.",
+    "source": "Methods Mol Biol",
+    "pubdate": "2025",
+    "authors": [
+      "Eléouët JF",
+      "Galloux M",
+      "Rameix-Welti MA"
+    ],
+    "lastauthor": "Rameix-Welti MA",
+    "sortfirstauthor": "Eléouët JF",
+    "journal": "Methods in molecular biology (Clifton, N.J.)",
+    "issn": "1064-3745",
+    "essn": "1940-6029",
+    "doi": "doi: 10.1007/978-1-0716-4666-3_18",
+    "sortpubdate": "2025/01/01 00:00",
+    "epubdate": ""
+  },
+  {
+    "name": "RSV modeling",
+    "id": "40876754",
+    "title": "Factors Associated with Respiratory Syncytial Virus-Neutralizing Antibody Titers in Adults.",
+    "source": "J Infect Chemother",
+    "pubdate": "2025 Aug 26",
+    "authors": [
+      "Shoji K",
+      "Yamada M",
+      "Hisano M",
+      "Okubo Y",
+      "Obikane E",
+      "Yamaguchi K"
+    ],
+    "lastauthor": "Yamaguchi K",
+    "sortfirstauthor": "Shoji K",
+    "journal": "Journal of infection and chemotherapy : official journal of the Japan Society of Chemotherapy",
+    "issn": "1341-321X",
+    "essn": "1437-7780",
+    "doi": "doi: 10.1016/j.jiac.2025.102801",
+    "sortpubdate": "2025/08/26 00:00",
+    "epubdate": "2025 Aug 26"
   }
 ]

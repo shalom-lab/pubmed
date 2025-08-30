@@ -19237,7 +19237,7 @@
     "sortfirstauthor": "Chen R",
     "journal": "Diabetology & metabolic syndrome",
     "issn": "1758-5996",
-    "essn": "",
+    "essn": "1758-5996",
     "doi": "doi: 10.1186/s13098-025-01924-0",
     "sortpubdate": "2025/08/27 00:00",
     "epubdate": "2025 Aug 27"
@@ -19259,7 +19259,7 @@
     "sortfirstauthor": "Pan L",
     "journal": "Diabetology & metabolic syndrome",
     "issn": "1758-5996",
-    "essn": "",
+    "essn": "1758-5996",
     "doi": "doi: 10.1186/s13098-025-01923-1",
     "sortpubdate": "2025/08/27 00:00",
     "epubdate": "2025 Aug 27"
@@ -19798,7 +19798,7 @@
   {
     "name": "NHANES",
     "id": "40865882",
-    "title": "Periodontitis, accelerated biological Aging, and advanced stages in Cardiovascular-Kidney-Metabolic syndrome in U.S. Adults: A mediation analysis.",
+    "title": "Periodontitis, accelerated biological aging, and advanced stages in cardiovascular-kidney-metabolic syndrome in U.S. Adults: A mediation analysis.",
     "source": "Diabetes Res Clin Pract",
     "pubdate": "2025 Aug 25",
     "authors": [
@@ -19957,5 +19957,196 @@
     "doi": "doi: 10.3390/diseases13080239",
     "sortpubdate": "2025/07/28 00:00",
     "epubdate": "2025 Jul 28"
+  },
+  {
+    "name": "NHANES",
+    "id": "40881446",
+    "title": "Visual analysis of research trends in diabetes-associated dry eye via bibliometrics.",
+    "source": "Int J Ophthalmol",
+    "pubdate": "2025",
+    "authors": [
+      "Yang Z",
+      "Jiang JY",
+      "Zhang XH"
+    ],
+    "lastauthor": "Zhang XH",
+    "sortfirstauthor": "Yang Z",
+    "journal": "International journal of ophthalmology",
+    "issn": "2222-3959",
+    "essn": "",
+    "doi": "doi: 10.18240/ijo.2025.09.16",
+    "sortpubdate": "2025/09/18 00:00",
+    "epubdate": "2025 Sep 18"
+  },
+  {
+    "name": "NHANES",
+    "id": "40880952",
+    "title": "Combined Effect of per- and Polyfluoroalkyl Substances, Toxic Metals, and Essential Elements on Chronic Kidney Disease.",
+    "source": "Pollutants",
+    "pubdate": "2025 Jun",
+    "authors": [
+      "Haruna I",
+      "Obeng-Gyasi E"
+    ],
+    "lastauthor": "Obeng-Gyasi E",
+    "sortfirstauthor": "Haruna I",
+    "journal": "Pollutants",
+    "issn": "",
+    "essn": "2673-4672",
+    "doi": "doi: 10.3390/pollutants5020012",
+    "sortpubdate": "2025/06/01 00:00",
+    "epubdate": "2025 May 13"
+  },
+  {
+    "name": "NHANES",
+    "id": "40880748",
+    "title": "Association between the Dietary Index for Gut Microbiota and periodontitis: mediation by systemic inflammation.",
+    "source": "Front Nutr",
+    "pubdate": "2025",
+    "authors": [
+      "Zhu JH",
+      "Sun G",
+      "Guo J",
+      "Li Y",
+      "Jing Y",
+      "Zhang Z",
+      "Pan W"
+    ],
+    "lastauthor": "Pan W",
+    "sortfirstauthor": "Zhu JH",
+    "journal": "Frontiers in nutrition",
+    "issn": "2296-861X",
+    "essn": "",
+    "doi": "doi: 10.3389/fnut.2025.1612199",
+    "sortpubdate": "2025/08/13 00:00",
+    "epubdate": "2025 Aug 13"
+  },
+  {
+    "name": "NHANES",
+    "id": "40880254",
+    "title": "The evolving burden of obesity in the US: a novel population-level system dynamics approach.",
+    "source": "J Med Econ",
+    "pubdate": "2025 Aug 29",
+    "authors": [
+      "McEwan P",
+      "Faurby M",
+      "Lübker C",
+      "Padgett T",
+      "Toliver JC"
+    ],
+    "lastauthor": "Toliver JC",
+    "sortfirstauthor": "McEwan P",
+    "journal": "Journal of medical economics",
+    "issn": "1369-6998",
+    "essn": "1941-837X",
+    "doi": "doi: 10.1080/13696998.2025.2554518",
+    "sortpubdate": "2025/08/29 00:00",
+    "epubdate": "2025 Aug 29"
+  },
+  {
+    "name": "NHANES",
+    "id": "40879853",
+    "title": "Letter to the Editor- The association between sarcopenic obesity and depression in middle-aged and elderly U.S. adults: insights from the NHANES study.",
+    "source": "Aging Clin Exp Res",
+    "pubdate": "2025 Aug 29",
+    "authors": [
+      "Tu JY"
+    ],
+    "lastauthor": "Tu JY",
+    "sortfirstauthor": "Tu JY",
+    "journal": "Aging clinical and experimental research",
+    "issn": "1594-0667",
+    "essn": "1720-8319",
+    "doi": "doi: 10.1007/s40520-025-03079-4",
+    "sortpubdate": "2025/08/29 00:00",
+    "epubdate": "2025 Aug 29"
+  },
+  {
+    "name": "NHANES",
+    "id": "40879054",
+    "title": "Decreases in serum α-Klotho levels in association with levels of regular alcohol drinking and binge drinking among US adults.",
+    "source": "Alcohol Alcohol",
+    "pubdate": "2025 Jul 16",
+    "authors": [
+      "Fromm D",
+      "Zhu J",
+      "Kim WB",
+      "Wei Y"
+    ],
+    "lastauthor": "Wei Y",
+    "sortfirstauthor": "Fromm D",
+    "journal": "Alcohol and alcoholism (Oxford, Oxfordshire)",
+    "issn": "0735-0414",
+    "essn": "1464-3502",
+    "doi": "pii: agaf054. doi: 10.1093/alcalc/agaf054",
+    "sortpubdate": "2025/07/16 00:00",
+    "epubdate": ""
+  },
+  {
+    "name": "NHANES",
+    "id": "40878792",
+    "title": "Development and Application of Children's Sex- and Age-Specific Fat-Mass and Muscle-Mass Reference Curves From Dual-Energy X-Ray Absorptiometry Data for Predicting Cardiometabolic Risk.",
+    "source": "Pediatr Obes",
+    "pubdate": "2025 Aug 29",
+    "authors": [
+      "Saputra ST",
+      "Van Hulst A",
+      "Henderson M",
+      "Brugiapaglia S",
+      "Faustini C",
+      "Kakinami L"
+    ],
+    "lastauthor": "Kakinami L",
+    "sortfirstauthor": "Saputra ST",
+    "journal": "Pediatric obesity",
+    "issn": "2047-6302",
+    "essn": "2047-6310",
+    "doi": "doi: 10.1111/ijpo.70051",
+    "sortpubdate": "2025/08/29 00:00",
+    "epubdate": "2025 Aug 29"
+  },
+  {
+    "name": "NHANES",
+    "id": "40876853",
+    "title": "Lipid-lowering drug treatment and mortality among individuals ≥75 years without cardiovascular disease: a population-based cohort study.",
+    "source": "Eur J Prev Cardiol",
+    "pubdate": "2025 Aug 29",
+    "authors": [
+      "Yang Z",
+      "Huang Y",
+      "Wang S",
+      "Zheng W",
+      "Xiao Y",
+      "Zhang J"
+    ],
+    "lastauthor": "Zhang J",
+    "sortfirstauthor": "Yang Z",
+    "journal": "European journal of preventive cardiology",
+    "issn": "2047-4873",
+    "essn": "2047-4881",
+    "doi": "pii: zwaf515. doi: 10.1093/eurjpc/zwaf515",
+    "sortpubdate": "2025/08/29 00:00",
+    "epubdate": "2025 Aug 29"
+  },
+  {
+    "name": "NHANES",
+    "id": "40876653",
+    "title": "Letter to the editor: \"Association between overactive bladder and depression in American adults a cross-sectional study from NHANES 2005-2018\".",
+    "source": "J Affect Disord",
+    "pubdate": "2025 Aug 26",
+    "authors": [
+      "Sun Y",
+      "Huang Y",
+      "Zhang Y",
+      "Jin F"
+    ],
+    "lastauthor": "Jin F",
+    "sortfirstauthor": "Sun Y",
+    "journal": "Journal of affective disorders",
+    "issn": "0165-0327",
+    "essn": "1573-2517",
+    "doi": "doi: 10.1016/j.jad.2025.120155",
+    "sortpubdate": "2025/08/26 00:00",
+    "epubdate": "2025 Aug 26"
   }
 ]
