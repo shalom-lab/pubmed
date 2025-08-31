@@ -1822,5 +1822,61 @@
     "doi": "pii: e1133. doi: 10.23938/ASSN.1133",
     "sortpubdate": "2025/08/29 00:00",
     "epubdate": "2025 Aug 29"
+  },
+  {
+    "name": "Nirsevimab effectiveness",
+    "id": "40872923",
+    "title": "Efficacy and Safety of Anti-Respiratory Syncytial Virus Monoclonal Antibody Nirsevimab in Neonates: A Real-World Monocentric Study.",
+    "source": "Vaccines (Basel)",
+    "pubdate": "2025 Aug 6",
+    "authors": [
+      "Costantino M",
+      "Marongiu MB",
+      "Corbo MG",
+      "Della Corte AM",
+      "Frascogna AR",
+      "Plantulli A",
+      "Campana F",
+      "Fortino L",
+      "Santoro E",
+      "Vozzella EA",
+      "Longanella W",
+      "Boccia G",
+      "Filippelli A",
+      "De Caro F"
+    ],
+    "lastauthor": "De Caro F",
+    "sortfirstauthor": "Costantino M",
+    "journal": "Vaccines",
+    "issn": "2076-393X",
+    "essn": "2076-393X",
+    "doi": "doi: 10.3390/vaccines13080838",
+    "sortpubdate": "2025/08/06 00:00",
+    "epubdate": "2025 Aug 6"
+  },
+  {
+    "name": "Nirsevimab effectiveness",
+    "id": "40872878",
+    "title": "The Number Needed to Immunize (NNI) to Assess the Benefit of a Prophylaxis Intervention with Monoclonal Antibodies Against RSV.",
+    "source": "Vaccines (Basel)",
+    "pubdate": "2025 Jul 25",
+    "authors": [
+      "Boccalini S",
+      "Gironi V",
+      "Buscemi P",
+      "Bonanni P",
+      "Muzii B",
+      "Parisi S",
+      "Borchiellini M",
+      "Bechini A"
+    ],
+    "lastauthor": "Bechini A",
+    "sortfirstauthor": "Boccalini S",
+    "journal": "Vaccines",
+    "issn": "2076-393X",
+    "essn": "2076-393X",
+    "doi": "doi: 10.3390/vaccines13080791",
+    "sortpubdate": "2025/07/25 00:00",
+    "epubdate": "2025 Jul 25"
   }
 ]

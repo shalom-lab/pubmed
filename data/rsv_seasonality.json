@@ -2101,5 +2101,56 @@
     "doi": "pii: 748. doi: 10.3390/pathogens14080748",
     "sortpubdate": "2025/07/30 00:00",
     "epubdate": "2025 Jul 30"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "40872755",
+    "title": "Respiratory Virus Prevalence Across Pre-, During-, and Post-SARS-CoV-2 Pandemic Periods.",
+    "source": "Viruses",
+    "pubdate": "2025 Jul 25",
+    "authors": [
+      "Manno M",
+      "Pavia G",
+      "Gigliotti S",
+      "Pantanella M",
+      "Barreca GS",
+      "Peronace C",
+      "Gallo L",
+      "Trimboli F",
+      "Colosimo E",
+      "Lamberti AG",
+      "Marascio N",
+      "Matera G",
+      "Quirino A"
+    ],
+    "lastauthor": "Quirino A",
+    "sortfirstauthor": "Manno M",
+    "journal": "Viruses",
+    "issn": "",
+    "essn": "1999-4915",
+    "doi": "doi: 10.3390/v17081040",
+    "sortpubdate": "2025/07/25 00:00",
+    "epubdate": "2025 Jul 25"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "40872258",
+    "title": "AI Methods Tailored to Influenza, RSV, HIV, and SARS-CoV-2: A Focused Review.",
+    "source": "Pathogens",
+    "pubdate": "2025 Jul 30",
+    "authors": [
+      "Livieratos A",
+      "Kagadis GC",
+      "Gogos C",
+      "Akinosoglou K"
+    ],
+    "lastauthor": "Akinosoglou K",
+    "sortfirstauthor": "Livieratos A",
+    "journal": "Pathogens (Basel, Switzerland)",
+    "issn": "",
+    "essn": "2076-0817",
+    "doi": "doi: 10.3390/pathogens14080748",
+    "sortpubdate": "2025/07/30 00:00",
+    "epubdate": "2025 Jul 30"
   }
 ]

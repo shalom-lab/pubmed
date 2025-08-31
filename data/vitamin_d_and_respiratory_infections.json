@@ -1578,5 +1578,55 @@
     "doi": "pii: 7975. doi: 10.3390/ijms26167975",
     "sortpubdate": "2025/08/18 00:00",
     "epubdate": "2025 Aug 18"
+  },
+  {
+    "name": "Vitamin D and respiratory infections",
+    "id": "40872275",
+    "title": "Influence of Sex and 1,25α Dihydroxyvitamin D(3) on SARS-CoV-2 Infection and Viral Entry.",
+    "source": "Pathogens",
+    "pubdate": "2025 Aug 2",
+    "authors": [
+      "Vercellino N",
+      "Ferrari A",
+      "Sammartino JC",
+      "Bellan M",
+      "Iskandar E",
+      "Lilleri D",
+      "Minisini R"
+    ],
+    "lastauthor": "Minisini R",
+    "sortfirstauthor": "Vercellino N",
+    "journal": "Pathogens (Basel, Switzerland)",
+    "issn": "",
+    "essn": "2076-0817",
+    "doi": "doi: 10.3390/pathogens14080765",
+    "sortpubdate": "2025/08/02 00:00",
+    "epubdate": "2025 Aug 2"
+  },
+  {
+    "name": "Vitamin D and respiratory infections",
+    "id": "40869297",
+    "title": "A Machine Learning Approach to Understanding the Genetic Role in COVID-19 Prognosis: The Influence of Gene Polymorphisms Related to Inflammation, Vitamin D, and ACE2.",
+    "source": "Int J Mol Sci",
+    "pubdate": "2025 Aug 18",
+    "authors": [
+      "Jaurrieta-Largo S",
+      "Miramontes-González JP",
+      "Corral-Gudino L",
+      "Gabella-Martín M",
+      "Pérez-Arroyo S",
+      "Torres AM",
+      "Mateo J",
+      "Pérez-Castrillón JL",
+      "Usategui-Martín R"
+    ],
+    "lastauthor": "Usategui-Martín R",
+    "sortfirstauthor": "Jaurrieta-Largo S",
+    "journal": "International journal of molecular sciences",
+    "issn": "",
+    "essn": "1422-0067",
+    "doi": "doi: 10.3390/ijms26167975",
+    "sortpubdate": "2025/08/18 00:00",
+    "epubdate": "2025 Aug 18"
   }
 ]

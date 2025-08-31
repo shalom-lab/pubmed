@@ -3151,7 +3151,8 @@
   {
     "source": "Bioengineering (Basel)",
     "journal": "Bioengineering (Basel, Switzerland)",
-    "issn": "2306-5354"
+    "issn": "2306-5354",
+    "essn": "2306-5354"
   },
   {
     "source": "J Travel Med",
@@ -3293,6 +3294,7 @@
   {
     "source": "Cancer Imaging",
     "journal": "Cancer imaging : the official publication of the International Cancer Imaging Society",
+    "issn": "1740-5025",
     "essn": "1470-7330"
   },
   {
@@ -5575,11 +5577,13 @@
   {
     "source": "Pharmaceuticals (Basel)",
     "journal": "Pharmaceuticals (Basel, Switzerland)",
-    "issn": "1424-8247"
+    "issn": "1424-8247",
+    "essn": "1424-8247"
   },
   {
     "source": "Int J Environ Res Public Health",
     "journal": "International journal of environmental research and public health",
+    "issn": "1661-7827",
     "essn": "1660-4601"
   },
   {
@@ -5703,5 +5707,50 @@
     "journal": "Journal of infection and chemotherapy : official journal of the Japan Society of Chemotherapy",
     "issn": "1341-321X",
     "essn": "1437-7780"
+  },
+  {
+    "source": "Neurol Sci",
+    "journal": "Neurological sciences : official journal of the Italian Neurological Society and of the Italian Society of Clinical Neurophysiology",
+    "issn": "1590-1874",
+    "essn": "1590-3478"
+  },
+  {
+    "source": "J Knee Surg",
+    "journal": "The journal of knee surgery",
+    "issn": "1538-8506",
+    "essn": "1938-2480"
+  },
+  {
+    "source": "J Adv Res",
+    "journal": "Journal of advanced research",
+    "essn": "2090-1224"
+  },
+  {
+    "source": "Am J Med Sci",
+    "journal": "The American journal of the medical sciences",
+    "issn": "0002-9629",
+    "essn": "1538-2990"
+  },
+  {
+    "source": "Asian J Psychiatr",
+    "journal": "Asian journal of psychiatry",
+    "issn": "1876-2018",
+    "essn": "1876-2026"
+  },
+  {
+    "source": "J Gynecol Obstet Hum Reprod",
+    "journal": "Journal of gynecology obstetrics and human reproduction",
+    "essn": "2468-7847"
+  },
+  {
+    "source": "Lancet Haematol",
+    "journal": "The Lancet. Haematology",
+    "essn": "2352-3026"
+  },
+  {
+    "source": "Lancet Respir Med",
+    "journal": "The Lancet. Respiratory medicine",
+    "issn": "2213-2600",
+    "essn": "2213-2619"
   }
 ]
