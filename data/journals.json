@@ -3859,6 +3859,7 @@
   {
     "source": "Mil Med Res",
     "journal": "Military Medical Research",
+    "issn": "2095-7467",
     "essn": "2054-9369"
   },
   {
@@ -5255,7 +5256,8 @@
   {
     "source": "NPJ Parkinsons Dis",
     "journal": "NPJ Parkinson's disease",
-    "issn": "2373-8057"
+    "issn": "2373-8057",
+    "essn": "2373-8057"
   },
   {
     "source": "J Microbiol Immunol Infect",
@@ -5624,7 +5626,8 @@
   {
     "source": "IEEE Trans Autom Sci Eng",
     "journal": "IEEE transactions on automation science and engineering : a publication of the IEEE Robotics and Automation Society",
-    "issn": "1545-5955"
+    "issn": "1545-5955",
+    "essn": "1558-3783"
   },
   {
     "source": "Environ Sci Technol",
@@ -5752,5 +5755,17 @@
     "journal": "The Lancet. Respiratory medicine",
     "issn": "2213-2600",
     "essn": "2213-2619"
+  },
+  {
+    "source": "J Neurol",
+    "journal": "Journal of neurology",
+    "issn": "0340-5354",
+    "essn": "1432-1459"
+  },
+  {
+    "source": "Surgery",
+    "journal": "Surgery",
+    "issn": "0039-6060",
+    "essn": "1532-7361"
   }
 ]

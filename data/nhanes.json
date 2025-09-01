@@ -19973,7 +19973,7 @@
     "sortfirstauthor": "Yang Z",
     "journal": "International journal of ophthalmology",
     "issn": "2222-3959",
-    "essn": "",
+    "essn": "2227-4898",
     "doi": "doi: 10.18240/ijo.2025.09.16",
     "sortpubdate": "2025/09/18 00:00",
     "epubdate": "2025 Sep 18"
@@ -20016,7 +20016,7 @@
     "sortfirstauthor": "Zhu JH",
     "journal": "Frontiers in nutrition",
     "issn": "2296-861X",
-    "essn": "",
+    "essn": "2296-861X",
     "doi": "doi: 10.3389/fnut.2025.1612199",
     "sortpubdate": "2025/08/13 00:00",
     "epubdate": "2025 Aug 13"
@@ -20193,7 +20193,7 @@
     "sortfirstauthor": "Lin X",
     "journal": "Diabetology & metabolic syndrome",
     "issn": "1758-5996",
-    "essn": "",
+    "essn": "1758-5996",
     "doi": "doi: 10.1186/s13098-025-01926-y",
     "sortpubdate": "2025/08/29 00:00",
     "epubdate": "2025 Aug 29"
@@ -20272,7 +20272,7 @@
   {
     "name": "NHANES",
     "id": "40882899",
-    "title": "Association Between Number of Missing Teeth and Stroke Risk: An Analysis of NHANES 2011-2020 Data.",
+    "title": "Association between number of missing teeth and stroke risk: an analysis of NHANES 2011-2020 data.",
     "source": "J Stroke Cerebrovasc Dis",
     "pubdate": "2025 Aug 27",
     "authors": [
@@ -20655,5 +20655,50 @@
     "doi": "doi: 10.1186/s12890-025-03878-5",
     "sortpubdate": "2025/08/28 00:00",
     "epubdate": "2025 Aug 28"
+  },
+  {
+    "name": "NHANES",
+    "id": "40886428",
+    "title": "Dietary vitamin E intake is associated with lower mortality among individuals with metabolic dysfunction-associated steatotic liver disease.",
+    "source": "Nutr Res",
+    "pubdate": "2025 Aug 6",
+    "authors": [
+      "Peng Y",
+      "Wu W",
+      "Chen L",
+      "Xu C",
+      "Xiong X"
+    ],
+    "lastauthor": "Xiong X",
+    "sortfirstauthor": "Peng Y",
+    "journal": "Nutrition research (New York, N.Y.)",
+    "issn": "0271-5317",
+    "essn": "1879-0739",
+    "doi": "doi: 10.1016/j.nutres.2025.08.001",
+    "sortpubdate": "2025/08/06 00:00",
+    "epubdate": "2025 Aug 6"
+  },
+  {
+    "name": "NHANES",
+    "id": "40886263",
+    "title": "The association between frailty index and all-cause mortality in US individuals with kidney stones: mediation by systemic immune-inflammation (SII) index.",
+    "source": "Urolithiasis",
+    "pubdate": "2025 Aug 31",
+    "authors": [
+      "Liu S",
+      "Dai Y",
+      "Meng Y",
+      "Zhang J",
+      "Sun X",
+      "Jia Y"
+    ],
+    "lastauthor": "Jia Y",
+    "sortfirstauthor": "Liu S",
+    "journal": "Urolithiasis",
+    "issn": "2194-7228",
+    "essn": "2194-7236",
+    "doi": "doi: 10.1007/s00240-025-01837-7",
+    "sortpubdate": "2025/08/31 00:00",
+    "epubdate": "2025 Aug 31"
   }
 ]

@@ -1866,7 +1866,7 @@
     "pubdate": "2025",
     "authors": [
       "Gil-Prieto R",
-      "Pérez-Martín J",
+      "Pérez-Mart��n J",
       "Díaz Aguiló A",
       "Soudani S",
       "Platero-Alonso L",
@@ -2333,5 +2333,27 @@
     "doi": "doi: 10.3390/pathogens14080748",
     "sortpubdate": "2025/07/30 00:00",
     "epubdate": "2025 Jul 30"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "40885786",
+    "title": "Unraveling the role of viral interference in disrupting biennial RSV epidemics in northern Stockholm.",
+    "source": "Nat Commun",
+    "pubdate": "2025 Aug 30",
+    "authors": [
+      "Li K",
+      "Hamrin J",
+      "Nilsson A",
+      "Weinberger DM",
+      "Pitzer VE"
+    ],
+    "lastauthor": "Pitzer VE",
+    "sortfirstauthor": "Li K",
+    "journal": "Nature communications",
+    "issn": "",
+    "essn": "2041-1723",
+    "doi": "doi: 10.1038/s41467-025-63654-1",
+    "sortpubdate": "2025/08/30 00:00",
+    "epubdate": "2025 Aug 30"
   }
 ]
