@@ -20700,5 +20700,115 @@
     "doi": "doi: 10.1007/s00240-025-01837-7",
     "sortpubdate": "2025/08/31 00:00",
     "epubdate": "2025 Aug 31"
+  },
+  {
+    "name": "NHANES",
+    "id": "40888479",
+    "title": "Associations between total cholesterol/high-density lipoprotein cholesterol (HDL), triglyceride/HDL, neutrophil/HDL, lymphocyte/HDL, platelet/HDL, and cognitive function of older adults: An NHANES analysis.",
+    "source": "J Alzheimers Dis",
+    "pubdate": "2025 Sep 1",
+    "authors": [
+      "Wang PN",
+      "Peng SW",
+      "Lin SY",
+      "Chow LH"
+    ],
+    "lastauthor": "Chow LH",
+    "sortfirstauthor": "Wang PN",
+    "journal": "Journal of Alzheimer's disease : JAD",
+    "issn": "1387-2877",
+    "essn": "1875-8908",
+    "doi": "doi: 10.1177/13872877251364562",
+    "sortpubdate": "2025/09/01 00:00",
+    "epubdate": "2025 Sep 1"
+  },
+  {
+    "name": "NHANES",
+    "id": "40887663",
+    "title": "Nutritional-inflammatory balance assessed by advanced lung cancer inflammation index and its association with all-cause mortality in coronary heart disease : a retrospective cohort study.",
+    "source": "J Health Popul Nutr",
+    "pubdate": "2025 Aug 31",
+    "authors": [
+      "Peng J",
+      "Xiang J",
+      "Hu J",
+      "Chen Z",
+      "Wu F"
+    ],
+    "lastauthor": "Wu F",
+    "sortfirstauthor": "Peng J",
+    "journal": "Journal of health, population, and nutrition",
+    "issn": "1606-0997",
+    "essn": "2072-1315",
+    "doi": "doi: 10.1186/s41043-025-01063-2",
+    "sortpubdate": "2025/08/31 00:00",
+    "epubdate": "2025 Aug 31"
+  },
+  {
+    "name": "NHANES",
+    "id": "40887362",
+    "title": "Obstructive sleep apnea and metabolic-associated fatty liver disease risk: Insights from National Health and Nutrition Examination Survey and Mendelian randomization analysis.",
+    "source": "Nutr Metab Cardiovasc Dis",
+    "pubdate": "2025 Jul 26",
+    "authors": [
+      "Beibei C",
+      "Junhai Z",
+      "Zongbiao T",
+      "Fang P"
+    ],
+    "lastauthor": "Fang P",
+    "sortfirstauthor": "Beibei C",
+    "journal": "Nutrition, metabolism, and cardiovascular diseases : NMCD",
+    "issn": "0939-4753",
+    "essn": "1590-3729",
+    "doi": "doi: 10.1016/j.numecd.2025.104265",
+    "sortpubdate": "2025/07/26 00:00",
+    "epubdate": "2025 Jul 26"
+  },
+  {
+    "name": "NHANES",
+    "id": "40884305",
+    "title": "Age-Varying Patterns of Total Cholesterol by Modifiable Lifestyle Factors Across Mid to Late Adulthood: Applying Time-Varying Effect Modeling.",
+    "source": "Am J Hum Biol",
+    "pubdate": "2025 Sep",
+    "authors": [
+      "Song J",
+      "Kim H",
+      "Lee S",
+      "Keller JL",
+      "Jung M"
+    ],
+    "lastauthor": "Jung M",
+    "sortfirstauthor": "Song J",
+    "journal": "American journal of human biology : the official journal of the Human Biology Council",
+    "issn": "1042-0533",
+    "essn": "1520-6300",
+    "doi": "doi: 10.1002/ajhb.70132",
+    "sortpubdate": "2025/09/01 00:00",
+    "epubdate": ""
+  },
+  {
+    "name": "NHANES",
+    "id": "40878374",
+    "title": "Association Between Weekend Catch-Up Sleep and Depression: Evidence From the 2017-2018 National Health and Nutrition Examination Survey.",
+    "source": "Psychiatry Investig",
+    "pubdate": "2025 Sep 1",
+    "authors": [
+      "Cai W",
+      "Lai Z",
+      "Huang S",
+      "Xiao F",
+      "Liu X",
+      "Zhao Y",
+      "Luo Y"
+    ],
+    "lastauthor": "Luo Y",
+    "sortfirstauthor": "Cai W",
+    "journal": "Psychiatry investigation",
+    "issn": "1738-3684",
+    "essn": "",
+    "doi": "doi: 10.30773/pi.2024.0252",
+    "sortpubdate": "2025/09/01 00:00",
+    "epubdate": "2025 Sep 1"
   }
 ]
