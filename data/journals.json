@@ -5143,6 +5143,7 @@
   {
     "source": "NCHS Data Brief",
     "journal": "NCHS data brief",
+    "issn": "1941-4927",
     "essn": "1941-4935"
   },
   {
@@ -5841,5 +5842,88 @@
     "journal": "American journal of human biology : the official journal of the Human Biology Council",
     "issn": "1042-0533",
     "essn": "1520-6300"
+  },
+  {
+    "source": "Magn Reson Imaging",
+    "journal": "Magnetic resonance imaging",
+    "issn": "0730-725X",
+    "essn": "1873-5894"
+  },
+  {
+    "source": "Lancet",
+    "journal": "Lancet (London, England)",
+    "issn": "0140-6736",
+    "essn": "1474-547X"
+  },
+  {
+    "source": "JMIR Mhealth Uhealth",
+    "journal": "JMIR mHealth and uHealth",
+    "essn": "2291-5222"
+  },
+  {
+    "source": "J Geriatr Cardiol",
+    "journal": "Journal of geriatric cardiology : JGC",
+    "issn": "1671-5411"
+  },
+  {
+    "source": "Aging Med (Milton)",
+    "journal": "Aging medicine (Milton (N.S.W))",
+    "essn": "2475-0360"
+  },
+  {
+    "source": "Eur J Radiol Open",
+    "journal": "European journal of radiology open",
+    "issn": "2352-0477"
+  },
+  {
+    "source": "Glob Health Med",
+    "journal": "Global health & medicine",
+    "issn": "2434-9186",
+    "essn": "2434-9194"
+  },
+  {
+    "source": "Acta Pharm Sin B",
+    "journal": "Acta pharmaceutica Sinica. B",
+    "issn": "2211-3835"
+  },
+  {
+    "source": "Glob Ment Health (Camb)",
+    "journal": "Global mental health (Cambridge, England)",
+    "issn": "2054-4251"
+  },
+  {
+    "source": "Evid Based Pract Child Adolesc Ment Health",
+    "journal": "Evidence-based practice in child and adolescent mental health",
+    "issn": "2379-4925"
+  },
+  {
+    "source": "Int J Cardiol Cardiovasc Risk Prev",
+    "journal": "International journal of cardiology. Cardiovascular risk and prevention",
+    "essn": "2772-4875"
+  },
+  {
+    "source": "NPJ Aging",
+    "journal": "npj aging",
+    "essn": "2731-6068"
+  },
+  {
+    "source": "Ann Appl Stat",
+    "journal": "The annals of applied statistics",
+    "issn": "1932-6157"
+  },
+  {
+    "source": "J Clin Transl Endocrinol",
+    "journal": "Journal of clinical & translational endocrinology",
+    "essn": "2214-6237"
+  },
+  {
+    "source": "Innov Aging",
+    "journal": "Innovation in aging",
+    "essn": "2399-5300"
+  },
+  {
+    "source": "Metabol Open",
+    "journal": "Metabolism open",
+    "essn": "2589-9368"
   }
 ]

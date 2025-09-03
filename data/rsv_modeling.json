@@ -2117,7 +2117,7 @@
     "id": "40825496",
     "title": "The dynamics of common respiratory pathogens in southern china under the context of COVID-19 pandemic and prediction of mycoplasma pneumonia (2018-2023).",
     "source": "J Virol Methods",
-    "pubdate": "2025 Aug 16",
+    "pubdate": "2025 Dec",
     "authors": [
       "Zeng L",
       "Wang Y",
@@ -2132,7 +2132,7 @@
     "issn": "0166-0934",
     "essn": "1879-0984",
     "doi": "doi: 10.1016/j.jviromet.2025.115240",
-    "sortpubdate": "2025/08/16 00:00",
+    "sortpubdate": "2025/12/01 00:00",
     "epubdate": "2025 Aug 16"
   },
   {
@@ -2271,7 +2271,7 @@
   {
     "name": "RSV modeling",
     "id": "40876754",
-    "title": "Factors Associated with Respiratory Syncytial Virus-Neutralizing Antibody Titers in Adults.",
+    "title": "Factors associated with respiratory syncytial virus-neutralizing antibody titers in adults.",
     "source": "J Infect Chemother",
     "pubdate": "2025 Aug 26",
     "authors": [
@@ -2355,5 +2355,28 @@
     "doi": "doi: 10.1038/s41467-025-63654-1",
     "sortpubdate": "2025/08/30 00:00",
     "epubdate": "2025 Aug 30"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "40894166",
+    "title": "Seasonality and Trends in Stevens-Johnson Syndrome/Toxic Epidermal Necrolysis Before and During the COVID-19 Pandemic: A Pharmacovigilance Study.",
+    "source": "medRxiv",
+    "pubdate": "2025 Aug 24",
+    "authors": [
+      "Mukherjee EM",
+      "Park D",
+      "Krantz MS",
+      "Stone CA",
+      "Martin-Pozo M",
+      "Phillips E"
+    ],
+    "lastauthor": "Phillips E",
+    "sortfirstauthor": "Mukherjee EM",
+    "journal": "medRxiv : the preprint server for health sciences",
+    "issn": "",
+    "essn": "",
+    "doi": "pii: 2025.08.20.25331677. doi: 10.1101/2025.08.20.25331677",
+    "sortpubdate": "2025/08/24 00:00",
+    "epubdate": "2025 Aug 24"
   }
 ]
