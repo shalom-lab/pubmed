@@ -2412,5 +2412,24 @@
     "doi": "pii: kwaf154. doi: 10.1093/aje/kwaf154",
     "sortpubdate": "2025/08/29 00:00",
     "epubdate": "2025 Aug 29"
+  },
+  {
+    "name": "American Journal of Epidemiology",
+    "id": "40899648",
+    "title": "REFINE2: A simplified simulation tool to help epidemiologists evaluate the suitability and sensitivity of effect estimation within user-specified data.",
+    "source": "Am J Epidemiol",
+    "pubdate": "2025 Sep 3",
+    "authors": [
+      "Meng X",
+      "Huang JY"
+    ],
+    "lastauthor": "Huang JY",
+    "sortfirstauthor": "Meng X",
+    "journal": "American journal of epidemiology",
+    "issn": "0002-9262",
+    "essn": "1476-6256",
+    "doi": "pii: kwaf195. doi: 10.1093/aje/kwaf195",
+    "sortpubdate": "2025/09/03 00:00",
+    "epubdate": "2025 Sep 3"
   }
 ]

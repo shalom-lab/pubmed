@@ -2378,5 +2378,33 @@
     "doi": "pii: 2025.08.20.25331677. doi: 10.1101/2025.08.20.25331677",
     "sortpubdate": "2025/08/24 00:00",
     "epubdate": "2025 Aug 24"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "40898134",
+    "title": "Repeated introductions and widespread transmission of human metapneumovirus in Côte d'Ivoire.",
+    "source": "BMC Infect Dis",
+    "pubdate": "2025 Sep 2",
+    "authors": [
+      "Kadjo HA",
+      "Khan SM",
+      "Tamim S",
+      "Ar Gouilh M",
+      "Adagba M",
+      "Adjogoua E",
+      "Coulibaly D",
+      "Vabret A",
+      "Cherry JL",
+      "Nelson MI",
+      "Trovão NS"
+    ],
+    "lastauthor": "Trovão NS",
+    "sortfirstauthor": "Kadjo HA",
+    "journal": "BMC infectious diseases",
+    "issn": "",
+    "essn": "1471-2334",
+    "doi": "doi: 10.1186/s12879-025-11512-2",
+    "sortpubdate": "2025/09/02 00:00",
+    "epubdate": "2025 Sep 2"
   }
 ]

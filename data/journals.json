@@ -5889,12 +5889,14 @@
   {
     "source": "Glob Ment Health (Camb)",
     "journal": "Global mental health (Cambridge, England)",
-    "issn": "2054-4251"
+    "issn": "2054-4251",
+    "essn": "2054-4251"
   },
   {
     "source": "Evid Based Pract Child Adolesc Ment Health",
     "journal": "Evidence-based practice in child and adolescent mental health",
-    "issn": "2379-4925"
+    "issn": "2379-4925",
+    "essn": "2379-4933"
   },
   {
     "source": "Int J Cardiol Cardiovasc Risk Prev",
@@ -5909,7 +5911,8 @@
   {
     "source": "Ann Appl Stat",
     "journal": "The annals of applied statistics",
-    "issn": "1932-6157"
+    "issn": "1932-6157",
+    "essn": "1941-7330"
   },
   {
     "source": "J Clin Transl Endocrinol",
@@ -5925,5 +5928,54 @@
     "source": "Metabol Open",
     "journal": "Metabolism open",
     "essn": "2589-9368"
+  },
+  {
+    "source": "Arch Gerontol Geriatr",
+    "journal": "Archives of gerontology and geriatrics",
+    "issn": "0167-4943",
+    "essn": "1872-6976"
+  },
+  {
+    "source": "J Diabetes Complications",
+    "journal": "Journal of diabetes and its complications",
+    "issn": "1056-8727",
+    "essn": "1873-460X"
+  },
+  {
+    "source": "Aging Dis",
+    "journal": "Aging and disease",
+    "essn": "2152-5250"
+  },
+  {
+    "source": "J Am Med Inform Assoc",
+    "journal": "Journal of the American Medical Informatics Association : JAMIA",
+    "issn": "1067-5027",
+    "essn": "1527-974X"
+  },
+  {
+    "source": "Int Orthop",
+    "journal": "International orthopaedics",
+    "issn": "0341-2695",
+    "essn": "1432-5195"
+  },
+  {
+    "source": "Zhongguo Gu Shang",
+    "journal": "Zhongguo gu shang = China journal of orthopaedics and traumatology",
+    "issn": "1003-0034"
+  },
+  {
+    "source": "Front Nephrol",
+    "journal": "Frontiers in nephrology",
+    "essn": "2813-0626"
+  },
+  {
+    "source": "Clin Kidney J",
+    "journal": "Clinical kidney journal",
+    "issn": "2048-8505"
+  },
+  {
+    "source": "Prev Nutr Food Sci",
+    "journal": "Preventive nutrition and food science",
+    "issn": "2287-1098"
   }
 ]
