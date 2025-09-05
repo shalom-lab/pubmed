@@ -5971,11 +5971,97 @@
   {
     "source": "Clin Kidney J",
     "journal": "Clinical kidney journal",
-    "issn": "2048-8505"
+    "issn": "2048-8505",
+    "essn": "2048-8513"
   },
   {
     "source": "Prev Nutr Food Sci",
     "journal": "Preventive nutrition and food science",
-    "issn": "2287-1098"
+    "issn": "2287-1098",
+    "essn": "2287-8602"
+  },
+  {
+    "source": "Adv Skin Wound Care",
+    "journal": "Advances in skin & wound care",
+    "issn": "1527-7941",
+    "essn": "1538-8654"
+  },
+  {
+    "source": "Inflamm Res",
+    "journal": "Inflammation research : official journal of the European Histamine Research Society ... [et al.]",
+    "issn": "1023-3830",
+    "essn": "1420-908X"
+  },
+  {
+    "source": "J Cancer Res Ther",
+    "journal": "Journal of cancer research and therapeutics",
+    "essn": "1998-4138"
+  },
+  {
+    "source": "Interdiscip Cardiovasc Thorac Surg",
+    "journal": "Interdisciplinary cardiovascular and thoracic surgery",
+    "essn": "2753-670X"
+  },
+  {
+    "source": "Scand J Clin Lab Invest",
+    "journal": "Scandinavian journal of clinical and laboratory investigation",
+    "issn": "0036-5513",
+    "essn": "1502-7686"
+  },
+  {
+    "source": "Neurodegener Dis Manag",
+    "journal": "Neurodegenerative disease management",
+    "issn": "1758-2024",
+    "essn": "1758-2032"
+  },
+  {
+    "source": "Connect Tissue Res",
+    "journal": "Connective tissue research",
+    "issn": "0300-8207",
+    "essn": "1607-8438"
+  },
+  {
+    "source": "Neural Regen Res",
+    "journal": "Neural regeneration research",
+    "issn": "1673-5374"
+  },
+  {
+    "source": "Zhonghua Kou Qiang Yi Xue Za Zhi",
+    "journal": "Zhonghua kou qiang yi xue za zhi = Zhonghua kouqiang yixue zazhi = Chinese journal of stomatology",
+    "issn": "1002-0098"
+  },
+  {
+    "source": "MedComm (2020)",
+    "journal": "MedComm",
+    "essn": "2688-2663"
+  },
+  {
+    "source": "Inj Prev",
+    "journal": "Injury prevention : journal of the International Society for Child and Adolescent Injury Prevention",
+    "issn": "1353-8047",
+    "essn": "1475-5785"
+  },
+  {
+    "source": "Hepatol Commun",
+    "journal": "Hepatology communications",
+    "essn": "2471-254X"
+  },
+  {
+    "source": "Low Urin Tract Symptoms",
+    "journal": "Lower urinary tract symptoms",
+    "issn": "1757-5664",
+    "essn": "1757-5672"
+  },
+  {
+    "source": "J Hum Hypertens",
+    "journal": "Journal of human hypertension",
+    "issn": "0950-9240",
+    "essn": "1476-5527"
+  },
+  {
+    "source": "Heart Lung Circ",
+    "journal": "Heart, lung & circulation",
+    "issn": "1443-9506",
+    "essn": "1444-2892"
   }
 ]
