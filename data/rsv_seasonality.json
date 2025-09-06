@@ -4,7 +4,7 @@
     "id": "40651496",
     "title": "Disproportionate Impact of Respiratory Syncytial Virus (RSV) Among Older Adults in Long-Term Care Settings.",
     "source": "J Am Med Dir Assoc",
-    "pubdate": "2025 Jul 24",
+    "pubdate": "2025 Sep",
     "authors": [
       "Popham K",
       "St George K",
@@ -18,7 +18,7 @@
     "issn": "1525-8610",
     "essn": "1538-9375",
     "doi": "doi: 10.1016/j.jamda.2025.105760",
-    "sortpubdate": "2025/07/24 00:00",
+    "sortpubdate": "2025/09/01 00:00",
     "epubdate": "2025 Jul 24"
   },
   {
@@ -2152,5 +2152,50 @@
     "doi": "doi: 10.3390/pathogens14080748",
     "sortpubdate": "2025/07/30 00:00",
     "epubdate": "2025 Jul 30"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "40908018",
+    "title": "Influenza and respiratory syncytial virus dynamics in Lao PDR during the COVID-19 pandemic: a hospital-based surveillance study.",
+    "source": "BMJ Open",
+    "pubdate": "2025 Sep 4",
+    "authors": [
+      "Phommasone K",
+      "Chommanam D",
+      "Christy NC",
+      "Yiaye T",
+      "Phoutthavong S",
+      "Keomoukda P",
+      "Thammavong S",
+      "Bounphiengsy T",
+      "Lathsachack T",
+      "Boutthasavong L",
+      "Vidhamaly V",
+      "Sibounheuang B",
+      "Phonemixay O",
+      "Panapruksachat S",
+      "Praphasiri V",
+      "Keomany S",
+      "Chaleunphon B",
+      "Douangdala P",
+      "Robinson MT",
+      "Batty EM",
+      "Vongsouvath M",
+      "Wiley MR",
+      "Wiley JD",
+      "Chapman RC",
+      "Letizia AG",
+      "Mayxay M",
+      "Dubot-Pérès A",
+      "Ashley EA"
+    ],
+    "lastauthor": "Ashley EA",
+    "sortfirstauthor": "Phommasone K",
+    "journal": "BMJ open",
+    "issn": "",
+    "essn": "2044-6055",
+    "doi": "doi: 10.1136/bmjopen-2024-098006",
+    "sortpubdate": "2025/09/04 00:00",
+    "epubdate": "2025 Sep 4"
   }
 ]
