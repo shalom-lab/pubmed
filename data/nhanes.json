@@ -22677,9 +22677,9 @@
       "Wang Q",
       "Li Y",
       "Yu H",
-      "Zhao D"
+      "Dong Z"
     ],
-    "lastauthor": "Zhao D",
+    "lastauthor": "Dong Z",
     "sortfirstauthor": "Kang K",
     "journal": "Experimental gerontology",
     "issn": "0531-5565",
@@ -22782,5 +22782,24 @@
     "doi": "doi: 10.1097/HC9.0000000000000806",
     "sortpubdate": "2025/09/05 00:00",
     "epubdate": "2025 Sep 5"
+  },
+  {
+    "name": "NHANES",
+    "id": "40913899",
+    "title": "Trends in mean serum insulin and hyperinsulinemia among US adults without diabetes 1999-2018.",
+    "source": "J Diabetes Complications",
+    "pubdate": "2025 Aug 28",
+    "authors": [
+      "Johnson TM",
+      "Churilla JR"
+    ],
+    "lastauthor": "Churilla JR",
+    "sortfirstauthor": "Johnson TM",
+    "journal": "Journal of diabetes and its complications",
+    "issn": "1056-8727",
+    "essn": "1873-460X",
+    "doi": "doi: 10.1016/j.jdiacomp.2025.109159",
+    "sortpubdate": "2025/08/28 00:00",
+    "epubdate": "2025 Aug 28"
   }
 ]
