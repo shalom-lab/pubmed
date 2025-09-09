@@ -2221,5 +2221,30 @@
     "doi": "doi: 10.1007/s40121-025-01220-4",
     "sortpubdate": "2025/09/05 00:00",
     "epubdate": "2025 Sep 5"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "40915960",
+    "title": "Changing in epidemiology of respiratory syncytial virus infection among children younger than 5 years old during COVID-19 pandemic in northern Taiwan.",
+    "source": "J Microbiol Immunol Infect",
+    "pubdate": "2025 Sep 2",
+    "authors": [
+      "Pai SY",
+      "Chi H",
+      "Chang CJ",
+      "Chiu NC",
+      "Huang CY",
+      "Huang DT",
+      "Chang L",
+      "Kung YH"
+    ],
+    "lastauthor": "Kung YH",
+    "sortfirstauthor": "Pai SY",
+    "journal": "Journal of microbiology, immunology, and infection = Wei mian yu gan ran za zhi",
+    "issn": "1684-1182",
+    "essn": "1995-9133",
+    "doi": "pii: S1684-1182(25)00188-4. doi: 10.1016/j.jmii.2025.09.002",
+    "sortpubdate": "2025/09/02 00:00",
+    "epubdate": "2025 Sep 2"
   }
 ]

@@ -2502,5 +2502,59 @@
     "doi": "pii: kwaf198. doi: 10.1093/aje/kwaf198",
     "sortpubdate": "2025/09/05 00:00",
     "epubdate": "2025 Sep 5"
+  },
+  {
+    "name": "American Journal of Epidemiology",
+    "id": "40916726",
+    "title": "Electronic Health Record (EHR) Enhanced Signal Detection Using Tree-Based Scan Statistic Methods.",
+    "source": "Am J Epidemiol",
+    "pubdate": "2025 Sep 8",
+    "authors": [
+      "Russo M",
+      "Kattinakere Sreedhara S",
+      "Smith J",
+      "Davis SE",
+      "Maro JC",
+      "Deramus T",
+      "Lii J",
+      "Yang J",
+      "Desai R",
+      "Hernández-Muñoz JJ",
+      "Ma Y",
+      "Wang Y",
+      "Jones JT",
+      "Wang SV"
+    ],
+    "lastauthor": "Wang SV",
+    "sortfirstauthor": "Russo M",
+    "journal": "American journal of epidemiology",
+    "issn": "0002-9262",
+    "essn": "1476-6256",
+    "doi": "pii: kwaf199. doi: 10.1093/aje/kwaf199",
+    "sortpubdate": "2025/09/08 00:00",
+    "epubdate": "2025 Sep 8"
+  },
+  {
+    "name": "American Journal of Epidemiology",
+    "id": "40916718",
+    "title": "Covariate adjustment in LGBTQ+ health disparities research: aligning methods with assumptions.",
+    "source": "Am J Epidemiol",
+    "pubdate": "2025 Sep 8",
+    "authors": [
+      "Reynolds CA",
+      "Chen JT",
+      "Chakraborty P",
+      "Chibnik LB",
+      "Rich-Edwards JW",
+      "Charlton BM"
+    ],
+    "lastauthor": "Charlton BM",
+    "sortfirstauthor": "Reynolds CA",
+    "journal": "American journal of epidemiology",
+    "issn": "0002-9262",
+    "essn": "1476-6256",
+    "doi": "pii: kwaf197. doi: 10.1093/aje/kwaf197",
+    "sortpubdate": "2025/09/08 00:00",
+    "epubdate": "2025 Sep 8"
   }
 ]

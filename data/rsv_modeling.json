@@ -2366,7 +2366,7 @@
       "Mukherjee EM",
       "Park D",
       "Krantz MS",
-      "Stone CA",
+      "Stone CA Jr",
       "Martin-Pozo M",
       "Phillips E"
     ],
@@ -2430,5 +2430,57 @@
     "doi": "doi: 10.1007/s40121-025-01220-4",
     "sortpubdate": "2025/09/05 00:00",
     "epubdate": "2025 Sep 5"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "40918203",
+    "title": "Random forest-based predictor selection and pneumonia risk probability assessment in acute respiratory infections: A cross-sectional study in Chongqing, China, 2023-2024.",
+    "source": "Biosaf Health",
+    "pubdate": "2025 Aug",
+    "authors": [
+      "Xu Y",
+      "Duan Y",
+      "Yang J",
+      "Jiang M",
+      "Sun Y",
+      "Cao Y",
+      "Qi L",
+      "Wu Z",
+      "Feng L"
+    ],
+    "lastauthor": "Feng L",
+    "sortfirstauthor": "Xu Y",
+    "journal": "Biosafety and health",
+    "issn": "2096-6962",
+    "essn": "2590-0536",
+    "doi": "doi: 10.1016/j.bsheal.2025.07.004",
+    "sortpubdate": "2025/07/11 00:00",
+    "epubdate": "2025 Jul 11"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "40916138",
+    "title": "Cost-Effectiveness Analysis of a Maternal Vaccination Program Against Respiratory Syncytial Virus in Norway.",
+    "source": "Influenza Other Respir Viruses",
+    "pubdate": "2025",
+    "authors": [
+      "Værnø SG",
+      "Oteiza F",
+      "Gillebo M",
+      "Havdal LB",
+      "Mwaura DN",
+      "Husby Ø",
+      "Solli O",
+      "Lie K",
+      "Bugge C"
+    ],
+    "lastauthor": "Bugge C",
+    "sortfirstauthor": "Værnø SG",
+    "journal": "Influenza and other respiratory viruses",
+    "issn": "1750-2640",
+    "essn": "1750-2659",
+    "doi": "doi: 10.1111/irv.70161",
+    "sortpubdate": "2025/01/01 00:00",
+    "epubdate": ""
   }
 ]
