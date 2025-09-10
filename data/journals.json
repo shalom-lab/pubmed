@@ -6240,7 +6240,8 @@
   {
     "source": "Clin Transl Allergy",
     "journal": "Clinical and translational allergy",
-    "issn": "2045-7022"
+    "issn": "2045-7022",
+    "essn": "2045-7022"
   },
   {
     "source": "J Thorac Imaging",
@@ -6325,12 +6326,43 @@
   {
     "source": "Ann Pediatr Endocrinol Metab",
     "journal": "Annals of pediatric endocrinology & metabolism",
-    "issn": "2287-1012"
+    "issn": "2287-1012",
+    "essn": "2287-1292"
   },
   {
     "source": "Biol Trace Elem Res",
     "journal": "Biological trace element research",
     "issn": "0163-4984",
     "essn": "1559-0720"
+  },
+  {
+    "source": "J Neurooncol",
+    "journal": "Journal of neuro-oncology",
+    "issn": "0167-594X",
+    "essn": "1573-7373"
+  },
+  {
+    "source": "Prog Mol Biol Transl Sci",
+    "journal": "Progress in molecular biology and translational science",
+    "issn": "1877-1173",
+    "essn": "1878-0814"
+  },
+  {
+    "source": "Inquiry",
+    "journal": "Inquiry : a journal of medical care organization, provision and financing",
+    "issn": "0046-9580",
+    "essn": "1945-7243"
+  },
+  {
+    "source": "J Occup Health",
+    "journal": "Journal of occupational health",
+    "issn": "1341-9145",
+    "essn": "1348-9585"
+  },
+  {
+    "source": "Mol Nutr Food Res",
+    "journal": "Molecular nutrition & food research",
+    "issn": "1613-4125",
+    "essn": "1613-4133"
   }
 ]

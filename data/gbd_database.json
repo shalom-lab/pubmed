@@ -15627,5 +15627,102 @@
     "doi": "doi: 10.1016/j.jad.2025.120201",
     "sortpubdate": "2025/09/05 00:00",
     "epubdate": "2025 Sep 5"
+  },
+  {
+    "name": "GBD database",
+    "id": "40924587",
+    "title": "Global burden of osteoarthritis in middle-aged adults (40-59 years): estimates from the global burden of disease 2021 study.",
+    "source": "Rheumatology (Oxford)",
+    "pubdate": "2025 Sep 9",
+    "authors": [
+      "Tang T",
+      "Liu C",
+      "Zhao L",
+      "Ma T",
+      "Gao C",
+      "Jiang J",
+      "Shu Z",
+      "Xiong Y",
+      "Liu C",
+      "Sun X",
+      "Zhu Y",
+      "Zhu H",
+      "Xiao J"
+    ],
+    "lastauthor": "Xiao J",
+    "sortfirstauthor": "Tang T",
+    "journal": "Rheumatology (Oxford, England)",
+    "issn": "1462-0324",
+    "essn": "1462-0332",
+    "doi": "pii: keaf475. doi: 10.1093/rheumatology/keaf475",
+    "sortpubdate": "2025/09/09 00:00",
+    "epubdate": "2025 Sep 9"
+  },
+  {
+    "name": "GBD database",
+    "id": "40923981",
+    "title": "Improving Access to Adult Hearing Care: A Retrospective Review of an Awareness Campaign and Community Hearing Test Service.",
+    "source": "Inquiry",
+    "pubdate": "2025 Jan-Dec",
+    "authors": [
+      "Sciberras A",
+      "Greenham P",
+      "D'Haese P"
+    ],
+    "lastauthor": "D'Haese P",
+    "sortfirstauthor": "Sciberras A",
+    "journal": "Inquiry : a journal of medical care organization, provision and financing",
+    "issn": "0046-9580",
+    "essn": "1945-7243",
+    "doi": "doi: 10.1177/00469580251372815",
+    "sortpubdate": "2025/01/01 00:00",
+    "epubdate": "2025 Sep 9"
+  },
+  {
+    "name": "GBD database",
+    "id": "40921795",
+    "title": "Global burden of diseases attributed to mental and substance use disorders in reproductive-age women: an ecological analysis for the Global Burden of Disease Study 2021.",
+    "source": "Mol Psychiatry",
+    "pubdate": "2025 Sep 8",
+    "authors": [
+      "Li C",
+      "Liang A",
+      "Kuang Y",
+      "Liu S",
+      "Yang X",
+      "Liu L",
+      "Hu Y",
+      "Yu H"
+    ],
+    "lastauthor": "Yu H",
+    "sortfirstauthor": "Li C",
+    "journal": "Molecular psychiatry",
+    "issn": "1359-4184",
+    "essn": "1476-5578",
+    "doi": "doi: 10.1038/s41380-025-03216-5",
+    "sortpubdate": "2025/09/08 00:00",
+    "epubdate": "2025 Sep 8"
+  },
+  {
+    "name": "GBD database",
+    "id": "40921279",
+    "title": "Global burden of early-onset atrial fibrillation and flutter: Population based study.",
+    "source": "Int J Cardiol",
+    "pubdate": "2025 Sep 6",
+    "authors": [
+      "Lu Y",
+      "Liu Y",
+      "Zhang Y",
+      "Wang H",
+      "Xia L"
+    ],
+    "lastauthor": "Xia L",
+    "sortfirstauthor": "Lu Y",
+    "journal": "International journal of cardiology",
+    "issn": "0167-5273",
+    "essn": "1874-1754",
+    "doi": "doi: 10.1016/j.ijcard.2025.133862",
+    "sortpubdate": "2025/09/06 00:00",
+    "epubdate": "2025 Sep 6"
   }
 ]
