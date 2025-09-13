@@ -1488,7 +1488,7 @@
     "id": "40712319",
     "title": "Sociodemographic disparities in COVID-19 and RSV vaccine uptake among California adults ≥60 years old who received influenza vaccination.",
     "source": "Vaccine",
-    "pubdate": "2025 Jul 24",
+    "pubdate": "2025 Aug 30",
     "authors": [
       "Rizzo KR",
       "Yen CJ",
@@ -1502,7 +1502,7 @@
     "issn": "0264-410X",
     "essn": "1873-2518",
     "doi": "doi: 10.1016/j.vaccine.2025.127535",
-    "sortpubdate": "2025/07/24 00:00",
+    "sortpubdate": "2025/08/30 00:00",
     "epubdate": "2025 Jul 24"
   },
   {
@@ -1756,7 +1756,7 @@
     "id": "40752249",
     "title": "Safety monitoring of Pfizer's Respiratory Syncytial Virus Vaccine in pregnant women in the Vaccine Adverse Event Reporting System (VAERS), 2023-2024, United States.",
     "source": "Vaccine",
-    "pubdate": "2025 Aug 1",
+    "pubdate": "2025 Aug 30",
     "authors": [
       "Moro PL",
       "Getahun A",
@@ -1774,8 +1774,8 @@
     "issn": "0264-410X",
     "essn": "1873-2518",
     "doi": "doi: 10.1016/j.vaccine.2025.127497",
-    "sortpubdate": "2025/08/01 00:00",
-    "epubdate": "2025 Aug 1"
+    "sortpubdate": "2025/08/30 00:00",
+    "epubdate": "2025 Aug 5"
   },
   {
     "name": "RSV seasonality",
@@ -2265,5 +2265,27 @@
     "doi": "doi: 10.36416/1806-3756/e20250068",
     "sortpubdate": "2025/09/08 00:00",
     "epubdate": "2025 Sep 8"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "40938866",
+    "title": "Respiratory virus infection dynamics and genomic surveillance to detect seasonal influenza subtypes in wastewater: A longitudinal study in Bengaluru, India.",
+    "source": "PLOS Glob Public Health",
+    "pubdate": "2025",
+    "authors": [
+      "Daroch N",
+      "Kannan SK",
+      "Srikantaiah V",
+      "Mishra R",
+      "Ishtiaq F"
+    ],
+    "lastauthor": "Ishtiaq F",
+    "sortfirstauthor": "Daroch N",
+    "journal": "PLOS global public health",
+    "issn": "",
+    "essn": "2767-3375",
+    "doi": "doi: 10.1371/journal.pgph.0004640",
+    "sortpubdate": "2025/09/12 00:00",
+    "epubdate": "2025 Sep 12"
   }
 ]
