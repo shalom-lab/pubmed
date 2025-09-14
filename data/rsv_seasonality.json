@@ -2287,5 +2287,61 @@
     "doi": "doi: 10.1371/journal.pgph.0004640",
     "sortpubdate": "2025/09/12 00:00",
     "epubdate": "2025 Sep 12"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "40944779",
+    "title": "Dynamics of RSV hospitalization rates in ≤ 2-year-old children between 2020-2023 in Europe.",
+    "source": "Eur J Pediatr",
+    "pubdate": "2025 Sep 13",
+    "authors": [
+      "Wildenbeest JG",
+      "Bont L",
+      "Cianci D",
+      "Azzari C",
+      "Brouard J",
+      "Calvo C",
+      "Cutrera R",
+      "Drysdale SB",
+      "Epaud R",
+      "Gupta A",
+      "Herting E",
+      "Liese J",
+      "Martinon-Torres F",
+      "Ruggieri M",
+      "Choi Y",
+      "BRICE Study Group"
+    ],
+    "lastauthor": "Choi Y",
+    "sortfirstauthor": "Wildenbeest JG",
+    "journal": "European journal of pediatrics",
+    "issn": "0340-6199",
+    "essn": "1432-1076",
+    "doi": "doi: 10.1007/s00431-025-06218-1",
+    "sortpubdate": "2025/09/13 00:00",
+    "epubdate": "2025 Sep 13"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "40944041",
+    "title": "Epidemiological Changes in Pediatric RSV Infections in Poland (2016-2024): Impact of the COVID-19 Pandemic.",
+    "source": "J Clin Med",
+    "pubdate": "2025 Sep 5",
+    "authors": [
+      "Blomberg A",
+      "Żak M",
+      "Koźba-Baranowska M",
+      "Tkaczyk M",
+      "Depczyk-Bukała M",
+      "Zeman K"
+    ],
+    "lastauthor": "Zeman K",
+    "sortfirstauthor": "Blomberg A",
+    "journal": "Journal of clinical medicine",
+    "issn": "2077-0383",
+    "essn": "",
+    "doi": "pii: 6284. doi: 10.3390/jcm14176284",
+    "sortpubdate": "2025/09/05 00:00",
+    "epubdate": "2025 Sep 5"
   }
 ]

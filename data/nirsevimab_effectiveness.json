@@ -1907,5 +1907,31 @@
     "doi": "pii: thorax-2025-223376. doi: 10.1136/thorax-2025-223376",
     "sortpubdate": "2025/09/10 00:00",
     "epubdate": "2025 Sep 10"
+  },
+  {
+    "name": "Nirsevimab effectiveness",
+    "id": "40939533",
+    "title": "Immunization acceptance after broad recommendation for RSV prophylaxis: Results from a cross-sectional study in Germany.",
+    "source": "Vaccine",
+    "pubdate": "2025 Sep 11",
+    "authors": [
+      "Wetzke M",
+      "Lange M",
+      "Beinhauer K",
+      "Röpe E",
+      "Borgmann J",
+      "Ritter S",
+      "Brodowski L",
+      "Müller F",
+      "Happle C"
+    ],
+    "lastauthor": "Happle C",
+    "sortfirstauthor": "Wetzke M",
+    "journal": "Vaccine",
+    "issn": "0264-410X",
+    "essn": "1873-2518",
+    "doi": "doi: 10.1016/j.vaccine.2025.127716",
+    "sortpubdate": "2025/09/11 00:00",
+    "epubdate": "2025 Sep 11"
   }
 ]

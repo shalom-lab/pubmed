@@ -6598,5 +6598,40 @@
     "journal": "Pharmaceutical statistics",
     "issn": "1539-1604",
     "essn": "1539-1612"
+  },
+  {
+    "source": "Gene",
+    "journal": "Gene",
+    "issn": "0378-1119",
+    "essn": "1879-0038"
+  },
+  {
+    "source": "Rev Port Cardiol",
+    "journal": "Revista portuguesa de cardiologia : orgao oficial da Sociedade Portuguesa de Cardiologia = Portuguese journal of cardiology : an official journal of the Portuguese Society of Cardiology",
+    "issn": "0870-2551",
+    "essn": "2174-2030"
+  },
+  {
+    "source": "Radiother Oncol",
+    "journal": "Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology",
+    "issn": "0167-8140",
+    "essn": "1879-0887"
+  },
+  {
+    "source": "Burns",
+    "journal": "Burns : journal of the International Society for Burn Injuries",
+    "issn": "0305-4179",
+    "essn": "1879-1409"
+  },
+  {
+    "source": "Aging Cell",
+    "journal": "Aging cell",
+    "issn": "1474-9718",
+    "essn": "1474-9726"
+  },
+  {
+    "source": "Mol Metab",
+    "journal": "Molecular metabolism",
+    "essn": "2212-8778"
   }
 ]
