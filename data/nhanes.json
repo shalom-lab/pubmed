@@ -24803,5 +24803,82 @@
     "doi": "doi: 10.1016/j.molmet.2025.102248",
     "sortpubdate": "2025/09/10 00:00",
     "epubdate": "2025 Sep 10"
+  },
+  {
+    "name": "NHANES",
+    "id": "40946303",
+    "title": "The impact of diet and lifestyle-related oxidative stress on asthma outcomes: a longitudinal NHANES analysis.",
+    "source": "Ann Med",
+    "pubdate": "2025 Dec",
+    "authors": [
+      "Zeng L",
+      "Qin R",
+      "Zhou T",
+      "Hu Q",
+      "Shi X",
+      "Wang W",
+      "Li J"
+    ],
+    "lastauthor": "Li J",
+    "sortfirstauthor": "Zeng L",
+    "journal": "Annals of medicine",
+    "issn": "0785-3890",
+    "essn": "1365-2060",
+    "doi": "doi: 10.1080/07853890.2025.2557518",
+    "sortpubdate": "2025/12/01 00:00",
+    "epubdate": "2025 Sep 14"
+  },
+  {
+    "name": "NHANES",
+    "id": "40946129",
+    "title": "Higher PHQ-9 score levels and neutrophil-to-lymphocyte ratio are associated with increased risks of stroke, all-cause mortality, and MACE in NHANES 2005-2018.",
+    "source": "BMC Psychiatry",
+    "pubdate": "2025 Sep 14",
+    "authors": [
+      "Liao J",
+      "Zhang A",
+      "Cong Y",
+      "Peng W",
+      "Tang X",
+      "Zhu Q",
+      "Li L",
+      "Li Y",
+      "Liu Y",
+      "Jiang H",
+      "Chen J",
+      "Han Y",
+      "Chen Z",
+      "Li W",
+      "Zhu Y",
+      "Liu H",
+      "Wu M"
+    ],
+    "lastauthor": "Wu M",
+    "sortfirstauthor": "Liao J",
+    "journal": "BMC psychiatry",
+    "issn": "",
+    "essn": "1471-244X",
+    "doi": "doi: 10.1186/s12888-025-07198-0",
+    "sortpubdate": "2025/09/14 00:00",
+    "epubdate": "2025 Sep 14"
+  },
+  {
+    "name": "NHANES",
+    "id": "40946016",
+    "title": "AHA's new PREVENT 10-year cardiovascular risk and all-cause, CVD, and non-CVD mortality among US adults: The NHANES 2003-2019.",
+    "source": "Hipertens Riesgo Vasc",
+    "pubdate": "2025 Sep 12",
+    "authors": [
+      "Mondal R",
+      "Ritu RB"
+    ],
+    "lastauthor": "Ritu RB",
+    "sortfirstauthor": "Mondal R",
+    "journal": "Hipertension y riesgo vascular",
+    "issn": "1889-1837",
+    "essn": "1989-4805",
+    "doi": "pii: S1889-1837(25)00045-5. doi: 10.1016/j.hipert.2025.02.003",
+    "sortpubdate": "2025/09/12 00:00",
+    "epubdate": "2025 Sep 12"
   }
 ]
