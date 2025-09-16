@@ -1836,7 +1836,7 @@
     "id": "40811938",
     "title": "Characterizing potential interaction between respiratory syncytial virus and seasonal influenza in the U.S.",
     "source": "Epidemics",
-    "pubdate": "2025 Aug 7",
+    "pubdate": "2025 Sep",
     "authors": [
       "Chen J",
       "Gokhale DV",
@@ -1851,7 +1851,7 @@
     "issn": "",
     "essn": "1878-0067",
     "doi": "doi: 10.1016/j.epidem.2025.100850",
-    "sortpubdate": "2025/08/07 00:00",
+    "sortpubdate": "2025/09/01 00:00",
     "epubdate": "2025 Aug 7"
   },
   {
@@ -1906,7 +1906,7 @@
     "id": "40848988",
     "title": "Effectiveness of a targeted infant RSV immunization strategy (2024-2025): A multicenter matched case-control study in a high-surveillance setting.",
     "source": "J Infect",
-    "pubdate": "2025 Aug 21",
+    "pubdate": "2025 Sep",
     "authors": [
       "Attaianese F",
       "Trapani S",
@@ -1943,7 +1943,7 @@
     "issn": "0163-4453",
     "essn": "1532-2742",
     "doi": "doi: 10.1016/j.jinf.2025.106600",
-    "sortpubdate": "2025/08/21 00:00",
+    "sortpubdate": "2025/09/01 00:00",
     "epubdate": "2025 Aug 21"
   },
   {
@@ -2371,5 +2371,70 @@
     "doi": "doi: 10.1007/s00431-025-06440-x",
     "sortpubdate": "2025/09/13 00:00",
     "epubdate": "2025 Sep 13"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "40949911",
+    "title": "Epidemiological and clinical features of neonatal parainfluenza virus infection: a retrospective study.",
+    "source": "Transl Pediatr",
+    "pubdate": "2025 Aug 31",
+    "authors": [
+      "Wang Y",
+      "Yu T",
+      "Li Q",
+      "Lu L"
+    ],
+    "lastauthor": "Lu L",
+    "sortfirstauthor": "Wang Y",
+    "journal": "Translational pediatrics",
+    "issn": "2224-4344",
+    "essn": "2224-4344",
+    "doi": "doi: 10.21037/tp-2025-212",
+    "sortpubdate": "2025/08/31 00:00",
+    "epubdate": "2025 Aug 25"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "40948395",
+    "title": "Analysis of Respiratory Syncytial Virus cases at Hospital Clínico San Carlos in Madrid during 2018-2025.",
+    "source": "Rev Esp Quimioter",
+    "pubdate": "2025 Sep 15",
+    "authors": [
+      "González Corralejo C",
+      "Culebras López E",
+      "Martínez Rodríguez M",
+      "Delgado-Iribarren García-Campero A"
+    ],
+    "lastauthor": "Delgado-Iribarren García-Campero A",
+    "sortfirstauthor": "González Corralejo C",
+    "journal": "Revista espanola de quimioterapia : publicacion oficial de la Sociedad Espanola de Quimioterapia",
+    "issn": "0214-3429",
+    "essn": "1988-9518",
+    "doi": "pii: 061.2025. doi: 10.37201/req/061.2025",
+    "sortpubdate": "2025/09/15 00:00",
+    "epubdate": "2025 Sep 15"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "40944041",
+    "title": "Epidemiological Changes in Pediatric RSV Infections in Poland (2016-2024): Impact of the COVID-19 Pandemic.",
+    "source": "J Clin Med",
+    "pubdate": "2025 Sep 5",
+    "authors": [
+      "Blomberg A",
+      "Żak M",
+      "Koźba-Baranowska M",
+      "Tkaczyk M",
+      "Depczyk-Bukała M",
+      "Zeman K"
+    ],
+    "lastauthor": "Zeman K",
+    "sortfirstauthor": "Blomberg A",
+    "journal": "Journal of clinical medicine",
+    "issn": "2077-0383",
+    "essn": "2077-0383",
+    "doi": "doi: 10.3390/jcm14176284",
+    "sortpubdate": "2025/09/05 00:00",
+    "epubdate": "2025 Sep 5"
   }
 ]

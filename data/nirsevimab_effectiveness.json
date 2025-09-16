@@ -1641,7 +1641,7 @@
     "id": "40848988",
     "title": "Effectiveness of a targeted infant RSV immunization strategy (2024-2025): A multicenter matched case-control study in a high-surveillance setting.",
     "source": "J Infect",
-    "pubdate": "2025 Aug 21",
+    "pubdate": "2025 Sep",
     "authors": [
       "Attaianese F",
       "Trapani S",
@@ -1678,7 +1678,7 @@
     "issn": "0163-4453",
     "essn": "1532-2742",
     "doi": "doi: 10.1016/j.jinf.2025.106600",
-    "sortpubdate": "2025/08/21 00:00",
+    "sortpubdate": "2025/09/01 00:00",
     "epubdate": "2025 Aug 21"
   },
   {
@@ -1961,5 +1961,68 @@
     "doi": "doi: 10.1007/s00431-025-06440-x",
     "sortpubdate": "2025/09/13 00:00",
     "epubdate": "2025 Sep 13"
+  },
+  {
+    "name": "Nirsevimab effectiveness",
+    "id": "40950943",
+    "title": "Real-world impact of nirsevimab immunisation against respiratory disease on emergency department attendances and admissions among infants: a multinational retrospective analysis.",
+    "source": "Lancet Reg Health Eur",
+    "pubdate": "2025 Aug",
+    "authors": [
+      "Perramon-Malavez A",
+      "Buonsenso D",
+      "Morello R",
+      "Coma E",
+      "Foster S",
+      "Leonard P",
+      "Marlow R",
+      "Martínez-Marcos M",
+      "Mendioroz J",
+      "Vila J",
+      "Creus-Costa A",
+      "Prats C",
+      "Roland D",
+      "Williams TC",
+      "Soriano-Arandes A"
+    ],
+    "lastauthor": "Soriano-Arandes A",
+    "sortfirstauthor": "Perramon-Malavez A",
+    "journal": "The Lancet regional health. Europe",
+    "issn": "",
+    "essn": "2666-7762",
+    "doi": "doi: 10.1016/j.lanepe.2025.101334",
+    "sortpubdate": "2025/06/03 00:00",
+    "epubdate": "2025 Jun 3"
+  },
+  {
+    "name": "Nirsevimab effectiveness",
+    "id": "40947663",
+    "title": "Development of a HEp2-CDX Mouse Model With Sustained High RSV Viral Loads for Robust Antiviral Therapeutic Evaluation.",
+    "source": "J Med Virol",
+    "pubdate": "2025 Sep",
+    "authors": [
+      "Yuan J",
+      "Xu D",
+      "Liao X",
+      "Zhou C",
+      "Zhang Q",
+      "Liao H",
+      "Liu M",
+      "Wang Z",
+      "Dai J",
+      "Cao R",
+      "Li Q",
+      "Cai H",
+      "Zhou R",
+      "Tian X"
+    ],
+    "lastauthor": "Tian X",
+    "sortfirstauthor": "Yuan J",
+    "journal": "Journal of medical virology",
+    "issn": "0146-6615",
+    "essn": "1096-9071",
+    "doi": "doi: 10.1002/jmv.70601",
+    "sortpubdate": "2025/09/01 00:00",
+    "epubdate": ""
   }
 ]
