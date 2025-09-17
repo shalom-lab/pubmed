@@ -17275,5 +17275,92 @@
     "doi": "doi: 10.3390/cancers17172766",
     "sortpubdate": "2025/08/25 00:00",
     "epubdate": "2025 Aug 25"
+  },
+  {
+    "name": "GBD database",
+    "id": "40956535",
+    "title": "Global, Regional, and National Sex Disparities in the Burden of Malignant Neoplasms of Bone and Articular Cartilage: a Systematic Analysis and Projections to 2050.",
+    "source": "Ann Surg Oncol",
+    "pubdate": "2025 Sep 16",
+    "authors": [
+      "Wang H",
+      "Guan M",
+      "Li L",
+      "Zhao Z",
+      "Wu J",
+      "Liu D",
+      "Chen M"
+    ],
+    "lastauthor": "Chen M",
+    "sortfirstauthor": "Wang H",
+    "journal": "Annals of surgical oncology",
+    "issn": "1068-9265",
+    "essn": "1534-4681",
+    "doi": "doi: 10.1245/s10434-025-18258-w",
+    "sortpubdate": "2025/09/16 00:00",
+    "epubdate": "2025 Sep 16"
+  },
+  {
+    "name": "GBD database",
+    "id": "40955785",
+    "title": "Trends, Burden, and Inequality in Neonatal Pulmonary Arterial Hypertension: Global Estimates From 1990 to 2021.",
+    "source": "Pediatr Pulmonol",
+    "pubdate": "2025 Sep",
+    "authors": [
+      "Wang X",
+      "Tang Z",
+      "Wang Z"
+    ],
+    "lastauthor": "Wang Z",
+    "sortfirstauthor": "Wang X",
+    "journal": "Pediatric pulmonology",
+    "issn": "",
+    "essn": "1099-0496",
+    "doi": "doi: 10.1002/ppul.71277",
+    "sortpubdate": "2025/09/01 00:00",
+    "epubdate": ""
+  },
+  {
+    "name": "GBD database",
+    "id": "40955024",
+    "title": "[Analysis of the global burden of soft tissue and extraosseous sarcomas among individuals aged from 15 to 49 based on global burden of disease database].",
+    "source": "Zhonghua Yu Fang Yi Xue Za Zhi",
+    "pubdate": "2025 Sep 6",
+    "authors": [
+      "Chen QZ",
+      "Yu HH",
+      "Wang Y",
+      "Li H"
+    ],
+    "lastauthor": "Li H",
+    "sortfirstauthor": "Chen QZ",
+    "journal": "Zhonghua yu fang yi xue za zhi [Chinese journal of preventive medicine]",
+    "issn": "0253-9624",
+    "essn": "",
+    "doi": "doi: 10.3760/cma.j.cn112150-20250319-00221",
+    "sortpubdate": "2025/09/06 00:00",
+    "epubdate": ""
+  },
+  {
+    "name": "GBD database",
+    "id": "40953870",
+    "title": "Global, regional and national burden of non-rheumatic degenerative mitral valve disease from 1990 to 2021: a systematic analysis based on the global burden of disease study 2021.",
+    "source": "BMJ Open",
+    "pubdate": "2025 Sep 14",
+    "authors": [
+      "Kong Y",
+      "Zhao Y",
+      "Chen T",
+      "Xie L",
+      "Mao W"
+    ],
+    "lastauthor": "Mao W",
+    "sortfirstauthor": "Kong Y",
+    "journal": "BMJ open",
+    "issn": "",
+    "essn": "2044-6055",
+    "doi": "doi: 10.1136/bmjopen-2025-104086",
+    "sortpubdate": "2025/09/14 00:00",
+    "epubdate": "2025 Sep 14"
   }
 ]

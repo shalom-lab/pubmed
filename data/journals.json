@@ -6660,7 +6660,8 @@
   {
     "source": "Saudi Dent J",
     "journal": "The Saudi dental journal",
-    "issn": "1013-9052"
+    "issn": "1013-9052",
+    "essn": "1658-3558"
   },
   {
     "source": "EPMA J",
@@ -6673,5 +6674,46 @@
     "journal": "Revista espanola de quimioterapia : publicacion oficial de la Sociedad Espanola de Quimioterapia",
     "issn": "0214-3429",
     "essn": "1988-9518"
+  },
+  {
+    "source": "J Eur Acad Dermatol Venereol",
+    "journal": "Journal of the European Academy of Dermatology and Venereology : JEADV",
+    "issn": "0926-9959",
+    "essn": "1468-3083"
+  },
+  {
+    "source": "Neurogastroenterol Motil",
+    "journal": "Neurogastroenterology and motility",
+    "issn": "1350-1925",
+    "essn": "1365-2982"
+  },
+  {
+    "source": "Anesthesiol Perioper Sci",
+    "journal": "Anesthesiology and perioperative science",
+    "essn": "2731-8389"
+  },
+  {
+    "source": "Chin Neurosurg J",
+    "journal": "Chinese neurosurgical journal",
+    "issn": "2095-9370",
+    "essn": "2057-4967"
+  },
+  {
+    "source": "Surg Obes Relat Dis",
+    "journal": "Surgery for obesity and related diseases : official journal of the American Society for Bariatric Surgery",
+    "issn": "1550-7289",
+    "essn": "1878-7533"
+  },
+  {
+    "source": "Diabetes Ther",
+    "journal": "Diabetes therapy : research, treatment and education of diabetes and related disorders",
+    "issn": "1869-6953",
+    "essn": "1869-6961"
+  },
+  {
+    "source": "Int J Psychiatry Med",
+    "journal": "International journal of psychiatry in medicine",
+    "issn": "0091-2174",
+    "essn": "1541-3527"
   }
 ]

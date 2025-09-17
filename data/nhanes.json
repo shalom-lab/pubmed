@@ -24920,7 +24920,7 @@
     "sortfirstauthor": "Alsulaiman AA",
     "journal": "The Saudi dental journal",
     "issn": "1013-9052",
-    "essn": "",
+    "essn": "1658-3558",
     "doi": "doi: 10.1016/j.sdentj.2024.09.018",
     "sortpubdate": "2024/12/01 00:00",
     "epubdate": "2024 Sep 21"
@@ -25313,5 +25313,154 @@
     "doi": "doi: 10.3390/healthcare13172137",
     "sortpubdate": "2025/08/27 00:00",
     "epubdate": "2025 Aug 27"
+  },
+  {
+    "name": "NHANES",
+    "id": "40956554",
+    "title": "Prevalence, Demographic and Clinical Characteristics of Individuals with Early Onset Type 2 Diabetes in the USA: an NHANES Analysis 1999-2020.",
+    "source": "Diabetes Ther",
+    "pubdate": "2025 Sep 16",
+    "authors": [
+      "Lee CJ",
+      "Bergman BK",
+      "Gou R",
+      "Williamson S",
+      "Boye KS"
+    ],
+    "lastauthor": "Boye KS",
+    "sortfirstauthor": "Lee CJ",
+    "journal": "Diabetes therapy : research, treatment and education of diabetes and related disorders",
+    "issn": "1869-6953",
+    "essn": "1869-6961",
+    "doi": "doi: 10.1007/s13300-025-01788-7",
+    "sortpubdate": "2025/09/16 00:00",
+    "epubdate": "2025 Sep 16"
+  },
+  {
+    "name": "NHANES",
+    "id": "40956512",
+    "title": "Systemic inflammatory markers predict mortality in autoimmune thyroiditis: threshold-driven risk stratification and prognostic insights from a nationwide cohort.",
+    "source": "Hormones (Athens)",
+    "pubdate": "2025 Sep 16",
+    "authors": [
+      "Wang B",
+      "Wu Z",
+      "Hu T"
+    ],
+    "lastauthor": "Hu T",
+    "sortfirstauthor": "Wang B",
+    "journal": "Hormones (Athens, Greece)",
+    "issn": "1109-3099",
+    "essn": "2520-8721",
+    "doi": "doi: 10.1007/s42000-025-00718-3",
+    "sortpubdate": "2025/09/16 00:00",
+    "epubdate": "2025 Sep 16"
+  },
+  {
+    "name": "NHANES",
+    "id": "40956311",
+    "title": "Tuberculosis-infected macrophage exosomal miR-125b-5p induces osteoporosis by targeting IGF2 through the PI3K/AKT pathway.",
+    "source": "Inflamm Res",
+    "pubdate": "2025 Sep 16",
+    "authors": [
+      "Zhao C",
+      "Li Q",
+      "Jin P",
+      "Shen C"
+    ],
+    "lastauthor": "Shen C",
+    "sortfirstauthor": "Zhao C",
+    "journal": "Inflammation research : official journal of the European Histamine Research Society ... [et al.]",
+    "issn": "1023-3830",
+    "essn": "1420-908X",
+    "doi": "doi: 10.1007/s00011-025-02096-3",
+    "sortpubdate": "2025/09/16 00:00",
+    "epubdate": "2025 Sep 16"
+  },
+  {
+    "name": "NHANES",
+    "id": "40955173",
+    "title": "Vitamin B Intake and Post-stroke Depression: Results From the US National Health and Nutrition Examination Survey (NHANES) 2007-2018.",
+    "source": "Int J Psychiatry Med",
+    "pubdate": "2025 Sep 16",
+    "authors": [
+      "Liu M",
+      "Sun Y",
+      "Wu J"
+    ],
+    "lastauthor": "Wu J",
+    "sortfirstauthor": "Liu M",
+    "journal": "International journal of psychiatry in medicine",
+    "issn": "0091-2174",
+    "essn": "1541-3527",
+    "doi": "doi: 10.1177/00912174251376110",
+    "sortpubdate": "2025/09/16 00:00",
+    "epubdate": "2025 Sep 16"
+  },
+  {
+    "name": "NHANES",
+    "id": "40953678",
+    "title": "Association between age at first birth and depressive symptoms: the mediation effects of HDL-cholesterol.",
+    "source": "J Affect Disord",
+    "pubdate": "2025 Sep 13",
+    "authors": [
+      "Wu X",
+      "Zhou W",
+      "Wu S",
+      "Yu B"
+    ],
+    "lastauthor": "Yu B",
+    "sortfirstauthor": "Wu X",
+    "journal": "Journal of affective disorders",
+    "issn": "0165-0327",
+    "essn": "1573-2517",
+    "doi": "doi: 10.1016/j.jad.2025.120334",
+    "sortpubdate": "2025/09/13 00:00",
+    "epubdate": "2025 Sep 13"
+  },
+  {
+    "name": "NHANES",
+    "id": "40953677",
+    "title": "Comment on \"U-shaped association between daily eating frequency and nighttime fasting duration and depression in NHANES 2005-2018\".",
+    "source": "J Affect Disord",
+    "pubdate": "2025 Sep 13",
+    "authors": [
+      "Ye X",
+      "Chen J",
+      "Li H",
+      "Dong H",
+      "Wang H",
+      "Fu S"
+    ],
+    "lastauthor": "Fu S",
+    "sortfirstauthor": "Ye X",
+    "journal": "Journal of affective disorders",
+    "issn": "0165-0327",
+    "essn": "1573-2517",
+    "doi": "doi: 10.1016/j.jad.2025.120333",
+    "sortpubdate": "2025/09/13 00:00",
+    "epubdate": "2025 Sep 13"
+  },
+  {
+    "name": "NHANES",
+    "id": "40953676",
+    "title": "Associations of sleep time and all-cause mortality in individuals with a different cardiovascular health status: a population-based cohort study.",
+    "source": "J Affect Disord",
+    "pubdate": "2025 Sep 13",
+    "authors": [
+      "Ge Y",
+      "Zhang X",
+      "Sun J",
+      "Zhang H",
+      "Zhang J"
+    ],
+    "lastauthor": "Zhang J",
+    "sortfirstauthor": "Ge Y",
+    "journal": "Journal of affective disorders",
+    "issn": "0165-0327",
+    "essn": "1573-2517",
+    "doi": "doi: 10.1016/j.jad.2025.120324",
+    "sortpubdate": "2025/09/13 00:00",
+    "epubdate": "2025 Sep 13"
   }
 ]
