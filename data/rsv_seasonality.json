@@ -1951,7 +1951,7 @@
     "id": "40855516",
     "title": "Wastewater-based epidemiology of influenza A virus in Shenzhen: baseline values and implications for multi-pathogen surveillance.",
     "source": "Emerg Microbes Infect",
-    "pubdate": "2025 Aug 25",
+    "pubdate": "2025 Dec",
     "authors": [
       "Shi X",
       "Fang S",
@@ -1984,8 +1984,8 @@
     "issn": "",
     "essn": "2222-1751",
     "doi": "doi: 10.1080/22221751.2025.2552724",
-    "sortpubdate": "2025/08/25 00:00",
-    "epubdate": "2025 Aug 25"
+    "sortpubdate": "2025/12/01 00:00",
+    "epubdate": "2025 Sep 16"
   },
   {
     "name": "RSV seasonality",
@@ -2436,5 +2436,32 @@
     "doi": "doi: 10.3390/jcm14176284",
     "sortpubdate": "2025/09/05 00:00",
     "epubdate": "2025 Sep 5"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "40958111",
+    "title": "Frequency, lethality, and demographic trends of acute respiratory viruses in hospitalized patients: insights from a German tertiary care hospital from july 2022 to april 2023.",
+    "source": "BMC Infect Dis",
+    "pubdate": "2025 Sep 16",
+    "authors": [
+      "Mees J",
+      "Eisenmann M",
+      "Höhn A",
+      "Ebert S",
+      "Pscheidl T",
+      "Roth N",
+      "Güder G",
+      "Petri N",
+      "Wagenhäuser I",
+      "Krone M"
+    ],
+    "lastauthor": "Krone M",
+    "sortfirstauthor": "Mees J",
+    "journal": "BMC infectious diseases",
+    "issn": "",
+    "essn": "1471-2334",
+    "doi": "doi: 10.1186/s12879-025-11521-1",
+    "sortpubdate": "2025/09/16 00:00",
+    "epubdate": "2025 Sep 16"
   }
 ]
