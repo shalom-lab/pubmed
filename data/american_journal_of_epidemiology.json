@@ -2598,5 +2598,44 @@
     "doi": "doi: 10.1093/aje/kwaf185",
     "sortpubdate": "2025/08/29 00:00",
     "epubdate": "2025 Aug 29"
+  },
+  {
+    "name": "American Journal of Epidemiology",
+    "id": "40971884",
+    "title": "Re: ratios in regression analyses with causal questions.",
+    "source": "Am J Epidemiol",
+    "pubdate": "2025 Sep 12",
+    "authors": [
+      "Sjölander A",
+      "Gabriel EE"
+    ],
+    "lastauthor": "Gabriel EE",
+    "sortfirstauthor": "Sjölander A",
+    "journal": "American journal of epidemiology",
+    "issn": "0002-9262",
+    "essn": "1476-6256",
+    "doi": "pii: kwaf193. doi: 10.1093/aje/kwaf193",
+    "sortpubdate": "2025/09/12 00:00",
+    "epubdate": "2025 Sep 12"
+  },
+  {
+    "name": "American Journal of Epidemiology",
+    "id": "40971781",
+    "title": "The exposure potential restriction rule revisited.",
+    "source": "Am J Epidemiol",
+    "pubdate": "2025 Sep 15",
+    "authors": [
+      "Labrecque JA",
+      "Poole C",
+      "Stang A"
+    ],
+    "lastauthor": "Stang A",
+    "sortfirstauthor": "Labrecque JA",
+    "journal": "American journal of epidemiology",
+    "issn": "0002-9262",
+    "essn": "1476-6256",
+    "doi": "pii: kwaf204. doi: 10.1093/aje/kwaf204",
+    "sortpubdate": "2025/09/15 00:00",
+    "epubdate": "2025 Sep 15"
   }
 ]

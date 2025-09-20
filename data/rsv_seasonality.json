@@ -2484,5 +2484,60 @@
     "doi": "doi: 10.1002/vms3.70608",
     "sortpubdate": "2025/09/01 00:00",
     "epubdate": ""
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "40969624",
+    "title": "Self-testing for 5 respiratory viruses in adult VACCELERATE volunteers in Germany-a pilot study on multi-pathogen rapid antigen testing to monitor community-acquired acute respiratory infections.",
+    "source": "Front Public Health",
+    "pubdate": "2025",
+    "authors": [
+      "Nacov JA",
+      "Salmanton-García J",
+      "Grimm S",
+      "Stewart FA",
+      "Cremer LM",
+      "Rochel LM",
+      "Müller E",
+      "Joisten C",
+      "Többen C",
+      "Mechtel B",
+      "Fleig J",
+      "Bethe U",
+      "Mellinghoff SC",
+      "Pana ZD",
+      "Schmitt HJ",
+      "Cornely OA",
+      "Stemler J"
+    ],
+    "lastauthor": "Stemler J",
+    "sortfirstauthor": "Nacov JA",
+    "journal": "Frontiers in public health",
+    "issn": "",
+    "essn": "2296-2565",
+    "doi": "doi: 10.3389/fpubh.2025.1638280",
+    "sortpubdate": "2025/09/03 00:00",
+    "epubdate": "2025 Sep 3"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "40948395",
+    "title": "Analysis of Respiratory Syncytial Virus cases at Hospital Clínico San Carlos in Madrid during 2018-2025.",
+    "source": "Rev Esp Quimioter",
+    "pubdate": "2025 Sep 15",
+    "authors": [
+      "González Corralejo C",
+      "Culebras López E",
+      "Martínez Rodríguez M",
+      "Delgado-Iribarren García-Campero A"
+    ],
+    "lastauthor": "Delgado-Iribarren García-Campero A",
+    "sortfirstauthor": "González Corralejo C",
+    "journal": "Revista espanola de quimioterapia : publicacion oficial de la Sociedad Espanola de Quimioterapia",
+    "issn": "0214-3429",
+    "essn": "1988-9518",
+    "doi": "doi: 10.37201/req/061.2025",
+    "sortpubdate": "2025/09/15 00:00",
+    "epubdate": "2025 Sep 15"
   }
 ]
