@@ -5873,7 +5873,8 @@
   {
     "source": "Eur J Radiol Open",
     "journal": "European journal of radiology open",
-    "issn": "2352-0477"
+    "issn": "2352-0477",
+    "essn": "2352-0477"
   },
   {
     "source": "Glob Health Med",
@@ -7073,5 +7074,61 @@
     "journal": "Spectrochimica acta. Part A, Molecular and biomolecular spectroscopy",
     "issn": "1386-1425",
     "essn": "1873-3557"
+  },
+  {
+    "source": "Tremor Other Hyperkinet Mov (N Y)",
+    "journal": "Tremor and other hyperkinetic movements (New York, N.Y.)",
+    "essn": "2160-8288"
+  },
+  {
+    "source": "Chin J Cancer Res",
+    "journal": "Chinese journal of cancer research = Chung-kuo yen cheng yen chiu",
+    "issn": "1000-9604",
+    "essn": "1993-0631"
+  },
+  {
+    "source": "Photoacoustics",
+    "journal": "Photoacoustics",
+    "issn": "2213-5979",
+    "essn": "2213-5979"
+  },
+  {
+    "source": "Pain Res Manag",
+    "journal": "Pain research & management",
+    "issn": "1203-6765",
+    "essn": "1918-1523"
+  },
+  {
+    "source": "Pediatric Health Med Ther",
+    "journal": "Pediatric health, medicine and therapeutics",
+    "essn": "1179-9927"
+  },
+  {
+    "source": "Work",
+    "journal": "Work (Reading, Mass.)",
+    "issn": "1051-9815",
+    "essn": "1875-9270"
+  },
+  {
+    "source": "J Endocr Soc",
+    "journal": "Journal of the Endocrine Society",
+    "essn": "2472-1972"
+  },
+  {
+    "source": "SSM Popul Health",
+    "journal": "SSM - population health",
+    "issn": "2352-8273",
+    "essn": "2352-8273"
+  },
+  {
+    "source": "Sex Health",
+    "journal": "Sexual health",
+    "issn": "1448-5028",
+    "essn": "1449-8987"
+  },
+  {
+    "source": "Infect Dis Rep",
+    "journal": "Infectious disease reports",
+    "issn": "2036-7430"
   }
 ]

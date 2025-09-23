@@ -2764,5 +2764,77 @@
     "doi": "doi: 10.1093/aje/kwaf176",
     "sortpubdate": "2025/08/21 00:00",
     "epubdate": "2025 Aug 21"
+  },
+  {
+    "name": "American Journal of Epidemiology",
+    "id": "40977048",
+    "title": "Obtaining population-based estimates for survey data using Bayesian hierarchical models with Poststratification.",
+    "source": "Am J Epidemiol",
+    "pubdate": "2025 Sep 22",
+    "authors": [
+      "Zhang Y",
+      "Gill TM",
+      "Bandeen-Roche K",
+      "Becher RD",
+      "Davis-Plourde K",
+      "Zang EX"
+    ],
+    "lastauthor": "Zang EX",
+    "sortfirstauthor": "Zhang Y",
+    "journal": "American journal of epidemiology",
+    "issn": "0002-9262",
+    "essn": "1476-6256",
+    "doi": "pii: kwaf209. doi: 10.1093/aje/kwaf209",
+    "sortpubdate": "2025/09/22 00:00",
+    "epubdate": "2025 Sep 22"
+  },
+  {
+    "name": "American Journal of Epidemiology",
+    "id": "40977047",
+    "title": "Disaster-related home loss, mental health, and risk of cognitive disability: causal mediation analysis using longitudinal data of disaster survivors.",
+    "source": "Am J Epidemiol",
+    "pubdate": "2025 Sep 22",
+    "authors": [
+      "S Okuzono S",
+      "Shiba K",
+      "Zhu DT",
+      "Oh S",
+      "Hsu YT",
+      "Yazawa A",
+      "Hikichi H",
+      "Aida J",
+      "Kondo K",
+      "Tiemeier H",
+      "Kawachi I"
+    ],
+    "lastauthor": "Kawachi I",
+    "sortfirstauthor": "S Okuzono S",
+    "journal": "American journal of epidemiology",
+    "issn": "0002-9262",
+    "essn": "1476-6256",
+    "doi": "pii: kwaf208. doi: 10.1093/aje/kwaf208",
+    "sortpubdate": "2025/09/22 00:00",
+    "epubdate": "2025 Sep 22"
+  },
+  {
+    "name": "American Journal of Epidemiology",
+    "id": "40977042",
+    "title": "Differences in Protective Resources and Risks for Depressive Symptoms Among Recent Widows in the United States and India.",
+    "source": "Am J Epidemiol",
+    "pubdate": "2025 Sep 22",
+    "authors": [
+      "Chauhan S",
+      "Carr D",
+      "Taylor M",
+      "Sonnega A"
+    ],
+    "lastauthor": "Sonnega A",
+    "sortfirstauthor": "Chauhan S",
+    "journal": "American journal of epidemiology",
+    "issn": "0002-9262",
+    "essn": "1476-6256",
+    "doi": "pii: kwaf210. doi: 10.1093/aje/kwaf210",
+    "sortpubdate": "2025/09/22 00:00",
+    "epubdate": "2025 Sep 22"
   }
 ]

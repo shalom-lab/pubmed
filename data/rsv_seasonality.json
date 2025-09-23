@@ -2539,5 +2539,28 @@
     "doi": "doi: 10.37201/req/061.2025",
     "sortpubdate": "2025/09/15 00:00",
     "epubdate": "2025 Sep 15"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "40980014",
+    "title": "Epidemiological trends and climatic drivers of pediatric respiratory infections in Wuhan, China: a multi-pathogen analysis.",
+    "source": "Front Cell Infect Microbiol",
+    "pubdate": "2025",
+    "authors": [
+      "Li C",
+      "Xi L",
+      "Rao J",
+      "Tang F",
+      "Xiang Y",
+      "Wang X"
+    ],
+    "lastauthor": "Wang X",
+    "sortfirstauthor": "Li C",
+    "journal": "Frontiers in cellular and infection microbiology",
+    "issn": "",
+    "essn": "2235-2988",
+    "doi": "doi: 10.3389/fcimb.2025.1624638",
+    "sortpubdate": "2025/09/04 00:00",
+    "epubdate": "2025 Sep 4"
   }
 ]
