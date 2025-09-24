@@ -7129,6 +7129,53 @@
   {
     "source": "Infect Dis Rep",
     "journal": "Infectious disease reports",
-    "issn": "2036-7430"
+    "issn": "2036-7430",
+    "essn": "2036-7449"
+  },
+  {
+    "source": "Ultrasound Q",
+    "journal": "Ultrasound quarterly",
+    "issn": "0894-8771",
+    "essn": "1536-0253"
+  },
+  {
+    "source": "Ann Biomed Eng",
+    "journal": "Annals of biomedical engineering",
+    "issn": "0090-6964",
+    "essn": "1573-9686"
+  },
+  {
+    "source": "QJM",
+    "journal": "QJM : monthly journal of the Association of Physicians",
+    "essn": "1460-2393"
+  },
+  {
+    "source": "Electromagn Biol Med",
+    "journal": "Electromagnetic biology and medicine",
+    "essn": "1536-8386"
+  },
+  {
+    "source": "Indian J Thorac Cardiovasc Surg",
+    "journal": "Indian journal of thoracic and cardiovascular surgery",
+    "issn": "0970-9134",
+    "essn": "0973-7723"
+  },
+  {
+    "source": "Gut",
+    "journal": "Gut",
+    "issn": "0017-5749",
+    "essn": "1468-3288"
+  },
+  {
+    "source": "Odontology",
+    "journal": "Odontology",
+    "issn": "1618-1247",
+    "essn": "1618-1255"
+  },
+  {
+    "source": "J Antimicrob Chemother",
+    "journal": "The Journal of antimicrobial chemotherapy",
+    "issn": "0305-7453",
+    "essn": "1460-2091"
   }
 ]

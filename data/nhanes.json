@@ -26961,9 +26961,9 @@
   {
     "name": "NHANES",
     "id": "40972513",
-    "title": "The Interplay of Iron Status and Manganese Biomarkers in U.S. Females: NHANES 2015-2018 Analysis.",
+    "title": "The interplay of iron status and manganese biomarkers in U.S. females: NHANES 2015-2018 analysis.",
     "source": "Metallomics",
-    "pubdate": "2025 Sep 16",
+    "pubdate": "2025 Sep 23",
     "authors": [
       "Lin YS",
       "Caffrey JL",
@@ -26978,8 +26978,8 @@
     "issn": "1756-5901",
     "essn": "1756-591X",
     "doi": "pii: mfaf032. doi: 10.1093/mtomcs/mfaf032",
-    "sortpubdate": "2025/09/16 00:00",
-    "epubdate": "2025 Sep 16"
+    "sortpubdate": "2025/09/23 00:00",
+    "epubdate": ""
   },
   {
     "name": "NHANES",
@@ -27379,5 +27379,117 @@
     "doi": "doi: 10.1016/j.jad.2025.120345",
     "sortpubdate": "2025/09/19 00:00",
     "epubdate": "2025 Sep 19"
+  },
+  {
+    "name": "NHANES",
+    "id": "40986126",
+    "title": "Linking systemic inflammation to periodontal disease: insights from blood-derived biomarkers in NHANES.",
+    "source": "Odontology",
+    "pubdate": "2025 Sep 23",
+    "authors": [
+      "Huang P",
+      "Zhang R",
+      "Sheng Y",
+      "Nan B",
+      "Li X",
+      "Cheng Z"
+    ],
+    "lastauthor": "Cheng Z",
+    "sortfirstauthor": "Huang P",
+    "journal": "Odontology",
+    "issn": "1618-1247",
+    "essn": "1618-1255",
+    "doi": "doi: 10.1007/s10266-025-01213-2",
+    "sortpubdate": "2025/09/23 00:00",
+    "epubdate": "2025 Sep 23"
+  },
+  {
+    "name": "NHANES",
+    "id": "40985148",
+    "title": "Ivermectin dosing for children under 2 years.",
+    "source": "J Antimicrob Chemother",
+    "pubdate": "2025 Sep 23",
+    "authors": [
+      "Yang W",
+      "Steer A",
+      "Coghlan B",
+      "Phongluxa K",
+      "Zhu X",
+      "Gwee A"
+    ],
+    "lastauthor": "Gwee A",
+    "sortfirstauthor": "Yang W",
+    "journal": "The Journal of antimicrobial chemotherapy",
+    "issn": "0305-7453",
+    "essn": "1460-2091",
+    "doi": "pii: dkaf344. doi: 10.1093/jac/dkaf344",
+    "sortpubdate": "2025/09/23 00:00",
+    "epubdate": "2025 Sep 23"
+  },
+  {
+    "name": "NHANES",
+    "id": "40983978",
+    "title": "Investigating causal effects of HDL-C on cognitive function through cross-sectional and Mendelian randomization analyses: concentration-response patterns and clues for Alzheimer's disease prevention.",
+    "source": "BioData Min",
+    "pubdate": "2025 Sep 22",
+    "authors": [
+      "Fan L",
+      "Jiang H",
+      "Zhang Z"
+    ],
+    "lastauthor": "Zhang Z",
+    "sortfirstauthor": "Fan L",
+    "journal": "BioData mining",
+    "issn": "1756-0381",
+    "essn": "",
+    "doi": "doi: 10.1186/s13040-025-00484-3",
+    "sortpubdate": "2025/09/22 00:00",
+    "epubdate": "2025 Sep 22"
+  },
+  {
+    "name": "NHANES",
+    "id": "40983922",
+    "title": "Relationship between TYG mediated pregnancy diabetes history and SII in American women: a retrospective cohort study of NHANES 2011-2018.",
+    "source": "BMC Endocr Disord",
+    "pubdate": "2025 Sep 22",
+    "authors": [
+      "Duan Y",
+      "Zhang R",
+      "Zhang Y",
+      "Ma Y",
+      "Li M",
+      "Zhang W",
+      "Liu S"
+    ],
+    "lastauthor": "Liu S",
+    "sortfirstauthor": "Duan Y",
+    "journal": "BMC endocrine disorders",
+    "issn": "",
+    "essn": "1472-6823",
+    "doi": "doi: 10.1186/s12902-025-02042-8",
+    "sortpubdate": "2025/09/22 00:00",
+    "epubdate": "2025 Sep 22"
+  },
+  {
+    "name": "NHANES",
+    "id": "40983901",
+    "title": "Association between atherogenic index of plasma and tinnitus: evidence from NHANES and the mediating role of hypertension.",
+    "source": "Lipids Health Dis",
+    "pubdate": "2025 Sep 22",
+    "authors": [
+      "Miao W",
+      "Wu C",
+      "Yuan D",
+      "Li Y",
+      "Wu T"
+    ],
+    "lastauthor": "Wu T",
+    "sortfirstauthor": "Miao W",
+    "journal": "Lipids in health and disease",
+    "issn": "",
+    "essn": "1476-511X",
+    "doi": "doi: 10.1186/s12944-025-02716-1",
+    "sortpubdate": "2025/09/22 00:00",
+    "epubdate": "2025 Sep 22"
   }
 ]

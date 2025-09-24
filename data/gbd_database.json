@@ -19009,5 +19009,70 @@
     "doi": "doi: 10.3389/fpubh.2025.1610661",
     "sortpubdate": "2025/09/04 00:00",
     "epubdate": "2025 Sep 4"
+  },
+  {
+    "name": "GBD database",
+    "id": "40986966",
+    "title": "Global and regional burden of inguinal, femoral, and abdominal hernia among older population: Findings from Global Burden of Disease database.",
+    "source": "Surgery",
+    "pubdate": "2025 Sep 22",
+    "authors": [
+      "Li GX",
+      "Wang G",
+      "Han CJ",
+      "Cao J",
+      "Zhou BC",
+      "Sun SB"
+    ],
+    "lastauthor": "Sun SB",
+    "sortfirstauthor": "Li GX",
+    "journal": "Surgery",
+    "issn": "0039-6060",
+    "essn": "1532-7361",
+    "doi": "doi: 10.1016/j.surg.2025.109673",
+    "sortpubdate": "2025/09/22 00:00",
+    "epubdate": "2025 Sep 22"
+  },
+  {
+    "name": "GBD database",
+    "id": "40984703",
+    "title": "MINERVA-microbiome network research and visualization atlas: a scalable knowledge graph for mapping microbiome-disease associations.",
+    "source": "Brief Bioinform",
+    "pubdate": "2025 Aug 31",
+    "authors": [
+      "Langarica S",
+      "Kim YT",
+      "Alkhadrawi A",
+      "Kim JB",
+      "Do S"
+    ],
+    "lastauthor": "Do S",
+    "sortfirstauthor": "Langarica S",
+    "journal": "Briefings in bioinformatics",
+    "issn": "1467-5463",
+    "essn": "1477-4054",
+    "doi": "pii: bbaf472. doi: 10.1093/bib/bbaf472",
+    "sortpubdate": "2025/08/31 00:00",
+    "epubdate": ""
+  },
+  {
+    "name": "GBD database",
+    "id": "40984689",
+    "title": "Response to letter regarding: Incidence, mortality, and DALYs of global pharyngeal cancer: systematic analysis and projections based on global burden of disease study 2021.",
+    "source": "Ann Med",
+    "pubdate": "2025 Dec",
+    "authors": [
+      "Xu C",
+      "Zhou T",
+      "Huang W"
+    ],
+    "lastauthor": "Huang W",
+    "sortfirstauthor": "Xu C",
+    "journal": "Annals of medicine",
+    "issn": "0785-3890",
+    "essn": "1365-2060",
+    "doi": "doi: 10.1080/07853890.2025.2564294",
+    "sortpubdate": "2025/12/01 00:00",
+    "epubdate": "2025 Sep 22"
   }
 ]
