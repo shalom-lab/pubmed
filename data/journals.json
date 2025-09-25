@@ -5202,7 +5202,8 @@
   {
     "source": "BioData Min",
     "journal": "BioData mining",
-    "issn": "1756-0381"
+    "issn": "1756-0381",
+    "essn": "1756-0381"
   },
   {
     "source": "JACC Asia",
@@ -7177,5 +7178,50 @@
     "journal": "The Journal of antimicrobial chemotherapy",
     "issn": "0305-7453",
     "essn": "1460-2091"
+  },
+  {
+    "source": "Childs Nerv Syst",
+    "journal": "Child's nervous system : ChNS : official journal of the International Society for Pediatric Neurosurgery",
+    "issn": "0256-7040",
+    "essn": "1433-0350"
+  },
+  {
+    "source": "PeerJ Comput Sci",
+    "journal": "PeerJ. Computer science",
+    "essn": "2376-5992"
+  },
+  {
+    "source": "Ultrasonography",
+    "journal": "Ultrasonography (Seoul, Korea)",
+    "issn": "2288-5919"
+  },
+  {
+    "source": "J Am Coll Cardiol",
+    "journal": "Journal of the American College of Cardiology",
+    "issn": "0735-1097",
+    "essn": "1558-3597"
+  },
+  {
+    "source": "Trop Doct",
+    "journal": "Tropical doctor",
+    "issn": "0049-4755",
+    "essn": "1758-1133"
+  },
+  {
+    "source": "Cleft Palate Craniofac J",
+    "journal": "The Cleft palate-craniofacial journal : official publication of the American Cleft Palate-Craniofacial Association",
+    "issn": "1055-6656",
+    "essn": "1545-1569"
+  },
+  {
+    "source": "Urol Int",
+    "journal": "Urologia internationalis",
+    "issn": "0042-1138",
+    "essn": "1423-0399"
+  },
+  {
+    "source": "Nutr Bull",
+    "journal": "Nutrition bulletin",
+    "essn": "1467-3010"
   }
 ]
