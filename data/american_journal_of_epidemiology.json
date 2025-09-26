@@ -2869,5 +2869,53 @@
     "doi": "pii: kwaf202. doi: 10.1093/aje/kwaf202",
     "sortpubdate": "2025/09/24 00:00",
     "epubdate": "2025 Sep 24"
+  },
+  {
+    "name": "American Journal of Epidemiology",
+    "id": "40994260",
+    "title": "Suicide mortality trends among cancer patients in Taiwan: suicide prevention efforts and cancer care improvements.",
+    "source": "Am J Epidemiol",
+    "pubdate": "2025 Sep 25",
+    "authors": [
+      "Hsiao BY",
+      "Chiang CJ",
+      "Yang YW",
+      "Lee WC"
+    ],
+    "lastauthor": "Lee WC",
+    "sortfirstauthor": "Hsiao BY",
+    "journal": "American journal of epidemiology",
+    "issn": "0002-9262",
+    "essn": "1476-6256",
+    "doi": "pii: kwaf201. doi: 10.1093/aje/kwaf201",
+    "sortpubdate": "2025/09/25 00:00",
+    "epubdate": "2025 Sep 25"
+  },
+  {
+    "name": "American Journal of Epidemiology",
+    "id": "40754790",
+    "title": "Developing A Novel Algorithm to Identify Incident and Prevalent Dementia in Medicare Claims. The ARIC Study.",
+    "source": "Am J Epidemiol",
+    "pubdate": "2025 Aug 4",
+    "authors": [
+      "Wang T",
+      "Pate V",
+      "Kim DH",
+      "Power MC",
+      "Garden G",
+      "Palta P",
+      "Knopman D",
+      "Jonson-Funk M",
+      "Stürmer T",
+      "Kucharska-Newton AM"
+    ],
+    "lastauthor": "Kucharska-Newton AM",
+    "sortfirstauthor": "Wang T",
+    "journal": "American journal of epidemiology",
+    "issn": "0002-9262",
+    "essn": "1476-6256",
+    "doi": "doi: 10.1093/aje/kwaf166",
+    "sortpubdate": "2025/08/04 00:00",
+    "epubdate": "2025 Aug 4"
   }
 ]

@@ -2502,5 +2502,31 @@
     "doi": "doi: 10.1016/j.jiph.2025.102967",
     "sortpubdate": "2025/09/04 00:00",
     "epubdate": "2025 Sep 4"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "40996593",
+    "title": "Discovery of potential RSV fusion protein inhibitors from benzimidazole derivatives using QSAR, molecular docking, and ADMET evaluation methods.",
+    "source": "Mol Divers",
+    "pubdate": "2025 Sep 25",
+    "authors": [
+      "Xie Y",
+      "Jia R",
+      "Fan T",
+      "Chen S",
+      "Ren T",
+      "Zhang N",
+      "Zhao L",
+      "Zhong R",
+      "Sun G"
+    ],
+    "lastauthor": "Sun G",
+    "sortfirstauthor": "Xie Y",
+    "journal": "Molecular diversity",
+    "issn": "1381-1991",
+    "essn": "1573-501X",
+    "doi": "doi: 10.1007/s11030-025-11360-x",
+    "sortpubdate": "2025/09/25 00:00",
+    "epubdate": "2025 Sep 25"
   }
 ]
