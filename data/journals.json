@@ -7359,12 +7359,14 @@
   {
     "source": "Nanomaterials (Basel)",
     "journal": "Nanomaterials (Basel, Switzerland)",
-    "issn": "2079-4991"
+    "issn": "2079-4991",
+    "essn": "2079-4991"
   },
   {
     "source": "J Pers Med",
     "journal": "Journal of personalized medicine",
-    "issn": "2075-4426"
+    "issn": "2075-4426",
+    "essn": "2075-4426"
   },
   {
     "source": "J Cardiovasc Dev Dis",
@@ -7382,5 +7384,52 @@
     "journal": "International journal of hygiene and environmental health",
     "issn": "1438-4639",
     "essn": "1618-131X"
+  },
+  {
+    "source": "Clin Biomech (Bristol)",
+    "journal": "Clinical biomechanics (Bristol, Avon)",
+    "issn": "0268-0033",
+    "essn": "1879-1271"
+  },
+  {
+    "source": "Int J Immunopathol Pharmacol",
+    "journal": "International journal of immunopathology and pharmacology",
+    "issn": "0394-6320",
+    "essn": "2058-7384"
+  },
+  {
+    "source": "BMC Psychol",
+    "journal": "BMC psychology",
+    "essn": "2050-7283"
+  },
+  {
+    "source": "J Eat Disord",
+    "journal": "Journal of eating disorders",
+    "issn": "2050-2974"
+  },
+  {
+    "source": "BMC Nurs",
+    "journal": "BMC nursing",
+    "issn": "1472-6955"
+  },
+  {
+    "source": "BMC Biol",
+    "journal": "BMC biology",
+    "essn": "1741-7007"
+  },
+  {
+    "source": "Behav Sci (Basel)",
+    "journal": "Behavioral sciences (Basel, Switzerland)",
+    "issn": "2076-328X"
+  },
+  {
+    "source": "Brain Sci",
+    "journal": "Brain sciences",
+    "issn": "2076-3425"
+  },
+  {
+    "source": "Cardiovasc Diabetol Endocrinol Rep",
+    "journal": "Cardiovascular diabetology. Endocrinology reports",
+    "essn": "3059-4057"
   }
 ]

@@ -2583,5 +2583,38 @@
     "doi": "doi: 10.1128/spectrum.01599-25",
     "sortpubdate": "2025/09/25 00:00",
     "epubdate": "2025 Sep 25"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "41013336",
+    "title": "Surveillance of respiratory viruses in severe acute respiratory infections in Southern Brazil, 2023-2024.",
+    "source": "BMC Infect Dis",
+    "pubdate": "2025 Sep 26",
+    "authors": [
+      "Ruivo AP",
+      "da Cruz Bauermann M",
+      "Gregianini TS",
+      "Dos Santos FM",
+      "Godinho F",
+      "Baethgen LF",
+      "Machado TRM",
+      "Martins LG",
+      "Mondini RP",
+      "Port CN",
+      "Correa A",
+      "Selayaran T",
+      "Resende PC",
+      "da Luz Wallau G",
+      "Salvato RS",
+      "da Veiga ABG"
+    ],
+    "lastauthor": "da Veiga ABG",
+    "sortfirstauthor": "Ruivo AP",
+    "journal": "BMC infectious diseases",
+    "issn": "",
+    "essn": "1471-2334",
+    "doi": "doi: 10.1186/s12879-025-11458-5",
+    "sortpubdate": "2025/09/26 00:00",
+    "epubdate": "2025 Sep 26"
   }
 ]
