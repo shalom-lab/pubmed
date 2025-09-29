@@ -29920,5 +29920,80 @@
     "doi": "doi: 10.3390/curroncol32090498",
     "sortpubdate": "2025/09/05 00:00",
     "epubdate": "2025 Sep 5"
+  },
+  {
+    "name": "NHANES",
+    "id": "41015767",
+    "title": "Association between asthma and thyroid function as well as thyroid hormone sensitivity indicators: an NHANES study.",
+    "source": "Eur J Med Res",
+    "pubdate": "2025 Sep 27",
+    "authors": [
+      "Li K",
+      "Ding Q",
+      "Liu R",
+      "Lin S",
+      "Qiu R",
+      "Wu G"
+    ],
+    "lastauthor": "Wu G",
+    "sortfirstauthor": "Li K",
+    "journal": "European journal of medical research",
+    "issn": "0949-2321",
+    "essn": "2047-783X",
+    "doi": "doi: 10.1186/s40001-025-03122-0",
+    "sortpubdate": "2025/09/27 00:00",
+    "epubdate": "2025 Sep 27"
+  },
+  {
+    "name": "NHANES",
+    "id": "41015191",
+    "title": "Arm circumference as a marker of muscle mass: cutoff values from NHANES 1999-2006.",
+    "source": "Am J Clin Nutr",
+    "pubdate": "2025 Sep 25",
+    "authors": [
+      "Costa-Pereira JP",
+      "Prado CM",
+      "Heymsfield SB",
+      "Fayh APT",
+      "Menezes-Júnior LAA",
+      "Cabral PC",
+      "Diniz AS",
+      "Gonzalez MC"
+    ],
+    "lastauthor": "Gonzalez MC",
+    "sortfirstauthor": "Costa-Pereira JP",
+    "journal": "The American journal of clinical nutrition",
+    "issn": "0002-9165",
+    "essn": "1938-3207",
+    "doi": "pii: S0002-9165(25)00585-4. doi: 10.1016/j.ajcnut.2025.09.034",
+    "sortpubdate": "2025/09/25 00:00",
+    "epubdate": "2025 Sep 25"
+  },
+  {
+    "name": "NHANES",
+    "id": "41015129",
+    "title": "Dietary α-linolenic acid intake, different food sources and risk of all-cause mortality: a prospective cohort study.",
+    "source": "J Nutr Biochem",
+    "pubdate": "2025 Sep 25",
+    "authors": [
+      "Wu Q",
+      "Chen B",
+      "Liu S",
+      "Di H",
+      "Hu W",
+      "Qin T",
+      "Guo Y",
+      "Cheng X",
+      "Liu L",
+      "Shan Z"
+    ],
+    "lastauthor": "Shan Z",
+    "sortfirstauthor": "Wu Q",
+    "journal": "The Journal of nutritional biochemistry",
+    "issn": "0955-2863",
+    "essn": "1873-4847",
+    "doi": "doi: 10.1016/j.jnutbio.2025.110132",
+    "sortpubdate": "2025/09/25 00:00",
+    "epubdate": "2025 Sep 25"
   }
 ]

@@ -20435,5 +20435,70 @@
     "doi": "doi: 10.3390/nano15181437",
     "sortpubdate": "2025/09/18 00:00",
     "epubdate": "2025 Sep 18"
+  },
+  {
+    "name": "GBD database",
+    "id": "41015562",
+    "title": "Gender differences in the burden of near vision loss in China: An analysis based on GBD 2021 data.",
+    "source": "Zhong Nan Da Xue Xue Bao Yi Xue Ban",
+    "pubdate": "2025 Jun 28",
+    "authors": [
+      "Liu Y",
+      "Zhu L",
+      "Lin Y",
+      "Wang Y",
+      "Xiong K",
+      "Li X",
+      "Yan W"
+    ],
+    "lastauthor": "Yan W",
+    "sortfirstauthor": "Liu Y",
+    "journal": "Zhong nan da xue xue bao. Yi xue ban = Journal of Central South University. Medical sciences",
+    "issn": "1672-7347",
+    "essn": "",
+    "doi": "doi: 10.11817/j.issn.1672-7347.2025.240710",
+    "sortpubdate": "2025/06/28 00:00",
+    "epubdate": ""
+  },
+  {
+    "name": "GBD database",
+    "id": "41015178",
+    "title": "Analyzing and forecasting global cervical cancer burden based on WHO's elimination strategy: insights and projections from a 1990-2021 global burden of disease (GBD) study covering 204 countries and territories.",
+    "source": "J Adv Res",
+    "pubdate": "2025 Sep 25",
+    "authors": [
+      "Huang Y",
+      "Lin W",
+      "Chen X",
+      "Zheng X",
+      "Yi H",
+      "Zhang L"
+    ],
+    "lastauthor": "Zhang L",
+    "sortfirstauthor": "Huang Y",
+    "journal": "Journal of advanced research",
+    "issn": "",
+    "essn": "2090-1224",
+    "doi": "pii: S2090-1232(25)00742-8. doi: 10.1016/j.jare.2025.09.038",
+    "sortpubdate": "2025/09/25 00:00",
+    "epubdate": "2025 Sep 25"
+  },
+  {
+    "name": "GBD database",
+    "id": "41015051",
+    "title": "The global, regional, and national burden of cancer, 1990-2023, with forecasts to 2050: a systematic analysis for the Global Burden of Disease Study 2023.",
+    "source": "Lancet",
+    "pubdate": "2025 Sep 24",
+    "authors": [
+      "GBD 2023 Cancer Collaborators"
+    ],
+    "lastauthor": "GBD 2023 Cancer Collaborators",
+    "sortfirstauthor": "GBD 2023 Cancer Collaborators",
+    "journal": "Lancet (London, England)",
+    "issn": "0140-6736",
+    "essn": "1474-547X",
+    "doi": "pii: S0140-6736(25)01635-6. doi: 10.1016/S0140-6736(25)01635-6",
+    "sortpubdate": "2025/09/24 00:00",
+    "epubdate": "2025 Sep 24"
   }
 ]

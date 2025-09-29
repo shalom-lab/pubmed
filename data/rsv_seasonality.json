@@ -2616,5 +2616,36 @@
     "doi": "doi: 10.1186/s12879-025-11458-5",
     "sortpubdate": "2025/09/26 00:00",
     "epubdate": "2025 Sep 26"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "41015079",
+    "title": "Etiology and Epidemiology of respiratory infections in community-based influenza-like illness during the COVID-19 pandemic, Vientiane, Lao People's Democratic Republic.",
+    "source": "Int J Infect Dis",
+    "pubdate": "2025 Sep 25",
+    "authors": [
+      "Bonguili NCB",
+      "Mombo IM",
+      "Lenguiya LH",
+      "Lattaphasavang V",
+      "Pabouriboune P",
+      "Deharo E",
+      "Fritz M",
+      "Lyelet JED",
+      "Elguero E",
+      "Koukouikila-Koussounda F",
+      "Mayengue PI",
+      "Leroy EM",
+      "Niama RF",
+      "Locatelli S"
+    ],
+    "lastauthor": "Locatelli S",
+    "sortfirstauthor": "Bonguili NCB",
+    "journal": "International journal of infectious diseases : IJID : official publication of the International Society for Infectious Diseases",
+    "issn": "1201-9712",
+    "essn": "1878-3511",
+    "doi": "doi: 10.1016/j.ijid.2025.108079",
+    "sortpubdate": "2025/09/25 00:00",
+    "epubdate": "2025 Sep 25"
   }
 ]

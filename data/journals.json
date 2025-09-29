@@ -7405,7 +7405,8 @@
   {
     "source": "J Eat Disord",
     "journal": "Journal of eating disorders",
-    "issn": "2050-2974"
+    "issn": "2050-2974",
+    "essn": "2050-2974"
   },
   {
     "source": "BMC Nurs",
@@ -7431,5 +7432,15 @@
     "source": "Cardiovasc Diabetol Endocrinol Rep",
     "journal": "Cardiovascular diabetology. Endocrinology reports",
     "essn": "3059-4057"
+  },
+  {
+    "source": "Chin Med Sci J",
+    "journal": "Chinese medical sciences journal = Chung-kuo i hsueh k'o hsueh tsa chih",
+    "issn": "1001-9294"
+  },
+  {
+    "source": "Chin J Traumatol",
+    "journal": "Chinese journal of traumatology = Zhonghua chuang shang za zhi",
+    "issn": "1008-1275"
   }
 ]

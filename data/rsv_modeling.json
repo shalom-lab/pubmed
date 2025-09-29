@@ -2528,5 +2528,29 @@
     "doi": "doi: 10.1007/s11030-025-11360-x",
     "sortpubdate": "2025/09/25 00:00",
     "epubdate": "2025 Sep 25"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "41015848",
+    "title": "Evaluating cost-effectiveness of RSV vaccination strategies for older adults in the Netherlands.",
+    "source": "Vaccine",
+    "pubdate": "2025 Sep 26",
+    "authors": [
+      "Zeevat F",
+      "Luttjeboer J",
+      "Korsten K",
+      "van Boven M",
+      "Postma MJ",
+      "van der Pol S",
+      "Boersma C"
+    ],
+    "lastauthor": "Boersma C",
+    "sortfirstauthor": "Zeevat F",
+    "journal": "Vaccine",
+    "issn": "0264-410X",
+    "essn": "1873-2518",
+    "doi": "doi: 10.1016/j.vaccine.2025.127735",
+    "sortpubdate": "2025/09/26 00:00",
+    "epubdate": "2025 Sep 26"
   }
 ]
