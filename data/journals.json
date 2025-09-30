@@ -7426,7 +7426,8 @@
   {
     "source": "Brain Sci",
     "journal": "Brain sciences",
-    "issn": "2076-3425"
+    "issn": "2076-3425",
+    "essn": "2076-3425"
   },
   {
     "source": "Cardiovasc Diabetol Endocrinol Rep",
@@ -7442,5 +7443,69 @@
     "source": "Chin J Traumatol",
     "journal": "Chinese journal of traumatology = Zhonghua chuang shang za zhi",
     "issn": "1008-1275"
+  },
+  {
+    "source": "Int J Hyperthermia",
+    "journal": "International journal of hyperthermia : the official journal of European Society for Hyperthermic Oncology, North American Hyperthermia Group",
+    "issn": "0265-6736",
+    "essn": "1464-5157"
+  },
+  {
+    "source": "Biomed Rep",
+    "journal": "Biomedical reports",
+    "issn": "2049-9434",
+    "essn": "2049-9442"
+  },
+  {
+    "source": "Front Dent Med",
+    "journal": "Frontiers in dental medicine",
+    "essn": "2673-4915"
+  },
+  {
+    "source": "Indian J Community Med",
+    "journal": "Indian journal of community medicine : official publication of Indian Association of Preventive & Social Medicine",
+    "issn": "0970-0218",
+    "essn": "1998-3581"
+  },
+  {
+    "source": "BJOG",
+    "journal": "BJOG : an international journal of obstetrics and gynaecology",
+    "issn": "1470-0328",
+    "essn": "1471-0528"
+  },
+  {
+    "source": "J Am Geriatr Soc",
+    "journal": "Journal of the American Geriatrics Society",
+    "issn": "0002-8614",
+    "essn": "1532-5415"
+  },
+  {
+    "source": "Front Med",
+    "journal": "Frontiers of medicine",
+    "issn": "2095-0217",
+    "essn": "2095-0225"
+  },
+  {
+    "source": "Anaesthesia",
+    "journal": "Anaesthesia",
+    "issn": "0003-2409",
+    "essn": "1365-2044"
+  },
+  {
+    "source": "Rev Esp Enferm Dig",
+    "journal": "Revista espanola de enfermedades digestivas",
+    "issn": "1130-0108"
+  },
+  {
+    "source": "Psychiatry Res",
+    "journal": "Psychiatry research",
+    "issn": "0165-1781",
+    "essn": "1872-7123"
+  },
+  {
+    "source": "Virusdisease",
+    "journal": "Virusdisease",
+    "issn": "2347-3584",
+    "essn": "2347-3517"
   }
 ]

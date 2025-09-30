@@ -2412,7 +2412,7 @@
     "id": "40913225",
     "title": "Respiratory Syncytial Virus Epidemiology and Clinical Burden in High-Risk and ≥ 50-Year-Old Adults in Low- to Middle-Income Countries: An Artificial-Intelligence-Enabled Systematic Literature Review.",
     "source": "Infect Dis Ther",
-    "pubdate": "2025 Sep 5",
+    "pubdate": "2025 Oct",
     "authors": [
       "Guzman-Holst A",
       "Gupta D",
@@ -2428,7 +2428,7 @@
     "issn": "2193-8229",
     "essn": "2193-6382",
     "doi": "doi: 10.1007/s40121-025-01220-4",
-    "sortpubdate": "2025/09/05 00:00",
+    "sortpubdate": "2025/10/01 00:00",
     "epubdate": "2025 Sep 5"
   },
   {
@@ -2550,6 +2550,28 @@
     "issn": "0264-410X",
     "essn": "1873-2518",
     "doi": "doi: 10.1016/j.vaccine.2025.127735",
+    "sortpubdate": "2025/09/26 00:00",
+    "epubdate": "2025 Sep 26"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "41018702",
+    "title": "Changes to Endemic Respiratory Virus Circulation and Testing Before, During, and After the COVID-19 Pandemic.",
+    "source": "Open Forum Infect Dis",
+    "pubdate": "2025 Sep",
+    "authors": [
+      "El-Haddad K",
+      "Liu W",
+      "Burke P",
+      "Wang H",
+      "Esper FP"
+    ],
+    "lastauthor": "Esper FP",
+    "sortfirstauthor": "El-Haddad K",
+    "journal": "Open forum infectious diseases",
+    "issn": "2328-8957",
+    "essn": "2328-8957",
+    "doi": "doi: 10.1093/ofid/ofaf493",
     "sortpubdate": "2025/09/26 00:00",
     "epubdate": "2025 Sep 26"
   }
