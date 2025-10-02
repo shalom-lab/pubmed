@@ -7543,6 +7543,7 @@
   {
     "source": "Light Sci Appl",
     "journal": "Light, science & applications",
+    "issn": "2095-5545",
     "essn": "2047-7538"
   },
   {
@@ -7573,5 +7574,39 @@
     "journal": "Nutricion hospitalaria",
     "issn": "0212-1611",
     "essn": "1699-5198"
+  },
+  {
+    "source": "Ther Adv Hematol",
+    "journal": "Therapeutic advances in hematology",
+    "issn": "2040-6207",
+    "essn": "2040-6215"
+  },
+  {
+    "source": "Perioper Med (Lond)",
+    "journal": "Perioperative medicine (London, England)",
+    "issn": "2047-0525"
+  },
+  {
+    "source": "Curr Cancer Drug Targets",
+    "journal": "Current cancer drug targets",
+    "issn": "1568-0096",
+    "essn": "1873-5576"
+  },
+  {
+    "source": "Cerebrovasc Dis",
+    "journal": "Cerebrovascular diseases (Basel, Switzerland)",
+    "issn": "1015-9770",
+    "essn": "1421-9786"
+  },
+  {
+    "source": "Curr Neurovasc Res",
+    "journal": "Current neurovascular research",
+    "issn": "1567-2026",
+    "essn": "1875-5739"
+  },
+  {
+    "source": "Korean J Community Nutr",
+    "journal": "Korean journal of community nutrition",
+    "essn": "2951-3146"
   }
 ]

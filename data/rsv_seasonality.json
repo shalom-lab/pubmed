@@ -2671,5 +2671,53 @@
     "doi": "doi: 10.1007/s13337-025-00925-x",
     "sortpubdate": "2025/06/01 00:00",
     "epubdate": "2025 May 29"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "41031614",
+    "title": "Cost-Effectiveness Analysis of Nirsevimab for Respiratory Syncytial Virus Disease Prevention in Newborns of Hong Kong.",
+    "source": "Influenza Other Respir Viruses",
+    "pubdate": "2025 Oct",
+    "authors": [
+      "Wang Y",
+      "Rui M",
+      "Wei Q",
+      "Leung TF",
+      "You JHS"
+    ],
+    "lastauthor": "You JHS",
+    "sortfirstauthor": "Wang Y",
+    "journal": "Influenza and other respiratory viruses",
+    "issn": "1750-2640",
+    "essn": "1750-2659",
+    "doi": "doi: 10.1111/irv.70153",
+    "sortpubdate": "2025/10/01 00:00",
+    "epubdate": ""
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "41017287",
+    "title": "Absences, Symptoms and Respiratory Viruses in a Swiss School: Longitudinal Study With Serial Saliva Sampling.",
+    "source": "Influenza Other Respir Viruses",
+    "pubdate": "2025 Oct",
+    "authors": [
+      "Banholzer N",
+      "Kronthaler D",
+      "Bittel P",
+      "Furrer L",
+      "Munday JD",
+      "Egger M",
+      "Hascher T",
+      "Jent P",
+      "Fenner L"
+    ],
+    "lastauthor": "Fenner L",
+    "sortfirstauthor": "Banholzer N",
+    "journal": "Influenza and other respiratory viruses",
+    "issn": "1750-2640",
+    "essn": "1750-2659",
+    "doi": "doi: 10.1111/irv.70143",
+    "sortpubdate": "2025/10/01 00:00",
+    "epubdate": ""
   }
 ]
