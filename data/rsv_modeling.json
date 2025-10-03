@@ -2636,5 +2636,61 @@
     "doi": "pii: 2025.03.26.25324738. doi: 10.1101/2025.03.26.25324738",
     "sortpubdate": "2025/03/27 00:00",
     "epubdate": "2025 Mar 27"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "41035419",
+    "title": "Self-Assembled Plasmonic Magnifier: A New Platform for Ultra-Sensitive Detection of Respiratory Viruses Using Surface-Enhanced Raman Spectroscopy.",
+    "source": "Anal Chem",
+    "pubdate": "2025 Oct 2",
+    "authors": [
+      "Guo L",
+      "Wang Q",
+      "Xing Y",
+      "Zhao X",
+      "Ma R",
+      "Liu D",
+      "Gao P",
+      "Li Y"
+    ],
+    "lastauthor": "Li Y",
+    "sortfirstauthor": "Guo L",
+    "journal": "Analytical chemistry",
+    "issn": "0003-2700",
+    "essn": "1520-6882",
+    "doi": "doi: 10.1021/acs.analchem.5c02722",
+    "sortpubdate": "2025/10/02 00:00",
+    "epubdate": "2025 Oct 2"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "41033565",
+    "title": "A quantitative systems pharmacology model to inform clinical translation of dynamic PKPD relationships of engineered IL-15.",
+    "source": "Eur J Pharm Sci",
+    "pubdate": "2025 Sep 29",
+    "authors": [
+      "Joslyn LR",
+      "Jafarnejad M",
+      "Yadav R",
+      "Holder PG",
+      "Sanjabi S",
+      "Shivva V",
+      "Liu K",
+      "Leung I",
+      "Kiabi N",
+      "Schubbert S",
+      "Bernett MJ",
+      "Desjarlais JR",
+      "Ramanujan S",
+      "Hosseini I"
+    ],
+    "lastauthor": "Hosseini I",
+    "sortfirstauthor": "Joslyn LR",
+    "journal": "European journal of pharmaceutical sciences : official journal of the European Federation for Pharmaceutical Sciences",
+    "issn": "0928-0987",
+    "essn": "1879-0720",
+    "doi": "doi: 10.1016/j.ejps.2025.107303",
+    "sortpubdate": "2025/09/29 00:00",
+    "epubdate": "2025 Sep 29"
   }
 ]
