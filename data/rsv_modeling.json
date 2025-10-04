@@ -2692,5 +2692,58 @@
     "doi": "doi: 10.1016/j.ejps.2025.107303",
     "sortpubdate": "2025/09/29 00:00",
     "epubdate": "2025 Sep 29"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "41042450",
+    "title": "Estimation of the Respiratory Syncytial Virus Hospitalization Burden in Older Adults in the Veneto Region, Italy: A Modeling Study.",
+    "source": "Infect Dis Ther",
+    "pubdate": "2025 Oct 3",
+    "authors": [
+      "Cozzolino C",
+      "Cozza A",
+      "Salmaso L",
+      "Saia M",
+      "Gentili D",
+      "Tonon M",
+      "Russo F",
+      "Cocchio S",
+      "Baldo V"
+    ],
+    "lastauthor": "Baldo V",
+    "sortfirstauthor": "Cozzolino C",
+    "journal": "Infectious diseases and therapy",
+    "issn": "2193-8229",
+    "essn": "2193-6382",
+    "doi": "doi: 10.1007/s40121-025-01241-z",
+    "sortpubdate": "2025/10/03 00:00",
+    "epubdate": "2025 Oct 3"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "41038811",
+    "title": "Quantum-enhanced nanodiamond rapid test advances early SARS-CoV-2 antigen detection in clinical diagnostics.",
+    "source": "Nat Commun",
+    "pubdate": "2025 Oct 2",
+    "authors": [
+      "Thomas DeCruz A",
+      "Miller BS",
+      "Huang D",
+      "McRobbie M",
+      "Donaldson F",
+      "McCoy LE",
+      "O'Sullivan CK",
+      "Botha JC",
+      "Nastouli E",
+      "McKendry RA"
+    ],
+    "lastauthor": "McKendry RA",
+    "sortfirstauthor": "Thomas DeCruz A",
+    "journal": "Nature communications",
+    "issn": "",
+    "essn": "2041-1723",
+    "doi": "doi: 10.1038/s41467-025-63066-1",
+    "sortpubdate": "2025/10/02 00:00",
+    "epubdate": "2025 Oct 2"
   }
 ]

@@ -1883,5 +1883,47 @@
     "doi": "doi: 10.1007/s11739-025-03999-z",
     "sortpubdate": "2025/09/01 00:00",
     "epubdate": "2025 Jun 13"
+  },
+  {
+    "name": "Vitamin D and respiratory infections",
+    "id": "41039278",
+    "title": "Correlation between serum vitamin D levels and immune function & clinical course in children with severe pneumonia: a single-center retrospective study.",
+    "source": "BMC Pediatr",
+    "pubdate": "2025 Oct 2",
+    "authors": [
+      "Yang S",
+      "Yang W"
+    ],
+    "lastauthor": "Yang W",
+    "sortfirstauthor": "Yang S",
+    "journal": "BMC pediatrics",
+    "issn": "",
+    "essn": "1471-2431",
+    "doi": "doi: 10.1186/s12887-025-05890-4",
+    "sortpubdate": "2025/10/02 00:00",
+    "epubdate": "2025 Oct 2"
+  },
+  {
+    "name": "Vitamin D and respiratory infections",
+    "id": "41038818",
+    "title": "Monitoring changes in vitamin D levels during the COVID-19 pandemic with routinely-collected laboratory data.",
+    "source": "Nat Commun",
+    "pubdate": "2025 Oct 2",
+    "authors": [
+      "Skapetze L",
+      "Koller D",
+      "Zwergal A",
+      "Feuerriegel S",
+      "Rubinski A",
+      "Grill E"
+    ],
+    "lastauthor": "Grill E",
+    "sortfirstauthor": "Skapetze L",
+    "journal": "Nature communications",
+    "issn": "",
+    "essn": "2041-1723",
+    "doi": "doi: 10.1038/s41467-025-64192-6",
+    "sortpubdate": "2025/10/02 00:00",
+    "epubdate": "2025 Oct 2"
   }
 ]
