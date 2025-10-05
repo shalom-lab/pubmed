@@ -2745,5 +2745,47 @@
     "doi": "doi: 10.1007/s40121-025-01241-z",
     "sortpubdate": "2025/10/03 00:00",
     "epubdate": "2025 Oct 3"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "41045533",
+    "title": "Burden Estimation and Seasonality of Respiratory Syncytial Virus among Hospitalized Children in Kashmir, Northern India.",
+    "source": "Indian J Public Health",
+    "pubdate": "2025 Jul 1",
+    "authors": [
+      "Fomda BA",
+      "Samreen A",
+      "Bhat MA",
+      "Mir YB",
+      "Lone SA"
+    ],
+    "lastauthor": "Lone SA",
+    "sortfirstauthor": "Fomda BA",
+    "journal": "Indian journal of public health",
+    "issn": "0019-557X",
+    "essn": "",
+    "doi": "doi: 10.4103/ijph.ijph_1458_23",
+    "sortpubdate": "2025/07/01 00:00",
+    "epubdate": "2025 Oct 4"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "41043634",
+    "title": "Analyzing Seasonal Trends of Respiratory Syncytial Virus Circulation Using Latin American National Surveillance Database during Pre- and Post-COVID-19 Pandemic.",
+    "source": "Int J Infect Dis",
+    "pubdate": "2025 Oct 1",
+    "authors": [
+      "Perroud AP",
+      "Coronel DL",
+      "Rivas E"
+    ],
+    "lastauthor": "Rivas E",
+    "sortfirstauthor": "Perroud AP",
+    "journal": "International journal of infectious diseases : IJID : official publication of the International Society for Infectious Diseases",
+    "issn": "1201-9712",
+    "essn": "1878-3511",
+    "doi": "doi: 10.1016/j.ijid.2025.108095",
+    "sortpubdate": "2025/10/01 00:00",
+    "epubdate": "2025 Oct 1"
   }
 ]

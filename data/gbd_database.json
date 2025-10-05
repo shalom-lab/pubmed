@@ -22056,7 +22056,7 @@
   {
     "name": "GBD database",
     "id": "41033414",
-    "title": "Sex-Specific Bladder Cancer Incidence Trends and Generational Effects in Spain.",
+    "title": "Sex-specific bladder cancer incidence trends and generational effects in Spain.",
     "source": "Actas Urol Esp (Engl Ed)",
     "pubdate": "2025 Sep 29",
     "authors": [
@@ -22221,7 +22221,7 @@
     "sortfirstauthor": "Su Z",
     "journal": "Tropical medicine and health",
     "issn": "1348-8945",
-    "essn": "",
+    "essn": "1349-4147",
     "doi": "doi: 10.1186/s41182-025-00810-9",
     "sortpubdate": "2025/10/02 00:00",
     "epubdate": "2025 Oct 2"
@@ -22321,5 +22321,99 @@
     "doi": "doi: 10.1016/j.aohep.2025.102128",
     "sortpubdate": "2025/09/30 00:00",
     "epubdate": "2025 Sep 30"
+  },
+  {
+    "name": "GBD database",
+    "id": "41045516",
+    "title": "Global, regional, and national burden of aortic aneurysm in the elderly from 1990 to 2021, and projections to 2050: a systematic analysis based on the 2021 Global Burden of Disease Study.",
+    "source": "Cardiovasc Res",
+    "pubdate": "2025 Oct 4",
+    "authors": [
+      "Hu C",
+      "Nong S",
+      "Zhang Q",
+      "Zhang X",
+      "Lin C",
+      "Huang C",
+      "Liao C",
+      "Wu M"
+    ],
+    "lastauthor": "Wu M",
+    "sortfirstauthor": "Hu C",
+    "journal": "Cardiovascular research",
+    "issn": "0008-6363",
+    "essn": "1755-3245",
+    "doi": "pii: cvaf182. doi: 10.1093/cvr/cvaf182",
+    "sortpubdate": "2025/10/04 00:00",
+    "epubdate": "2025 Oct 4"
+  },
+  {
+    "name": "GBD database",
+    "id": "41045361",
+    "title": "Immunometabolic alterations induced by GBD surgery and adjunct pharmacotherapy with metformin, orlistat, statins, and ACE inhibitors.",
+    "source": "Mol Biol Rep",
+    "pubdate": "2025 Oct 4",
+    "authors": [
+      "Salman DM",
+      "Mohammad TAM"
+    ],
+    "lastauthor": "Mohammad TAM",
+    "sortfirstauthor": "Salman DM",
+    "journal": "Molecular biology reports",
+    "issn": "0301-4851",
+    "essn": "1573-4978",
+    "doi": "doi: 10.1007/s11033-025-11031-y",
+    "sortpubdate": "2025/10/04 00:00",
+    "epubdate": "2025 Oct 4"
+  },
+  {
+    "name": "GBD database",
+    "id": "41044674",
+    "title": "Rheumatoid arthritis continues to increase in low-middle SDI and low SDI quintiles based on GBD 1990-2021.",
+    "source": "BMC Rheumatol",
+    "pubdate": "2025 Oct 3",
+    "authors": [
+      "Fu L",
+      "Ge M",
+      "Zhu F",
+      "Du W",
+      "Xiong Z",
+      "Ye Z",
+      "Hu H",
+      "Hong S"
+    ],
+    "lastauthor": "Hong S",
+    "sortfirstauthor": "Fu L",
+    "journal": "BMC rheumatology",
+    "issn": "",
+    "essn": "2520-1026",
+    "doi": "doi: 10.1186/s41927-025-00570-3",
+    "sortpubdate": "2025/10/03 00:00",
+    "epubdate": "2025 Oct 3"
+  },
+  {
+    "name": "GBD database",
+    "id": "41039252",
+    "title": "Global, regional, and national incidence and mortality of neonatal sepsis and other neonatal infections, 1990-2021 and predictions to 2050.",
+    "source": "BMC Pediatr",
+    "pubdate": "2025 Oct 2",
+    "authors": [
+      "Jiang K",
+      "Zhang Z",
+      "Huang X",
+      "Hao C",
+      "Huang H",
+      "Liu W",
+      "Fan L",
+      "Lu W"
+    ],
+    "lastauthor": "Lu W",
+    "sortfirstauthor": "Jiang K",
+    "journal": "BMC pediatrics",
+    "issn": "",
+    "essn": "1471-2431",
+    "doi": "doi: 10.1186/s12887-025-06044-2",
+    "sortpubdate": "2025/10/02 00:00",
+    "epubdate": "2025 Oct 2"
   }
 ]
