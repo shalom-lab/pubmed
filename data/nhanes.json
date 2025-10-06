@@ -32638,7 +32638,7 @@
     "sortfirstauthor": "Ying Q",
     "journal": "Diabetology & metabolic syndrome",
     "issn": "1758-5996",
-    "essn": "",
+    "essn": "1758-5996",
     "doi": "doi: 10.1186/s13098-025-01947-7",
     "sortpubdate": "2025/10/03 00:00",
     "epubdate": "2025 Oct 3"
@@ -32668,7 +32668,7 @@
     "id": "41043797",
     "title": "Association between anemia and stroke with its subtypes in adults: Insights from NHANES 2005-2016 and Mendelian randomization analyses.",
     "source": "Exp Gerontol",
-    "pubdate": "2025 Oct 1",
+    "pubdate": "2025 Oct 3",
     "authors": [
       "Li Q",
       "Wang S",
@@ -32690,8 +32690,8 @@
     "issn": "0531-5565",
     "essn": "1873-6815",
     "doi": "doi: 10.1016/j.exger.2025.112916",
-    "sortpubdate": "2025/10/01 00:00",
-    "epubdate": "2025 Oct 1"
+    "sortpubdate": "2025/10/03 00:00",
+    "epubdate": "2025 Oct 3"
   },
   {
     "name": "NHANES",
@@ -32807,6 +32807,51 @@
     "issn": "0002-9165",
     "essn": "1938-3207",
     "doi": "pii: S0002-9165(25)00599-4. doi: 10.1016/j.ajcnut.2025.09.046",
+    "sortpubdate": "2025/10/01 00:00",
+    "epubdate": "2025 Oct 1"
+  },
+  {
+    "name": "NHANES",
+    "id": "41045744",
+    "title": "Triclosan exposure exacerbates muscle wasting via senescence and IGF-1 pathway suppression: A combined epidemiological and experimental study.",
+    "source": "Ecotoxicol Environ Saf",
+    "pubdate": "2025 Oct 3",
+    "authors": [
+      "Yang Z",
+      "Hao L",
+      "Kuati A",
+      "Wang X",
+      "Qian Z",
+      "Hao C",
+      "Duan J",
+      "Yang B",
+      "Zhu Y"
+    ],
+    "lastauthor": "Zhu Y",
+    "sortfirstauthor": "Yang Z",
+    "journal": "Ecotoxicology and environmental safety",
+    "issn": "0147-6513",
+    "essn": "1090-2414",
+    "doi": "doi: 10.1016/j.ecoenv.2025.119142",
+    "sortpubdate": "2025/10/03 00:00",
+    "epubdate": "2025 Oct 3"
+  },
+  {
+    "name": "NHANES",
+    "id": "41045677",
+    "title": "Fat shame does not promote health: Attempting weight loss because of weight-based teasing is associated with elevated blood pressure, inflammation, and skipping meals among U.S. youth.",
+    "source": "Soc Sci Med",
+    "pubdate": "2025 Oct 1",
+    "authors": [
+      "Cullin JM",
+      "White KE"
+    ],
+    "lastauthor": "White KE",
+    "sortfirstauthor": "Cullin JM",
+    "journal": "Social science & medicine (1982)",
+    "issn": "0277-9536",
+    "essn": "1873-5347",
+    "doi": "doi: 10.1016/j.socscimed.2025.118636",
     "sortpubdate": "2025/10/01 00:00",
     "epubdate": "2025 Oct 1"
   }
