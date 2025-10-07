@@ -5886,7 +5886,8 @@
   {
     "source": "Acta Pharm Sin B",
     "journal": "Acta pharmaceutica Sinica. B",
-    "issn": "2211-3835"
+    "issn": "2211-3835",
+    "essn": "2211-3843"
   },
   {
     "source": "Glob Ment Health (Camb)",
@@ -7788,5 +7789,92 @@
     "journal": "European journal of oncology nursing : the official journal of European Oncology Nursing Society",
     "issn": "1462-3889",
     "essn": "1532-2122"
+  },
+  {
+    "source": "Epilepsia",
+    "journal": "Epilepsia",
+    "issn": "0013-9580",
+    "essn": "1528-1167"
+  },
+  {
+    "source": "J Perianesth Nurs",
+    "journal": "Journal of perianesthesia nursing : official journal of the American Society of PeriAnesthesia Nurses",
+    "issn": "1089-9472",
+    "essn": "1532-8473"
+  },
+  {
+    "source": "Protein Pept Lett",
+    "journal": "Protein and peptide letters",
+    "issn": "0929-8665",
+    "essn": "1875-5305"
+  },
+  {
+    "source": "Patient Prefer Adherence",
+    "journal": "Patient preference and adherence",
+    "issn": "1177-889X",
+    "essn": "1177-889X"
+  },
+  {
+    "source": "Asian J Urol",
+    "journal": "Asian journal of urology",
+    "issn": "2214-3882",
+    "essn": "2214-3890"
+  },
+  {
+    "source": "Clin Med Insights Oncol",
+    "journal": "Clinical Medicine Insights. Oncology",
+    "issn": "1179-5549",
+    "essn": "1179-5549"
+  },
+  {
+    "source": "Front Reprod Health",
+    "journal": "Frontiers in reproductive health",
+    "issn": "2673-3153",
+    "essn": "2673-3153"
+  },
+  {
+    "source": "Biol Sport",
+    "journal": "Biology of sport",
+    "issn": "0860-021X",
+    "essn": "2083-1862"
+  },
+  {
+    "source": "World J Mens Health",
+    "journal": "The world journal of men's health",
+    "issn": "2287-4208"
+  },
+  {
+    "source": "Int J Hypertens",
+    "journal": "International journal of hypertension",
+    "issn": "2090-0384",
+    "essn": "2090-0392"
+  },
+  {
+    "source": "Compr Psychoneuroendocrinol",
+    "journal": "Comprehensive psychoneuroendocrinology",
+    "essn": "2666-4976"
+  },
+  {
+    "source": "J Lipid Atheroscler",
+    "journal": "Journal of lipid and atherosclerosis",
+    "issn": "2287-2892",
+    "essn": "2288-2561"
+  },
+  {
+    "source": "Eur Heart J Open",
+    "journal": "European heart journal open",
+    "essn": "2752-4191"
+  },
+  {
+    "source": "Women Health",
+    "journal": "Women & health",
+    "issn": "0363-0242",
+    "essn": "1541-0331"
+  },
+  {
+    "source": "Arab J Gastroenterol",
+    "journal": "Arab journal of gastroenterology : the official publication of the Pan-Arab Association of Gastroenterology",
+    "issn": "1687-1979",
+    "essn": "2090-2387"
   }
 ]
