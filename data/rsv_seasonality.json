@@ -2810,5 +2810,30 @@
     "doi": "doi: 10.1002/jmv.70629",
     "sortpubdate": "2025/10/01 00:00",
     "epubdate": ""
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "41055398",
+    "title": "Whole-genome sequence characterization of respiratory syncytial virus in the Johns Hopkins Health System during the 2024-2025 respiratory season.",
+    "source": "Microbiol Spectr",
+    "pubdate": "2025 Oct 7",
+    "authors": [
+      "Zhuang TX",
+      "Fall A",
+      "Norton JM",
+      "Abdullah O",
+      "Villafuerte DA",
+      "Pekosz A",
+      "Klein E",
+      "Mostafa HH"
+    ],
+    "lastauthor": "Mostafa HH",
+    "sortfirstauthor": "Zhuang TX",
+    "journal": "Microbiology spectrum",
+    "issn": "",
+    "essn": "2165-0497",
+    "doi": "doi: 10.1128/spectrum.02065-25",
+    "sortpubdate": "2025/10/07 00:00",
+    "epubdate": "2025 Oct 7"
   }
 ]
