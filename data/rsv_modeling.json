@@ -2745,5 +2745,27 @@
     "doi": "doi: 10.1038/s41467-025-63066-1",
     "sortpubdate": "2025/10/02 00:00",
     "epubdate": "2025 Oct 2"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "40976983",
+    "title": "Modeling the greenhouse gas emissions of an immunization program against respiratory syncytial virus in infants in the United Kingdom.",
+    "source": "Int J Technol Assess Health Care",
+    "pubdate": "2025 Sep 22",
+    "authors": [
+      "Hudson RDA",
+      "Rigoine de Fougerolles T",
+      "Leadley F",
+      "Chetty M",
+      "De La Tour P"
+    ],
+    "lastauthor": "De La Tour P",
+    "sortfirstauthor": "Hudson RDA",
+    "journal": "International journal of technology assessment in health care",
+    "issn": "0266-4623",
+    "essn": "1471-6348",
+    "doi": "doi: 10.1017/S0266462325100524",
+    "sortpubdate": "2025/09/22 00:00",
+    "epubdate": "2025 Sep 22"
   }
 ]
