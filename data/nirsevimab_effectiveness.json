@@ -276,7 +276,7 @@
     "id": "40472256",
     "title": "Intention to Use RSVpreF Vaccine or Nirsevimab to Prevent Infant RSV Among Pregnant Individuals.",
     "source": "Pediatr Infect Dis J",
-    "pubdate": "2025 Jun 3",
+    "pubdate": "2025 Nov 1",
     "authors": [
       "Callaghan T",
       "Wise LA",
@@ -288,7 +288,7 @@
     "issn": "0891-3668",
     "essn": "1532-0987",
     "doi": "doi: 10.1097/INF.0000000000004889",
-    "sortpubdate": "2025/06/03 00:00",
+    "sortpubdate": "2025/11/01 00:00",
     "epubdate": "2025 Jun 3"
   },
   {
@@ -2373,5 +2373,35 @@
     "doi": "doi: 10.1016/j.siny.2025.101667",
     "sortpubdate": "2025/09/25 00:00",
     "epubdate": "2025 Sep 25"
+  },
+  {
+    "name": "Nirsevimab effectiveness",
+    "id": "41066533",
+    "title": "Impact of RSV immunization on the rate of pediatric acute otitis media: a time-series analysis.",
+    "source": "Clin Infect Dis",
+    "pubdate": "2025 Oct 9",
+    "authors": [
+      "Fafi I",
+      "Levy C",
+      "Birgy A",
+      "Bechet S",
+      "Werner A",
+      "Batard C",
+      "Franji B",
+      "Lassoued Y",
+      "Cahn Sellem F",
+      "Basmaci R",
+      "Kaguelidou F",
+      "Ouldali N",
+      "Cohen R"
+    ],
+    "lastauthor": "Cohen R",
+    "sortfirstauthor": "Fafi I",
+    "journal": "Clinical infectious diseases : an official publication of the Infectious Diseases Society of America",
+    "issn": "1058-4838",
+    "essn": "1537-6591",
+    "doi": "pii: ciaf564. doi: 10.1093/cid/ciaf564",
+    "sortpubdate": "2025/10/09 00:00",
+    "epubdate": "2025 Oct 9"
   }
 ]

@@ -1925,5 +1925,36 @@
     "doi": "doi: 10.1038/s41467-025-64192-6",
     "sortpubdate": "2025/10/02 00:00",
     "epubdate": "2025 Oct 2"
+  },
+  {
+    "name": "Vitamin D and respiratory infections",
+    "id": "41064641",
+    "title": "Vitamin D-inducible antimicrobial peptide LL-37 binds SARS-CoV-2 Spike and accessory proteins ORF7a and ORF8.",
+    "source": "Front Cell Infect Microbiol",
+    "pubdate": "2025",
+    "authors": [
+      "Roth A",
+      "Lütke S",
+      "Mörgelin M",
+      "Meinberger D",
+      "Hermes G",
+      "Sengle G",
+      "Koch M",
+      "Drexelius M",
+      "Gebauer J",
+      "Neundorf I",
+      "Elezagic D",
+      "Paulsson M",
+      "Streichert T",
+      "Klatt AR"
+    ],
+    "lastauthor": "Klatt AR",
+    "sortfirstauthor": "Roth A",
+    "journal": "Frontiers in cellular and infection microbiology",
+    "issn": "",
+    "essn": "2235-2988",
+    "doi": "doi: 10.3389/fcimb.2025.1671738",
+    "sortpubdate": "2025/09/23 00:00",
+    "epubdate": "2025 Sep 23"
   }
 ]

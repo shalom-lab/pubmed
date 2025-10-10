@@ -2767,5 +2767,35 @@
     "doi": "doi: 10.1017/S0266462325100524",
     "sortpubdate": "2025/09/22 00:00",
     "epubdate": "2025 Sep 22"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "41066533",
+    "title": "Impact of RSV immunization on the rate of pediatric acute otitis media: a time-series analysis.",
+    "source": "Clin Infect Dis",
+    "pubdate": "2025 Oct 9",
+    "authors": [
+      "Fafi I",
+      "Levy C",
+      "Birgy A",
+      "Bechet S",
+      "Werner A",
+      "Batard C",
+      "Franji B",
+      "Lassoued Y",
+      "Cahn Sellem F",
+      "Basmaci R",
+      "Kaguelidou F",
+      "Ouldali N",
+      "Cohen R"
+    ],
+    "lastauthor": "Cohen R",
+    "sortfirstauthor": "Fafi I",
+    "journal": "Clinical infectious diseases : an official publication of the Infectious Diseases Society of America",
+    "issn": "1058-4838",
+    "essn": "1537-6591",
+    "doi": "pii: ciaf564. doi: 10.1093/cid/ciaf564",
+    "sortpubdate": "2025/10/09 00:00",
+    "epubdate": "2025 Oct 9"
   }
 ]

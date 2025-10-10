@@ -7585,7 +7585,8 @@
   {
     "source": "Perioper Med (Lond)",
     "journal": "Perioperative medicine (London, England)",
-    "issn": "2047-0525"
+    "issn": "2047-0525",
+    "essn": "2047-0525"
   },
   {
     "source": "Curr Cancer Drug Targets",
@@ -8030,5 +8031,46 @@
     "journal": "International journal of technology assessment in health care",
     "issn": "0266-4623",
     "essn": "1471-6348"
+  },
+  {
+    "source": "Int Urogynecol J",
+    "journal": "International urogynecology journal",
+    "issn": "0937-3462",
+    "essn": "1433-3023"
+  },
+  {
+    "source": "Andrology",
+    "journal": "Andrology",
+    "issn": "2047-2919",
+    "essn": "2047-2927"
+  },
+  {
+    "source": "Crit Rev Anal Chem",
+    "journal": "Critical reviews in analytical chemistry",
+    "issn": "1040-8347",
+    "essn": "1547-6510"
+  },
+  {
+    "source": "Cancer Cell Int",
+    "journal": "Cancer cell international",
+    "issn": "1475-2867"
+  },
+  {
+    "source": "Phys Med Biol",
+    "journal": "Physics in medicine and biology",
+    "issn": "0031-9155",
+    "essn": "1361-6560"
+  },
+  {
+    "source": "Curr Atheroscler Rep",
+    "journal": "Current atherosclerosis reports",
+    "issn": "1523-3804",
+    "essn": "1534-6242"
+  },
+  {
+    "source": "Circ Cardiovasc Qual Outcomes",
+    "journal": "Circulation. Cardiovascular quality and outcomes",
+    "issn": "1941-7713",
+    "essn": "1941-7705"
   }
 ]
