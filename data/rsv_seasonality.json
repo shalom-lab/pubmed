@@ -2835,5 +2835,35 @@
     "doi": "doi: 10.1128/spectrum.02065-25",
     "sortpubdate": "2025/10/07 00:00",
     "epubdate": "2025 Oct 7"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "41069989",
+    "title": "From lockdown to recovery: changing patterns of viral infection severity in a pediatric cohort with asthma.",
+    "source": "Front Allergy",
+    "pubdate": "2025",
+    "authors": [
+      "Jones C",
+      "Laws M",
+      "Yousuf S",
+      "Delo A",
+      "Hartzell S",
+      "Kinder E",
+      "Ingold A",
+      "Boyanton BL Jr",
+      "Frederick D",
+      "Frenner RA",
+      "Hathorn E",
+      "Mourani PM",
+      "Kennedy JL"
+    ],
+    "lastauthor": "Kennedy JL",
+    "sortfirstauthor": "Jones C",
+    "journal": "Frontiers in allergy",
+    "issn": "2673-6101",
+    "essn": "2673-6101",
+    "doi": "doi: 10.3389/falgy.2025.1645968",
+    "sortpubdate": "2025/09/24 00:00",
+    "epubdate": "2025 Sep 24"
   }
 ]
