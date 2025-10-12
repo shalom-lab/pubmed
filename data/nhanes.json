@@ -35242,7 +35242,7 @@
     "id": "41067291",
     "title": "Association between hs-CRP-triglyceride glucose index and obstructive sleep apnea: a study from NHANES 2015-2018.",
     "source": "Respir Med",
-    "pubdate": "2025 Oct 7",
+    "pubdate": "2025 Oct 8",
     "authors": [
       "Yang S",
       "Su X"
@@ -35253,8 +35253,8 @@
     "issn": "0954-6111",
     "essn": "1532-3064",
     "doi": "doi: 10.1016/j.rmed.2025.108412",
-    "sortpubdate": "2025/10/07 00:00",
-    "epubdate": "2025 Oct 7"
+    "sortpubdate": "2025/10/08 00:00",
+    "epubdate": "2025 Oct 8"
   },
   {
     "name": "NHANES",
@@ -35279,5 +35279,143 @@
     "doi": "doi: 10.1055/a-2720-4884",
     "sortpubdate": "2025/10/09 00:00",
     "epubdate": "2025 Oct 9"
+  },
+  {
+    "name": "NHANES",
+    "id": "41074193",
+    "title": "The association between insulin resistance assessed by estimated glucose disposal rate and stroke prevalence and mortality in non-diabetic people: evidence from two prospective cohorts.",
+    "source": "Diabetol Metab Syndr",
+    "pubdate": "2025 Oct 10",
+    "authors": [
+      "Li D",
+      "Guo Y",
+      "Cui F",
+      "Cheng Y",
+      "Yan S",
+      "Yu T",
+      "Li X",
+      "Liu Z",
+      "Jiang H"
+    ],
+    "lastauthor": "Jiang H",
+    "sortfirstauthor": "Li D",
+    "journal": "Diabetology & metabolic syndrome",
+    "issn": "1758-5996",
+    "essn": "",
+    "doi": "doi: 10.1186/s13098-025-01956-6",
+    "sortpubdate": "2025/10/10 00:00",
+    "epubdate": "2025 Oct 10"
+  },
+  {
+    "name": "NHANES",
+    "id": "41074066",
+    "title": "Investigating the role of depression in obstructive sleep apnea and predicting risk factors for OSA in depressed patients: machine learning-assisted evidence from NHANES.",
+    "source": "BMC Psychiatry",
+    "pubdate": "2025 Oct 10",
+    "authors": [
+      "Cheng X",
+      "Liu F",
+      "Zhang X",
+      "Liu Y",
+      "Guo J",
+      "Zhong X",
+      "Tian D",
+      "Pei A",
+      "Xiang X",
+      "Yao Y",
+      "Su D"
+    ],
+    "lastauthor": "Su D",
+    "sortfirstauthor": "Cheng X",
+    "journal": "BMC psychiatry",
+    "issn": "",
+    "essn": "1471-244X",
+    "doi": "doi: 10.1186/s12888-025-07414-x",
+    "sortpubdate": "2025/10/10 00:00",
+    "epubdate": "2025 Oct 10"
+  },
+  {
+    "name": "NHANES",
+    "id": "41073997",
+    "title": "Association between atherogenic index of plasma (AIP) and all-cause and cardiovascular mortality in patients with metabolic dysfunction-associated steatotic liver disease (MASLD): a cohort study based on NHANES 1999-2018.",
+    "source": "Cardiovasc Diabetol",
+    "pubdate": "2025 Oct 10",
+    "authors": [
+      "Gan M",
+      "Chen B",
+      "Qin M",
+      "Zhang L",
+      "Wang X"
+    ],
+    "lastauthor": "Wang X",
+    "sortfirstauthor": "Gan M",
+    "journal": "Cardiovascular diabetology",
+    "issn": "",
+    "essn": "1475-2840",
+    "doi": "doi: 10.1186/s12933-025-02941-z",
+    "sortpubdate": "2025/10/10 00:00",
+    "epubdate": "2025 Oct 10"
+  },
+  {
+    "name": "NHANES",
+    "id": "41072799",
+    "title": "Predictors of vitamin C status in NHANES 2017-2018: the effect of body weight and BMI in a multiple fractional polynomial analysis.",
+    "source": "J Nutr",
+    "pubdate": "2025 Oct 8",
+    "authors": [
+      "Bird JK",
+      "Feskens EJM",
+      "Melse-Boonstra A"
+    ],
+    "lastauthor": "Melse-Boonstra A",
+    "sortfirstauthor": "Bird JK",
+    "journal": "The Journal of nutrition",
+    "issn": "0022-3166",
+    "essn": "1541-6100",
+    "doi": "pii: S0022-3166(25)00611-X. doi: 10.1016/j.tjnut.2025.10.001",
+    "sortpubdate": "2025/10/08 00:00",
+    "epubdate": "2025 Oct 8"
+  },
+  {
+    "name": "NHANES",
+    "id": "41072632",
+    "title": "Unequal strides to longevity. The extra mile to health equity.",
+    "source": "Ann Epidemiol",
+    "pubdate": "2025 Oct 8",
+    "authors": [
+      "Pozo Cruz BD",
+      "Perales F",
+      "Straczkiewicz M",
+      "Matabuena M",
+      "Del Pozo-Cruz J",
+      "López-Bueno R"
+    ],
+    "lastauthor": "López-Bueno R",
+    "sortfirstauthor": "Pozo Cruz BD",
+    "journal": "Annals of epidemiology",
+    "issn": "1047-2797",
+    "essn": "1873-2585",
+    "doi": "pii: S1047-2797(25)00304-7. doi: 10.1016/j.annepidem.2025.10.009",
+    "sortpubdate": "2025/10/08 00:00",
+    "epubdate": "2025 Oct 8"
+  },
+  {
+    "name": "NHANES",
+    "id": "41072610",
+    "title": "Trends in Opioid Use Among Adults With Cardiovascular Disease, 2001 - March 2020.",
+    "source": "J Am Pharm Assoc (2003)",
+    "pubdate": "2025 Oct 8",
+    "authors": [
+      "Han GE",
+      "Hwang AY"
+    ],
+    "lastauthor": "Hwang AY",
+    "sortfirstauthor": "Han GE",
+    "journal": "Journal of the American Pharmacists Association : JAPhA",
+    "issn": "1086-5802",
+    "essn": "1544-3450",
+    "doi": "doi: 10.1016/j.japh.2025.102937",
+    "sortpubdate": "2025/10/08 00:00",
+    "epubdate": "2025 Oct 8"
   }
 ]
