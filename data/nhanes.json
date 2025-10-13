@@ -35301,7 +35301,7 @@
     "sortfirstauthor": "Li D",
     "journal": "Diabetology & metabolic syndrome",
     "issn": "1758-5996",
-    "essn": "",
+    "essn": "1758-5996",
     "doi": "doi: 10.1186/s13098-025-01956-6",
     "sortpubdate": "2025/10/10 00:00",
     "epubdate": "2025 Oct 10"
@@ -35417,5 +35417,141 @@
     "doi": "doi: 10.1016/j.japh.2025.102937",
     "sortpubdate": "2025/10/08 00:00",
     "epubdate": "2025 Oct 8"
+  },
+  {
+    "name": "NHANES",
+    "id": "41076739",
+    "title": "Diabetes, anxiety, and mortality risk among middle and older-aged Americans.",
+    "source": "J Diabetes Complications",
+    "pubdate": "2025 Oct 10",
+    "authors": [
+      "Banerjee S",
+      "Khubchandani J",
+      "Gonzales-Lagos R"
+    ],
+    "lastauthor": "Gonzales-Lagos R",
+    "sortfirstauthor": "Banerjee S",
+    "journal": "Journal of diabetes and its complications",
+    "issn": "1056-8727",
+    "essn": "1873-460X",
+    "doi": "doi: 10.1016/j.jdiacomp.2025.109194",
+    "sortpubdate": "2025/10/10 00:00",
+    "epubdate": "2025 Oct 10"
+  },
+  {
+    "name": "NHANES",
+    "id": "41076377",
+    "title": "Impact of diabetes and obesity on patient outcomes in alcohol-associated liver disease: Analysis of 3 databases.",
+    "source": "Dig Liver Dis",
+    "pubdate": "2025 Oct 10",
+    "authors": [
+      "Blaney H",
+      "Zhang W",
+      "Bandhari P",
+      "Elfeki M",
+      "Xie C",
+      "Dunn W",
+      "Wong R",
+      "Younossi Z",
+      "Kuo YF",
+      "Kong M",
+      "Singal A"
+    ],
+    "lastauthor": "Singal A",
+    "sortfirstauthor": "Blaney H",
+    "journal": "Digestive and liver disease : official journal of the Italian Society of Gastroenterology and the Italian Association for the Study of the Liver",
+    "issn": "1590-8658",
+    "essn": "1878-3562",
+    "doi": "pii: S1590-8658(25)01123-5. doi: 10.1016/j.dld.2025.09.020",
+    "sortpubdate": "2025/10/10 00:00",
+    "epubdate": "2025 Oct 10"
+  },
+  {
+    "name": "NHANES",
+    "id": "41076329",
+    "title": "The prognostic significance of metabolic score for insulin resistance in evaluating all-cause and cardiovascular mortality risk among individuals across stages 1-4 of cardiovascular-kidney-metabolic syndrome: a nationwide prospective cohort study.",
+    "source": "Nutr Metab Cardiovasc Dis",
+    "pubdate": "2025 Sep 12",
+    "authors": [
+      "Wang J",
+      "Du B"
+    ],
+    "lastauthor": "Du B",
+    "sortfirstauthor": "Wang J",
+    "journal": "Nutrition, metabolism, and cardiovascular diseases : NMCD",
+    "issn": "0939-4753",
+    "essn": "1590-3729",
+    "doi": "doi: 10.1016/j.numecd.2025.104361",
+    "sortpubdate": "2025/09/12 00:00",
+    "epubdate": "2025 Sep 12"
+  },
+  {
+    "name": "NHANES",
+    "id": "41076328",
+    "title": "Relationship between moderate alcohol consumption and all-cause mortality across different stages of Cardiovascular-Kidney-Metabolic (CKM) Syndrome: a cohort study.",
+    "source": "Nutr Metab Cardiovasc Dis",
+    "pubdate": "2025 Aug 30",
+    "authors": [
+      "Wang Z",
+      "Hu L",
+      "Chen A",
+      "Wu Y",
+      "Wang G",
+      "Xie X",
+      "He Q",
+      "Xue Y",
+      "Lin J",
+      "Zheng Z",
+      "Jia Y",
+      "Chen J"
+    ],
+    "lastauthor": "Chen J",
+    "sortfirstauthor": "Wang Z",
+    "journal": "Nutrition, metabolism, and cardiovascular diseases : NMCD",
+    "issn": "0939-4753",
+    "essn": "1590-3729",
+    "doi": "doi: 10.1016/j.numecd.2025.104287",
+    "sortpubdate": "2025/08/30 00:00",
+    "epubdate": "2025 Aug 30"
+  },
+  {
+    "name": "NHANES",
+    "id": "41076280",
+    "title": "Mortality Risk of High BMI in Life Insurance Applicants and the US Population.",
+    "source": "J Insur Med",
+    "pubdate": "2025 Oct 9",
+    "authors": [
+      "Rigatti SJ",
+      "Saputra ST",
+      "Fix JM"
+    ],
+    "lastauthor": "Fix JM",
+    "sortfirstauthor": "Rigatti SJ",
+    "journal": "Journal of insurance medicine (New York, N.Y.)",
+    "issn": "0743-6661",
+    "essn": "",
+    "doi": "doi: 10.17849/insm-52-3-1-11.1",
+    "sortpubdate": "2025/10/09 00:00",
+    "epubdate": "2025 Oct 9"
+  },
+  {
+    "name": "NHANES",
+    "id": "41075986",
+    "title": "Diabetic retinopathy and mortality in adults with diabetes: causal mediation analysis of the role of HbA1c.",
+    "source": "Diabetes Res Clin Pract",
+    "pubdate": "2025 Oct 9",
+    "authors": [
+      "Wang Z",
+      "Guo H",
+      "Teng X"
+    ],
+    "lastauthor": "Teng X",
+    "sortfirstauthor": "Wang Z",
+    "journal": "Diabetes research and clinical practice",
+    "issn": "0168-8227",
+    "essn": "1872-8227",
+    "doi": "doi: 10.1016/j.diabres.2025.112936",
+    "sortpubdate": "2025/10/09 00:00",
+    "epubdate": "2025 Oct 9"
   }
 ]
