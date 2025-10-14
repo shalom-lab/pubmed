@@ -2865,5 +2865,78 @@
     "doi": "doi: 10.3389/falgy.2025.1645968",
     "sortpubdate": "2025/09/24 00:00",
     "epubdate": "2025 Sep 24"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "41082385",
+    "title": "Beyond alarmism: what Australia's influenza season really tells us about Italy.",
+    "source": "Pathog Glob Health",
+    "pubdate": "2025 Oct 13",
+    "authors": [
+      "Branda F",
+      "Romano C",
+      "Ceccarelli G",
+      "Scarpa F",
+      "Ciccozzi M"
+    ],
+    "lastauthor": "Ciccozzi M",
+    "sortfirstauthor": "Branda F",
+    "journal": "Pathogens and global health",
+    "issn": "2047-7724",
+    "essn": "2047-7732",
+    "doi": "doi: 10.1080/20477724.2025.2573304",
+    "sortpubdate": "2025/10/13 00:00",
+    "epubdate": "2025 Oct 13"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "41081990",
+    "title": "Shifts in epidemic patterns and age dynamics of RSV, IFV, and SARS-CoV-2 in Chinese children following COVID-19 non-pharmaceutical intervention relaxation, 2017 - 2024.",
+    "source": "Eur J Clin Microbiol Infect Dis",
+    "pubdate": "2025 Oct 13",
+    "authors": [
+      "Zhou Y",
+      "Xia JB",
+      "Luo M",
+      "Zhang WX",
+      "Zhang SS",
+      "Ao L",
+      "Yang H",
+      "Ma QY",
+      "Du J",
+      "Wang YT",
+      "Huang N",
+      "Hu XW",
+      "Cui F",
+      "Lu QB"
+    ],
+    "lastauthor": "Lu QB",
+    "sortfirstauthor": "Zhou Y",
+    "journal": "European journal of clinical microbiology & infectious diseases : official publication of the European Society of Clinical Microbiology",
+    "issn": "0934-9723",
+    "essn": "1435-4373",
+    "doi": "doi: 10.1007/s10096-025-05249-8",
+    "sortpubdate": "2025/10/13 00:00",
+    "epubdate": "2025 Oct 13"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "41078527",
+    "title": "Temporal dynamics and forecasting of respiratory viral infections during and after the SARS-CoV-2 pandemic (2020-2027): a multiplex PCR and ARIMA-based study.",
+    "source": "Front Microbiol",
+    "pubdate": "2025",
+    "authors": [
+      "Koçer İ",
+      "Demirbakan H",
+      "Aktaş A"
+    ],
+    "lastauthor": "Aktaş A",
+    "sortfirstauthor": "Koçer İ",
+    "journal": "Frontiers in microbiology",
+    "issn": "1664-302X",
+    "essn": "1664-302X",
+    "doi": "doi: 10.3389/fmicb.2025.1674529",
+    "sortpubdate": "2025/09/25 00:00",
+    "epubdate": "2025 Sep 25"
   }
 ]

@@ -2797,5 +2797,57 @@
     "doi": "pii: ciaf564. doi: 10.1093/cid/ciaf564",
     "sortpubdate": "2025/10/09 00:00",
     "epubdate": "2025 Oct 9"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "41078527",
+    "title": "Temporal dynamics and forecasting of respiratory viral infections during and after the SARS-CoV-2 pandemic (2020-2027): a multiplex PCR and ARIMA-based study.",
+    "source": "Front Microbiol",
+    "pubdate": "2025",
+    "authors": [
+      "Koçer İ",
+      "Demirbakan H",
+      "Aktaş A"
+    ],
+    "lastauthor": "Aktaş A",
+    "sortfirstauthor": "Koçer İ",
+    "journal": "Frontiers in microbiology",
+    "issn": "1664-302X",
+    "essn": "1664-302X",
+    "doi": "doi: 10.3389/fmicb.2025.1674529",
+    "sortpubdate": "2025/09/25 00:00",
+    "epubdate": "2025 Sep 25"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "41076991",
+    "title": "Respiratory syncytial virus (RSV) vaccine effectiveness and antibody correlates of protection among older adults in the Community Vaccine Effectiveness (CoVE) observational study.",
+    "source": "EBioMedicine",
+    "pubdate": "2025 Oct 11",
+    "authors": [
+      "Godonou ET",
+      "Callear AP",
+      "Juntila-Raymond CL",
+      "Raji D",
+      "Smith M",
+      "Rumfelt KE",
+      "Midgley CM",
+      "Feldstein LR",
+      "Jones JM",
+      "Hagen MB",
+      "Eisenberg MC",
+      "Lauring AS",
+      "Monto AS",
+      "Wagner AL",
+      "Martin ET"
+    ],
+    "lastauthor": "Martin ET",
+    "sortfirstauthor": "Godonou ET",
+    "journal": "EBioMedicine",
+    "issn": "",
+    "essn": "2352-3964",
+    "doi": "doi: 10.1016/j.ebiom.2025.105961",
+    "sortpubdate": "2025/10/11 00:00",
+    "epubdate": "2025 Oct 11"
   }
 ]
