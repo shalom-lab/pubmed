@@ -3399,5 +3399,53 @@
     "doi": "pii: kwaf222. doi: 10.1093/aje/kwaf222",
     "sortpubdate": "2025/10/13 00:00",
     "epubdate": "2025 Oct 13"
+  },
+  {
+    "name": "American Journal of Epidemiology",
+    "id": "41084390",
+    "title": "An alternative method for assessing the fragility of survival analysis results: a proof-of-concept study based on the log-rank test.",
+    "source": "Am J Epidemiol",
+    "pubdate": "2025 Oct 14",
+    "authors": [
+      "Xing X",
+      "Xing A",
+      "Natarajan K",
+      "Chu H",
+      "Lin L",
+      "Tong J"
+    ],
+    "lastauthor": "Tong J",
+    "sortfirstauthor": "Xing X",
+    "journal": "American journal of epidemiology",
+    "issn": "0002-9262",
+    "essn": "1476-6256",
+    "doi": "pii: kwaf229. doi: 10.1093/aje/kwaf229",
+    "sortpubdate": "2025/10/14 00:00",
+    "epubdate": "2025 Oct 14"
+  },
+  {
+    "name": "American Journal of Epidemiology",
+    "id": "41084384",
+    "title": "Tree Canopy Cover and Injurious Pedestrian Falls: A Location-Based Case-Control Study.",
+    "source": "Am J Epidemiol",
+    "pubdate": "2025 Oct 14",
+    "authors": [
+      "Burford KG",
+      "Lo AX",
+      "Quinn JW",
+      "Crowe RP",
+      "Just AC",
+      "Kondo MC",
+      "Beard JR",
+      "Rundle AG"
+    ],
+    "lastauthor": "Rundle AG",
+    "sortfirstauthor": "Burford KG",
+    "journal": "American journal of epidemiology",
+    "issn": "0002-9262",
+    "essn": "1476-6256",
+    "doi": "pii: kwaf231. doi: 10.1093/aje/kwaf231",
+    "sortpubdate": "2025/10/14 00:00",
+    "epubdate": "2025 Oct 14"
   }
 ]
