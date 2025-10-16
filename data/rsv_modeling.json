@@ -2849,5 +2849,37 @@
     "doi": "doi: 10.1016/j.ebiom.2025.105961",
     "sortpubdate": "2025/10/11 00:00",
     "epubdate": "2025 Oct 11"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "41088312",
+    "title": "Urban environment and RSV: a retrospective observational study of neighbourhood factors associated with the risk of severe disease in the infant population of a metropolitan area, Lyon, France.",
+    "source": "BMC Public Health",
+    "pubdate": "2025 Oct 14",
+    "authors": [
+      "Jaakkola K",
+      "Renard F",
+      "Roy A",
+      "Benchaib M",
+      "Metcalf J",
+      "Baker R",
+      "Simon B",
+      "Vecchi G",
+      "Ploin D",
+      "Gillet Y",
+      "Javouhey E",
+      "Lina B",
+      "Grenfell BT",
+      "Casalegno JS",
+      "VRS study group in Lyon"
+    ],
+    "lastauthor": "Casalegno JS",
+    "sortfirstauthor": "Jaakkola K",
+    "journal": "BMC public health",
+    "issn": "",
+    "essn": "1471-2458",
+    "doi": "doi: 10.1186/s12889-025-24718-5",
+    "sortpubdate": "2025/10/14 00:00",
+    "epubdate": "2025 Oct 14"
   }
 ]
