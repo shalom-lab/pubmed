@@ -1985,5 +1985,53 @@
     "doi": "doi: 10.1007/s12325-025-03393-3",
     "sortpubdate": "2025/10/14 00:00",
     "epubdate": "2025 Oct 14"
+  },
+  {
+    "name": "Vitamin D and respiratory infections",
+    "id": "41099225",
+    "title": "Vitamin D may influence disease course in PIMS-TS/MIS-C: An observational cohort study.",
+    "source": "Pediatr Int",
+    "pubdate": "2025 Jan-Dec",
+    "authors": [
+      "Charlesworth JEG",
+      "Navarajasegaran J",
+      "Kavirayani A",
+      "Sarfatti A",
+      "Adwani S",
+      "Paulus S",
+      "Segal S",
+      "Gilchrist JJ",
+      "Kelly DF",
+      "Lees EA"
+    ],
+    "lastauthor": "Lees EA",
+    "sortfirstauthor": "Charlesworth JEG",
+    "journal": "Pediatrics international : official journal of the Japan Pediatric Society",
+    "issn": "1328-8067",
+    "essn": "1442-200X",
+    "doi": "doi: 10.1111/ped.70241",
+    "sortpubdate": "2025/01/01 00:00",
+    "epubdate": ""
+  },
+  {
+    "name": "Vitamin D and respiratory infections",
+    "id": "41094671",
+    "title": "Association of vitamin D receptor mRNA expression, vitamin D deficiency and genetic variant in patients with multi-drug resistant pulmonary tuberculosis.",
+    "source": "BMC Infect Dis",
+    "pubdate": "2025 Oct 15",
+    "authors": [
+      "Rathored J",
+      "Sharma SK",
+      "Sreenivas V",
+      "Srivastava AK"
+    ],
+    "lastauthor": "Srivastava AK",
+    "sortfirstauthor": "Rathored J",
+    "journal": "BMC infectious diseases",
+    "issn": "",
+    "essn": "1471-2334",
+    "doi": "doi: 10.1186/s12879-025-11707-7",
+    "sortpubdate": "2025/10/15 00:00",
+    "epubdate": "2025 Oct 15"
   }
 ]
