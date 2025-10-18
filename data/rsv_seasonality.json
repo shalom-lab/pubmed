@@ -2997,5 +2997,56 @@
     "doi": "doi: 10.15537/smj.2025.46.10.20250133",
     "sortpubdate": "2025/10/01 00:00",
     "epubdate": ""
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "41101178",
+    "title": "Wastewater-based surveillance for influenza and respiratory syncytial virus: Insights from a 21-month study in Oklahoma.",
+    "source": "Epidemics",
+    "pubdate": "2025 Oct 10",
+    "authors": [
+      "Deshpande G",
+      "Rimal B",
+      "Shelton K",
+      "Vogel J",
+      "Stevenson B",
+      "Kuhn KG"
+    ],
+    "lastauthor": "Kuhn KG",
+    "sortfirstauthor": "Deshpande G",
+    "journal": "Epidemics",
+    "issn": "",
+    "essn": "1878-0067",
+    "doi": "doi: 10.1016/j.epidem.2025.100861",
+    "sortpubdate": "2025/10/10 00:00",
+    "epubdate": "2025 Oct 10"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "41101117",
+    "title": "Epidemiological characterization and seasonality of respiratory syncytial virus in the United Arab Emirates: A five-year study at a tertiary care hospital, 2018-2022.",
+    "source": "J Infect Public Health",
+    "pubdate": "2025 Oct 13",
+    "authors": [
+      "Alamiri HA",
+      "Hamwi S",
+      "Alsamri MT",
+      "Ghattasheh G",
+      "Aryan GA",
+      "Ali H",
+      "Alaa S",
+      "Abdullahi AS",
+      "Al-Rifai RH",
+      "Narchi H",
+      "Alsuwaidi AR"
+    ],
+    "lastauthor": "Alsuwaidi AR",
+    "sortfirstauthor": "Alamiri HA",
+    "journal": "Journal of infection and public health",
+    "issn": "1876-0341",
+    "essn": "1876-035X",
+    "doi": "doi: 10.1016/j.jiph.2025.103007",
+    "sortpubdate": "2025/10/13 00:00",
+    "epubdate": "2025 Oct 13"
   }
 ]

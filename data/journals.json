@@ -1216,7 +1216,8 @@
   {
     "source": "Breast Cancer (Dove Med Press)",
     "journal": "Breast cancer (Dove Medical Press)",
-    "issn": "1179-1314"
+    "issn": "1179-1314",
+    "essn": "1179-1314"
   },
   {
     "source": "Neuropsychiatr Dis Treat",
@@ -8393,5 +8394,56 @@
     "source": "JMIR AI",
     "journal": "JMIR AI",
     "essn": "2817-1705"
+  },
+  {
+    "source": "PLOS Digit Health",
+    "journal": "PLOS digital health",
+    "essn": "2767-3170"
+  },
+  {
+    "source": "Hernia",
+    "journal": "Hernia : the journal of hernias and abdominal wall surgery",
+    "essn": "1248-9204"
+  },
+  {
+    "source": "Interv Neuroradiol",
+    "journal": "Interventional neuroradiology : journal of peritherapeutic neuroradiology, surgical procedures and related neurosciences",
+    "issn": "1591-0199",
+    "essn": "2385-2011"
+  },
+  {
+    "source": "Hepatobiliary Surg Nutr",
+    "journal": "Hepatobiliary surgery and nutrition",
+    "issn": "2304-3881",
+    "essn": "2304-389X"
+  },
+  {
+    "source": "Biotechnol Appl Biochem",
+    "journal": "Biotechnology and applied biochemistry",
+    "issn": "0885-4513",
+    "essn": "1470-8744"
+  },
+  {
+    "source": "Health Econ Rev",
+    "journal": "Health economics review",
+    "issn": "2191-1991"
+  },
+  {
+    "source": "Am J Nephrol",
+    "journal": "American journal of nephrology",
+    "issn": "0250-8095",
+    "essn": "1421-9670"
+  },
+  {
+    "source": "J Med Food",
+    "journal": "Journal of medicinal food",
+    "issn": "1096-620X",
+    "essn": "1557-7600"
+  },
+  {
+    "source": "Environ Res",
+    "journal": "Environmental research",
+    "issn": "0013-9351",
+    "essn": "1096-0953"
   }
 ]
