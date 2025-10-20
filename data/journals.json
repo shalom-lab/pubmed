@@ -8403,6 +8403,7 @@
   {
     "source": "Hernia",
     "journal": "Hernia : the journal of hernias and abdominal wall surgery",
+    "issn": "1265-4906",
     "essn": "1248-9204"
   },
   {
@@ -8426,7 +8427,8 @@
   {
     "source": "Health Econ Rev",
     "journal": "Health economics review",
-    "issn": "2191-1991"
+    "issn": "2191-1991",
+    "essn": "2191-1991"
   },
   {
     "source": "Am J Nephrol",
@@ -8487,5 +8489,23 @@
     "source": "J Cancer Policy",
     "journal": "Journal of cancer policy",
     "essn": "2213-5383"
+  },
+  {
+    "source": "Int Psychogeriatr",
+    "journal": "International psychogeriatrics",
+    "issn": "1041-6102",
+    "essn": "1741-203X"
+  },
+  {
+    "source": "Biomed J",
+    "journal": "Biomedical journal",
+    "issn": "2319-4170",
+    "essn": "2320-2890"
+  },
+  {
+    "source": "Lancet Psychiatry",
+    "journal": "The lancet. Psychiatry",
+    "issn": "2215-0366",
+    "essn": "2215-0374"
   }
 ]

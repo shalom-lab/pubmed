@@ -26367,7 +26367,7 @@
     "sortfirstauthor": "Sun S",
     "journal": "Health economics review",
     "issn": "2191-1991",
-    "essn": "",
+    "essn": "2191-1991",
     "doi": "doi: 10.1186/s13561-025-00682-z",
     "sortpubdate": "2025/10/17 00:00",
     "epubdate": "2025 Oct 17"
@@ -26735,5 +26735,197 @@
     "doi": "doi: 10.3390/molecules30194028",
     "sortpubdate": "2025/10/09 00:00",
     "epubdate": "2025 Oct 9"
+  },
+  {
+    "name": "GBD database",
+    "id": "41110104",
+    "title": "[Ischemic stroke in Europe: incidence trends over three decades (1991-2021)].",
+    "source": "Orv Hetil",
+    "pubdate": "2025 Oct 19",
+    "authors": [
+      "Kovács B",
+      "Szapáry L",
+      "Sántics-Kajos LF",
+      "Pónusz-Kovács D",
+      "Jozifek EJ",
+      "Boncz I"
+    ],
+    "lastauthor": "Boncz I",
+    "sortfirstauthor": "Kovács B",
+    "journal": "Orvosi hetilap",
+    "issn": "0030-6002",
+    "essn": "1788-6120",
+    "doi": "doi: 10.1556/650.2025.33406",
+    "sortpubdate": "2025/10/19 00:00",
+    "epubdate": "2025 Oct 19"
+  },
+  {
+    "name": "GBD database",
+    "id": "41109839",
+    "title": "Global epidemiological survey, burden of disease assessment and spatio-temporal prediction of bipolar disorder from 1990 to 2021 based on spatial clustering analysis.",
+    "source": "Int Psychogeriatr",
+    "pubdate": "2025 Oct 17",
+    "authors": [
+      "Wei C",
+      "Shang B",
+      "Aihemaiti A",
+      "Li H",
+      "Zheng Y",
+      "Wang C",
+      "Zhang L"
+    ],
+    "lastauthor": "Zhang L",
+    "sortfirstauthor": "Wei C",
+    "journal": "International psychogeriatrics",
+    "issn": "1041-6102",
+    "essn": "1741-203X",
+    "doi": "doi: 10.1016/j.inpsyc.2025.100157",
+    "sortpubdate": "2025/10/17 00:00",
+    "epubdate": "2025 Oct 17"
+  },
+  {
+    "name": "GBD database",
+    "id": "41109526",
+    "title": "Trends of disability-adjusted life years for non-communicable diseases in the northern states of Peninsular Malaysia (2005-2021): Sex- and age-based analysis.",
+    "source": "Biomed J",
+    "pubdate": "2025 Oct 16",
+    "authors": [
+      "Karim N",
+      "Hod R",
+      "Wahab MIA",
+      "Ahmad N",
+      "Hashim JH",
+      "Mohd Radi MF",
+      "Mohamad Anuar MF",
+      "Sahani M",
+      "Latif MT",
+      "Ibrahim MF",
+      "Osman Y",
+      "Ismail R"
+    ],
+    "lastauthor": "Ismail R",
+    "sortfirstauthor": "Karim N",
+    "journal": "Biomedical journal",
+    "issn": "2319-4170",
+    "essn": "2320-2890",
+    "doi": "doi: 10.1016/j.bj.2025.100918",
+    "sortpubdate": "2025/10/16 00:00",
+    "epubdate": "2025 Oct 16"
+  },
+  {
+    "name": "GBD database",
+    "id": "41109418",
+    "title": "Spatiotemporal heterogeneity of depressive disorders burden across 204 countries and territories, 1990-2021: SDI stratification, gender disparities, and future projections.",
+    "source": "J Affect Disord",
+    "pubdate": "2025 Oct 16",
+    "authors": [
+      "Jia R",
+      "Wang X",
+      "Liu Q",
+      "Zhou Y"
+    ],
+    "lastauthor": "Zhou Y",
+    "sortfirstauthor": "Jia R",
+    "journal": "Journal of affective disorders",
+    "issn": "0165-0327",
+    "essn": "1573-2517",
+    "doi": "doi: 10.1016/j.jad.2025.120362",
+    "sortpubdate": "2025/10/16 00:00",
+    "epubdate": "2025 Oct 16"
+  },
+  {
+    "name": "GBD database",
+    "id": "41109320",
+    "title": "The prevalence and estimated burden of somatoform disorders: a systematic review and meta-analysis of their epidemiology.",
+    "source": "Lancet Psychiatry",
+    "pubdate": "2025 Oct 15",
+    "authors": [
+      "Siig EJP",
+      "Hvidtfelt Lykke VM",
+      "Mantilla Herrera AM",
+      "Jørgensen TSH",
+      "Ferrari AJ",
+      "Santomauro DF"
+    ],
+    "lastauthor": "Santomauro DF",
+    "sortfirstauthor": "Siig EJP",
+    "journal": "The lancet. Psychiatry",
+    "issn": "2215-0366",
+    "essn": "2215-0374",
+    "doi": "pii: S2215-0366(25)00272-X. doi: 10.1016/S2215-0366(25)00272-X",
+    "sortpubdate": "2025/10/15 00:00",
+    "epubdate": "2025 Oct 15"
+  },
+  {
+    "name": "GBD database",
+    "id": "41109169",
+    "title": "Comments on \"Analyzing burns incidence trends in BRICS from 1990 to 2021: Findings from the Global Burden of Disease\".",
+    "source": "Burns",
+    "pubdate": "2025 Oct 10",
+    "authors": [
+      "Lu S"
+    ],
+    "lastauthor": "Lu S",
+    "sortfirstauthor": "Lu S",
+    "journal": "Burns : journal of the International Society for Burn Injuries",
+    "issn": "0305-4179",
+    "essn": "1879-1409",
+    "doi": "doi: 10.1016/j.burns.2025.107740",
+    "sortpubdate": "2025/10/10 00:00",
+    "epubdate": "2025 Oct 10"
+  },
+  {
+    "name": "GBD database",
+    "id": "41092928",
+    "title": "Global burden of 292 causes of death in 204 countries and territories and 660 subnational locations, 1990-2023: a systematic analysis for the Global Burden of Disease Study 2023.",
+    "source": "Lancet",
+    "pubdate": "2025 Oct 18",
+    "authors": [
+      "GBD 2023 Causes of Death Collaborators"
+    ],
+    "lastauthor": "GBD 2023 Causes of Death Collaborators",
+    "sortfirstauthor": "GBD 2023 Causes of Death Collaborators",
+    "journal": "Lancet (London, England)",
+    "issn": "0140-6736",
+    "essn": "1474-547X",
+    "doi": "doi: 10.1016/S0140-6736(25)01917-8",
+    "sortpubdate": "2025/10/18 00:00",
+    "epubdate": "2025 Oct 12"
+  },
+  {
+    "name": "GBD database",
+    "id": "41092927",
+    "title": "Global age-sex-specific all-cause mortality and life expectancy estimates for 204 countries and territories and 660 subnational locations, 1950-2023: a demographic analysis for the Global Burden of Disease Study 2023.",
+    "source": "Lancet",
+    "pubdate": "2025 Oct 18",
+    "authors": [
+      "GBD 2023 Demographics Collaborators"
+    ],
+    "lastauthor": "GBD 2023 Demographics Collaborators",
+    "sortfirstauthor": "GBD 2023 Demographics Collaborators",
+    "journal": "Lancet (London, England)",
+    "issn": "0140-6736",
+    "essn": "1474-547X",
+    "doi": "doi: 10.1016/S0140-6736(25)01330-3",
+    "sortpubdate": "2025/10/18 00:00",
+    "epubdate": "2025 Oct 12"
+  },
+  {
+    "name": "GBD database",
+    "id": "41092926",
+    "title": "Burden of 375 diseases and injuries, risk-attributable burden of 88 risk factors, and healthy life expectancy in 204 countries and territories, including 660 subnational locations, 1990-2023: a systematic analysis for the Global Burden of Disease Study 2023.",
+    "source": "Lancet",
+    "pubdate": "2025 Oct 18",
+    "authors": [
+      "GBD 2023 Disease and Injury and Risk Factor Collaborators"
+    ],
+    "lastauthor": "GBD 2023 Disease and Injury and Risk Factor Collaborators",
+    "sortfirstauthor": "GBD 2023 Disease and Injury and Risk Factor Collaborators",
+    "journal": "Lancet (London, England)",
+    "issn": "0140-6736",
+    "essn": "1474-547X",
+    "doi": "doi: 10.1016/S0140-6736(25)01637-X",
+    "sortpubdate": "2025/10/18 00:00",
+    "epubdate": "2025 Oct 12"
   }
 ]
