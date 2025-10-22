@@ -8541,5 +8541,40 @@
     "journal": "Clinical chemistry and laboratory medicine",
     "issn": "1434-6621",
     "essn": "1437-4331"
+  },
+  {
+    "source": "Radiology",
+    "journal": "Radiology",
+    "issn": "0033-8419",
+    "essn": "1527-1315"
+  },
+  {
+    "source": "Cytotechnology",
+    "journal": "Cytotechnology",
+    "issn": "0920-9069",
+    "essn": "1573-0778"
+  },
+  {
+    "source": "Minerva Obstet Gynecol",
+    "journal": "Minerva obstetrics and gynecology",
+    "issn": "2724-606X",
+    "essn": "2724-6450"
+  },
+  {
+    "source": "Discov Ment Health",
+    "journal": "Discover mental health",
+    "essn": "2731-4383"
+  },
+  {
+    "source": "J Obstet Gynaecol",
+    "journal": "Journal of obstetrics and gynaecology : the journal of the Institute of Obstetrics and Gynaecology",
+    "issn": "0144-3615",
+    "essn": "1364-6893"
+  },
+  {
+    "source": "Neurotoxicology",
+    "journal": "Neurotoxicology",
+    "issn": "0161-813X",
+    "essn": "1872-9711"
   }
 ]

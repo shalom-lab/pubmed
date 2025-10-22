@@ -26482,7 +26482,7 @@
   {
     "name": "GBD database",
     "id": "41101575",
-    "title": "Trends and Sex Disparities in High BMI-associated Ischemic Stroke Burden in China (1990-2021): Evidence from GBD and CHARLS Analyses.",
+    "title": "Trends and sex disparities in high BMI-associated ischemic stroke burden in China (1990-2021): Evidence from GBD and CHARLS analyses.",
     "source": "J Stroke Cerebrovasc Dis",
     "pubdate": "2025 Oct 14",
     "authors": [
@@ -27248,5 +27248,27 @@
     "doi": "doi: 10.1016/j.jad.2025.120463",
     "sortpubdate": "2025/10/17 00:00",
     "epubdate": "2025 Oct 17"
+  },
+  {
+    "name": "GBD database",
+    "id": "41117034",
+    "title": "Epidemiological landscape of early-onset multiple myeloma: global burden, temporal trends, cross-country inequality, and projections to 2045.",
+    "source": "Hematology",
+    "pubdate": "2025 Dec",
+    "authors": [
+      "Zhang H",
+      "Li M",
+      "Zhao L",
+      "Wang L",
+      "Geng J"
+    ],
+    "lastauthor": "Geng J",
+    "sortfirstauthor": "Zhang H",
+    "journal": "Hematology (Amsterdam, Netherlands)",
+    "issn": "1024-5332",
+    "essn": "1607-8454",
+    "doi": "doi: 10.1080/16078454.2025.2576308",
+    "sortpubdate": "2025/12/01 00:00",
+    "epubdate": "2025 Oct 21"
   }
 ]
