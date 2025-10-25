@@ -3091,7 +3091,7 @@
     "sortfirstauthor": "Wang YX",
     "journal": "Zhongguo dang dai er ke za zhi = Chinese journal of contemporary pediatrics",
     "issn": "1008-8830",
-    "essn": "",
+    "essn": "2096-9228",
     "doi": "doi: 10.7499/j.issn.1008-8830.2502050",
     "sortpubdate": "2025/10/15 00:00",
     "epubdate": ""
@@ -3117,5 +3117,32 @@
     "doi": "doi: 10.5582/ddt.2025.01108",
     "sortpubdate": "2025/10/23 00:00",
     "epubdate": "2025 Oct 23"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "41130762",
+    "title": "[Analysis of common non-bacterial pathogens in hospitalized children with acute respiratory infections: a multicenter study in four regions of Fujian Province in 2023].",
+    "source": "Zhonghua Yu Fang Yi Xue Za Zhi",
+    "pubdate": "2025 Oct 6",
+    "authors": [
+      "Cai L",
+      "Gao XM",
+      "Zhu FC",
+      "Liu XH",
+      "Zhou WL",
+      "Ge SH",
+      "Zhuang LJ",
+      "Zhang GL",
+      "Lai XP",
+      "Liu T"
+    ],
+    "lastauthor": "Liu T",
+    "sortfirstauthor": "Cai L",
+    "journal": "Zhonghua yu fang yi xue za zhi [Chinese journal of preventive medicine]",
+    "issn": "0253-9624",
+    "essn": "",
+    "doi": "doi: 10.3760/cma.j.cn112150-20241211-00993",
+    "sortpubdate": "2025/10/06 00:00",
+    "epubdate": ""
   }
 ]
