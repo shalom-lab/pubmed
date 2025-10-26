@@ -28359,5 +28359,88 @@
     "doi": "doi: 10.1186/s12903-025-07076-x",
     "sortpubdate": "2025/10/22 00:00",
     "epubdate": "2025 Oct 22"
+  },
+  {
+    "name": "GBD database",
+    "id": "41137246",
+    "title": "Burden of thyroid cancer among women in non-high-income East and Southeast Asia, 1990-2021: An observational study.",
+    "source": "Medicine (Baltimore)",
+    "pubdate": "2025 Oct 24",
+    "authors": [
+      "Fan J",
+      "Zhou C",
+      "Zhao Y",
+      "Song L",
+      "Gao Y",
+      "Liu J"
+    ],
+    "lastauthor": "Liu J",
+    "sortfirstauthor": "Fan J",
+    "journal": "Medicine",
+    "issn": "0025-7974",
+    "essn": "1536-5964",
+    "doi": "doi: 10.1097/MD.0000000000045476",
+    "sortpubdate": "2025/10/24 00:00",
+    "epubdate": ""
+  },
+  {
+    "name": "GBD database",
+    "id": "41137225",
+    "title": "Global, regional, and national burden and temporal trends of depressive disorders in women of child-bearing age, 1990 to 2021: A worldwide analysis.",
+    "source": "Medicine (Baltimore)",
+    "pubdate": "2025 Oct 24",
+    "authors": [
+      "Zhu T",
+      "Fan Y",
+      "Jin K",
+      "Shen Y",
+      "Ye X"
+    ],
+    "lastauthor": "Ye X",
+    "sortfirstauthor": "Zhu T",
+    "journal": "Medicine",
+    "issn": "0025-7974",
+    "essn": "1536-5964",
+    "doi": "doi: 10.1097/MD.0000000000045215",
+    "sortpubdate": "2025/10/24 00:00",
+    "epubdate": ""
+  },
+  {
+    "name": "GBD database",
+    "id": "41137095",
+    "title": "Analysis of multimorbidity compression using a latent variable in a mixed mixture model.",
+    "source": "Popul Health Metr",
+    "pubdate": "2025 Oct 24",
+    "authors": [
+      "Andreella A",
+      "Monasta L",
+      "Campostrini S"
+    ],
+    "lastauthor": "Campostrini S",
+    "sortfirstauthor": "Andreella A",
+    "journal": "Population health metrics",
+    "issn": "",
+    "essn": "1478-7954",
+    "doi": "doi: 10.1186/s12963-025-00421-w",
+    "sortpubdate": "2025/10/24 00:00",
+    "epubdate": "2025 Oct 24"
+  },
+  {
+    "name": "GBD database",
+    "id": "41135560",
+    "title": "Global, regional, and national sepsis incidence and mortality, 1990-2021: a systematic analysis.",
+    "source": "Lancet Glob Health",
+    "pubdate": "2025 Oct 21",
+    "authors": [
+      "GBD 2021 Global Sepsis Collaborators"
+    ],
+    "lastauthor": "GBD 2021 Global Sepsis Collaborators",
+    "sortfirstauthor": "GBD 2021 Global Sepsis Collaborators",
+    "journal": "The Lancet. Global health",
+    "issn": "",
+    "essn": "2214-109X",
+    "doi": "pii: S2214-109X(25)00356-0. doi: 10.1016/S2214-109X(25)00356-0",
+    "sortpubdate": "2025/10/21 00:00",
+    "epubdate": "2025 Oct 21"
   }
 ]
