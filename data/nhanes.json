@@ -41061,5 +41061,123 @@
     "doi": "doi: 10.3390/clockssleep7040052",
     "sortpubdate": "2025/09/24 00:00",
     "epubdate": "2025 Sep 24"
+  },
+  {
+    "name": "NHANES",
+    "id": "41138914",
+    "title": "The timing of macronutrient and major food group intake and associations with mortality among US adults, 1999-March 2020: a serial cross-sectional study.",
+    "source": "Am J Clin Nutr",
+    "pubdate": "2025 Oct 23",
+    "authors": [
+      "Zhang Y",
+      "Alver S",
+      "Shan Z",
+      "Mossavar-Rahmani Y",
+      "Hu J",
+      "Zhang J",
+      "St-Onge MP",
+      "Kaplan R",
+      "Xue X",
+      "Qi Q"
+    ],
+    "lastauthor": "Qi Q",
+    "sortfirstauthor": "Zhang Y",
+    "journal": "The American journal of clinical nutrition",
+    "issn": "0002-9165",
+    "essn": "1938-3207",
+    "doi": "pii: S0002-9165(25)00618-5. doi: 10.1016/j.ajcnut.2025.10.014",
+    "sortpubdate": "2025/10/23 00:00",
+    "epubdate": "2025 Oct 23"
+  },
+  {
+    "name": "NHANES",
+    "id": "41138832",
+    "title": "Diet Quality, Food Insecurity and Chronic Kidney Disease: Insights from the U.S. National Health and Nutrition Examination Survey.",
+    "source": "J Ren Nutr",
+    "pubdate": "2025 Oct 23",
+    "authors": [
+      "Hamdan H",
+      "Kim TY",
+      "Plantinga LC",
+      "Seligman H",
+      "Crews DC",
+      "Tuot DS"
+    ],
+    "lastauthor": "Tuot DS",
+    "sortfirstauthor": "Hamdan H",
+    "journal": "Journal of renal nutrition : the official journal of the Council on Renal Nutrition of the National Kidney Foundation",
+    "issn": "1051-2276",
+    "essn": "1532-8503",
+    "doi": "pii: S1051-2276(25)00222-5. doi: 10.1053/j.jrn.2025.10.004",
+    "sortpubdate": "2025/10/23 00:00",
+    "epubdate": "2025 Oct 23"
+  },
+  {
+    "name": "NHANES",
+    "id": "41138643",
+    "title": "Refine XGBoost with SHAP explainability for non-invasive early detection of diabetic kidney disease: Estimated cardiac output as a potential indicator.",
+    "source": "Comput Methods Programs Biomed",
+    "pubdate": "2025 Oct 18",
+    "authors": [
+      "To NM",
+      "Ngo QC",
+      "Polus B",
+      "Dinh MN",
+      "Khandoker A",
+      "Menon A",
+      "Kumar D"
+    ],
+    "lastauthor": "Kumar D",
+    "sortfirstauthor": "To NM",
+    "journal": "Computer methods and programs in biomedicine",
+    "issn": "0169-2607",
+    "essn": "1872-7565",
+    "doi": "doi: 10.1016/j.cmpb.2025.109122",
+    "sortpubdate": "2025/10/18 00:00",
+    "epubdate": "2025 Oct 18"
+  },
+  {
+    "name": "NHANES",
+    "id": "41138630",
+    "title": "Higher dietary inflammatory index is associated with reduced lung function in non-COPD adults: A cross-sectional study of NHANES 2007-2012.",
+    "source": "Nutr Res",
+    "pubdate": "2025 Sep 26",
+    "authors": [
+      "Li X",
+      "Wang Q",
+      "Wang Y",
+      "Zhang M"
+    ],
+    "lastauthor": "Zhang M",
+    "sortfirstauthor": "Li X",
+    "journal": "Nutrition research (New York, N.Y.)",
+    "issn": "0271-5317",
+    "essn": "1879-0739",
+    "doi": "doi: 10.1016/j.nutres.2025.09.012",
+    "sortpubdate": "2025/09/26 00:00",
+    "epubdate": "2025 Sep 26"
+  },
+  {
+    "name": "NHANES",
+    "id": "41137078",
+    "title": "Healthy diet attenuates the association between prolonged sitting and mortality risk among cancer survivors.",
+    "source": "Nutr J",
+    "pubdate": "2025 Oct 24",
+    "authors": [
+      "Wang G",
+      "Yang J",
+      "Wang Z",
+      "Xin L",
+      "Yang W",
+      "Hu K"
+    ],
+    "lastauthor": "Hu K",
+    "sortfirstauthor": "Wang G",
+    "journal": "Nutrition journal",
+    "issn": "",
+    "essn": "1475-2891",
+    "doi": "doi: 10.1186/s12937-025-01229-y",
+    "sortpubdate": "2025/10/24 00:00",
+    "epubdate": "2025 Oct 24"
   }
 ]

@@ -8054,7 +8054,8 @@
   {
     "source": "Cancer Cell Int",
     "journal": "Cancer cell international",
-    "issn": "1475-2867"
+    "issn": "1475-2867",
+    "essn": "1475-2867"
   },
   {
     "source": "Phys Med Biol",
@@ -8772,5 +8773,23 @@
     "journal": "Archives of physical medicine and rehabilitation",
     "issn": "0003-9993",
     "essn": "1532-821X"
+  },
+  {
+    "source": "Expert Rev Mol Diagn",
+    "journal": "Expert review of molecular diagnostics",
+    "issn": "1473-7159",
+    "essn": "1744-8352"
+  },
+  {
+    "source": "J Oral Maxillofac Surg",
+    "journal": "Journal of oral and maxillofacial surgery : official journal of the American Association of Oral and Maxillofacial Surgeons",
+    "issn": "0278-2391",
+    "essn": "1531-5053"
+  },
+  {
+    "source": "J Ren Nutr",
+    "journal": "Journal of renal nutrition : the official journal of the Council on Renal Nutrition of the National Kidney Foundation",
+    "issn": "1051-2276",
+    "essn": "1532-8503"
   }
 ]
