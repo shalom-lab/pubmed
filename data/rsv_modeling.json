@@ -2906,5 +2906,51 @@
     "doi": "doi: 10.1038/s41598-025-20984-w",
     "sortpubdate": "2025/10/24 00:00",
     "epubdate": "2025 Oct 24"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "41140445",
+    "title": "Effects of maternal late-pregnancy and early-infancy exposures to respiratory syncytial virus circulating intensity on the risk for respiratory syncytial virus hospitalisation in the first two years of life: a comparative retrospective cohort study between Scotland and Singapore.",
+    "source": "EClinicalMedicine",
+    "pubdate": "2025 Nov",
+    "authors": [
+      "Ma S",
+      "Cong B",
+      "Yung CF",
+      "Nair H",
+      "Li Y"
+    ],
+    "lastauthor": "Li Y",
+    "sortfirstauthor": "Ma S",
+    "journal": "EClinicalMedicine",
+    "issn": "",
+    "essn": "2589-5370",
+    "doi": "doi: 10.1016/j.eclinm.2025.103576",
+    "sortpubdate": "2025/10/16 00:00",
+    "epubdate": "2025 Oct 16"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "41139688",
+    "title": "Burden of RSV in Young Children in High-Income Countries: Incidence Estimates From a Multilevel Meta-Analysis in Primary and Emergency Care.",
+    "source": "Influenza Other Respir Viruses",
+    "pubdate": "2025 Oct",
+    "authors": [
+      "Heemskerk S",
+      "van Heuvel L",
+      "Spreeuwenberg P",
+      "Bont LJ",
+      "Stelma FF",
+      "Caini S",
+      "van Summeren J"
+    ],
+    "lastauthor": "van Summeren J",
+    "sortfirstauthor": "Heemskerk S",
+    "journal": "Influenza and other respiratory viruses",
+    "issn": "1750-2640",
+    "essn": "1750-2659",
+    "doi": "doi: 10.1111/irv.70179",
+    "sortpubdate": "2025/10/01 00:00",
+    "epubdate": ""
   }
 ]
