@@ -2952,5 +2952,53 @@
     "doi": "doi: 10.1111/irv.70179",
     "sortpubdate": "2025/10/01 00:00",
     "epubdate": ""
+  },
+  {
+    "name": "RSV modeling",
+    "id": "41150451",
+    "title": "The Potential Public Health Impact of the mRNA-Based Respiratory Syncytial Virus Vaccine, mRNA-1345, Under Extended Vaccination Campaigns Among Older Adults in the United Kingdom: A Modelling Study.",
+    "source": "Vaccines (Basel)",
+    "pubdate": "2025 Oct 18",
+    "authors": [
+      "Dronova M",
+      "Tytuła A",
+      "Janusz Z",
+      "Ghaswalla P",
+      "Carroll S",
+      "Balogh O",
+      "Joshi K"
+    ],
+    "lastauthor": "Joshi K",
+    "sortfirstauthor": "Dronova M",
+    "journal": "Vaccines",
+    "issn": "2076-393X",
+    "essn": "",
+    "doi": "pii: 1065. doi: 10.3390/vaccines13101065",
+    "sortpubdate": "2025/10/18 00:00",
+    "epubdate": "2025 Oct 18"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "41150399",
+    "title": "Accelerating Vaccine Adjuvant Screening: Early Follicular Dendritic Cell and Germinal Center B Cell Biomarkers Predict Protective Efficacy.",
+    "source": "Vaccines (Basel)",
+    "pubdate": "2025 Sep 28",
+    "authors": [
+      "Zhong Y",
+      "Chen M",
+      "Lin H",
+      "Liu Z",
+      "Zhang S",
+      "He Y",
+      "Wang B"
+    ],
+    "lastauthor": "Wang B",
+    "sortfirstauthor": "Zhong Y",
+    "journal": "Vaccines",
+    "issn": "2076-393X",
+    "essn": "",
+    "doi": "pii: 1011. doi: 10.3390/vaccines13101011",
+    "sortpubdate": "2025/09/28 00:00",
+    "epubdate": "2025 Sep 28"
   }
 ]
