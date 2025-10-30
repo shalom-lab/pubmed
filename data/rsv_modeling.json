@@ -3000,5 +3000,49 @@
     "doi": "pii: 1011. doi: 10.3390/vaccines13101011",
     "sortpubdate": "2025/09/28 00:00",
     "epubdate": "2025 Sep 28"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "41159752",
+    "title": "MicroRNA response in insect salivary glands to plant virus infection.",
+    "source": "J Virol",
+    "pubdate": "2025 Oct 29",
+    "authors": [
+      "Xiao Y",
+      "Liang G",
+      "Zhu J",
+      "Cui F",
+      "Zhao W"
+    ],
+    "lastauthor": "Zhao W",
+    "sortfirstauthor": "Xiao Y",
+    "journal": "Journal of virology",
+    "issn": "0022-538X",
+    "essn": "1098-5514",
+    "doi": "doi: 10.1128/jvi.01434-25",
+    "sortpubdate": "2025/10/29 00:00",
+    "epubdate": "2025 Oct 29"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "41152779",
+    "title": "The impact of meteorological factors on the respiratory pathogens of neonatal community-acquired pneumonia in Central China.",
+    "source": "BMC Infect Dis",
+    "pubdate": "2025 Oct 28",
+    "authors": [
+      "Zeng Y",
+      "Song Z",
+      "Wu J",
+      "Yang S",
+      "Zhang H"
+    ],
+    "lastauthor": "Zhang H",
+    "sortfirstauthor": "Zeng Y",
+    "journal": "BMC infectious diseases",
+    "issn": "",
+    "essn": "1471-2334",
+    "doi": "doi: 10.1186/s12879-025-11924-0",
+    "sortpubdate": "2025/10/28 00:00",
+    "epubdate": "2025 Oct 28"
   }
 ]

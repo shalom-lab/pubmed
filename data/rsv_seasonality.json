@@ -3193,5 +3193,81 @@
     "doi": "doi: 10.1111/irv.70179",
     "sortpubdate": "2025/10/01 00:00",
     "epubdate": ""
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "41156761",
+    "title": "Epidemiological Shifts in Respiratory Virus Infections Among Older Adults (≥65 Years) Before and After the COVID-19 Pandemic: An 18-Year Retrospective Study in the Republic of Korea.",
+    "source": "Microorganisms",
+    "pubdate": "2025 Oct 3",
+    "authors": [
+      "Han JS",
+      "Jang SH",
+      "Jeon JS",
+      "Lee KB",
+      "Kim JK"
+    ],
+    "lastauthor": "Kim JK",
+    "sortfirstauthor": "Han JS",
+    "journal": "Microorganisms",
+    "issn": "2076-2607",
+    "essn": "",
+    "doi": "pii: 2301. doi: 10.3390/microorganisms13102301",
+    "sortpubdate": "2025/10/03 00:00",
+    "epubdate": "2025 Oct 3"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "41155733",
+    "title": "Impact of COVID-19 Pandemic on Bronchiolitis Epidemiology in Greece.",
+    "source": "Medicina (Kaunas)",
+    "pubdate": "2025 Sep 25",
+    "authors": [
+      "Koloi A",
+      "Dimopoulou D",
+      "Papakonstantinou D",
+      "Damianos G",
+      "Korentzelou V",
+      "Kotzamani MT",
+      "Neofytou A",
+      "Paraschos C",
+      "Pasparaki SD",
+      "Rizargioti A",
+      "Benetatou K",
+      "Tampouratzi M",
+      "Konidari A",
+      "Soldatou A",
+      "Tsolia MN"
+    ],
+    "lastauthor": "Tsolia MN",
+    "sortfirstauthor": "Koloi A",
+    "journal": "Medicina (Kaunas, Lithuania)",
+    "issn": "1010-660X",
+    "essn": "1648-9144",
+    "doi": "pii: 1746. doi: 10.3390/medicina61101746",
+    "sortpubdate": "2025/09/25 00:00",
+    "epubdate": "2025 Sep 25"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "41152779",
+    "title": "The impact of meteorological factors on the respiratory pathogens of neonatal community-acquired pneumonia in Central China.",
+    "source": "BMC Infect Dis",
+    "pubdate": "2025 Oct 28",
+    "authors": [
+      "Zeng Y",
+      "Song Z",
+      "Wu J",
+      "Yang S",
+      "Zhang H"
+    ],
+    "lastauthor": "Zhang H",
+    "sortfirstauthor": "Zeng Y",
+    "journal": "BMC infectious diseases",
+    "issn": "",
+    "essn": "1471-2334",
+    "doi": "doi: 10.1186/s12879-025-11924-0",
+    "sortpubdate": "2025/10/28 00:00",
+    "epubdate": "2025 Oct 28"
   }
 ]
