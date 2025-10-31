@@ -3044,5 +3044,72 @@
     "doi": "doi: 10.1186/s12879-025-11924-0",
     "sortpubdate": "2025/10/28 00:00",
     "epubdate": "2025 Oct 28"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "41163615",
+    "title": "Quantitative analysis of respiratory viral triple infections: Examining within host dynamics of Influenza, RSV, and SARS-CoV-2.",
+    "source": "Math Biosci Eng",
+    "pubdate": "2025 Sep 15",
+    "authors": [
+      "Srivastava S",
+      "Dobrovolny HM"
+    ],
+    "lastauthor": "Dobrovolny HM",
+    "sortfirstauthor": "Srivastava S",
+    "journal": "Mathematical biosciences and engineering : MBE",
+    "issn": "1547-1063",
+    "essn": "1551-0018",
+    "doi": "doi: 10.3934/mbe.2025105",
+    "sortpubdate": "2025/09/15 00:00",
+    "epubdate": ""
+  },
+  {
+    "name": "RSV modeling",
+    "id": "41150451",
+    "title": "The Potential Public Health Impact of the mRNA-Based Respiratory Syncytial Virus Vaccine, mRNA-1345, Under Extended Vaccination Campaigns Among Older Adults in the United Kingdom: A Modelling Study.",
+    "source": "Vaccines (Basel)",
+    "pubdate": "2025 Oct 18",
+    "authors": [
+      "Dronova M",
+      "Tytuła A",
+      "Janusz Z",
+      "Ghaswalla P",
+      "Carroll S",
+      "Balogh O",
+      "Joshi K"
+    ],
+    "lastauthor": "Joshi K",
+    "sortfirstauthor": "Dronova M",
+    "journal": "Vaccines",
+    "issn": "2076-393X",
+    "essn": "2076-393X",
+    "doi": "doi: 10.3390/vaccines13101065",
+    "sortpubdate": "2025/10/18 00:00",
+    "epubdate": "2025 Oct 18"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "41150399",
+    "title": "Accelerating Vaccine Adjuvant Screening: Early Follicular Dendritic Cell and Germinal Center B Cell Biomarkers Predict Protective Efficacy.",
+    "source": "Vaccines (Basel)",
+    "pubdate": "2025 Sep 28",
+    "authors": [
+      "Zhong Y",
+      "Chen M",
+      "Lin H",
+      "Liu Z",
+      "Zhang S",
+      "He Y",
+      "Wang B"
+    ],
+    "lastauthor": "Wang B",
+    "sortfirstauthor": "Zhong Y",
+    "journal": "Vaccines",
+    "issn": "2076-393X",
+    "essn": "2076-393X",
+    "doi": "doi: 10.3390/vaccines13101011",
+    "sortpubdate": "2025/09/28 00:00",
+    "epubdate": "2025 Sep 28"
   }
 ]
