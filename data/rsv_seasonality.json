@@ -3444,5 +3444,55 @@
     "doi": "doi: 10.1002/jmv.70664",
     "sortpubdate": "2025/11/01 00:00",
     "epubdate": ""
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "41175550",
+    "title": "Investigating the impact of non-pharmaceutical interventions (NPIs) on post-pandemic Respiratory Syncytial Virus (RSV) hospitalisations and seasonality in Wales, UK.",
+    "source": "Epidemics",
+    "pubdate": "2025 Oct 28",
+    "authors": [
+      "Santiago G",
+      "White C",
+      "Collins B",
+      "Cottrell S",
+      "Williams C",
+      "Lucini B",
+      "Gravenor MB"
+    ],
+    "lastauthor": "Gravenor MB",
+    "sortfirstauthor": "Santiago G",
+    "journal": "Epidemics",
+    "issn": "",
+    "essn": "1878-0067",
+    "doi": "doi: 10.1016/j.epidem.2025.100860",
+    "sortpubdate": "2025/10/28 00:00",
+    "epubdate": "2025 Oct 28"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "41174552",
+    "title": "Post-COVID-19 resurgence of respiratory viruses in Taiwan: an interrupted time series analysis from three regional medical centers (2015-2023).",
+    "source": "BMC Infect Dis",
+    "pubdate": "2025 Oct 31",
+    "authors": [
+      "Chang TH",
+      "Hu YL",
+      "Chen WC",
+      "Fang CT",
+      "Ho SY",
+      "Lee TF",
+      "Huang YT",
+      "Tang HJ",
+      "Chang LY"
+    ],
+    "lastauthor": "Chang LY",
+    "sortfirstauthor": "Chang TH",
+    "journal": "BMC infectious diseases",
+    "issn": "",
+    "essn": "1471-2334",
+    "doi": "doi: 10.1186/s12879-025-11930-2",
+    "sortpubdate": "2025/10/31 00:00",
+    "epubdate": "2025 Oct 31"
   }
 ]

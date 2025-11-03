@@ -43492,7 +43492,7 @@
     "id": "41173106",
     "title": "Beyond BMI: Finding critical body adiposity indices for dual-threat prediction of depression and mortality in stroke survivors.",
     "source": "J Affect Disord",
-    "pubdate": "2025 Oct 29",
+    "pubdate": "2025 Oct 30",
     "authors": [
       "Li J",
       "Liang W",
@@ -43507,8 +43507,8 @@
     "issn": "0165-0327",
     "essn": "1573-2517",
     "doi": "doi: 10.1016/j.jad.2025.120564",
-    "sortpubdate": "2025/10/29 00:00",
-    "epubdate": "2025 Oct 29"
+    "sortpubdate": "2025/10/30 00:00",
+    "epubdate": "2025 Oct 30"
   },
   {
     "name": "NHANES",
@@ -43530,5 +43530,57 @@
     "doi": "doi: 10.1002/brb3.71018",
     "sortpubdate": "2025/11/01 00:00",
     "epubdate": ""
+  },
+  {
+    "name": "NHANES",
+    "id": "41176231",
+    "title": "Joint association of diet quality scores and physical activity status with all-cause mortality among individuals with and without Diabetes.",
+    "source": "Clin Nutr ESPEN",
+    "pubdate": "2025 Oct 30",
+    "authors": [
+      "Liu C",
+      "Hua L",
+      "Xin Z"
+    ],
+    "lastauthor": "Xin Z",
+    "sortfirstauthor": "Liu C",
+    "journal": "Clinical nutrition ESPEN",
+    "issn": "",
+    "essn": "2405-4577",
+    "doi": "pii: S2405-4577(25)02980-8. doi: 10.1016/j.clnesp.2025.10.022",
+    "sortpubdate": "2025/10/30 00:00",
+    "epubdate": "2025 Oct 30"
+  },
+  {
+    "name": "NHANES",
+    "id": "41175431",
+    "title": "Dietary fructose from added sugar beverages and foods is positively associated with homocysteine: NHANES 2003-2006.",
+    "source": "Nutr Res",
+    "pubdate": "2025 Oct 8",
+    "authors": [
+      "Zhang M",
+      "Peng Y",
+      "Zhang J",
+      "Du B",
+      "Wang M",
+      "Chen S",
+      "Ding H",
+      "Wei M",
+      "Zhu C",
+      "Geng W",
+      "Lin D",
+      "Tang S",
+      "Huang Y",
+      "Lu C",
+      "Li X"
+    ],
+    "lastauthor": "Li X",
+    "sortfirstauthor": "Zhang M",
+    "journal": "Nutrition research (New York, N.Y.)",
+    "issn": "0271-5317",
+    "essn": "1879-0739",
+    "doi": "doi: 10.1016/j.nutres.2025.10.003",
+    "sortpubdate": "2025/10/08 00:00",
+    "epubdate": "2025 Oct 8"
   }
 ]

@@ -7413,7 +7413,8 @@
   {
     "source": "BMC Nurs",
     "journal": "BMC nursing",
-    "issn": "1472-6955"
+    "issn": "1472-6955",
+    "essn": "1472-6955"
   },
   {
     "source": "BMC Biol",
@@ -9003,7 +9004,8 @@
   {
     "source": "Child Adolesc Psychiatry Ment Health",
     "journal": "Child and adolescent psychiatry and mental health",
-    "issn": "1753-2000"
+    "issn": "1753-2000",
+    "essn": "1753-2000"
   },
   {
     "source": "Int J Equity Health",
@@ -9020,5 +9022,17 @@
     "source": "Am J Case Rep",
     "journal": "The American journal of case reports",
     "essn": "1941-5923"
+  },
+  {
+    "source": "J Pediatr (Rio J)",
+    "journal": "Jornal de pediatria",
+    "issn": "0021-7557",
+    "essn": "1678-4782"
+  },
+  {
+    "source": "Thromb Res",
+    "journal": "Thrombosis research",
+    "issn": "0049-3848",
+    "essn": "1879-2472"
   }
 ]
