@@ -43582,5 +43582,231 @@
     "doi": "doi: 10.1016/j.nutres.2025.10.003",
     "sortpubdate": "2025/10/08 00:00",
     "epubdate": "2025 Oct 8"
+  },
+  {
+    "name": "NHANES",
+    "id": "41183082",
+    "title": "Combined effect of nutritional inflammation as well as depression on mortality in middle-aged and elderly people with osteoporosis and osteopenia.",
+    "source": "PLoS One",
+    "pubdate": "2025",
+    "authors": [
+      "Liu Y",
+      "Yang Z",
+      "Li Y",
+      "Yang X"
+    ],
+    "lastauthor": "Yang X",
+    "sortfirstauthor": "Liu Y",
+    "journal": "PloS one",
+    "issn": "",
+    "essn": "1932-6203",
+    "doi": "doi: 10.1371/journal.pone.0335272",
+    "sortpubdate": "2025/11/03 00:00",
+    "epubdate": "2025 Nov 3"
+  },
+  {
+    "name": "NHANES",
+    "id": "41182761",
+    "title": "Prevalence of Excess Adiposity by Body Mass Index Category Among US Children and Adolescents.",
+    "source": "JAMA Pediatr",
+    "pubdate": "2025 Nov 3",
+    "authors": [
+      "Chetty AK",
+      "Nugent JT",
+      "Fenick AM",
+      "Sharifi M"
+    ],
+    "lastauthor": "Sharifi M",
+    "sortfirstauthor": "Chetty AK",
+    "journal": "JAMA pediatrics",
+    "issn": "2168-6203",
+    "essn": "2168-6211",
+    "doi": "doi: 10.1001/jamapediatrics.2025.4291",
+    "sortpubdate": "2025/11/03 00:00",
+    "epubdate": "2025 Nov 3"
+  },
+  {
+    "name": "NHANES",
+    "id": "41182045",
+    "title": "Association Between Adiposity Indicators and Intraocular Pressure.",
+    "source": "J Glaucoma",
+    "pubdate": "2025 Sep 30",
+    "authors": [
+      "Kim JL",
+      "Lee K"
+    ],
+    "lastauthor": "Lee K",
+    "sortfirstauthor": "Kim JL",
+    "journal": "Journal of glaucoma",
+    "issn": "1057-0829",
+    "essn": "1536-481X",
+    "doi": "doi: 10.1097/IJG.0000000000002647",
+    "sortpubdate": "2025/09/30 00:00",
+    "epubdate": "2025 Sep 30"
+  },
+  {
+    "name": "NHANES",
+    "id": "41181493",
+    "title": "Reference intervals for urine creatinine-to-specific gravity ratio as an indicator of relative creatinine excretion rate: a cross-sectional study.",
+    "source": "Ann Med Surg (Lond)",
+    "pubdate": "2025 Oct",
+    "authors": [
+      "Hsu SP",
+      "Chien CT"
+    ],
+    "lastauthor": "Chien CT",
+    "sortfirstauthor": "Hsu SP",
+    "journal": "Annals of medicine and surgery (2012)",
+    "issn": "2049-0801",
+    "essn": "2049-0801",
+    "doi": "doi: 10.1097/MS9.0000000000003511",
+    "sortpubdate": "2025/06/23 00:00",
+    "epubdate": "2025 Jun 23"
+  },
+  {
+    "name": "NHANES",
+    "id": "41180959",
+    "title": "Association between self-reported sensory impairments and low cognitive performance in older adults: A cross-sectional study based on National Health and Nutrition Examination Survey (NHANES).",
+    "source": "J Alzheimers Dis Rep",
+    "pubdate": "2025 Jan-Dec",
+    "authors": [
+      "He L",
+      "Rao Y",
+      "Wang J",
+      "Yang F"
+    ],
+    "lastauthor": "Yang F",
+    "sortfirstauthor": "He L",
+    "journal": "Journal of Alzheimer's disease reports",
+    "issn": "",
+    "essn": "2542-4823",
+    "doi": "doi: 10.1177/25424823251392551",
+    "sortpubdate": "2025/10/29 00:00",
+    "epubdate": "2025 Oct 29"
+  },
+  {
+    "name": "NHANES",
+    "id": "41180605",
+    "title": "Association of Geriatric Nutritional Risk Index With Cardiovascular and All-Cause Mortality Among US Elderly Adults With Diabetic Nephropathy.",
+    "source": "J Diabetes Res",
+    "pubdate": "2025",
+    "authors": [
+      "Sun C",
+      "Gao K",
+      "Liu K"
+    ],
+    "lastauthor": "Liu K",
+    "sortfirstauthor": "Sun C",
+    "journal": "Journal of diabetes research",
+    "issn": "2314-6745",
+    "essn": "2314-6753",
+    "doi": "doi: 10.1155/jdr/2746706",
+    "sortpubdate": "2025/10/23 00:00",
+    "epubdate": "2025 Oct 23"
+  },
+  {
+    "name": "NHANES",
+    "id": "41179564",
+    "title": "Nonlinear association between triglyceride-glucose index and risk of hyperuricemia in early-stage cardiovascular-kidney-metabolic syndrome: a cross-sectional study of United States population.",
+    "source": "Front Cardiovasc Med",
+    "pubdate": "2025",
+    "authors": [
+      "Chen X",
+      "Liang Y"
+    ],
+    "lastauthor": "Liang Y",
+    "sortfirstauthor": "Chen X",
+    "journal": "Frontiers in cardiovascular medicine",
+    "issn": "2297-055X",
+    "essn": "2297-055X",
+    "doi": "doi: 10.3389/fcvm.2025.1553957",
+    "sortpubdate": "2025/10/17 00:00",
+    "epubdate": "2025 Oct 17"
+  },
+  {
+    "name": "NHANES",
+    "id": "41177786",
+    "title": "Association of Exposure to Brominated Flame Retardants with Hyperuricemia: A Mediation Analysis of Inflammatory Factors.",
+    "source": "Curr Pharm Des",
+    "pubdate": "2025 Oct 29",
+    "authors": [
+      "Wen X",
+      "An S",
+      "Yuan T",
+      "Zhang S",
+      "Lv S",
+      "Zhang L",
+      "Sun S"
+    ],
+    "lastauthor": "Sun S",
+    "sortfirstauthor": "Wen X",
+    "journal": "Current pharmaceutical design",
+    "issn": "1381-6128",
+    "essn": "1873-4286",
+    "doi": "doi: 10.2174/0113816128433026251015072528",
+    "sortpubdate": "2025/10/29 00:00",
+    "epubdate": "2025 Oct 29"
+  },
+  {
+    "name": "NHANES",
+    "id": "41177698",
+    "title": "Racial and socioeconomic disparities in the utilization of diabetes medication: A comprehensive analysis of NHANES 2011-2023.",
+    "source": "Res Social Adm Pharm",
+    "pubdate": "2025 Oct 31",
+    "authors": [
+      "Almadfaa RO"
+    ],
+    "lastauthor": "Almadfaa RO",
+    "sortfirstauthor": "Almadfaa RO",
+    "journal": "Research in social & administrative pharmacy : RSAP",
+    "issn": "1551-7411",
+    "essn": "1934-8150",
+    "doi": "pii: S1551-7411(25)00493-0. doi: 10.1016/j.sapharm.2025.10.013",
+    "sortpubdate": "2025/10/31 00:00",
+    "epubdate": "2025 Oct 31"
+  },
+  {
+    "name": "NHANES",
+    "id": "41177537",
+    "title": "Machine learning models for predicting renal injury in patients with gout.",
+    "source": "Ren Fail",
+    "pubdate": "2025 Dec",
+    "authors": [
+      "Li Y",
+      "Yang X",
+      "Shi D",
+      "Mao L",
+      "Sun S"
+    ],
+    "lastauthor": "Sun S",
+    "sortfirstauthor": "Li Y",
+    "journal": "Renal failure",
+    "issn": "0886-022X",
+    "essn": "1525-6049",
+    "doi": "doi: 10.1080/0886022X.2025.2573161",
+    "sortpubdate": "2025/12/01 00:00",
+    "epubdate": "2025 Nov 2"
+  },
+  {
+    "name": "NHANES",
+    "id": "41177524",
+    "title": "Associations of Dietary Inflammation Index and Composite Dietary Antioxidant Index With Overactive Bladder in Adults: NHANES 2011-2018.",
+    "source": "Low Urin Tract Symptoms",
+    "pubdate": "2025 Nov",
+    "authors": [
+      "Hao X",
+      "Xu Z",
+      "Li S",
+      "Zhang C",
+      "Liu X"
+    ],
+    "lastauthor": "Liu X",
+    "sortfirstauthor": "Hao X",
+    "journal": "Lower urinary tract symptoms",
+    "issn": "1757-5664",
+    "essn": "1757-5672",
+    "doi": "doi: 10.1111/luts.70038",
+    "sortpubdate": "2025/11/01 00:00",
+    "epubdate": ""
   }
 ]
