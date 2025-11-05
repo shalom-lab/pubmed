@@ -31064,5 +31064,183 @@
     "doi": "doi: 10.1017/S0033291725102249",
     "sortpubdate": "2025/11/03 00:00",
     "epubdate": "2025 Nov 3"
+  },
+  {
+    "name": "GBD database",
+    "id": "41187312",
+    "title": "The global, regional, and national burden of asbestosis in adolescents and young adults, 1990-2021: a systematic analysis of the Global Burden Of Disease Study 2021.",
+    "source": "Int J Surg",
+    "pubdate": "2025 Oct 28",
+    "authors": [
+      "Shang B",
+      "Santofimio VQ",
+      "Chen Z",
+      "Ma J"
+    ],
+    "lastauthor": "Ma J",
+    "sortfirstauthor": "Shang B",
+    "journal": "International journal of surgery (London, England)",
+    "issn": "",
+    "essn": "1743-9159",
+    "doi": "doi: 10.1097/JS9.0000000000003639",
+    "sortpubdate": "2025/10/28 00:00",
+    "epubdate": "2025 Oct 28"
+  },
+  {
+    "name": "GBD database",
+    "id": "41186359",
+    "title": "Global burden, trends and inequalities of hepatitis B among women of childbearing age, 1990-2021.",
+    "source": "Ann Med",
+    "pubdate": "2025 Dec",
+    "authors": [
+      "Zhang H",
+      "Wang H"
+    ],
+    "lastauthor": "Wang H",
+    "sortfirstauthor": "Zhang H",
+    "journal": "Annals of medicine",
+    "issn": "0785-3890",
+    "essn": "1365-2060",
+    "doi": "doi: 10.1080/07853890.2025.2581924",
+    "sortpubdate": "2025/12/01 00:00",
+    "epubdate": "2025 Nov 4"
+  },
+  {
+    "name": "GBD database",
+    "id": "41185125",
+    "title": "Multi-omics analysis of the potential association between ageing and rheumatoid arthritis and screening of potential therapeutic targets.",
+    "source": "Artif Cells Nanomed Biotechnol",
+    "pubdate": "2025 Dec",
+    "authors": [
+      "Yun X",
+      "Zhang L",
+      "Fan Z",
+      "Guo H"
+    ],
+    "lastauthor": "Guo H",
+    "sortfirstauthor": "Yun X",
+    "journal": "Artificial cells, nanomedicine, and biotechnology",
+    "issn": "2169-1401",
+    "essn": "2169-141X",
+    "doi": "doi: 10.1080/21691401.2025.2582448",
+    "sortpubdate": "2025/12/01 00:00",
+    "epubdate": "2025 Nov 3"
+  },
+  {
+    "name": "GBD database",
+    "id": "41184878",
+    "title": "Prevalence of depression in a large regionally representative population sample in Côte d'Ivoire.",
+    "source": "BMC Public Health",
+    "pubdate": "2025 Nov 3",
+    "authors": [
+      "Jäggi L",
+      "Falgas-Bague I",
+      "Koné S",
+      "Probst-Hensch N",
+      "Fink G"
+    ],
+    "lastauthor": "Fink G",
+    "sortfirstauthor": "Jäggi L",
+    "journal": "BMC public health",
+    "issn": "",
+    "essn": "1471-2458",
+    "doi": "doi: 10.1186/s12889-025-24879-3",
+    "sortpubdate": "2025/11/03 00:00",
+    "epubdate": "2025 Nov 3"
+  },
+  {
+    "name": "GBD database",
+    "id": "41184814",
+    "title": "Global burden of disease analysis of stroke due to high systolic blood pressure in different regions, 1990-2021.",
+    "source": "BMC Public Health",
+    "pubdate": "2025 Nov 3",
+    "authors": [
+      "Liu YX",
+      "Zhang MM",
+      "Huang XY",
+      "Zheng Y",
+      "Yu XX",
+      "Li X",
+      "Zhang M",
+      "Zhang YY",
+      "Hu FY"
+    ],
+    "lastauthor": "Hu FY",
+    "sortfirstauthor": "Liu YX",
+    "journal": "BMC public health",
+    "issn": "",
+    "essn": "1471-2458",
+    "doi": "doi: 10.1186/s12889-025-25026-8",
+    "sortpubdate": "2025/11/03 00:00",
+    "epubdate": "2025 Nov 3"
+  },
+  {
+    "name": "GBD database",
+    "id": "41184212",
+    "title": "Comparative analysis of the burden of aged rheumatoid arthritis in China and globally from 1990 to 2021, with projections to 2044: Findings from the Global Burden of Disease Study 2021.",
+    "source": "Chin Med J (Engl)",
+    "pubdate": "2025 Nov 3",
+    "authors": [
+      "Zeng X",
+      "Liu D",
+      "Huang J",
+      "Jiang Y",
+      "Zhu H",
+      "Li Y",
+      "Luo H",
+      "Zhang X",
+      "Zuo X"
+    ],
+    "lastauthor": "Zuo X",
+    "sortfirstauthor": "Zeng X",
+    "journal": "Chinese medical journal",
+    "issn": "0366-6999",
+    "essn": "2542-5641",
+    "doi": "doi: 10.1097/CM9.0000000000003830",
+    "sortpubdate": "2025/11/03 00:00",
+    "epubdate": "2025 Nov 3"
+  },
+  {
+    "name": "GBD database",
+    "id": "41184118",
+    "title": "[Trends in the incidence and mortality of rheumatoid arthritis in China from 1990 to 2021: An age-period-cohort analysis].",
+    "source": "Zhong Nan Da Xue Xue Bao Yi Xue Ban",
+    "pubdate": "2025 Jul 28",
+    "authors": [
+      "Dou X",
+      "Cui W",
+      "Han Z",
+      "Che Z",
+      "Li X",
+      "Guo H"
+    ],
+    "lastauthor": "Guo H",
+    "sortfirstauthor": "Dou X",
+    "journal": "Zhong nan da xue xue bao. Yi xue ban = Journal of Central South University. Medical sciences",
+    "issn": "1672-7347",
+    "essn": "",
+    "doi": "doi: 10.11817/j.issn.1672-7347.2025.250076",
+    "sortpubdate": "2025/07/28 00:00",
+    "epubdate": ""
+  },
+  {
+    "name": "GBD database",
+    "id": "41173516",
+    "title": "Comparative study of coronary artery disease prediction: conventional QRISK3 versus enhanced machine learning models combined with particle swarm optimisation algorithm.",
+    "source": "Open Heart",
+    "pubdate": "2025 Oct 31",
+    "authors": [
+      "Harmadha WSP",
+      "Wang D",
+      "Masood M"
+    ],
+    "lastauthor": "Masood M",
+    "sortfirstauthor": "Harmadha WSP",
+    "journal": "Open heart",
+    "issn": "2053-3624",
+    "essn": "2053-3624",
+    "doi": "doi: 10.1136/openhrt-2025-003422",
+    "sortpubdate": "2025/10/31 00:00",
+    "epubdate": "2025 Oct 31"
   }
 ]
