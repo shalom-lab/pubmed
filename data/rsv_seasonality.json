@@ -2568,7 +2568,7 @@
     "id": "40996227",
     "title": "Earlier and prolonged respiratory syncytial virus (RSV) seasons in young children compared to adults: implications for prevention in infants.",
     "source": "Microbiol Spectr",
-    "pubdate": "2025 Sep 25",
+    "pubdate": "2025 Nov 4",
     "authors": [
       "Xue YC",
       "Williams-Bouyer N",
@@ -2581,7 +2581,7 @@
     "issn": "",
     "essn": "2165-0497",
     "doi": "doi: 10.1128/spectrum.01599-25",
-    "sortpubdate": "2025/09/25 00:00",
+    "sortpubdate": "2025/11/04 00:00",
     "epubdate": "2025 Sep 25"
   },
   {
@@ -2816,7 +2816,7 @@
     "id": "41055398",
     "title": "Whole-genome sequence characterization of respiratory syncytial virus in the Johns Hopkins Health System during the 2024-2025 respiratory season.",
     "source": "Microbiol Spectr",
-    "pubdate": "2025 Oct 7",
+    "pubdate": "2025 Nov 4",
     "authors": [
       "Zhuang TX",
       "Fall A",
@@ -2833,7 +2833,7 @@
     "issn": "",
     "essn": "2165-0497",
     "doi": "doi: 10.1128/spectrum.02065-25",
-    "sortpubdate": "2025/10/07 00:00",
+    "sortpubdate": "2025/11/04 00:00",
     "epubdate": "2025 Oct 7"
   },
   {
@@ -2944,7 +2944,7 @@
     "id": "41090914",
     "title": "Epidemiology of respiratory syncytial virus in young, hospitalized children in Jordan: a prospective viral surveillance study.",
     "source": "Microbiol Spectr",
-    "pubdate": "2025 Oct 15",
+    "pubdate": "2025 Nov 4",
     "authors": [
       "Amarin JZ",
       "Hayek H",
@@ -2971,7 +2971,7 @@
     "issn": "",
     "essn": "2165-0497",
     "doi": "doi: 10.1128/spectrum.01727-25",
-    "sortpubdate": "2025/10/15 00:00",
+    "sortpubdate": "2025/11/04 00:00",
     "epubdate": "2025 Oct 15"
   },
   {
@@ -3515,5 +3515,71 @@
     "doi": "doi: 10.7883/yoken.JJID.2025.119",
     "sortpubdate": "2025/10/31 00:00",
     "epubdate": "2025 Oct 31"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "41190017",
+    "title": "Real-world feasibility of co-administration of RSV, COVID-19, and influenza vaccines in older adults: a VAERS-based analysis.",
+    "source": "Front Pharmacol",
+    "pubdate": "2025",
+    "authors": [
+      "Wei Z",
+      "Yu S"
+    ],
+    "lastauthor": "Yu S",
+    "sortfirstauthor": "Wei Z",
+    "journal": "Frontiers in pharmacology",
+    "issn": "1663-9812",
+    "essn": "1663-9812",
+    "doi": "doi: 10.3389/fphar.2025.1682119",
+    "sortpubdate": "2025/10/20 00:00",
+    "epubdate": "2025 Oct 20"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "41187946",
+    "title": "Outpatient antibiotic prescribing for medically attended respiratory syncytial virus, influenza, or human metapneumovirus illness among high-risk adults in rural Wisconsin, United States.",
+    "source": "J Antimicrob Chemother",
+    "pubdate": "2025 Nov 4",
+    "authors": [
+      "Jorgensen SCJ",
+      "McClure DL",
+      "Alonge OD",
+      "Sundaram ME"
+    ],
+    "lastauthor": "Sundaram ME",
+    "sortfirstauthor": "Jorgensen SCJ",
+    "journal": "The Journal of antimicrobial chemotherapy",
+    "issn": "0305-7453",
+    "essn": "1460-2091",
+    "doi": "pii: dkaf412. doi: 10.1093/jac/dkaf412",
+    "sortpubdate": "2025/11/04 00:00",
+    "epubdate": "2025 Nov 4"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "41187874",
+    "title": "Age Redistribution and Altered RSV Seasonality in Taiwan: A Multicenter Analysis from 2015-2023.",
+    "source": "Int J Infect Dis",
+    "pubdate": "2025 Nov 2",
+    "authors": [
+      "Chang TH",
+      "Hu YL",
+      "Chen WC",
+      "Fang CT",
+      "Ho SY",
+      "Lee TF",
+      "Huang YT",
+      "Tang HJ",
+      "Chang LY"
+    ],
+    "lastauthor": "Chang LY",
+    "sortfirstauthor": "Chang TH",
+    "journal": "International journal of infectious diseases : IJID : official publication of the International Society for Infectious Diseases",
+    "issn": "1201-9712",
+    "essn": "1878-3511",
+    "doi": "doi: 10.1016/j.ijid.2025.108181",
+    "sortpubdate": "2025/11/02 00:00",
+    "epubdate": "2025 Nov 2"
   }
 ]
