@@ -3581,5 +3581,60 @@
     "doi": "doi: 10.1016/j.ijid.2025.108181",
     "sortpubdate": "2025/11/02 00:00",
     "epubdate": "2025 Nov 2"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "41205920",
+    "title": "Epidemiology of rhinovirus/enterovirus infection in hospitalized patients.",
+    "source": "Rev Clin Esp (Barc)",
+    "pubdate": "2025 Nov 6",
+    "authors": [
+      "Lopez-Villalba B",
+      "Tejedor-Cantero L",
+      "Toquero-Asensio M",
+      "Fernández-Espinilla V",
+      "Hernán-García C",
+      "Rojo-Rello S",
+      "Prada-García C",
+      "Eiros-Bouza JM",
+      "Castrodeza-Sanz J"
+    ],
+    "lastauthor": "Castrodeza-Sanz J",
+    "sortfirstauthor": "Lopez-Villalba B",
+    "journal": "Revista clinica espanola",
+    "issn": "",
+    "essn": "2254-8874",
+    "doi": "doi: 10.1016/j.rceng.2025.502391",
+    "sortpubdate": "2025/11/06 00:00",
+    "epubdate": "2025 Nov 6"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "41205406",
+    "title": "Implications of respiratory syncytial virus seasonality for the timing of passive immunisation scenarios in Latin America and the caribbean - a cross-sectional modelling study.",
+    "source": "Vaccine",
+    "pubdate": "2025 Nov 7",
+    "authors": [
+      "Couto P",
+      "Campbell H",
+      "Li Y",
+      "Rondy M",
+      "Leite J",
+      "Rodriguez A",
+      "Mendez-Rico J",
+      "Nogareda F",
+      "Jara J",
+      "Sarinet Plus Network",
+      "Vicari A",
+      "Nair H"
+    ],
+    "lastauthor": "Nair H",
+    "sortfirstauthor": "Couto P",
+    "journal": "Vaccine",
+    "issn": "0264-410X",
+    "essn": "1873-2518",
+    "doi": "doi: 10.1016/j.vaccine.2025.127934",
+    "sortpubdate": "2025/11/07 00:00",
+    "epubdate": "2025 Nov 7"
   }
 ]
