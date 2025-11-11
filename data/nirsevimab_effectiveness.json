@@ -2498,9 +2498,9 @@
   {
     "name": "Nirsevimab effectiveness",
     "id": "41104899",
-    "title": "NIRSEVIMAB IS EFFECTIVE AGAINST RESPIRATORY SYNCYTIAL VIRUS-ASSOCIATED HOSPITALIZATION AMONG AMERICAN INDIAN AND ALASKA NATIVE CHILDREN IN THEIR FIRST AND SECOND RSV SEASONS IN ALASKA AND THE SOUTHWEST UNITED STATES, 2023-2024.",
+    "title": "Nirsevimab is Effective Against Respiratory Syncytial Virus-Associated Hospitalization Among American Indian and Alaska Native Children in Their First and Second RSV Seasons in Alaska and the Southwest United States, 2023-2024.",
     "source": "Pediatr Infect Dis J",
-    "pubdate": "2025 Oct 17",
+    "pubdate": "2025 Dec 1",
     "authors": [
       "Hammitt LL",
       "Espinoza JS",
@@ -2535,7 +2535,7 @@
     "issn": "0891-3668",
     "essn": "1532-0987",
     "doi": "doi: 10.1097/INF.0000000000004942",
-    "sortpubdate": "2025/10/17 00:00",
+    "sortpubdate": "2025/12/01 00:00",
     "epubdate": "2025 Oct 17"
   },
   {
@@ -2802,5 +2802,52 @@
     "doi": "doi: 10.3389/fpubh.2025.1686581",
     "sortpubdate": "2025/10/20 00:00",
     "epubdate": "2025 Oct 20"
+  },
+  {
+    "name": "Nirsevimab effectiveness",
+    "id": "41211378",
+    "title": "Nirsevimab for preventing respiratory syncytial virus lower respiratory tract infections in infants: a systematic review and meta-analysis.",
+    "source": "Front Public Health",
+    "pubdate": "2025",
+    "authors": [
+      "Soudani S",
+      "Bertizzolo L",
+      "Ghemmouri M",
+      "Chappell M",
+      "McCool R",
+      "Reddish K",
+      "Miller P",
+      "Barker E",
+      "Fewster H"
+    ],
+    "lastauthor": "Fewster H",
+    "sortfirstauthor": "Soudani S",
+    "journal": "Frontiers in public health",
+    "issn": "",
+    "essn": "2296-2565",
+    "doi": "doi: 10.3389/fpubh.2025.1641085",
+    "sortpubdate": "2025/10/24 00:00",
+    "epubdate": "2025 Oct 24"
+  },
+  {
+    "name": "Nirsevimab effectiveness",
+    "id": "41207638",
+    "title": "Long-term impact of nirsevimab on prevention of respiratory syncytial virus infection using a real-word global database.",
+    "source": "J Infect",
+    "pubdate": "2025 Nov 7",
+    "authors": [
+      "Kitano T",
+      "Tsuzuki S",
+      "Fukuda H",
+      "Yoshida S"
+    ],
+    "lastauthor": "Yoshida S",
+    "sortfirstauthor": "Kitano T",
+    "journal": "The Journal of infection",
+    "issn": "0163-4453",
+    "essn": "1532-2742",
+    "doi": "doi: 10.1016/j.jinf.2025.106652",
+    "sortpubdate": "2025/11/07 00:00",
+    "epubdate": "2025 Nov 7"
   }
 ]

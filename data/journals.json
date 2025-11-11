@@ -7951,6 +7951,7 @@
   {
     "source": "JAMA Cardiol",
     "journal": "JAMA cardiology",
+    "issn": "2380-6583",
     "essn": "2380-6591"
   },
   {
@@ -9327,5 +9328,84 @@
     "source": "Rev Clin Esp (Barc)",
     "journal": "Revista clinica espanola",
     "essn": "2254-8874"
+  },
+  {
+    "source": "J Mol Med (Berl)",
+    "journal": "Journal of molecular medicine (Berlin, Germany)",
+    "issn": "0946-2716",
+    "essn": "1432-1440"
+  },
+  {
+    "source": "Surg Infect (Larchmt)",
+    "journal": "Surgical infections",
+    "issn": "1096-2964",
+    "essn": "1557-8674"
+  },
+  {
+    "source": "Afr J Reprod Health",
+    "journal": "African journal of reproductive health",
+    "issn": "1118-4841"
+  },
+  {
+    "source": "Transl Breast Cancer Res",
+    "journal": "Translational breast cancer research : a journal focusing on translational research in breast cancer",
+    "essn": "2218-6778"
+  },
+  {
+    "source": "Mater Today Bio",
+    "journal": "Materials today. Bio",
+    "essn": "2590-0064"
+  },
+  {
+    "source": "Clin Hypertens",
+    "journal": "Clinical hypertension",
+    "issn": "2056-5909",
+    "essn": "2056-5909"
+  },
+  {
+    "source": "Scand J Public Health",
+    "journal": "Scandinavian journal of public health",
+    "issn": "1403-4948",
+    "essn": "1651-1905"
+  },
+  {
+    "source": "Zhejiang Da Xue Xue Bao Yi Xue Ban",
+    "journal": "Zhejiang da xue xue bao. Yi xue ban = Journal of Zhejiang University. Medical sciences",
+    "issn": "1008-9292"
+  },
+  {
+    "source": "J Oral Microbiol",
+    "journal": "Journal of oral microbiology",
+    "issn": "2000-2297",
+    "essn": "2000-2297"
+  },
+  {
+    "source": "Chin Clin Oncol",
+    "journal": "Chinese clinical oncology",
+    "issn": "2304-3865",
+    "essn": "2304-3873"
+  },
+  {
+    "source": "J Health Psychol",
+    "journal": "Journal of health psychology",
+    "issn": "1359-1053",
+    "essn": "1461-7277"
+  },
+  {
+    "source": "J Vasc Surg",
+    "journal": "Journal of vascular surgery",
+    "issn": "0741-5214",
+    "essn": "1097-6809"
+  },
+  {
+    "source": "J Acad Nutr Diet",
+    "journal": "Journal of the Academy of Nutrition and Dietetics",
+    "issn": "2212-2672"
+  },
+  {
+    "source": "Curr Gene Ther",
+    "journal": "Current gene therapy",
+    "issn": "1566-5232",
+    "essn": "1875-5631"
   }
 ]
