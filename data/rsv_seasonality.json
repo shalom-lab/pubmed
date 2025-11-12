@@ -2725,7 +2725,7 @@
     "id": "41042450",
     "title": "Estimation of the Respiratory Syncytial Virus Hospitalization Burden in Older Adults in the Veneto Region, Italy: A Modeling Study.",
     "source": "Infect Dis Ther",
-    "pubdate": "2025 Oct 3",
+    "pubdate": "2025 Dec",
     "authors": [
       "Cozzolino C",
       "Cozza A",
@@ -2743,7 +2743,7 @@
     "issn": "2193-8229",
     "essn": "2193-6382",
     "doi": "doi: 10.1007/s40121-025-01241-z",
-    "sortpubdate": "2025/10/03 00:00",
+    "sortpubdate": "2025/12/01 00:00",
     "epubdate": "2025 Oct 3"
   },
   {
@@ -3026,7 +3026,7 @@
     "id": "41101117",
     "title": "Epidemiological characterization and seasonality of respiratory syncytial virus in the United Arab Emirates: A five-year study at a tertiary care hospital, 2018-2022.",
     "source": "J Infect Public Health",
-    "pubdate": "2025 Oct 13",
+    "pubdate": "2025 Dec",
     "authors": [
       "Alamiri HA",
       "Hamwi S",
@@ -3046,7 +3046,7 @@
     "issn": "1876-0341",
     "essn": "1876-035X",
     "doi": "doi: 10.1016/j.jiph.2025.103007",
-    "sortpubdate": "2025/10/13 00:00",
+    "sortpubdate": "2025/12/01 00:00",
     "epubdate": "2025 Oct 13"
   },
   {
@@ -3656,5 +3656,75 @@
     "doi": "doi: 10.2174/0115665232389869251014055641",
     "sortpubdate": "2025/11/05 00:00",
     "epubdate": "2025 Nov 5"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "41216447",
+    "title": "Analysis of pediatric respiratory virus epidemiology and its association with atmospheric parameters in Chengdu.",
+    "source": "Transl Pediatr",
+    "pubdate": "2025 Oct 31",
+    "authors": [
+      "Dong H",
+      "Yan L",
+      "Zhang H",
+      "Lai M",
+      "Zhang L"
+    ],
+    "lastauthor": "Zhang L",
+    "sortfirstauthor": "Dong H",
+    "journal": "Translational pediatrics",
+    "issn": "2224-4344",
+    "essn": "2224-4344",
+    "doi": "doi: 10.21037/tp-2025-455",
+    "sortpubdate": "2025/10/31 00:00",
+    "epubdate": "2025 Oct 27"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "41216441",
+    "title": "Epidemiological and clinical characteristics of respiratory syncytial virus infection in hospitalized neonates in Suzhou.",
+    "source": "Transl Pediatr",
+    "pubdate": "2025 Oct 31",
+    "authors": [
+      "Gu F",
+      "Yu T",
+      "Li Q",
+      "Xu J",
+      "Lu L"
+    ],
+    "lastauthor": "Lu L",
+    "sortfirstauthor": "Gu F",
+    "journal": "Translational pediatrics",
+    "issn": "2224-4344",
+    "essn": "2224-4344",
+    "doi": "doi: 10.21037/tp-2025-414",
+    "sortpubdate": "2025/10/31 00:00",
+    "epubdate": "2025 Oct 29"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "41214574",
+    "title": "Epidemiological and etiological characteristics of respiratory infections among hospitalized patients: insights from a 12-pathogen surveillance study in Eastern China.",
+    "source": "BMC Infect Dis",
+    "pubdate": "2025 Nov 10",
+    "authors": [
+      "Shen F",
+      "Li H",
+      "Chen S",
+      "Wang M",
+      "Li H",
+      "Zhou X",
+      "Mu X",
+      "Zhang J",
+      "Xu L"
+    ],
+    "lastauthor": "Xu L",
+    "sortfirstauthor": "Shen F",
+    "journal": "BMC infectious diseases",
+    "issn": "",
+    "essn": "1471-2334",
+    "doi": "doi: 10.1186/s12879-025-11995-z",
+    "sortpubdate": "2025/11/10 00:00",
+    "epubdate": "2025 Nov 10"
   }
 ]
