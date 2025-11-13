@@ -2771,7 +2771,7 @@
   {
     "name": "RSV seasonality",
     "id": "41043634",
-    "title": "Analyzing Seasonal Trends of Respiratory Syncytial Virus Circulation Using Latin American National Surveillance Database during Pre- and Post-COVID-19 Pandemic.",
+    "title": "Analyzing seasonal trends of respiratory syncytial virus circulation using Latin American national surveillance database during pre- and post-COVID-19 pandemic.",
     "source": "Int J Infect Dis",
     "pubdate": "2025 Oct 1",
     "authors": [
@@ -3726,5 +3726,30 @@
     "doi": "doi: 10.1186/s12879-025-11995-z",
     "sortpubdate": "2025/11/10 00:00",
     "epubdate": "2025 Nov 10"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "41219792",
+    "title": "Epidemiology of moderate-to-severe respiratory syncytial virus infections in children in subtropical Okinawa, Japan: a 4-year retrospective study.",
+    "source": "Trop Med Health",
+    "pubdate": "2025 Nov 11",
+    "authors": [
+      "Fukuoka-Araki K",
+      "Araki K",
+      "Fukuoka H",
+      "Cho Y",
+      "Matayoshi K",
+      "Makiya T",
+      "Kinjo S",
+      "Yamashiro T"
+    ],
+    "lastauthor": "Yamashiro T",
+    "sortfirstauthor": "Fukuoka-Araki K",
+    "journal": "Tropical medicine and health",
+    "issn": "1348-8945",
+    "essn": "",
+    "doi": "doi: 10.1186/s41182-025-00824-3",
+    "sortpubdate": "2025/11/11 00:00",
+    "epubdate": "2025 Nov 11"
   }
 ]

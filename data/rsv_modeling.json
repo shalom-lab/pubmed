@@ -3277,5 +3277,33 @@
     "doi": "doi: 10.1016/j.vaccine.2025.127868",
     "sortpubdate": "2025/11/07 00:00",
     "epubdate": "2025 Nov 7"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "41218303",
+    "title": "Cost-effectiveness of infant and maternal RSV immunization strategies, in British Columbia, Canada.",
+    "source": "Vaccine",
+    "pubdate": "2025 Nov 10",
+    "authors": [
+      "Taleshi J",
+      "Paramo MV",
+      "Watts A",
+      "Chilvers M",
+      "Wong JMH",
+      "Piszczek J",
+      "Separovic L",
+      "Hu J",
+      "Skowronski D",
+      "Lavoie PM",
+      "Sbihi H"
+    ],
+    "lastauthor": "Sbihi H",
+    "sortfirstauthor": "Taleshi J",
+    "journal": "Vaccine",
+    "issn": "0264-410X",
+    "essn": "1873-2518",
+    "doi": "doi: 10.1016/j.vaccine.2025.127936",
+    "sortpubdate": "2025/11/10 00:00",
+    "epubdate": "2025 Nov 10"
   }
 ]
