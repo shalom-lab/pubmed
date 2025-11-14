@@ -3305,5 +3305,59 @@
     "doi": "doi: 10.1016/j.vaccine.2025.127936",
     "sortpubdate": "2025/11/10 00:00",
     "epubdate": "2025 Nov 10"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "41229735",
+    "title": "Wuhu decoction regulates ROS/AMPK/mTOR pathway-mediated dendritic cells autophagy and pyroptosis for the treatment of respiratory syncytial virus-induced asthma.",
+    "source": "J Thorac Dis",
+    "pubdate": "2025 Oct 31",
+    "authors": [
+      "Ding Y",
+      "Luo J",
+      "Deng YJ",
+      "Liu JL",
+      "Wang MQ",
+      "Hu Y"
+    ],
+    "lastauthor": "Hu Y",
+    "sortfirstauthor": "Ding Y",
+    "journal": "Journal of thoracic disease",
+    "issn": "2072-1439",
+    "essn": "2077-6624",
+    "doi": "doi: 10.21037/jtd-2025-881",
+    "sortpubdate": "2025/10/31 00:00",
+    "epubdate": "2025 Oct 29"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "41226883",
+    "title": "RSV Monitoring in Germany: A Critical Overview of Available Surveillance Systems.",
+    "source": "J Clin Med",
+    "pubdate": "2025 Oct 22",
+    "authors": [
+      "Bayer LJ",
+      "Brösamle C",
+      "Brestrich G",
+      "Najafi B",
+      "von Eiff C",
+      "Hösemann C",
+      "Stepan H",
+      "Gosch G",
+      "Wojcinski M",
+      "Abou-Dakn M",
+      "Herting E",
+      "Rose MA",
+      "Prelog M",
+      "Kaiser R"
+    ],
+    "lastauthor": "Kaiser R",
+    "sortfirstauthor": "Bayer LJ",
+    "journal": "Journal of clinical medicine",
+    "issn": "2077-0383",
+    "essn": "2077-0383",
+    "doi": "doi: 10.3390/jcm14217487",
+    "sortpubdate": "2025/10/22 00:00",
+    "epubdate": "2025 Oct 22"
   }
 ]

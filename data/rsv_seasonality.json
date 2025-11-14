@@ -3747,9 +3747,40 @@
     "sortfirstauthor": "Fukuoka-Araki K",
     "journal": "Tropical medicine and health",
     "issn": "1348-8945",
-    "essn": "",
+    "essn": "1349-4147",
     "doi": "doi: 10.1186/s41182-025-00824-3",
     "sortpubdate": "2025/11/11 00:00",
     "epubdate": "2025 Nov 11"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "41226883",
+    "title": "RSV Monitoring in Germany: A Critical Overview of Available Surveillance Systems.",
+    "source": "J Clin Med",
+    "pubdate": "2025 Oct 22",
+    "authors": [
+      "Bayer LJ",
+      "Brösamle C",
+      "Brestrich G",
+      "Najafi B",
+      "von Eiff C",
+      "Hösemann C",
+      "Stepan H",
+      "Gosch G",
+      "Wojcinski M",
+      "Abou-Dakn M",
+      "Herting E",
+      "Rose MA",
+      "Prelog M",
+      "Kaiser R"
+    ],
+    "lastauthor": "Kaiser R",
+    "sortfirstauthor": "Bayer LJ",
+    "journal": "Journal of clinical medicine",
+    "issn": "2077-0383",
+    "essn": "2077-0383",
+    "doi": "doi: 10.3390/jcm14217487",
+    "sortpubdate": "2025/10/22 00:00",
+    "epubdate": "2025 Oct 22"
   }
 ]
