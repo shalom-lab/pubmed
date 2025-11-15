@@ -3782,5 +3782,59 @@
     "doi": "doi: 10.3390/jcm14217487",
     "sortpubdate": "2025/10/22 00:00",
     "epubdate": "2025 Oct 22"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "41234154",
+    "title": "Estimating Risk of Guillain-Barré Syndrome in US Medicare-Enrolled Older Adults Following Medically Attended Respiratory Syncytial Virus Disease: A Self-Controlled Case Series Analysis.",
+    "source": "Clin Infect Dis",
+    "pubdate": "2025 Nov 14",
+    "authors": [
+      "Liang C",
+      "Judy J",
+      "Chilson EL",
+      "Kelly SP",
+      "Liu Q",
+      "Maynard JD",
+      "De Souza H",
+      "Gessner BD",
+      "Begier E"
+    ],
+    "lastauthor": "Begier E",
+    "sortfirstauthor": "Liang C",
+    "journal": "Clinical infectious diseases : an official publication of the Infectious Diseases Society of America",
+    "issn": "1058-4838",
+    "essn": "1537-6591",
+    "doi": "pii: ciaf621. doi: 10.1093/cid/ciaf621",
+    "sortpubdate": "2025/11/14 00:00",
+    "epubdate": "2025 Nov 14"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "41233587",
+    "title": "Investigation of the sero-epidemiology of vaccine preventable diseases and common viral infections in French populations.",
+    "source": "Commun Med (Lond)",
+    "pubdate": "2025 Nov 13",
+    "authors": [
+      "Bloch E",
+      "Baudemont G",
+      "Donnadieu F",
+      "Garcia L",
+      "Pelleau S",
+      "SeroPed Study Consortium",
+      "Milieu Intérieur Consortium",
+      "Quintana-Murci L",
+      "Duffy D",
+      "Fontanet A",
+      "White M"
+    ],
+    "lastauthor": "White M",
+    "sortfirstauthor": "Bloch E",
+    "journal": "Communications medicine",
+    "issn": "",
+    "essn": "2730-664X",
+    "doi": "doi: 10.1038/s43856-025-01162-5",
+    "sortpubdate": "2025/11/13 00:00",
+    "epubdate": "2025 Nov 13"
   }
 ]

@@ -1962,7 +1962,7 @@
     "id": "41085920",
     "title": "Novel Chewable Pleuran-Based Supplement Decreases Respiratory Tract Infections in Children: A Randomised Controlled Trial.",
     "source": "Adv Ther",
-    "pubdate": "2025 Oct 14",
+    "pubdate": "2025 Dec",
     "authors": [
       "Jesenak M",
       "Prokopova E",
@@ -1983,7 +1983,7 @@
     "issn": "0741-238X",
     "essn": "1865-8652",
     "doi": "doi: 10.1007/s12325-025-03393-3",
-    "sortpubdate": "2025/10/14 00:00",
+    "sortpubdate": "2025/12/01 00:00",
     "epubdate": "2025 Oct 14"
   },
   {
@@ -2173,5 +2173,28 @@
     "doi": "doi: 10.1016/j.jsbmb.2025.106879",
     "sortpubdate": "2026/01/01 00:00",
     "epubdate": "2025 Oct 22"
+  },
+  {
+    "name": "Vitamin D and respiratory infections",
+    "id": "40937665",
+    "title": "Association between vitamin D and COVID-19 infection and mortality in Taiwanese patients.",
+    "source": "J Chin Med Assoc",
+    "pubdate": "2025 Nov 1",
+    "authors": [
+      "Sheng CC",
+      "Su SY",
+      "Liang Y",
+      "Cheng HC",
+      "Huang HY",
+      "Chiu HH"
+    ],
+    "lastauthor": "Chiu HH",
+    "sortfirstauthor": "Sheng CC",
+    "journal": "Journal of the Chinese Medical Association : JCMA",
+    "issn": "1726-4901",
+    "essn": "1728-7731",
+    "doi": "doi: 10.1097/JCMA.0000000000001294",
+    "sortpubdate": "2025/11/01 00:00",
+    "epubdate": "2025 Sep 12"
   }
 ]
