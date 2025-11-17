@@ -49211,5 +49211,78 @@
     "doi": "doi: 10.1016/j.rmed.2025.108502",
     "sortpubdate": "2025/11/12 00:00",
     "epubdate": "2025 Nov 12"
+  },
+  {
+    "name": "NHANES",
+    "id": "41241677",
+    "title": "A scalable step count-based predictor of biological age: development and validation of MoveIt! Age in community-dwelling adults and geriatric rehabilitation inpatients.",
+    "source": "Geroscience",
+    "pubdate": "2025 Nov 15",
+    "authors": [
+      "Lu JK",
+      "Wang W",
+      "Guan L",
+      "van der Velde J",
+      "Hoeks J",
+      "Schrauwen P",
+      "Salomons GS",
+      "Houtkooper RH",
+      "Maier AB",
+      "Janssens GE"
+    ],
+    "lastauthor": "Janssens GE",
+    "sortfirstauthor": "Lu JK",
+    "journal": "GeroScience",
+    "issn": "",
+    "essn": "2509-2723",
+    "doi": "doi: 10.1007/s11357-025-01999-7",
+    "sortpubdate": "2025/11/15 00:00",
+    "epubdate": "2025 Nov 15"
+  },
+  {
+    "name": "NHANES",
+    "id": "41240655",
+    "title": "Consistency of perception of tobacco use: Evidence from a biomarker.",
+    "source": "Soc Sci Med",
+    "pubdate": "2025 Sep 17",
+    "authors": [
+      "Jang S",
+      "Kim D"
+    ],
+    "lastauthor": "Kim D",
+    "sortfirstauthor": "Jang S",
+    "journal": "Social science & medicine (1982)",
+    "issn": "0277-9536",
+    "essn": "1873-5347",
+    "doi": "doi: 10.1016/j.socscimed.2025.118572",
+    "sortpubdate": "2025/09/17 00:00",
+    "epubdate": "2025 Sep 17"
+  },
+  {
+    "name": "NHANES",
+    "id": "41240511",
+    "title": "Changes in Cardiovascular Risk Factors in U.S. Adults Before and After the COVID-19 Pandemic.",
+    "source": "JACC Adv",
+    "pubdate": "2025 Nov 14",
+    "authors": [
+      "Yang H",
+      "Huang C",
+      "Sawano M",
+      "Herrin J",
+      "Faridi KF",
+      "Essa M",
+      "Malik D",
+      "Li Z",
+      "Krumholz HM",
+      "Lu Y"
+    ],
+    "lastauthor": "Lu Y",
+    "sortfirstauthor": "Yang H",
+    "journal": "JACC. Advances",
+    "issn": "",
+    "essn": "2772-963X",
+    "doi": "doi: 10.1016/j.jacadv.2025.102352",
+    "sortpubdate": "2025/11/14 00:00",
+    "epubdate": "2025 Nov 14"
   }
 ]

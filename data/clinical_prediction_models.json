@@ -120842,7 +120842,7 @@
     "sortfirstauthor": "Yang L",
     "journal": "Tropical medicine and health",
     "issn": "1348-8945",
-    "essn": "",
+    "essn": "1349-4147",
     "doi": "doi: 10.1186/s41182-025-00812-7",
     "sortpubdate": "2025/11/14 00:00",
     "epubdate": "2025 Nov 14"
@@ -120912,7 +120912,7 @@
     "sortfirstauthor": "Zeng J",
     "journal": "Perioperative medicine (London, England)",
     "issn": "2047-0525",
-    "essn": "",
+    "essn": "2047-0525",
     "doi": "doi: 10.1186/s13741-025-00616-7",
     "sortpubdate": "2025/11/14 00:00",
     "epubdate": "2025 Nov 14"
@@ -121174,7 +121174,7 @@
     "sortfirstauthor": "Cai XJ",
     "journal": "NPJ precision oncology",
     "issn": "2397-768X",
-    "essn": "",
+    "essn": "2397-768X",
     "doi": "doi: 10.1038/s41698-025-01125-y",
     "sortpubdate": "2025/11/14 00:00",
     "epubdate": "2025 Nov 14"
@@ -121400,5 +121400,225 @@
     "doi": "doi: 10.1016/j.ejrad.2025.112508",
     "sortpubdate": "2025/11/06 00:00",
     "epubdate": "2025 Nov 6"
+  },
+  {
+    "name": "Clinical prediction models",
+    "id": "41241808",
+    "title": "Tranexamic acid-based prediction model for blood transfusion in traumatic brain injury: A retrospective case-control study.",
+    "source": "Pak J Pharm Sci",
+    "pubdate": "2025 Nov-Dec",
+    "authors": [
+      "Hu R",
+      "Wang XC",
+      "Yan Z"
+    ],
+    "lastauthor": "Yan Z",
+    "sortfirstauthor": "Hu R",
+    "journal": "Pakistan journal of pharmaceutical sciences",
+    "issn": "1011-601X",
+    "essn": "",
+    "doi": "doi: 10.36721/PJPS.2025.38.6.REG.15256.1",
+    "sortpubdate": "2025/11/01 00:00",
+    "epubdate": ""
+  },
+  {
+    "name": "Clinical prediction models",
+    "id": "41241807",
+    "title": "Guiding methimazole therapy of autoimmune thyroid disease with thyroid antibody profiles: A predictive and causal inference study.",
+    "source": "Pak J Pharm Sci",
+    "pubdate": "2025 Nov-Dec",
+    "authors": [
+      "Yong T",
+      "Qiong L"
+    ],
+    "lastauthor": "Qiong L",
+    "sortfirstauthor": "Yong T",
+    "journal": "Pakistan journal of pharmaceutical sciences",
+    "issn": "1011-601X",
+    "essn": "",
+    "doi": "doi: 10.36721/PJPS.2025.38.6.REG.15254.1",
+    "sortpubdate": "2025/11/01 00:00",
+    "epubdate": ""
+  },
+  {
+    "name": "Clinical prediction models",
+    "id": "41241671",
+    "title": "Spatiotemporal transcriptomic insights into ferroptosis and TFRC-linked immune interactions in ischemia-reperfusion acute kidney injury.",
+    "source": "Genes Immun",
+    "pubdate": "2025 Nov 15",
+    "authors": [
+      "Wang Y",
+      "Zhu C",
+      "Lv S",
+      "Huang X",
+      "Wang J",
+      "Yuan S",
+      "Yang Y",
+      "Ding X",
+      "Shen Z",
+      "Zhang X"
+    ],
+    "lastauthor": "Zhang X",
+    "sortfirstauthor": "Wang Y",
+    "journal": "Genes and immunity",
+    "issn": "1466-4879",
+    "essn": "1476-5470",
+    "doi": "doi: 10.1038/s41435-025-00364-0",
+    "sortpubdate": "2025/11/15 00:00",
+    "epubdate": "2025 Nov 15"
+  },
+  {
+    "name": "Clinical prediction models",
+    "id": "41241569",
+    "title": "Nomogram to predict the axial elongation with orthokeratology: A 6-year follow up study.",
+    "source": "J Optom",
+    "pubdate": "2025 Nov 14",
+    "authors": [
+      "Zhang X",
+      "Liang J",
+      "Liu W",
+      "Weng Y",
+      "Chen C",
+      "Jiang H",
+      "Li J"
+    ],
+    "lastauthor": "Li J",
+    "sortfirstauthor": "Zhang X",
+    "journal": "Journal of optometry",
+    "issn": "",
+    "essn": "1989-1342",
+    "doi": "doi: 10.1016/j.optom.2025.100590",
+    "sortpubdate": "2025/11/14 00:00",
+    "epubdate": "2025 Nov 14"
+  },
+  {
+    "name": "Clinical prediction models",
+    "id": "41241383",
+    "title": "Handgrip Strength Asymmetry Predicts Mortality Risk: A Prospective Cohort Study From the UK Biobank.",
+    "source": "J Am Med Dir Assoc",
+    "pubdate": "2025 Nov 12",
+    "authors": [
+      "Li Y",
+      "Li D",
+      "Ren Z",
+      "Chen C",
+      "Guo S",
+      "Talifu Z",
+      "Zheng X"
+    ],
+    "lastauthor": "Zheng X",
+    "sortfirstauthor": "Li Y",
+    "journal": "Journal of the American Medical Directors Association",
+    "issn": "1525-8610",
+    "essn": "1538-9375",
+    "doi": "doi: 10.1016/j.jamda.2025.105995",
+    "sortpubdate": "2025/11/12 00:00",
+    "epubdate": "2025 Nov 12"
+  },
+  {
+    "name": "Clinical prediction models",
+    "id": "41240804",
+    "title": "Drug resistance and clinical characteristics of pediatric and adolescent tuberculosis: A multicenter retrospective study in China.",
+    "source": "Diagn Microbiol Infect Dis",
+    "pubdate": "2025 Nov 8",
+    "authors": [
+      "Zhou M",
+      "Chen X",
+      "Huang J",
+      "Su R",
+      "Lei H",
+      "Huang D"
+    ],
+    "lastauthor": "Huang D",
+    "sortfirstauthor": "Zhou M",
+    "journal": "Diagnostic microbiology and infectious disease",
+    "issn": "0732-8893",
+    "essn": "1879-0070",
+    "doi": "doi: 10.1016/j.diagmicrobio.2025.117185",
+    "sortpubdate": "2025/11/08 00:00",
+    "epubdate": "2025 Nov 8"
+  },
+  {
+    "name": "Clinical prediction models",
+    "id": "41240776",
+    "title": "Systematic review of prediction models for post-traumatic hypothermia risk.",
+    "source": "Injury",
+    "pubdate": "2025 Nov 8",
+    "authors": [
+      "Dandan Z",
+      "Yiting W",
+      "Shengqiang Z",
+      "Tiantian Z",
+      "Jing Y"
+    ],
+    "lastauthor": "Jing Y",
+    "sortfirstauthor": "Dandan Z",
+    "journal": "Injury",
+    "issn": "0020-1383",
+    "essn": "1879-0267",
+    "doi": "doi: 10.1016/j.injury.2025.112883",
+    "sortpubdate": "2025/11/08 00:00",
+    "epubdate": "2025 Nov 8"
+  },
+  {
+    "name": "Clinical prediction models",
+    "id": "41240557",
+    "title": "Real-time photoelectric sensing of edaravone for therapeutic efficacy in amyotrophic lateral sclerosis.",
+    "source": "J Colloid Interface Sci",
+    "pubdate": "2025 Nov 10",
+    "authors": [
+      "Jia H",
+      "Chang Y"
+    ],
+    "lastauthor": "Chang Y",
+    "sortfirstauthor": "Jia H",
+    "journal": "Journal of colloid and interface science",
+    "issn": "0021-9797",
+    "essn": "1095-7103",
+    "doi": "doi: 10.1016/j.jcis.2025.139457",
+    "sortpubdate": "2025/11/10 00:00",
+    "epubdate": "2025 Nov 10"
+  },
+  {
+    "name": "Clinical prediction models",
+    "id": "41239347",
+    "title": "Construction and application of a risk prediction model for sputum viscosity in patients with laryngeal malignant tumors after operation.",
+    "source": "BMC Surg",
+    "pubdate": "2025 Nov 14",
+    "authors": [
+      "Wang Q",
+      "Ma H",
+      "Li M",
+      "Ma Y"
+    ],
+    "lastauthor": "Ma Y",
+    "sortfirstauthor": "Wang Q",
+    "journal": "BMC surgery",
+    "issn": "",
+    "essn": "1471-2482",
+    "doi": "doi: 10.1186/s12893-025-03228-6",
+    "sortpubdate": "2025/11/14 00:00",
+    "epubdate": "2025 Nov 14"
+  },
+  {
+    "name": "Clinical prediction models",
+    "id": "41239268",
+    "title": "Association between multimorbidity and disability among elderly with chronic obstructive pulmonary disease in Shanghai, China: a cross-sectional study.",
+    "source": "BMC Geriatr",
+    "pubdate": "2025 Nov 14",
+    "authors": [
+      "Liu X",
+      "Cao Y",
+      "Shi Y",
+      "Ding H"
+    ],
+    "lastauthor": "Ding H",
+    "sortfirstauthor": "Liu X",
+    "journal": "BMC geriatrics",
+    "issn": "",
+    "essn": "1471-2318",
+    "doi": "doi: 10.1186/s12877-025-06488-2",
+    "sortpubdate": "2025/11/14 00:00",
+    "epubdate": "2025 Nov 14"
   }
 ]
