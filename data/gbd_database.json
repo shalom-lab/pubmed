@@ -34752,7 +34752,7 @@
     "sortfirstauthor": "Lu X",
     "journal": "Frontiers in nutrition",
     "issn": "2296-861X",
-    "essn": "",
+    "essn": "2296-861X",
     "doi": "doi: 10.3389/fnut.2025.1679569",
     "sortpubdate": "2025/10/31 00:00",
     "epubdate": "2025 Oct 31"
@@ -34772,7 +34772,7 @@
     "sortfirstauthor": "Jiang J",
     "journal": "Frontiers in oncology",
     "issn": "2234-943X",
-    "essn": "",
+    "essn": "2234-943X",
     "doi": "doi: 10.3389/fonc.2025.1607890",
     "sortpubdate": "2025/10/31 00:00",
     "epubdate": "2025 Oct 31"
@@ -34791,7 +34791,7 @@
     "sortfirstauthor": "Wang Y",
     "journal": "Frontiers in oncology",
     "issn": "2234-943X",
-    "essn": "",
+    "essn": "2234-943X",
     "doi": "doi: 10.3389/fonc.2025.1568716",
     "sortpubdate": "2025/10/31 00:00",
     "epubdate": "2025 Oct 31"
@@ -34818,7 +34818,7 @@
     "sortfirstauthor": "Lin D",
     "journal": "Frontiers in psychiatry",
     "issn": "1664-0640",
-    "essn": "",
+    "essn": "1664-0640",
     "doi": "doi: 10.3389/fpsyt.2025.1679479",
     "sortpubdate": "2025/10/30 00:00",
     "epubdate": "2025 Oct 30"
@@ -34861,7 +34861,7 @@
     "sortfirstauthor": "Zhang X",
     "journal": "Frontiers in pediatrics",
     "issn": "2296-2360",
-    "essn": "",
+    "essn": "2296-2360",
     "doi": "doi: 10.3389/fped.2025.1646693",
     "sortpubdate": "2025/10/31 00:00",
     "epubdate": "2025 Oct 31"
@@ -34882,7 +34882,7 @@
     "sortfirstauthor": "Xu C",
     "journal": "Frontiers in pediatrics",
     "issn": "2296-2360",
-    "essn": "",
+    "essn": "2296-2360",
     "doi": "doi: 10.3389/fped.2025.1651612",
     "sortpubdate": "2025/10/30 00:00",
     "epubdate": "2025 Oct 30"
@@ -35046,5 +35046,205 @@
     "doi": "doi: 10.1016/j.numecd.2025.104421",
     "sortpubdate": "2025/10/25 00:00",
     "epubdate": "2025 Oct 25"
+  },
+  {
+    "name": "GBD database",
+    "id": "41252444",
+    "title": "Epidemiological trends in alcoholic cardiomyopathy burden: A 32-year global and Chinese analysis (1990-2021) with projections to 2036.",
+    "source": "PLoS One",
+    "pubdate": "2025",
+    "authors": [
+      "Yan F",
+      "Wang C",
+      "Chen J",
+      "Cao Z",
+      "Huang R",
+      "Chen Z"
+    ],
+    "lastauthor": "Chen Z",
+    "sortfirstauthor": "Yan F",
+    "journal": "PloS one",
+    "issn": "",
+    "essn": "1932-6203",
+    "doi": "doi: 10.1371/journal.pone.0336033",
+    "sortpubdate": "2025/11/18 00:00",
+    "epubdate": "2025 Nov 18"
+  },
+  {
+    "name": "GBD database",
+    "id": "41252379",
+    "title": "Global, regional, and national burden of hypertensive intracerebral hemorrhage, 1990 to 2021 and projections to 2050: Results from the Global Burden of Disease Study 2021.",
+    "source": "PLoS One",
+    "pubdate": "2025",
+    "authors": [
+      "Zhang C",
+      "Chen J",
+      "Song L",
+      "Dong J",
+      "Hu Q",
+      "Ma D",
+      "Li J"
+    ],
+    "lastauthor": "Li J",
+    "sortfirstauthor": "Zhang C",
+    "journal": "PloS one",
+    "issn": "",
+    "essn": "1932-6203",
+    "doi": "doi: 10.1371/journal.pone.0336563",
+    "sortpubdate": "2025/11/18 00:00",
+    "epubdate": "2025 Nov 18"
+  },
+  {
+    "name": "GBD database",
+    "id": "41251646",
+    "title": "The burden of severe periodontitis in the United States: Insights from a population-based analysis.",
+    "source": "J Am Dent Assoc",
+    "pubdate": "2025 Nov 18",
+    "authors": [
+      "Wang Y",
+      "Zhao X",
+      "Yu Y"
+    ],
+    "lastauthor": "Yu Y",
+    "sortfirstauthor": "Wang Y",
+    "journal": "Journal of the American Dental Association (1939)",
+    "issn": "0002-8177",
+    "essn": "1943-4723",
+    "doi": "pii: S0002-8177(25)00574-4. doi: 10.1016/j.adaj.2025.09.015",
+    "sortpubdate": "2025/11/18 00:00",
+    "epubdate": "2025 Nov 18"
+  },
+  {
+    "name": "GBD database",
+    "id": "41250243",
+    "title": "Global burden of paralytic ileus and intestinal obstruction in young and middle-aged adults (15-49 years): a systematic analysis from global burden of disease study 2021.",
+    "source": "Eur J Med Res",
+    "pubdate": "2025 Nov 17",
+    "authors": [
+      "Lu K",
+      "Xu G"
+    ],
+    "lastauthor": "Xu G",
+    "sortfirstauthor": "Lu K",
+    "journal": "European journal of medical research",
+    "issn": "0949-2321",
+    "essn": "2047-783X",
+    "doi": "doi: 10.1186/s40001-025-03384-8",
+    "sortpubdate": "2025/11/17 00:00",
+    "epubdate": "2025 Nov 17"
+  },
+  {
+    "name": "GBD database",
+    "id": "41250086",
+    "title": "Global burden of noncommunicable diseases attributable to modifiable behavioral risks among adolescents and young adults aged 10-24 years, 1990-2021.",
+    "source": "BMC Med",
+    "pubdate": "2025 Nov 17",
+    "authors": [
+      "Feng Y",
+      "Sun D",
+      "Sun X",
+      "Guo Q",
+      "Zhang J",
+      "Li Y"
+    ],
+    "lastauthor": "Li Y",
+    "sortfirstauthor": "Feng Y",
+    "journal": "BMC medicine",
+    "issn": "",
+    "essn": "1741-7015",
+    "doi": "doi: 10.1186/s12916-025-04463-7",
+    "sortpubdate": "2025/11/17 00:00",
+    "epubdate": "2025 Nov 17"
+  },
+  {
+    "name": "GBD database",
+    "id": "41250031",
+    "title": "Cross-country health inequality in the asthma burden: findings from the global burden of disease study 2021.",
+    "source": "BMC Public Health",
+    "pubdate": "2025 Nov 17",
+    "authors": [
+      "Zhang S",
+      "Zhong Y",
+      "Teng Y",
+      "Tang L",
+      "Zhou Y",
+      "Li W",
+      "Gao Z",
+      "Gao H",
+      "Tao FB",
+      "Wu X"
+    ],
+    "lastauthor": "Wu X",
+    "sortfirstauthor": "Zhang S",
+    "journal": "BMC public health",
+    "issn": "",
+    "essn": "1471-2458",
+    "doi": "doi: 10.1186/s12889-025-25149-y",
+    "sortpubdate": "2025/11/17 00:00",
+    "epubdate": "2025 Nov 17"
+  },
+  {
+    "name": "GBD database",
+    "id": "41248966",
+    "title": "Smogged arteries, sneaky killers.",
+    "source": "Atherosclerosis",
+    "pubdate": "2025 Nov",
+    "authors": [
+      "Barth JD"
+    ],
+    "lastauthor": "Barth JD",
+    "sortfirstauthor": "Barth JD",
+    "journal": "Atherosclerosis",
+    "issn": "0021-9150",
+    "essn": "1879-1484",
+    "doi": "doi: 10.1016/j.atherosclerosis.2025.120519",
+    "sortpubdate": "2025/11/01 00:00",
+    "epubdate": "2025 Nov 15"
+  },
+  {
+    "name": "GBD database",
+    "id": "41248963",
+    "title": "Global, regional and national burden of ischemic heart disease attributable to ambient fine particulate matter pollution from 1990 to 2021, with predictions to 2072: An analysis of the global burden of disease study 2021.",
+    "source": "Atherosclerosis",
+    "pubdate": "2025 Nov",
+    "authors": [
+      "Tong E",
+      "Chen Y",
+      "Chen C",
+      "Zhang F",
+      "Krafft T"
+    ],
+    "lastauthor": "Krafft T",
+    "sortfirstauthor": "Tong E",
+    "journal": "Atherosclerosis",
+    "issn": "0021-9150",
+    "essn": "1879-1484",
+    "doi": "doi: 10.1016/j.atherosclerosis.2025.120498",
+    "sortpubdate": "2025/11/01 00:00",
+    "epubdate": "2025 Nov 15"
+  },
+  {
+    "name": "GBD database",
+    "id": "41248696",
+    "title": "Global, regional, and national burdens of lip and oral cavity cancer in the adolescents and young adults from 1990 to 2021 and its predictions.",
+    "source": "Medicine (Baltimore)",
+    "pubdate": "2025 Nov 7",
+    "authors": [
+      "Zuo P",
+      "Wei Y",
+      "Ma X",
+      "Wu T",
+      "Chen S",
+      "Zhang X",
+      "Hou E"
+    ],
+    "lastauthor": "Hou E",
+    "sortfirstauthor": "Zuo P",
+    "journal": "Medicine",
+    "issn": "0025-7974",
+    "essn": "1536-5964",
+    "doi": "doi: 10.1097/MD.0000000000045601",
+    "sortpubdate": "2025/11/07 00:00",
+    "epubdate": ""
   }
 ]

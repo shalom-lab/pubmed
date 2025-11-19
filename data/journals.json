@@ -9614,11 +9614,47 @@
   {
     "source": "New Microbes New Infect",
     "journal": "New microbes and new infections",
-    "issn": "2052-2975"
+    "issn": "2052-2975",
+    "essn": "2052-2975"
   },
   {
     "source": "Infect Dis Now",
     "journal": "Infectious diseases now",
     "essn": "2666-9919"
+  },
+  {
+    "source": "Chin J Integr Med",
+    "journal": "Chinese journal of integrative medicine",
+    "issn": "1672-0415",
+    "essn": "1993-0402"
+  },
+  {
+    "source": "Mikrochim Acta",
+    "journal": "Mikrochimica acta",
+    "issn": "0026-3672",
+    "essn": "1436-5073"
+  },
+  {
+    "source": "Postgrad Med",
+    "journal": "Postgraduate medicine",
+    "issn": "0032-5481",
+    "essn": "1941-9260"
+  },
+  {
+    "source": "Cancer Gene Ther",
+    "journal": "Cancer gene therapy",
+    "issn": "0929-1903",
+    "essn": "1476-5500"
+  },
+  {
+    "source": "J Pak Med Assoc",
+    "journal": "JPMA. The Journal of the Pakistan Medical Association",
+    "issn": "0030-9982"
+  },
+  {
+    "source": "J Appl Gerontol",
+    "journal": "Journal of applied gerontology : the official journal of the Southern Gerontological Society",
+    "issn": "0733-4648",
+    "essn": "1552-4523"
   }
 ]

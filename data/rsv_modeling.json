@@ -3385,5 +3385,37 @@
     "doi": "doi: 10.7189/jogh.15.04292",
     "sortpubdate": "2025/11/14 00:00",
     "epubdate": "2025 Nov 14"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "41252531",
+    "title": "Comparison of the public health impact of RSV disease prevention options for infants: a static decision model of the us birth cohort.",
+    "source": "Expert Rev Vaccines",
+    "pubdate": "2025 Nov 18",
+    "authors": [
+      "Kieffer A",
+      "Ghemmouri M",
+      "Soudani S",
+      "Shin T",
+      "Hodges E",
+      "Greenberg M",
+      "Tribaldos M",
+      "Chit A",
+      "Beuvelet M",
+      "Neary MP",
+      "Gabriel V",
+      "Krilov LR",
+      "Geurtsen J",
+      "Musci R",
+      "Yarnoff B"
+    ],
+    "lastauthor": "Yarnoff B",
+    "sortfirstauthor": "Kieffer A",
+    "journal": "Expert review of vaccines",
+    "issn": "1476-0584",
+    "essn": "1744-8395",
+    "doi": "doi: 10.1080/14760584.2025.2591816",
+    "sortpubdate": "2025/11/18 00:00",
+    "epubdate": "2025 Nov 18"
   }
 ]
