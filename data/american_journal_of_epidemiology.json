@@ -4082,7 +4082,7 @@
       "Meijer A",
       "Enkirch T",
       "Casado I",
-      "Pérez-Gimeno G",
+      "P��rez-Gimeno G",
       "William N",
       "Enouf V",
       "Filipović SK",
@@ -4141,5 +4141,96 @@
     "doi": "pii: kwaf256. doi: 10.1093/aje/kwaf256",
     "sortpubdate": "2025/11/19 00:00",
     "epubdate": "2025 Nov 19"
+  },
+  {
+    "name": "American Journal of Epidemiology",
+    "id": "41263318",
+    "title": "Constructing targeted minimum loss/maximum likelihood estimators: a simple illustration to build intuition.",
+    "source": "Am J Epidemiol",
+    "pubdate": "2025 Nov 20",
+    "authors": [
+      "Ross RK",
+      "Montoya LM",
+      "Goin DE",
+      "Díaz I",
+      "Renson A"
+    ],
+    "lastauthor": "Renson A",
+    "sortfirstauthor": "Ross RK",
+    "journal": "American journal of epidemiology",
+    "issn": "0002-9262",
+    "essn": "1476-6256",
+    "doi": "pii: kwaf261. doi: 10.1093/aje/kwaf261",
+    "sortpubdate": "2025/11/20 00:00",
+    "epubdate": "2025 Nov 20"
+  },
+  {
+    "name": "American Journal of Epidemiology",
+    "id": "41263317",
+    "title": "A framework for the rigorous assessment of heterogeneous treatment effects from a single randomized controlled trial.",
+    "source": "Am J Epidemiol",
+    "pubdate": "2025 Nov 20",
+    "authors": [
+      "Liang JW",
+      "Tian L",
+      "Tamura MK",
+      "Montez-Rath M",
+      "Frangakis C",
+      "Charu V"
+    ],
+    "lastauthor": "Charu V",
+    "sortfirstauthor": "Liang JW",
+    "journal": "American journal of epidemiology",
+    "issn": "0002-9262",
+    "essn": "1476-6256",
+    "doi": "pii: kwaf253. doi: 10.1093/aje/kwaf253",
+    "sortpubdate": "2025/11/20 00:00",
+    "epubdate": "2025 Nov 20"
+  },
+  {
+    "name": "American Journal of Epidemiology",
+    "id": "41263314",
+    "title": "Pregnancy identification method as a source of bias in studies of prenatal exposures using real-world data.",
+    "source": "Am J Epidemiol",
+    "pubdate": "2025 Nov 20",
+    "authors": [
+      "Latour CD",
+      "Edwards JK",
+      "Funk MJ",
+      "Suarez EA",
+      "Boggess K",
+      "Wood ME"
+    ],
+    "lastauthor": "Wood ME",
+    "sortfirstauthor": "Latour CD",
+    "journal": "American journal of epidemiology",
+    "issn": "0002-9262",
+    "essn": "1476-6256",
+    "doi": "pii: kwaf260. doi: 10.1093/aje/kwaf260",
+    "sortpubdate": "2025/11/20 00:00",
+    "epubdate": "2025 Nov 20"
+  },
+  {
+    "name": "American Journal of Epidemiology",
+    "id": "41263313",
+    "title": "Association of State-Level Structural Racism with Subjective Cognitive Decline Prevalence-Behavioral Risk Factor Surveillance System, 2015-2016.",
+    "source": "Am J Epidemiol",
+    "pubdate": "2025 Nov 20",
+    "authors": [
+      "Cohen JE",
+      "Gilani O",
+      "Needham BL",
+      "Dokshina D",
+      "Douglas MD",
+      "Ali T"
+    ],
+    "lastauthor": "Ali T",
+    "sortfirstauthor": "Cohen JE",
+    "journal": "American journal of epidemiology",
+    "issn": "0002-9262",
+    "essn": "1476-6256",
+    "doi": "pii: kwaf262. doi: 10.1093/aje/kwaf262",
+    "sortpubdate": "2025/11/20 00:00",
+    "epubdate": "2025 Nov 20"
   }
 ]
