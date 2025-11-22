@@ -4082,7 +4082,7 @@
       "Meijer A",
       "Enkirch T",
       "Casado I",
-      "P��rez-Gimeno G",
+      "Pérez-Gimeno G",
       "William N",
       "Enouf V",
       "Filipović SK",
@@ -4232,5 +4232,26 @@
     "doi": "pii: kwaf262. doi: 10.1093/aje/kwaf262",
     "sortpubdate": "2025/11/20 00:00",
     "epubdate": "2025 Nov 20"
+  },
+  {
+    "name": "American Journal of Epidemiology",
+    "id": "41268667",
+    "title": "Damp housing conditions as a determinant of psychological distress: a longitudinal analysis of the British Household Panel Survey.",
+    "source": "Am J Epidemiol",
+    "pubdate": "2025 Nov 21",
+    "authors": [
+      "Gatto MR",
+      "Li A",
+      "Martino E",
+      "Bentley R"
+    ],
+    "lastauthor": "Bentley R",
+    "sortfirstauthor": "Gatto MR",
+    "journal": "American journal of epidemiology",
+    "issn": "0002-9262",
+    "essn": "1476-6256",
+    "doi": "pii: kwaf263. doi: 10.1093/aje/kwaf263",
+    "sortpubdate": "2025/11/21 00:00",
+    "epubdate": "2025 Nov 21"
   }
 ]
