@@ -36519,5 +36519,98 @@
     "doi": "doi: 10.1016/j.actpsy.2025.105985",
     "sortpubdate": "2025/11/20 00:00",
     "epubdate": "2025 Nov 20"
+  },
+  {
+    "name": "GBD database",
+    "id": "41275327",
+    "title": "Spatial-temporal trends and epidemiological characteristics of depression burden among women of childbearing age globally: a study based on the GBD 2021 database and bibliometric analysis.",
+    "source": "J Psychosom Obstet Gynaecol",
+    "pubdate": "2025 Dec 31",
+    "authors": [
+      "Li Y",
+      "Jiang L",
+      "Li X",
+      "Wang H"
+    ],
+    "lastauthor": "Wang H",
+    "sortfirstauthor": "Li Y",
+    "journal": "Journal of psychosomatic obstetrics and gynaecology",
+    "issn": "0167-482X",
+    "essn": "1743-8942",
+    "doi": "doi: 10.1080/0167482X.2025.2584909",
+    "sortpubdate": "2025/12/31 00:00",
+    "epubdate": "2025 Nov 22"
+  },
+  {
+    "name": "GBD database",
+    "id": "41275222",
+    "title": "The burden of diabetes nephropathy in China from 1990 to 2021, with forecast to 2036.: an analysis from the global burden of disease study 2021.",
+    "source": "BMC Public Health",
+    "pubdate": "2025 Nov 22",
+    "authors": [
+      "Wang Y",
+      "Wu J",
+      "He H",
+      "Yang Q",
+      "Shen H"
+    ],
+    "lastauthor": "Shen H",
+    "sortfirstauthor": "Wang Y",
+    "journal": "BMC public health",
+    "issn": "",
+    "essn": "1471-2458",
+    "doi": "doi: 10.1186/s12889-025-25692-8",
+    "sortpubdate": "2025/11/22 00:00",
+    "epubdate": "2025 Nov 22"
+  },
+  {
+    "name": "GBD database",
+    "id": "41275172",
+    "title": "Distinct clinical features and epidemiological trends of very early and middle-aged early onset colorectal cancer based on SEER 17 and GBD 2021 data over the past 15 years.",
+    "source": "BMC Cancer",
+    "pubdate": "2025 Nov 22",
+    "authors": [
+      "Jin X",
+      "Bai B",
+      "Pan Y",
+      "Xie S",
+      "Chen Y",
+      "Ding K",
+      "Wu F",
+      "Gao X",
+      "You L",
+      "Pan H",
+      "Xie B"
+    ],
+    "lastauthor": "Xie B",
+    "sortfirstauthor": "Jin X",
+    "journal": "BMC cancer",
+    "issn": "",
+    "essn": "1471-2407",
+    "doi": "doi: 10.1186/s12885-025-15263-w",
+    "sortpubdate": "2025/11/22 00:00",
+    "epubdate": "2025 Nov 22"
+  },
+  {
+    "name": "GBD database",
+    "id": "41275141",
+    "title": "Comparative trends in pancreatic cancer burden and risk factors in the USA and China (1990-2021): insights from GBD analysis.",
+    "source": "BMC Gastroenterol",
+    "pubdate": "2025 Nov 22",
+    "authors": [
+      "Pa C",
+      "Shen S",
+      "Song S",
+      "Li K",
+      "Chen G"
+    ],
+    "lastauthor": "Chen G",
+    "sortfirstauthor": "Pa C",
+    "journal": "BMC gastroenterology",
+    "issn": "",
+    "essn": "1471-230X",
+    "doi": "doi: 10.1186/s12876-025-04470-1",
+    "sortpubdate": "2025/11/22 00:00",
+    "epubdate": "2025 Nov 22"
   }
 ]

@@ -51507,5 +51507,143 @@
     "doi": "doi: 10.1007/s10916-025-02291-z",
     "sortpubdate": "2025/11/20 00:00",
     "epubdate": "2025 Nov 20"
+  },
+  {
+    "name": "NHANES",
+    "id": "41275305",
+    "title": "Vitamin D, premature mortality, and life expectancy among US adults.",
+    "source": "Arch Public Health",
+    "pubdate": "2025 Nov 22",
+    "authors": [
+      "Wang Q",
+      "Li C",
+      "Ma N",
+      "Zheng F",
+      "Wang B",
+      "Lin Q",
+      "Dong X",
+      "Niu W"
+    ],
+    "lastauthor": "Niu W",
+    "sortfirstauthor": "Wang Q",
+    "journal": "Archives of public health = Archives belges de sante publique",
+    "issn": "0778-7367",
+    "essn": "",
+    "doi": "doi: 10.1186/s13690-025-01785-z",
+    "sortpubdate": "2025/11/22 00:00",
+    "epubdate": "2025 Nov 22"
+  },
+  {
+    "name": "NHANES",
+    "id": "41275179",
+    "title": "Distinct body fat distribution and its association with metabolic syndrome in Tibetan population.",
+    "source": "Lipids Health Dis",
+    "pubdate": "2025 Nov 22",
+    "authors": [
+      "Yuan L",
+      "Wang H",
+      "Huang Q",
+      "Li T",
+      "Zhang B",
+      "Tang H",
+      "Wang Y",
+      "Peng W"
+    ],
+    "lastauthor": "Peng W",
+    "sortfirstauthor": "Yuan L",
+    "journal": "Lipids in health and disease",
+    "issn": "",
+    "essn": "1476-511X",
+    "doi": "doi: 10.1186/s12944-025-02808-y",
+    "sortpubdate": "2025/11/22 00:00",
+    "epubdate": "2025 Nov 22"
+  },
+  {
+    "name": "NHANES",
+    "id": "41275034",
+    "title": "The association between oral microbiome diversity and rheumatoid arthritis: a nationwide cross-sectional study.",
+    "source": "Clin Rheumatol",
+    "pubdate": "2025 Nov 22",
+    "authors": [
+      "Qian B",
+      "Fang Z"
+    ],
+    "lastauthor": "Fang Z",
+    "sortfirstauthor": "Qian B",
+    "journal": "Clinical rheumatology",
+    "issn": "0770-3198",
+    "essn": "1434-9949",
+    "doi": "doi: 10.1007/s10067-025-07835-9",
+    "sortpubdate": "2025/11/22 00:00",
+    "epubdate": "2025 Nov 22"
+  },
+  {
+    "name": "NHANES",
+    "id": "41274467",
+    "title": "The association between circadian eating behaviors and diabetic kidney disease in diabetes mellitus patients: a cross-sectional analysis.",
+    "source": "J Ren Nutr",
+    "pubdate": "2025 Nov 20",
+    "authors": [
+      "Tao H",
+      "Chen S",
+      "Zeng W",
+      "You L",
+      "Xu J",
+      "Saw PE",
+      "Yan L",
+      "Ren M"
+    ],
+    "lastauthor": "Ren M",
+    "sortfirstauthor": "Tao H",
+    "journal": "Journal of renal nutrition : the official journal of the Council on Renal Nutrition of the National Kidney Foundation",
+    "issn": "1051-2276",
+    "essn": "1532-8503",
+    "doi": "pii: S1051-2276(25)00245-6. doi: 10.1053/j.jrn.2025.10.016",
+    "sortpubdate": "2025/11/20 00:00",
+    "epubdate": "2025 Nov 20"
+  },
+  {
+    "name": "NHANES",
+    "id": "41274094",
+    "title": "New insights into lung cancer risks in middle-aged and older Chinese adults: A CHARLS prospective cohort study with multi-source external validation.",
+    "source": "Respir Med",
+    "pubdate": "2025 Nov 21",
+    "authors": [
+      "Li J",
+      "Li X",
+      "Yin J"
+    ],
+    "lastauthor": "Yin J",
+    "sortfirstauthor": "Li J",
+    "journal": "Respiratory medicine",
+    "issn": "0954-6111",
+    "essn": "1532-3064",
+    "doi": "doi: 10.1016/j.rmed.2025.108531",
+    "sortpubdate": "2025/11/21 00:00",
+    "epubdate": "2025 Nov 21"
+  },
+  {
+    "name": "NHANES",
+    "id": "41273197",
+    "title": "Enhancing statistical analysis of real world data.",
+    "source": "Database (Oxford)",
+    "pubdate": "2025 Jan 18",
+    "authors": [
+      "Ale L",
+      "Gentleman R",
+      "Endres C",
+      "Pullman S",
+      "Palmer N",
+      "Goncalves R",
+      "Sarkar D"
+    ],
+    "lastauthor": "Sarkar D",
+    "sortfirstauthor": "Ale L",
+    "journal": "Database : the journal of biological databases and curation",
+    "issn": "",
+    "essn": "1758-0463",
+    "doi": "doi: 10.1093/database/baaf073",
+    "sortpubdate": "2025/01/18 00:00",
+    "epubdate": ""
   }
 ]
