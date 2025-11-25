@@ -4253,5 +4253,27 @@
     "doi": "pii: kwaf263. doi: 10.1093/aje/kwaf263",
     "sortpubdate": "2025/11/21 00:00",
     "epubdate": "2025 Nov 21"
+  },
+  {
+    "name": "American Journal of Epidemiology",
+    "id": "41263318",
+    "title": "Constructing targeted minimum loss/maximum likelihood estimators: a simple illustration to build intuition.",
+    "source": "Am J Epidemiol",
+    "pubdate": "2025 Nov 20",
+    "authors": [
+      "Ross RK",
+      "Montoya LM",
+      "Goin DE",
+      "Díaz I",
+      "Renson A"
+    ],
+    "lastauthor": "Renson A",
+    "sortfirstauthor": "Ross RK",
+    "journal": "American journal of epidemiology",
+    "issn": "0002-9262",
+    "essn": "1476-6256",
+    "doi": "doi: 10.1093/aje/kwaf261",
+    "sortpubdate": "2025/11/20 00:00",
+    "epubdate": "2025 Nov 20"
   }
 ]
