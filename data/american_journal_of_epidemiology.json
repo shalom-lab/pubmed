@@ -4275,5 +4275,57 @@
     "doi": "doi: 10.1093/aje/kwaf261",
     "sortpubdate": "2025/11/20 00:00",
     "epubdate": "2025 Nov 20"
+  },
+  {
+    "name": "American Journal of Epidemiology",
+    "id": "41288128",
+    "title": "Using directed acyclic graphs to determine whether multiple imputation or subsample-multiple imputation estimates of an exposure-outcome association are unbiased.",
+    "source": "Am J Epidemiol",
+    "pubdate": "2025 Nov 25",
+    "authors": [
+      "Madley-Dowd P",
+      "Hughes RA",
+      "Mathur MB",
+      "Heron J",
+      "Tilling K"
+    ],
+    "lastauthor": "Tilling K",
+    "sortfirstauthor": "Madley-Dowd P",
+    "journal": "American journal of epidemiology",
+    "issn": "0002-9262",
+    "essn": "1476-6256",
+    "doi": "pii: kwaf265. doi: 10.1093/aje/kwaf265",
+    "sortpubdate": "2025/11/25 00:00",
+    "epubdate": "2025 Nov 25"
+  },
+  {
+    "name": "American Journal of Epidemiology",
+    "id": "41288120",
+    "title": "Data validation in multinational observational studies with error-prone data: applying an optimal validation sampling strategy in a study of Kaposi sarcoma and HIV.",
+    "source": "Am J Epidemiol",
+    "pubdate": "2025 Nov 25",
+    "authors": [
+      "Amorim G",
+      "Slone J",
+      "Semeere A",
+      "Diero L",
+      "Otero L",
+      "Crabtree-Ramirez B",
+      "Tao R",
+      "Duda SN",
+      "Musick B",
+      "Yiannoutsos C",
+      "Lumley T",
+      "Shaw PA",
+      "Shepherd BE"
+    ],
+    "lastauthor": "Shepherd BE",
+    "sortfirstauthor": "Amorim G",
+    "journal": "American journal of epidemiology",
+    "issn": "0002-9262",
+    "essn": "1476-6256",
+    "doi": "pii: kwaf264. doi: 10.1093/aje/kwaf264",
+    "sortpubdate": "2025/11/25 00:00",
+    "epubdate": "2025 Nov 25"
   }
 ]

@@ -3006,7 +3006,7 @@
     "id": "41159752",
     "title": "MicroRNA response in insect salivary glands to plant virus infection.",
     "source": "J Virol",
-    "pubdate": "2025 Oct 29",
+    "pubdate": "2025 Nov 25",
     "authors": [
       "Xiao Y",
       "Liang G",
@@ -3020,7 +3020,7 @@
     "issn": "0022-538X",
     "essn": "1098-5514",
     "doi": "doi: 10.1128/jvi.01434-25",
-    "sortpubdate": "2025/10/29 00:00",
+    "sortpubdate": "2025/11/25 00:00",
     "epubdate": "2025 Oct 29"
   },
   {
@@ -3516,5 +3516,69 @@
     "doi": "doi: 10.1038/s41598-025-28522-4",
     "sortpubdate": "2025/11/22 00:00",
     "epubdate": "2025 Nov 22"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "41286483",
+    "title": "Position statement of the Mexican Association of Pediatrics on the immunoprevention of respiratory syncytial virus infection during pregnancy and infancy.",
+    "source": "World J Pediatr",
+    "pubdate": "2025 Nov 24",
+    "authors": [
+      "Montesinos Ramírez C",
+      "Saltigeral Simental P",
+      "Ortiz Ibarra FJ",
+      "Avilés Robles MJ",
+      "Martínez Longoria CA",
+      "Jiménez-Juárez RN",
+      "Alberto Castillo J",
+      "Campos Goenaga Z",
+      "López Candiani C",
+      "Copto García A",
+      "Diaz López E",
+      "Escobar Rojas V",
+      "Del Carmen Gorbea Robles M",
+      "Hernando Becerra G",
+      "Laurean Ibarra P",
+      "Luévanos Velázquez A",
+      "Ortiz-Casas B",
+      "Otero Mendoza FJ",
+      "Padilla Rojas MM",
+      "Pinacho Velázquez JL",
+      "Del Carmen Sánchez Ortiz L",
+      "Torres Lira SF",
+      "Vital Reyes VS"
+    ],
+    "lastauthor": "Vital Reyes VS",
+    "sortfirstauthor": "Montesinos Ramírez C",
+    "journal": "World journal of pediatrics : WJP",
+    "issn": "",
+    "essn": "1867-0687",
+    "doi": "doi: 10.1007/s12519-025-00997-1",
+    "sortpubdate": "2025/11/24 00:00",
+    "epubdate": "2025 Nov 24"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "41285437",
+    "title": "Disease burden due to respiratory syncytial virus infection among under-5 children of India for 2020: a multiplicative model using meta-estimates.",
+    "source": "BMJ Glob Health",
+    "pubdate": "2025 Nov 23",
+    "authors": [
+      "Joseph J",
+      "Jalal R",
+      "Kumar R",
+      "Lodha R",
+      "Sambyal S",
+      "Goyal R",
+      "Krishnan A"
+    ],
+    "lastauthor": "Krishnan A",
+    "sortfirstauthor": "Joseph J",
+    "journal": "BMJ global health",
+    "issn": "2059-7908",
+    "essn": "",
+    "doi": "pii: e015020. doi: 10.1136/bmjgh-2024-015020",
+    "sortpubdate": "2025/11/23 00:00",
+    "epubdate": "2025 Nov 23"
   }
 ]
