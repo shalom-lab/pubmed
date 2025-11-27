@@ -2724,7 +2724,8 @@
   {
     "source": "BMJ Glob Health",
     "journal": "BMJ global health",
-    "issn": "2059-7908"
+    "issn": "2059-7908",
+    "essn": "2059-7908"
   },
   {
     "source": "Environ Int",
@@ -4699,7 +4700,8 @@
   {
     "source": "Psychiatry Investig",
     "journal": "Psychiatry investigation",
-    "issn": "1738-3684"
+    "issn": "1738-3684",
+    "essn": "1976-3026"
   },
   {
     "source": "J Cardiovasc Transl Res",
@@ -9896,5 +9898,17 @@
     "journal": "International journal of impotence research",
     "issn": "0955-9930",
     "essn": "1476-5489"
+  },
+  {
+    "source": "Tomography",
+    "journal": "Tomography (Ann Arbor, Mich.)",
+    "issn": "2379-1381",
+    "essn": "2379-139X"
+  },
+  {
+    "source": "PLoS Med",
+    "journal": "PLoS medicine",
+    "issn": "1549-1277",
+    "essn": "1549-1676"
   }
 ]

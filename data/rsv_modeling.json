@@ -3389,9 +3389,9 @@
   {
     "name": "RSV modeling",
     "id": "41252531",
-    "title": "Comparison of the public health impact of RSV disease prevention options for infants: a static decision model of the us birth cohort.",
+    "title": "Comparison of the public health impact of RSV disease prevention options for infants: a static decision model of the US birth cohort.",
     "source": "Expert Rev Vaccines",
-    "pubdate": "2025 Nov 18",
+    "pubdate": "2025 Dec",
     "authors": [
       "Kieffer A",
       "Ghemmouri M",
@@ -3415,8 +3415,8 @@
     "issn": "1476-0584",
     "essn": "1744-8395",
     "doi": "doi: 10.1080/14760584.2025.2591816",
-    "sortpubdate": "2025/11/18 00:00",
-    "epubdate": "2025 Nov 18"
+    "sortpubdate": "2025/12/01 00:00",
+    "epubdate": "2025 Nov 25"
   },
   {
     "name": "RSV modeling",
@@ -3578,6 +3578,53 @@
     "issn": "2059-7908",
     "essn": "",
     "doi": "pii: e015020. doi: 10.1136/bmjgh-2024-015020",
+    "sortpubdate": "2025/11/23 00:00",
+    "epubdate": "2025 Nov 23"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "41296869",
+    "title": "Urban contact patterns shape respiratory syncytial virus epidemics with implications for vaccination.",
+    "source": "Sci Adv",
+    "pubdate": "2025 Nov 28",
+    "authors": [
+      "Kimball P",
+      "Casalegno JS",
+      "Martinez PP",
+      "Mahmud AS",
+      "Sandstede B",
+      "Baker RE"
+    ],
+    "lastauthor": "Baker RE",
+    "sortfirstauthor": "Kimball P",
+    "journal": "Science advances",
+    "issn": "",
+    "essn": "2375-2548",
+    "doi": "doi: 10.1126/sciadv.ady5457",
+    "sortpubdate": "2025/11/28 00:00",
+    "epubdate": "2025 Nov 26"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "41285437",
+    "title": "Disease burden due to respiratory syncytial virus infection among under-5 children of India for 2020: a multiplicative model using meta-estimates.",
+    "source": "BMJ Glob Health",
+    "pubdate": "2025 Nov 23",
+    "authors": [
+      "Joseph J",
+      "Jalal R",
+      "Kumar R",
+      "Lodha R",
+      "Sambyal S",
+      "Goyal R",
+      "Krishnan A"
+    ],
+    "lastauthor": "Krishnan A",
+    "sortfirstauthor": "Joseph J",
+    "journal": "BMJ global health",
+    "issn": "2059-7908",
+    "essn": "2059-7908",
+    "doi": "doi: 10.1136/bmjgh-2024-015020",
     "sortpubdate": "2025/11/23 00:00",
     "epubdate": "2025 Nov 23"
   }
