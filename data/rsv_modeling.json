@@ -3448,13 +3448,12 @@
   {
     "name": "RSV modeling",
     "id": "41253247",
-    "title": "Global and regional burden of 34 key pathogens in the elderly population in 2021: a systematic analysis of the Global Burden of Disease Study 2021.",
+    "title": "Global and regional burden of 34 key pathogens in the elderly population in 2021: A systematic analysis of the global burden of disease study 2021.",
     "source": "Ageing Res Rev",
     "pubdate": "2025 Nov 16",
     "authors": [
       "Chen L",
       "Zhang K",
-      "Li C",
       "Liu X",
       "Fan Y",
       "Zhang X",
@@ -3627,5 +3626,47 @@
     "doi": "doi: 10.1136/bmjgh-2024-015020",
     "sortpubdate": "2025/11/23 00:00",
     "epubdate": "2025 Nov 23"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "41305504",
+    "title": "Artificial Intelligence for Predicting Lung Immune Responses to Viral Infections: From Mechanistic Insights to Clinical Applications.",
+    "source": "Viruses",
+    "pubdate": "2025 Nov 7",
+    "authors": [
+      "Tana C",
+      "Soloperto M",
+      "Giuliano G",
+      "Erroi G",
+      "Di Maggio A",
+      "Tortorella C",
+      "Moffa L"
+    ],
+    "lastauthor": "Moffa L",
+    "sortfirstauthor": "Tana C",
+    "journal": "Viruses",
+    "issn": "",
+    "essn": "1999-4915",
+    "doi": "pii: 1482. doi: 10.3390/v17111482",
+    "sortpubdate": "2025/11/07 00:00",
+    "epubdate": "2025 Nov 7"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "41300871",
+    "title": "Advances in Point-of-Care Infectious Disease Diagnostics: Integration of Technologies, Validation, Artificial Intelligence, and Regulatory Oversight.",
+    "source": "Diagnostics (Basel)",
+    "pubdate": "2025 Nov 10",
+    "authors": [
+      "Kardjadj M"
+    ],
+    "lastauthor": "Kardjadj M",
+    "sortfirstauthor": "Kardjadj M",
+    "journal": "Diagnostics (Basel, Switzerland)",
+    "issn": "2075-4418",
+    "essn": "",
+    "doi": "pii: 2845. doi: 10.3390/diagnostics15222845",
+    "sortpubdate": "2025/11/10 00:00",
+    "epubdate": "2025 Nov 10"
   }
 ]

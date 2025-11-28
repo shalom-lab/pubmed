@@ -156,7 +156,7 @@
       "Redecillas Ferreiro S",
       "Sáenz de Pipaón M",
       "Leis R",
-      "en representación del Comité de Nutrición y Lactancia Materna de la AEP"
+      "en representaci��n del Comité de Nutrición y Lactancia Materna de la AEP"
     ],
     "lastauthor": "Leis R",
     "sortfirstauthor": "Gonzalez Jiménez D",
@@ -2237,5 +2237,27 @@
     "doi": "doi: 10.1177/1096620X251377315",
     "sortpubdate": "2025/11/01 00:00",
     "epubdate": "2025 Sep 29"
+  },
+  {
+    "name": "Vitamin D and respiratory infections",
+    "id": "41302639",
+    "title": "A Predictive Model for the Development of Long COVID in Children.",
+    "source": "Int J Environ Res Public Health",
+    "pubdate": "2025 Nov 9",
+    "authors": [
+      "Perestiuk V",
+      "Sverstyuk A",
+      "Kosovska T",
+      "Volianska L",
+      "Boyarchuk O"
+    ],
+    "lastauthor": "Boyarchuk O",
+    "sortfirstauthor": "Perestiuk V",
+    "journal": "International journal of environmental research and public health",
+    "issn": "",
+    "essn": "1660-4601",
+    "doi": "pii: 1693. doi: 10.3390/ijerph22111693",
+    "sortpubdate": "2025/11/09 00:00",
+    "epubdate": "2025 Nov 9"
   }
 ]
