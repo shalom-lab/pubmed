@@ -38758,5 +38758,81 @@
     "doi": "doi: 10.1016/j.socscimed.2025.118810",
     "sortpubdate": "2025/11/20 00:00",
     "epubdate": "2025 Nov 20"
+  },
+  {
+    "name": "GBD database",
+    "id": "41318782",
+    "title": "Impact of sex on outcomes in septic shock patients treated with hydrocortisone.",
+    "source": "Sci Rep",
+    "pubdate": "2025 Nov 29",
+    "authors": [
+      "Moustafa HAM",
+      "Montasser M",
+      "Ahmed I",
+      "Mansy AEA",
+      "Habib T"
+    ],
+    "lastauthor": "Habib T",
+    "sortfirstauthor": "Moustafa HAM",
+    "journal": "Scientific reports",
+    "issn": "",
+    "essn": "2045-2322",
+    "doi": "doi: 10.1038/s41598-025-28014-5",
+    "sortpubdate": "2025/11/29 00:00",
+    "epubdate": "2025 Nov 29"
+  },
+  {
+    "name": "GBD database",
+    "id": "41318429",
+    "title": "Global, regional, and national bladder cancer burden from 1990 to 2021 and forecasts to 2050: a systematic analysis of the global disease burden study in 2021.",
+    "source": "BMC Public Health",
+    "pubdate": "2025 Nov 29",
+    "authors": [
+      "Feng W",
+      "Wang Y",
+      "Wu K",
+      "Zeng J",
+      "Zhou Q",
+      "Tan X",
+      "Deng X",
+      "Zheng R",
+      "Huang L",
+      "Li X",
+      "Yao K",
+      "Wu Z"
+    ],
+    "lastauthor": "Wu Z",
+    "sortfirstauthor": "Feng W",
+    "journal": "BMC public health",
+    "issn": "",
+    "essn": "1471-2458",
+    "doi": "doi: 10.1186/s12889-025-25611-x",
+    "sortpubdate": "2025/11/29 00:00",
+    "epubdate": "2025 Nov 29"
+  },
+  {
+    "name": "GBD database",
+    "id": "41317674",
+    "title": "Burden and trends of diabetic kidney disease in East Asia, 1990-2038: An analysis of the global burden of disease study 2023.",
+    "source": "Diabetes Metab Syndr",
+    "pubdate": "2025 Nov 25",
+    "authors": [
+      "Lin S",
+      "Liu R",
+      "Zhong G",
+      "Lyu P",
+      "Liu L",
+      "Zhang B",
+      "Xu J",
+      "Li Y"
+    ],
+    "lastauthor": "Li Y",
+    "sortfirstauthor": "Lin S",
+    "journal": "Diabetes & metabolic syndrome",
+    "issn": "1871-4021",
+    "essn": "1878-0334",
+    "doi": "doi: 10.1016/j.dsx.2025.103333",
+    "sortpubdate": "2025/11/25 00:00",
+    "epubdate": "2025 Nov 25"
   }
 ]

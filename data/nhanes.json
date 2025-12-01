@@ -54441,7 +54441,7 @@
     "sortfirstauthor": "Zhan Y",
     "journal": "Diabetology & metabolic syndrome",
     "issn": "1758-5996",
-    "essn": "",
+    "essn": "1758-5996",
     "doi": "doi: 10.1186/s13098-025-02016-9",
     "sortpubdate": "2025/11/28 00:00",
     "epubdate": "2025 Nov 28"
@@ -54642,5 +54642,98 @@
     "doi": "doi: 10.2215/CJN.0000000889",
     "sortpubdate": "2025/11/11 00:00",
     "epubdate": "2025 Nov 11"
+  },
+  {
+    "name": "NHANES",
+    "id": "41319245",
+    "title": "Aspirin Use and Mediterranean Diet Adherence as Factors Associated With Overall Mortality in Patients With MASLD in NHANES.",
+    "source": "Hepatol Res",
+    "pubdate": "2025 Nov 30",
+    "authors": [
+      "Tsutsumi T",
+      "Charlton MR",
+      "Oddo VM",
+      "Vilt S",
+      "Kim HY",
+      "Micic D",
+      "Odenwald MA",
+      "Kawaguchi T",
+      "McDonald EK 4th",
+      "Rinella ME"
+    ],
+    "lastauthor": "Rinella ME",
+    "sortfirstauthor": "Tsutsumi T",
+    "journal": "Hepatology research : the official journal of the Japan Society of Hepatology",
+    "issn": "1386-6346",
+    "essn": "",
+    "doi": "doi: 10.1111/hepr.70075",
+    "sortpubdate": "2025/11/30 00:00",
+    "epubdate": "2025 Nov 30"
+  },
+  {
+    "name": "NHANES",
+    "id": "41318813",
+    "title": "The association between phenotypic age acceleration and the risk of all-cause and cancer mortality among cancer survivors: NHANES 1999-2018.",
+    "source": "Sci Rep",
+    "pubdate": "2025 Nov 29",
+    "authors": [
+      "Luo L",
+      "Fu J",
+      "Wang X",
+      "Sui X"
+    ],
+    "lastauthor": "Sui X",
+    "sortfirstauthor": "Luo L",
+    "journal": "Scientific reports",
+    "issn": "",
+    "essn": "2045-2322",
+    "doi": "doi: 10.1038/s41598-025-30747-2",
+    "sortpubdate": "2025/11/29 00:00",
+    "epubdate": "2025 Nov 29"
+  },
+  {
+    "name": "NHANES",
+    "id": "41318027",
+    "title": "Racial differences in the association between Mediterranean-Dietary Approaches to Stop Hypertension Intervention for Neurodegenerative Delay (MIND) Diet scores and cognitive performance.",
+    "source": "Clin Nutr ESPEN",
+    "pubdate": "2025 Nov 27",
+    "authors": [
+      "Martins-Pais IMN",
+      "Suemoto CK",
+      "Marchioni DML",
+      "Cacau LT",
+      "Gonçalves NG",
+      "Ferreira NV"
+    ],
+    "lastauthor": "Ferreira NV",
+    "sortfirstauthor": "Martins-Pais IMN",
+    "journal": "Clinical nutrition ESPEN",
+    "issn": "",
+    "essn": "2405-4577",
+    "doi": "pii: S2405-4577(25)03145-6. doi: 10.1016/j.clnesp.2025.11.152",
+    "sortpubdate": "2025/11/27 00:00",
+    "epubdate": "2025 Nov 27"
+  },
+  {
+    "name": "NHANES",
+    "id": "41317916",
+    "title": "Association Between Endometriosis and Atopic Dermatitis: Evidence from NHANES and Genetic Causal Inference.",
+    "source": "J Am Acad Dermatol",
+    "pubdate": "2025 Nov 27",
+    "authors": [
+      "Dai Y",
+      "Wang Y",
+      "Luo H",
+      "Tan J",
+      "Jiang X"
+    ],
+    "lastauthor": "Jiang X",
+    "sortfirstauthor": "Dai Y",
+    "journal": "Journal of the American Academy of Dermatology",
+    "issn": "0190-9622",
+    "essn": "1097-6787",
+    "doi": "pii: S0190-9622(25)03285-2. doi: 10.1016/j.jaad.2025.11.072",
+    "sortpubdate": "2025/11/27 00:00",
+    "epubdate": "2025 Nov 27"
   }
 ]
