@@ -4382,5 +4382,28 @@
     "doi": "doi: 10.1093/aje/kwaf234",
     "sortpubdate": "2025/10/22 00:00",
     "epubdate": "2025 Oct 22"
+  },
+  {
+    "name": "American Journal of Epidemiology",
+    "id": "41263314",
+    "title": "Pregnancy identification method as a source of bias in studies of prenatal exposures using real-world data.",
+    "source": "Am J Epidemiol",
+    "pubdate": "2025 Nov 20",
+    "authors": [
+      "Latour CD",
+      "Edwards JK",
+      "Funk MJ",
+      "Suarez EA",
+      "Boggess K",
+      "Wood ME"
+    ],
+    "lastauthor": "Wood ME",
+    "sortfirstauthor": "Latour CD",
+    "journal": "American journal of epidemiology",
+    "issn": "0002-9262",
+    "essn": "1476-6256",
+    "doi": "doi: 10.1093/aje/kwaf260",
+    "sortpubdate": "2025/11/20 00:00",
+    "epubdate": "2025 Nov 20"
   }
 ]
