@@ -4333,5 +4333,27 @@
     "doi": "doi: 10.3343/alm.2025.0226",
     "sortpubdate": "2025/12/01 00:00",
     "epubdate": "2025 Dec 1"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "41333008",
+    "title": "[Evaluation of the Predictive Performance of Pragmatic Models of Respiratory Syncytial Virus Transmission during Winter in the Republic of Korea].",
+    "source": "Jugan Geongang Gwa Jilbyeong",
+    "pubdate": "2025 May 29",
+    "authors": [
+      "Min KD",
+      "Kim HK",
+      "Ryu B",
+      "Yoo MG",
+      "Kim J"
+    ],
+    "lastauthor": "Kim J",
+    "sortfirstauthor": "Min KD",
+    "journal": "Jugan geon-gang gwa jilbyeong",
+    "issn": "2005-811X",
+    "essn": "2586-0860",
+    "doi": "doi: 10.56786/PHWR.2025.18.21.1",
+    "sortpubdate": "2025/05/29 00:00",
+    "epubdate": "2025 May 9"
   }
 ]

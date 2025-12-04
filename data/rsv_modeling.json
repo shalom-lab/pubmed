@@ -3450,7 +3450,7 @@
     "id": "41253247",
     "title": "Global and regional burden of 34 key pathogens in the elderly population in 2021: A systematic analysis of the global burden of disease study 2021.",
     "source": "Ageing Res Rev",
-    "pubdate": "2025 Nov 16",
+    "pubdate": "2026 Jan",
     "authors": [
       "Chen L",
       "Zhang K",
@@ -3472,7 +3472,7 @@
     "issn": "1568-1637",
     "essn": "1872-9649",
     "doi": "doi: 10.1016/j.arr.2025.102944",
-    "sortpubdate": "2025/11/16 00:00",
+    "sortpubdate": "2026/01/01 00:00",
     "epubdate": "2025 Nov 16"
   },
   {
@@ -3829,5 +3829,48 @@
     "doi": "doi: 10.1021/acsomega.5c10442",
     "sortpubdate": "2025/11/15 00:00",
     "epubdate": "2025 Nov 15"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "41337353",
+    "title": "Graph-Neural-Network Based Models for Improved Short-Term Forecasts of Respiratory Syncytial Virus Infections.",
+    "source": "Annu Int Conf IEEE Eng Med Biol Soc",
+    "pubdate": "2025 Jul",
+    "authors": [
+      "Liang J",
+      "Luz S",
+      "Li Y",
+      "Nair H"
+    ],
+    "lastauthor": "Nair H",
+    "sortfirstauthor": "Liang J",
+    "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+    "issn": "2375-7477",
+    "essn": "2694-0604",
+    "doi": "doi: 10.1109/EMBC58623.2025.11254711",
+    "sortpubdate": "2025/07/01 00:00",
+    "epubdate": ""
+  },
+  {
+    "name": "RSV modeling",
+    "id": "41333008",
+    "title": "[Evaluation of the Predictive Performance of Pragmatic Models of Respiratory Syncytial Virus Transmission during Winter in the Republic of Korea].",
+    "source": "Jugan Geongang Gwa Jilbyeong",
+    "pubdate": "2025 May 29",
+    "authors": [
+      "Min KD",
+      "Kim HK",
+      "Ryu B",
+      "Yoo MG",
+      "Kim J"
+    ],
+    "lastauthor": "Kim J",
+    "sortfirstauthor": "Min KD",
+    "journal": "Jugan geon-gang gwa jilbyeong",
+    "issn": "2005-811X",
+    "essn": "2586-0860",
+    "doi": "doi: 10.56786/PHWR.2025.18.21.1",
+    "sortpubdate": "2025/05/29 00:00",
+    "epubdate": "2025 May 9"
   }
 ]
