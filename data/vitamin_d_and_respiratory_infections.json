@@ -2333,5 +2333,25 @@
     "doi": "doi: 10.1016/j.clnesp.2025.09.033",
     "sortpubdate": "2025/12/01 00:00",
     "epubdate": "2025 Oct 9"
+  },
+  {
+    "name": "Vitamin D and respiratory infections",
+    "id": "41351365",
+    "title": "Vaccination and vitamin D in relation to disease severity and mortality in patients with COVID-19 disease: a follow-up study.",
+    "source": "Cell Mol Biol (Noisy-le-grand)",
+    "pubdate": "2025 Dec 6",
+    "authors": [
+      "Al-Noori AS",
+      "Salih AM",
+      "Merza MA"
+    ],
+    "lastauthor": "Merza MA",
+    "sortfirstauthor": "Al-Noori AS",
+    "journal": "Cellular and molecular biology (Noisy-le-Grand, France)",
+    "issn": "0145-5680",
+    "essn": "1165-158X",
+    "doi": "doi: 10.14715/cmb/2025.71.11.13",
+    "sortpubdate": "2025/12/06 00:00",
+    "epubdate": "2025 Dec 6"
   }
 ]
