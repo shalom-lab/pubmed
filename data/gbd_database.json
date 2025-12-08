@@ -40707,5 +40707,47 @@
     "doi": "doi: 10.1016/j.arr.2025.102985",
     "sortpubdate": "2025/12/03 00:00",
     "epubdate": "2025 Dec 3"
+  },
+  {
+    "name": "GBD database",
+    "id": "41353318",
+    "title": "Global, regional, and national temporal trends in the prevalence of environmental heat and cold exposure among older adults aged 60-99 years, 1990-2021: an age-period-cohort analysis based on the Global Burden of Disease Study 2021.",
+    "source": "BMC Med",
+    "pubdate": "2025 Dec 7",
+    "authors": [
+      "Xu S",
+      "Wang J",
+      "Zhao K",
+      "Lin J",
+      "Xiao J"
+    ],
+    "lastauthor": "Xiao J",
+    "sortfirstauthor": "Xu S",
+    "journal": "BMC medicine",
+    "issn": "",
+    "essn": "1741-7015",
+    "doi": "doi: 10.1186/s12916-025-04568-z",
+    "sortpubdate": "2025/12/07 00:00",
+    "epubdate": "2025 Dec 7"
+  },
+  {
+    "name": "GBD database",
+    "id": "41345390",
+    "title": "Health data science revolution in Africa: potential for addressing the myriad health challenges.",
+    "source": "Nat Commun",
+    "pubdate": "2025 Dec 4",
+    "authors": [
+      "Amegah AK",
+      "Kyobutungi C",
+      "Chimusa ER"
+    ],
+    "lastauthor": "Chimusa ER",
+    "sortfirstauthor": "Amegah AK",
+    "journal": "Nature communications",
+    "issn": "",
+    "essn": "2041-1723",
+    "doi": "doi: 10.1038/s41467-025-66928-w",
+    "sortpubdate": "2025/12/04 00:00",
+    "epubdate": "2025 Dec 4"
   }
 ]

@@ -2834,7 +2834,7 @@
     "id": "41207638",
     "title": "Long-term impact of nirsevimab on prevention of respiratory syncytial virus infection using a real-world global database.",
     "source": "J Infect",
-    "pubdate": "2025 Nov 7",
+    "pubdate": "2025 Dec",
     "authors": [
       "Kitano T",
       "Tsuzuki S",
@@ -2847,7 +2847,7 @@
     "issn": "0163-4453",
     "essn": "1532-2742",
     "doi": "doi: 10.1016/j.jinf.2025.106652",
-    "sortpubdate": "2025/11/07 00:00",
+    "sortpubdate": "2025/12/01 00:00",
     "epubdate": "2025 Nov 7"
   },
   {
@@ -3290,5 +3290,26 @@
     "doi": "doi: 10.1111/pai.70257",
     "sortpubdate": "2025/12/01 00:00",
     "epubdate": ""
+  },
+  {
+    "name": "Nirsevimab effectiveness",
+    "id": "41352411",
+    "title": "Polybodies for the treatment of respiratory syncytial virus infection.",
+    "source": "Drug Discov Today",
+    "pubdate": "2025 Dec 4",
+    "authors": [
+      "Prasad YR",
+      "Sandeep",
+      "Khandave PY",
+      "Pande AH"
+    ],
+    "lastauthor": "Pande AH",
+    "sortfirstauthor": "Prasad YR",
+    "journal": "Drug discovery today",
+    "issn": "1359-6446",
+    "essn": "1878-5832",
+    "doi": "doi: 10.1016/j.drudis.2025.104572",
+    "sortpubdate": "2025/12/04 00:00",
+    "epubdate": "2025 Dec 4"
   }
 ]
