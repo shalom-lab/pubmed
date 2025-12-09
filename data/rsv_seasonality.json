@@ -3587,7 +3587,7 @@
     "id": "41205920",
     "title": "Epidemiology of rhinovirus/enterovirus infection in hospitalized patients.",
     "source": "Rev Clin Esp (Barc)",
-    "pubdate": "2025 Nov 6",
+    "pubdate": "2025 Dec",
     "authors": [
       "Lopez-Villalba B",
       "Tejedor-Cantero L",
@@ -3605,7 +3605,7 @@
     "issn": "",
     "essn": "2254-8874",
     "doi": "doi: 10.1016/j.rceng.2025.502391",
-    "sortpubdate": "2025/11/06 00:00",
+    "sortpubdate": "2025/12/01 00:00",
     "epubdate": "2025 Nov 6"
   },
   {
@@ -4424,5 +4424,35 @@
     "doi": "doi: 10.1016/j.jiac.2025.102881",
     "sortpubdate": "2025/12/02 00:00",
     "epubdate": "2025 Dec 2"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "41356991",
+    "title": "Hospital-Based Investigation of Acute Respiratory Infections in Children Under Five: Epidemiology, Seasonality, and Co-infections.",
+    "source": "Cureus",
+    "pubdate": "2025 Nov",
+    "authors": [
+      "Mishra B",
+      "Mohapatra D",
+      "Panda S",
+      "Santra D",
+      "Mandal MC",
+      "Mamidi P",
+      "Dwibedi B",
+      "Das RR",
+      "Das S",
+      "Mohapatra PR",
+      "Behera B",
+      "Gulla KM",
+      "Som TK"
+    ],
+    "lastauthor": "Som TK",
+    "sortfirstauthor": "Mishra B",
+    "journal": "Cureus",
+    "issn": "2168-8184",
+    "essn": "2168-8184",
+    "doi": "doi: 10.7759/cureus.96006",
+    "sortpubdate": "2025/11/03 00:00",
+    "epubdate": "2025 Nov 3"
   }
 ]
