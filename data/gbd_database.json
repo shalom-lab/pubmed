@@ -41058,5 +41058,117 @@
     "doi": "doi: 10.1002/brb3.71071",
     "sortpubdate": "2025/12/01 00:00",
     "epubdate": ""
+  },
+  {
+    "name": "GBD database",
+    "id": "41364420",
+    "title": "Burden of Non-communicable Diseases Attributable to High and Low Ambient Temperatures, 1990-2031: A Forecasting Analysis for GBD 2021.",
+    "source": "Curr Med Sci",
+    "pubdate": "2025 Dec 9",
+    "authors": [
+      "Pu L",
+      "Wang HH",
+      "Cheng XW",
+      "Luo LB",
+      "Zhang XQ",
+      "Hu X",
+      "Peng HQ",
+      "Ding L",
+      "Xiao BZ",
+      "Zhang W",
+      "Wang XL",
+      "Wang PH"
+    ],
+    "lastauthor": "Wang PH",
+    "sortfirstauthor": "Pu L",
+    "journal": "Current medical science",
+    "issn": "",
+    "essn": "2523-899X",
+    "doi": "doi: 10.1007/s11596-025-00148-7",
+    "sortpubdate": "2025/12/09 00:00",
+    "epubdate": "2025 Dec 9"
+  },
+  {
+    "name": "GBD database",
+    "id": "41364262",
+    "title": "Trends and burden of urolithiasis in China, 1990-2021: a systematic analysis of the global burden of disease study 2021 with future projections to 2036.",
+    "source": "World J Urol",
+    "pubdate": "2025 Dec 9",
+    "authors": [
+      "Zhu H",
+      "Zhang F"
+    ],
+    "lastauthor": "Zhang F",
+    "sortfirstauthor": "Zhu H",
+    "journal": "World journal of urology",
+    "issn": "0724-4983",
+    "essn": "1433-8726",
+    "doi": "doi: 10.1007/s00345-025-06130-1",
+    "sortpubdate": "2025/12/09 00:00",
+    "epubdate": "2025 Dec 9"
+  },
+  {
+    "name": "GBD database",
+    "id": "41364142",
+    "title": "Global, regional, and national burdens of bladder cancer in individuals aged 60 years and older from 1990 to 2021: a cross-sectional study.",
+    "source": "Int Urol Nephrol",
+    "pubdate": "2025 Dec 9",
+    "authors": [
+      "Zhang W",
+      "Wei Q",
+      "Han X",
+      "Zheng X",
+      "Zhang P"
+    ],
+    "lastauthor": "Zhang P",
+    "sortfirstauthor": "Zhang W",
+    "journal": "International urology and nephrology",
+    "issn": "0301-1623",
+    "essn": "1573-2584",
+    "doi": "doi: 10.1007/s11255-025-04941-0",
+    "sortpubdate": "2025/12/09 00:00",
+    "epubdate": "2025 Dec 9"
+  },
+  {
+    "name": "GBD database",
+    "id": "41361500",
+    "title": "Temporal trends in the burden of heart failure in childbearing females aged 15-49 years globally from 1990 to 2021 and predictions for 2021-2050.",
+    "source": "Eur J Med Res",
+    "pubdate": "2025 Dec 9",
+    "authors": [
+      "Lin Y",
+      "Zhang J"
+    ],
+    "lastauthor": "Zhang J",
+    "sortfirstauthor": "Lin Y",
+    "journal": "European journal of medical research",
+    "issn": "0949-2321",
+    "essn": "2047-783X",
+    "doi": "doi: 10.1186/s40001-025-03373-x",
+    "sortpubdate": "2025/12/09 00:00",
+    "epubdate": "2025 Dec 9"
+  },
+  {
+    "name": "GBD database",
+    "id": "41360371",
+    "title": "Depressive disorder in middle-aged and elderly adults: Evidence from global burden of disease and genetic analysis.",
+    "source": "J Affect Disord",
+    "pubdate": "2025 Dec 6",
+    "authors": [
+      "Tang Y",
+      "Gao X",
+      "Wang B",
+      "Kong L",
+      "Fan Y",
+      "Zhu X"
+    ],
+    "lastauthor": "Zhu X",
+    "sortfirstauthor": "Tang Y",
+    "journal": "Journal of affective disorders",
+    "issn": "0165-0327",
+    "essn": "1573-2517",
+    "doi": "doi: 10.1016/j.jad.2025.120766",
+    "sortpubdate": "2025/12/06 00:00",
+    "epubdate": "2025 Dec 6"
   }
 ]
