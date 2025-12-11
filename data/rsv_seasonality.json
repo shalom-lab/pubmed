@@ -4454,5 +4454,74 @@
     "doi": "doi: 10.7759/cureus.96006",
     "sortpubdate": "2025/11/03 00:00",
     "epubdate": "2025 Nov 3"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "41369846",
+    "title": "Longitudinal Analysis of Respiratory Syncytial Virus in Children during and after COVID-19 Pandemic in China: Shifts in Seasonality and Disease Burden.",
+    "source": "J Epidemiol Glob Health",
+    "pubdate": "2025 Dec 10",
+    "authors": [
+      "Gu Q",
+      "Lai G",
+      "Lai Z",
+      "Lai G"
+    ],
+    "lastauthor": "Lai G",
+    "sortfirstauthor": "Gu Q",
+    "journal": "Journal of epidemiology and global health",
+    "issn": "2210-6006",
+    "essn": "2210-6014",
+    "doi": "doi: 10.1007/s44197-025-00488-6",
+    "sortpubdate": "2025/12/10 00:00",
+    "epubdate": "2025 Dec 10"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "41369198",
+    "title": "The pandemic gap of respiratory viruses during the COVID-19 pandemic.",
+    "source": "mBio",
+    "pubdate": "2025 Dec 10",
+    "authors": [
+      "Simon V",
+      "Floda D",
+      "Gleason C",
+      "Gonzalez-Reiche AS",
+      "Paniz-Mondolfi AE",
+      "Sordillo EM",
+      "Palese P",
+      "van Bakel H"
+    ],
+    "lastauthor": "van Bakel H",
+    "sortfirstauthor": "Simon V",
+    "journal": "mBio",
+    "issn": "",
+    "essn": "2150-7511",
+    "doi": "doi: 10.1128/mbio.03376-25",
+    "sortpubdate": "2025/12/10 00:00",
+    "epubdate": "2025 Dec 10"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "41366524",
+    "title": "Post-COVID-19 Seasonality of Influenza, Respiratory Syncytial Virus, and SARS-CoV-2 Among Hospitalized Children in Western Iran: A Molecular Surveillance Study (2023-2024).",
+    "source": "J Epidemiol Glob Health",
+    "pubdate": "2025 Dec 9",
+    "authors": [
+      "Masoorian E",
+      "Teimoori A",
+      "Bakhtiari S",
+      "Jalilian FA",
+      "Vosough RN",
+      "Ansari N"
+    ],
+    "lastauthor": "Ansari N",
+    "sortfirstauthor": "Masoorian E",
+    "journal": "Journal of epidemiology and global health",
+    "issn": "2210-6006",
+    "essn": "2210-6014",
+    "doi": "doi: 10.1007/s44197-025-00497-5",
+    "sortpubdate": "2025/12/09 00:00",
+    "epubdate": "2025 Dec 9"
   }
 ]
