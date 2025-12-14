@@ -42142,7 +42142,7 @@
   {
     "name": "GBD database",
     "id": "41380857",
-    "title": "Potentilla freyniana Bornm. and its active component Tangeretin ameliorate gouty arthritis by inhibiting the MAPK/NF-κB/NLRP3 signaling pathway.",
+    "title": "Potentilla freyniana bornm. and its active component tangeretin ameliorate gouty arthritis by inhibiting the MAPK/NF-κb/NLRP3 signaling pathway.",
     "source": "J Ethnopharmacol",
     "pubdate": "2025 Dec 9",
     "authors": [
@@ -42267,5 +42267,68 @@
     "doi": "doi: 10.3390/healthcare13233082",
     "sortpubdate": "2025/11/26 00:00",
     "epubdate": "2025 Nov 26"
+  },
+  {
+    "name": "GBD database",
+    "id": "41388248",
+    "title": "Development of a risk factor nomogram prediction model for patients with acute coronary syndrome complicated by hypertension using LASSO regression analysis.",
+    "source": "BMC Cardiovasc Disord",
+    "pubdate": "2025 Dec 12",
+    "authors": [
+      "Xie J",
+      "Song L",
+      "Yang Z",
+      "Bai H",
+      "Feng C"
+    ],
+    "lastauthor": "Feng C",
+    "sortfirstauthor": "Xie J",
+    "journal": "BMC cardiovascular disorders",
+    "issn": "",
+    "essn": "1471-2261",
+    "doi": "doi: 10.1186/s12872-025-05317-z",
+    "sortpubdate": "2025/12/12 00:00",
+    "epubdate": "2025 Dec 12"
+  },
+  {
+    "name": "GBD database",
+    "id": "41387823",
+    "title": "Thirty-year changes in burden for refraction disorders in China, Japan, Korea and Singapore: a jointly prevention perspective analysis.",
+    "source": "BMC Public Health",
+    "pubdate": "2025 Dec 12",
+    "authors": [
+      "Mao X",
+      "Jia W",
+      "Ji S",
+      "Wu L",
+      "Chen B",
+      "Li X"
+    ],
+    "lastauthor": "Li X",
+    "sortfirstauthor": "Mao X",
+    "journal": "BMC public health",
+    "issn": "",
+    "essn": "1471-2458",
+    "doi": "doi: 10.1186/s12889-025-25893-1",
+    "sortpubdate": "2025/12/12 00:00",
+    "epubdate": "2025 Dec 12"
+  },
+  {
+    "name": "GBD database",
+    "id": "41386261",
+    "title": "Disease burden attributable to intimate partner violence against females and sexual violence against children in 204 countries and territories, 1990-2023: a systematic analysis for the Global Burden of Disease Study 2023.",
+    "source": "Lancet",
+    "pubdate": "2025 Dec 9",
+    "authors": [
+      "GBD 2023 Intimate Partner Violence and Sexual Violence against Children Collaborators"
+    ],
+    "lastauthor": "GBD 2023 Intimate Partner Violence and Sexual Violence against Children Collaborators",
+    "sortfirstauthor": "GBD 2023 Intimate Partner Violence and Sexual Violence against Children Collaborators",
+    "journal": "Lancet (London, England)",
+    "issn": "0140-6736",
+    "essn": "1474-547X",
+    "doi": "pii: S0140-6736(25)02503-6. doi: 10.1016/S0140-6736(25)02503-6",
+    "sortpubdate": "2025/12/09 00:00",
+    "epubdate": "2025 Dec 9"
   }
 ]
