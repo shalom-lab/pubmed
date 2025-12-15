@@ -4569,5 +4569,31 @@
     "doi": "doi: 10.1186/s12879-025-12283-6",
     "sortpubdate": "2025/12/10 00:00",
     "epubdate": "2025 Dec 10"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "41390445",
+    "title": "Interplay between climate and childhood mixing can explain a sudden shift in RSV seasonality in Japan.",
+    "source": "Nat Commun",
+    "pubdate": "2025 Dec 13",
+    "authors": [
+      "Park SW",
+      "Holmdahl I",
+      "Howerton E",
+      "Yang W",
+      "Baker RE",
+      "Vecchi GA",
+      "Cobey S",
+      "Metcalf CJE",
+      "Grenfell BT"
+    ],
+    "lastauthor": "Grenfell BT",
+    "sortfirstauthor": "Park SW",
+    "journal": "Nature communications",
+    "issn": "",
+    "essn": "2041-1723",
+    "doi": "doi: 10.1038/s41467-025-66184-y",
+    "sortpubdate": "2025/12/13 00:00",
+    "epubdate": "2025 Dec 13"
   }
 ]
