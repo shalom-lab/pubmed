@@ -4774,5 +4774,23 @@
     "doi": "pii: kwaf273. doi: 10.1093/aje/kwaf273",
     "sortpubdate": "2025/12/11 00:00",
     "epubdate": "2025 Dec 11"
+  },
+  {
+    "name": "American Journal of Epidemiology",
+    "id": "41391943",
+    "title": "Reframing the fragility index as bias analysis: sensitivity analysis, p-values, parameterizations, and confidence intervals.",
+    "source": "Am J Epidemiol",
+    "pubdate": "2025 Dec 15",
+    "authors": [
+      "VanderWeele TJ"
+    ],
+    "lastauthor": "VanderWeele TJ",
+    "sortfirstauthor": "VanderWeele TJ",
+    "journal": "American journal of epidemiology",
+    "issn": "0002-9262",
+    "essn": "1476-6256",
+    "doi": "pii: kwaf276. doi: 10.1093/aje/kwaf276",
+    "sortpubdate": "2025/12/15 00:00",
+    "epubdate": "2025 Dec 15"
   }
 ]
