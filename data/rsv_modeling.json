@@ -4035,5 +4035,23 @@
     "doi": "doi: 10.1093/ofid/ofaf735",
     "sortpubdate": "2025/12/05 00:00",
     "epubdate": "2025 Dec 5"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "41412141",
+    "title": "Global burden of lower respiratory infections and aetiologies, 1990-2023: a systematic analysis for the Global Burden of Disease Study 2023.",
+    "source": "Lancet Infect Dis",
+    "pubdate": "2025 Dec 15",
+    "authors": [
+      "GBD 2023 Lower Respiratory Infections and Antimicrobial Resistance Collaborators"
+    ],
+    "lastauthor": "GBD 2023 Lower Respiratory Infections and Antimicrobial Resistance Collaborators",
+    "sortfirstauthor": "GBD 2023 Lower Respiratory Infections and Antimicrobial Resistance Collaborators",
+    "journal": "The Lancet. Infectious diseases",
+    "issn": "1473-3099",
+    "essn": "1474-4457",
+    "doi": "pii: S1473-3099(25)00689-9. doi: 10.1016/S1473-3099(25)00689-9",
+    "sortpubdate": "2025/12/15 00:00",
+    "epubdate": "2025 Dec 15"
   }
 ]

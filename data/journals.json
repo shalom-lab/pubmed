@@ -10696,7 +10696,8 @@
   {
     "source": "Neurol Int",
     "journal": "Neurology international",
-    "issn": "2035-8385"
+    "issn": "2035-8385",
+    "essn": "2035-8377"
   },
   {
     "source": "Nord J Psychiatry",
@@ -10715,5 +10716,10 @@
     "journal": "Current eye research",
     "issn": "0271-3683",
     "essn": "1460-2202"
+  },
+  {
+    "source": "OTO Open",
+    "journal": "OTO open",
+    "essn": "2473-974X"
   }
 ]
