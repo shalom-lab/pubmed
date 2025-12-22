@@ -62722,5 +62722,136 @@
     "doi": "doi: 10.1016/j.gerinurse.2025.103770",
     "sortpubdate": "2025/12/18 00:00",
     "epubdate": "2025 Dec 18"
+  },
+  {
+    "name": "NHANES",
+    "id": "41422298",
+    "title": "The Cardiometabolic Index (CMI) is associated with an increased risk of obstructive sleep apnea: a population-based study.",
+    "source": "Eur J Med Res",
+    "pubdate": "2025 Dec 20",
+    "authors": [
+      "Chen X",
+      "Zhang Y",
+      "Wang Y",
+      "Tang Y",
+      "Zhang K",
+      "Wu J"
+    ],
+    "lastauthor": "Wu J",
+    "sortfirstauthor": "Chen X",
+    "journal": "European journal of medical research",
+    "issn": "0949-2321",
+    "essn": "2047-783X",
+    "doi": "doi: 10.1186/s40001-025-03687-w",
+    "sortpubdate": "2025/12/20 00:00",
+    "epubdate": "2025 Dec 20"
+  },
+  {
+    "name": "NHANES",
+    "id": "41422021",
+    "title": "The association between composite dietary antioxidant index and sarcopenic obesity.",
+    "source": "Nutr Metab (Lond)",
+    "pubdate": "2025 Dec 20",
+    "authors": [
+      "Luo X",
+      "Jin W"
+    ],
+    "lastauthor": "Jin W",
+    "sortfirstauthor": "Luo X",
+    "journal": "Nutrition & metabolism",
+    "issn": "1743-7075",
+    "essn": "",
+    "doi": "doi: 10.1186/s12986-025-01069-x",
+    "sortpubdate": "2025/12/20 00:00",
+    "epubdate": "2025 Dec 20"
+  },
+  {
+    "name": "NHANES",
+    "id": "41421792",
+    "title": "SDOH, healthy lifestyle, and life expectancy in adults with CKM syndrome: two cohort studies.",
+    "source": "Prog Cardiovasc Dis",
+    "pubdate": "2025 Dec 18",
+    "authors": [
+      "Huang Q",
+      "Nan W",
+      "He B",
+      "Pen Z"
+    ],
+    "lastauthor": "Pen Z",
+    "sortfirstauthor": "Huang Q",
+    "journal": "Progress in cardiovascular diseases",
+    "issn": "0033-0620",
+    "essn": "1873-1740",
+    "doi": "pii: S0033-0620(25)00192-6. doi: 10.1016/j.pcad.2025.11.012",
+    "sortpubdate": "2025/12/18 00:00",
+    "epubdate": "2025 Dec 18"
+  },
+  {
+    "name": "NHANES",
+    "id": "41421180",
+    "title": "Pan-immune-inflammation value is associated with all-cause and cause-specific mortality among individuals with cancer survivors: a population-based longitudinal cohort study.",
+    "source": "Cancer Treat Res Commun",
+    "pubdate": "2025 Dec 11",
+    "authors": [
+      "Dai J",
+      "Sun X",
+      "Lin B",
+      "Sun Y",
+      "Chen L"
+    ],
+    "lastauthor": "Chen L",
+    "sortfirstauthor": "Dai J",
+    "journal": "Cancer treatment and research communications",
+    "issn": "",
+    "essn": "2468-2942",
+    "doi": "doi: 10.1016/j.ctarc.2025.101070",
+    "sortpubdate": "2025/12/11 00:00",
+    "epubdate": "2025 Dec 11"
+  },
+  {
+    "name": "NHANES",
+    "id": "41421134",
+    "title": "Exposome-wide association study of environmental toxicant exposure and insulin resistance: Findings from US National Health and Nutrition Examination Survey.",
+    "source": "Ecotoxicol Environ Saf",
+    "pubdate": "2025 Dec 19",
+    "authors": [
+      "Zhou ZL",
+      "Li JY",
+      "Wang W",
+      "Wang XQ",
+      "Yin L",
+      "Li NN",
+      "Li XZ"
+    ],
+    "lastauthor": "Li XZ",
+    "sortfirstauthor": "Zhou ZL",
+    "journal": "Ecotoxicology and environmental safety",
+    "issn": "0147-6513",
+    "essn": "1090-2414",
+    "doi": "doi: 10.1016/j.ecoenv.2025.119594",
+    "sortpubdate": "2025/12/19 00:00",
+    "epubdate": "2025 Dec 19"
+  },
+  {
+    "name": "NHANES",
+    "id": "41420910",
+    "title": "Body mass index and a body shape index: Individual and interactive predictors of all-cause and cardiovascular mortality risk in depression.",
+    "source": "Psychiatry Res",
+    "pubdate": "2025 Dec 14",
+    "authors": [
+      "Wei S",
+      "Xu M",
+      "Pan X",
+      "Xiao Y",
+      "Wei J"
+    ],
+    "lastauthor": "Wei J",
+    "sortfirstauthor": "Wei S",
+    "journal": "Psychiatry research",
+    "issn": "0165-1781",
+    "essn": "1872-7123",
+    "doi": "doi: 10.1016/j.psychres.2025.116907",
+    "sortpubdate": "2025/12/14 00:00",
+    "epubdate": "2025 Dec 14"
   }
 ]
