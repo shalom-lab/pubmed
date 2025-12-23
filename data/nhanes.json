@@ -62657,7 +62657,7 @@
   {
     "name": "NHANES",
     "id": "41419164",
-    "title": "Passive Smoking is Associated with Poor Carious Status in Adults: A Population-based Cross-sectional Study.",
+    "title": "Passive smoking is associated with poor carious status in adults: A population-based cross-sectional study.",
     "source": "J Dent",
     "pubdate": "2025 Dec 17",
     "authors": [
@@ -62853,5 +62853,287 @@
     "doi": "doi: 10.1016/j.psychres.2025.116907",
     "sortpubdate": "2025/12/14 00:00",
     "epubdate": "2025 Dec 14"
+  },
+  {
+    "name": "NHANES",
+    "id": "41428468",
+    "title": "Association between dietary nutrient density patterns and cognitive function: A latent class analysis of NHANES 2011-2014.",
+    "source": "J Alzheimers Dis",
+    "pubdate": "2025 Dec 22",
+    "authors": [
+      "Li Z",
+      "Hong X",
+      "Zhang X",
+      "Li Z",
+      "Liu Y"
+    ],
+    "lastauthor": "Liu Y",
+    "sortfirstauthor": "Li Z",
+    "journal": "Journal of Alzheimer's disease : JAD",
+    "issn": "1387-2877",
+    "essn": "1875-8908",
+    "doi": "doi: 10.1177/13872877251407108",
+    "sortpubdate": "2025/12/22 00:00",
+    "epubdate": "2025 Dec 22"
+  },
+  {
+    "name": "NHANES",
+    "id": "41427534",
+    "title": "Integrating epidemiological and bioinformatics analyses identified the effects of organophosphate pesticides accelerating biological aging.",
+    "source": "Int J Surg",
+    "pubdate": "2025 Dec 22",
+    "authors": [
+      "Cheng Z",
+      "Guo T",
+      "Liu B",
+      "Liu X"
+    ],
+    "lastauthor": "Liu X",
+    "sortfirstauthor": "Cheng Z",
+    "journal": "International journal of surgery (London, England)",
+    "issn": "",
+    "essn": "1743-9159",
+    "doi": "doi: 10.1097/JS9.0000000000004589",
+    "sortpubdate": "2025/12/22 00:00",
+    "epubdate": "2025 Dec 22"
+  },
+  {
+    "name": "NHANES",
+    "id": "41425481",
+    "title": "Association of Dietary Inflammation Index with Infertility Risk in US Women: A Cross-Sectional Analysis from NHANES (2013-2020).",
+    "source": "Int J Womens Health",
+    "pubdate": "2025",
+    "authors": [
+      "Dong X",
+      "Xie F",
+      "Li P"
+    ],
+    "lastauthor": "Li P",
+    "sortfirstauthor": "Dong X",
+    "journal": "International journal of women's health",
+    "issn": "1179-1411",
+    "essn": "1179-1411",
+    "doi": "doi: 10.2147/IJWH.S569044",
+    "sortpubdate": "2025/12/15 00:00",
+    "epubdate": "2025 Dec 15"
+  },
+  {
+    "name": "NHANES",
+    "id": "41425302",
+    "title": "Selenium and Lead Exposure are Associated with Elevated Blood Pressure in Individuals with Undiagnosed Hypertension: Findings from NHANES 2013-2020.",
+    "source": "Vasc Health Risk Manag",
+    "pubdate": "2025",
+    "authors": [
+      "Tang L",
+      "Li X",
+      "Wang Y",
+      "He Y"
+    ],
+    "lastauthor": "He Y",
+    "sortfirstauthor": "Tang L",
+    "journal": "Vascular health and risk management",
+    "issn": "1176-6344",
+    "essn": "1178-2048",
+    "doi": "doi: 10.2147/VHRM.S552304",
+    "sortpubdate": "2025/12/16 00:00",
+    "epubdate": "2025 Dec 16"
+  },
+  {
+    "name": "NHANES",
+    "id": "41424319",
+    "title": "Association of topiramate use with current stone activity: A population-based analysis.",
+    "source": "Clin Nephrol",
+    "pubdate": "2025 Dec 22",
+    "authors": [
+      "Jones JM",
+      "Robertson CC",
+      "Pais VM Jr"
+    ],
+    "lastauthor": "Pais VM Jr",
+    "sortfirstauthor": "Jones JM",
+    "journal": "Clinical nephrology",
+    "issn": "0301-0430",
+    "essn": "",
+    "doi": "doi: 10.5414/CN111884",
+    "sortpubdate": "2025/12/22 00:00",
+    "epubdate": "2025 Dec 22"
+  },
+  {
+    "name": "NHANES",
+    "id": "41424138",
+    "title": "Associations between persistent organic pollutants exposure and DNA methylation aging biomarkers: insights from a nationally representative study.",
+    "source": "Int J Environ Health Res",
+    "pubdate": "2025 Dec 22",
+    "authors": [
+      "Xu YQ",
+      "Gong Y",
+      "Ding C",
+      "Zhang H",
+      "Hao D",
+      "Zhao X",
+      "Wang J",
+      "Tong T",
+      "Li X"
+    ],
+    "lastauthor": "Li X",
+    "sortfirstauthor": "Xu YQ",
+    "journal": "International journal of environmental health research",
+    "issn": "0960-3123",
+    "essn": "1369-1619",
+    "doi": "doi: 10.1080/09603123.2025.2604163",
+    "sortpubdate": "2025/12/22 00:00",
+    "epubdate": "2025 Dec 22"
+  },
+  {
+    "name": "NHANES",
+    "id": "41423855",
+    "title": "Underdocumentation of Obesity in the National Inpatient Sample.",
+    "source": "Obesity (Silver Spring)",
+    "pubdate": "2025 Dec 21",
+    "authors": [
+      "Arnold Z",
+      "Dang P",
+      "Hollman N",
+      "Khorgami Z"
+    ],
+    "lastauthor": "Khorgami Z",
+    "sortfirstauthor": "Arnold Z",
+    "journal": "Obesity (Silver Spring, Md.)",
+    "issn": "1930-7381",
+    "essn": "1930-739X",
+    "doi": "doi: 10.1002/oby.70111",
+    "sortpubdate": "2025/12/21 00:00",
+    "epubdate": "2025 Dec 21"
+  },
+  {
+    "name": "NHANES",
+    "id": "41423828",
+    "title": "Association between the Life's Essential 8 Health Behaviors Score and Mortality Risk in US Adults with Cardiovascular-Kidney-Metabolic Syndrome Stage 0-3.",
+    "source": "Diabetes Metab J",
+    "pubdate": "2025 Dec 12",
+    "authors": [
+      "Zhang J",
+      "Yin L",
+      "Liu Y",
+      "Xiao X",
+      "Shuai P"
+    ],
+    "lastauthor": "Shuai P",
+    "sortfirstauthor": "Zhang J",
+    "journal": "Diabetes & metabolism journal",
+    "issn": "2233-6079",
+    "essn": "2233-6087",
+    "doi": "doi: 10.4093/dmj.2025.0366",
+    "sortpubdate": "2025/12/12 00:00",
+    "epubdate": "2025 Dec 12"
+  },
+  {
+    "name": "NHANES",
+    "id": "41423756",
+    "title": "Synergistic Effects of HEI-2015 and DII on Survival Outcomes in Chronic Obstructive Pulmonary Disease.",
+    "source": "J Hum Nutr Diet",
+    "pubdate": "2025 Dec",
+    "authors": [
+      "Feng T",
+      "Li Y",
+      "Liu Y",
+      "Zeng C",
+      "Feng Y"
+    ],
+    "lastauthor": "Feng Y",
+    "sortfirstauthor": "Feng T",
+    "journal": "Journal of human nutrition and dietetics : the official journal of the British Dietetic Association",
+    "issn": "0952-3871",
+    "essn": "1365-277X",
+    "doi": "doi: 10.1111/jhn.70184",
+    "sortpubdate": "2025/12/01 00:00",
+    "epubdate": ""
+  },
+  {
+    "name": "NHANES",
+    "id": "41423541",
+    "title": "The impact of obesity-related anthropometric indices on diabetic foot ulcer and mortality: analysis of a nationally representative sample.",
+    "source": "Hormones (Athens)",
+    "pubdate": "2025 Dec 22",
+    "authors": [
+      "Zhang Z",
+      "Zhou L",
+      "Xu Y",
+      "Yao L",
+      "Ma T",
+      "Pan X"
+    ],
+    "lastauthor": "Pan X",
+    "sortfirstauthor": "Zhang Z",
+    "journal": "Hormones (Athens, Greece)",
+    "issn": "1109-3099",
+    "essn": "2520-8721",
+    "doi": "doi: 10.1007/s42000-025-00745-0",
+    "sortpubdate": "2025/12/22 00:00",
+    "epubdate": "2025 Dec 22"
+  },
+  {
+    "name": "NHANES",
+    "id": "41423192",
+    "title": "Association between Diet Quality and Knee Osteoarthritis: Insights from the Korea National Health and Nutrition Examination Survey 2013.",
+    "source": "J Bone Metab",
+    "pubdate": "2025 Nov",
+    "authors": [
+      "Han H",
+      "Park CY"
+    ],
+    "lastauthor": "Park CY",
+    "sortfirstauthor": "Han H",
+    "journal": "Journal of bone metabolism",
+    "issn": "2287-6375",
+    "essn": "",
+    "doi": "doi: 10.11005/jbm.25.913",
+    "sortpubdate": "2025/11/01 00:00",
+    "epubdate": "2025 Nov 30"
+  },
+  {
+    "name": "NHANES",
+    "id": "41423175",
+    "title": "Mediating role of neutrophil-percentage-to-albumin ratio in the association between stroke and heart failure among U.S. adults.",
+    "source": "Exp Gerontol",
+    "pubdate": "2025 Dec 19",
+    "authors": [
+      "Zhao Y",
+      "Chen T",
+      "Ji C",
+      "Shang Y",
+      "Pan Y",
+      "Mao W"
+    ],
+    "lastauthor": "Mao W",
+    "sortfirstauthor": "Zhao Y",
+    "journal": "Experimental gerontology",
+    "issn": "0531-5565",
+    "essn": "1873-6815",
+    "doi": "doi: 10.1016/j.exger.2025.113010",
+    "sortpubdate": "2025/12/19 00:00",
+    "epubdate": "2025 Dec 19"
+  },
+  {
+    "name": "NHANES",
+    "id": "41423041",
+    "title": "Trends in Psychotropic Medication Use, Polypharmacy, and Potential Major Drug-Drug Interactions Among US Youth.",
+    "source": "J Am Acad Child Adolesc Psychiatry",
+    "pubdate": "2025 Dec 19",
+    "authors": [
+      "Meng LC",
+      "Leonard CE",
+      "Candon M",
+      "Mandell DS",
+      "Hennessy S"
+    ],
+    "lastauthor": "Hennessy S",
+    "sortfirstauthor": "Meng LC",
+    "journal": "Journal of the American Academy of Child and Adolescent Psychiatry",
+    "issn": "0890-8567",
+    "essn": "1527-5418",
+    "doi": "pii: S0890-8567(25)02235-X. doi: 10.1016/j.jaac.2025.12.006",
+    "sortpubdate": "2025/12/19 00:00",
+    "epubdate": "2025 Dec 19"
   }
 ]

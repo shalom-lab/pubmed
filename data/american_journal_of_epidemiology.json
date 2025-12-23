@@ -4910,5 +4910,51 @@
     "doi": "pii: kwaf281. doi: 10.1093/aje/kwaf281",
     "sortpubdate": "2025/12/19 00:00",
     "epubdate": "2025 Dec 19"
+  },
+  {
+    "name": "American Journal of Epidemiology",
+    "id": "41423904",
+    "title": "Estimating effects of hypothetical public health interventions on health disparities: A standardization-based simulation approach.",
+    "source": "Am J Epidemiol",
+    "pubdate": "2025 Dec 22",
+    "authors": [
+      "Wang X",
+      "Komura T",
+      "Arakawa Y",
+      "Chen R",
+      "Nakagomi A",
+      "Steptoe A",
+      "Shiba K"
+    ],
+    "lastauthor": "Shiba K",
+    "sortfirstauthor": "Wang X",
+    "journal": "American journal of epidemiology",
+    "issn": "0002-9262",
+    "essn": "1476-6256",
+    "doi": "pii: kwaf279. doi: 10.1093/aje/kwaf279",
+    "sortpubdate": "2025/12/22 00:00",
+    "epubdate": "2025 Dec 22"
+  },
+  {
+    "name": "American Journal of Epidemiology",
+    "id": "41423896",
+    "title": "COVID-19 Infection and Risk of Incident Hypertension: A Case-Control Time-to-Event Study.",
+    "source": "Am J Epidemiol",
+    "pubdate": "2025 Dec 22",
+    "authors": [
+      "Goldhaber-Fiebert JD",
+      "Phillips SC",
+      "Lucas KD",
+      "Jacobsen DA",
+      "Studdert D"
+    ],
+    "lastauthor": "Studdert D",
+    "sortfirstauthor": "Goldhaber-Fiebert JD",
+    "journal": "American journal of epidemiology",
+    "issn": "0002-9262",
+    "essn": "1476-6256",
+    "doi": "pii: kwaf283. doi: 10.1093/aje/kwaf283",
+    "sortpubdate": "2025/12/22 00:00",
+    "epubdate": "2025 Dec 22"
   }
 ]
