@@ -10864,7 +10864,8 @@
   {
     "source": "Metabolites",
     "journal": "Metabolites",
-    "issn": "2218-1989"
+    "issn": "2218-1989",
+    "essn": "2218-1989"
   },
   {
     "source": "Geriatrics (Basel)",
@@ -10888,5 +10889,11 @@
     "journal": "GMS hygiene and infection control",
     "issn": "2196-5226",
     "essn": "2196-5226"
+  },
+  {
+    "source": "Value Health",
+    "journal": "Value in health : the journal of the International Society for Pharmacoeconomics and Outcomes Research",
+    "issn": "1098-3015",
+    "essn": "1524-4733"
   }
 ]
