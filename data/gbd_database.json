@@ -45970,5 +45970,99 @@
     "doi": "doi: 10.1136/fmch-2025-003441",
     "sortpubdate": "2025/12/25 00:00",
     "epubdate": "2025 Dec 25"
+  },
+  {
+    "name": "GBD database",
+    "id": "41455678",
+    "title": "The world federation of neurology and its global engagement with the World Health Organization and the United Nations economic and social council.",
+    "source": "J Neurol Sci",
+    "pubdate": "2025 Dec 24",
+    "authors": [
+      "Guekht A",
+      "Pochigaeva K",
+      "Freedman M",
+      "Lewis SL",
+      "Rouleau G",
+      "Meshram C",
+      "Wasay M",
+      "Wijeratne T",
+      "Grisold W"
+    ],
+    "lastauthor": "Grisold W",
+    "sortfirstauthor": "Guekht A",
+    "journal": "Journal of the neurological sciences",
+    "issn": "0022-510X",
+    "essn": "1878-5883",
+    "doi": "doi: 10.1016/j.jns.2025.125708",
+    "sortpubdate": "2025/12/24 00:00",
+    "epubdate": "2025 Dec 24"
+  },
+  {
+    "name": "GBD database",
+    "id": "41455453",
+    "title": "Global burden and temporal trends of cervical cancer in women aged 60 years and older, 1990-2021: a Global Burden of Disease study.",
+    "source": "Int J Gynecol Cancer",
+    "pubdate": "2025 Dec 5",
+    "authors": [
+      "Song Y",
+      "Ran G",
+      "Zeng R",
+      "Chen C"
+    ],
+    "lastauthor": "Chen C",
+    "sortfirstauthor": "Song Y",
+    "journal": "International journal of gynecological cancer : official journal of the International Gynecological Cancer Society",
+    "issn": "1048-891X",
+    "essn": "1525-1438",
+    "doi": "doi: 10.1016/j.ijgc.2025.102851",
+    "sortpubdate": "2025/12/05 00:00",
+    "epubdate": "2025 Dec 5"
+  },
+  {
+    "name": "GBD database",
+    "id": "41455415",
+    "title": "The Burden and Projections for 2036 of Periodontal Diseases in Asia From 1990 to 2021.",
+    "source": "Int Dent J",
+    "pubdate": "2025 Dec 26",
+    "authors": [
+      "Li H",
+      "Li S",
+      "He X",
+      "Liu M",
+      "Li J",
+      "Zhang X",
+      "Huang X",
+      "Zuo Y",
+      "Wu Y"
+    ],
+    "lastauthor": "Wu Y",
+    "sortfirstauthor": "Li H",
+    "journal": "International dental journal",
+    "issn": "0020-6539",
+    "essn": "1875-595X",
+    "doi": "doi: 10.1016/j.identj.2025.109349",
+    "sortpubdate": "2025/12/26 00:00",
+    "epubdate": "2025 Dec 26"
+  },
+  {
+    "name": "GBD database",
+    "id": "41455305",
+    "title": "Comments on \"Analyzing burns incidence trends in BRICS from 1990 to 2021: Findings from the Global Burden of Disease\".",
+    "source": "Burns",
+    "pubdate": "2025 Dec 8",
+    "authors": [
+      "Zhang R",
+      "Ma K",
+      "Chen S",
+      "Zhao C"
+    ],
+    "lastauthor": "Zhao C",
+    "sortfirstauthor": "Zhang R",
+    "journal": "Burns : journal of the International Society for Burn Injuries",
+    "issn": "0305-4179",
+    "essn": "1879-1409",
+    "doi": "doi: 10.1016/j.burns.2025.107824",
+    "sortpubdate": "2025/12/08 00:00",
+    "epubdate": "2025 Dec 8"
   }
 ]

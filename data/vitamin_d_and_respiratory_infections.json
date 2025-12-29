@@ -2373,5 +2373,25 @@
     "doi": "doi: 10.1097/MD.0000000000046383",
     "sortpubdate": "2025/12/05 00:00",
     "epubdate": ""
+  },
+  {
+    "name": "Vitamin D and respiratory infections",
+    "id": "41456264",
+    "title": "Characterization of COVID-19 patients in clinical, epidemiological, and laboratory settings: the role of vitamin D binding protein and vitamin D level in severity.",
+    "source": "Cell Mol Biol (Noisy-le-grand)",
+    "pubdate": "2025 Dec 28",
+    "authors": [
+      "Al-Noori AS",
+      "Salih AM",
+      "Merza MA"
+    ],
+    "lastauthor": "Merza MA",
+    "sortfirstauthor": "Al-Noori AS",
+    "journal": "Cellular and molecular biology (Noisy-le-Grand, France)",
+    "issn": "0145-5680",
+    "essn": "1165-158X",
+    "doi": "doi: 10.14715/cmb/2025.71.12.6",
+    "sortpubdate": "2025/12/28 00:00",
+    "epubdate": "2025 Dec 28"
   }
 ]

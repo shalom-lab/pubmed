@@ -64744,5 +64744,69 @@
     "doi": "doi: 10.1016/j.jped.2025.101495",
     "sortpubdate": "2025/12/23 00:00",
     "epubdate": "2025 Dec 23"
+  },
+  {
+    "name": "NHANES",
+    "id": "41456152",
+    "title": "The relationship between sedentary lifestyle and marital stability among U.S. adults.",
+    "source": "Afr J Reprod Health",
+    "pubdate": "2025 Dec 23",
+    "authors": [
+      "Wang Y",
+      "Dai J",
+      "Yan Y",
+      "Wang T"
+    ],
+    "lastauthor": "Wang T",
+    "sortfirstauthor": "Wang Y",
+    "journal": "African journal of reproductive health",
+    "issn": "1118-4841",
+    "essn": "",
+    "doi": "doi: 10.29063/ajrh2025/v29i12.18",
+    "sortpubdate": "2025/12/23 00:00",
+    "epubdate": ""
+  },
+  {
+    "name": "NHANES",
+    "id": "41455931",
+    "title": "Association between inflammatory markers and Parkinson's disease risk: a cross-sectional, propensity score-matched analysis of NHANES data.",
+    "source": "BMC Neurol",
+    "pubdate": "2025 Dec 27",
+    "authors": [
+      "Sun Y",
+      "Li S",
+      "Shi S",
+      "Liu Y"
+    ],
+    "lastauthor": "Liu Y",
+    "sortfirstauthor": "Sun Y",
+    "journal": "BMC neurology",
+    "issn": "",
+    "essn": "1471-2377",
+    "doi": "doi: 10.1186/s12883-025-04598-3",
+    "sortpubdate": "2025/12/27 00:00",
+    "epubdate": "2025 Dec 27"
+  },
+  {
+    "name": "NHANES",
+    "id": "41455396",
+    "title": "The relationship between nutritional status measured by geriatric nutritional risk index and cognitive function in older adults: evidence from NHANES 2011-2014.",
+    "source": "Geriatr Nurs",
+    "pubdate": "2025 Dec 26",
+    "authors": [
+      "Lai W",
+      "Hu J",
+      "Li D",
+      "Luo S",
+      "Lu Q"
+    ],
+    "lastauthor": "Lu Q",
+    "sortfirstauthor": "Lai W",
+    "journal": "Geriatric nursing (New York, N.Y.)",
+    "issn": "0197-4572",
+    "essn": "1528-3984",
+    "doi": "doi: 10.1016/j.gerinurse.2025.103773",
+    "sortpubdate": "2025/12/26 00:00",
+    "epubdate": "2025 Dec 26"
   }
 ]
