@@ -4979,5 +4979,47 @@
     "doi": "pii: kwaf285. doi: 10.1093/aje/kwaf285",
     "sortpubdate": "2025/12/24 00:00",
     "epubdate": "2025 Dec 24"
+  },
+  {
+    "name": "American Journal of Epidemiology",
+    "id": "41457779",
+    "title": "Statistical Methods for Estimating the Protective Effects of Immune Markers Using Test-Negative Designs.",
+    "source": "Am J Epidemiol",
+    "pubdate": "2025 Dec 29",
+    "authors": [
+      "Middleton CE",
+      "Larremore DB"
+    ],
+    "lastauthor": "Larremore DB",
+    "sortfirstauthor": "Middleton CE",
+    "journal": "American journal of epidemiology",
+    "issn": "0002-9262",
+    "essn": "1476-6256",
+    "doi": "pii: kwaf280. doi: 10.1093/aje/kwaf280",
+    "sortpubdate": "2025/12/29 00:00",
+    "epubdate": "2025 Dec 29"
+  },
+  {
+    "name": "American Journal of Epidemiology",
+    "id": "41332280",
+    "title": "Evaluation of potential approaches for counting person-time in instances where no active comparator is present.",
+    "source": "Am J Epidemiol",
+    "pubdate": "2025 Dec 3",
+    "authors": [
+      "Giorgio K",
+      "Lutsey PL",
+      "Wang W",
+      "Walker R",
+      "Norby FL",
+      "Huling J"
+    ],
+    "lastauthor": "Huling J",
+    "sortfirstauthor": "Giorgio K",
+    "journal": "American journal of epidemiology",
+    "issn": "0002-9262",
+    "essn": "1476-6256",
+    "doi": "doi: 10.1093/aje/kwaf266",
+    "sortpubdate": "2025/12/03 00:00",
+    "epubdate": "2025 Dec 3"
   }
 ]
