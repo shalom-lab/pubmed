@@ -4099,5 +4099,51 @@
     "doi": "doi: 10.1007/s11538-025-01575-2",
     "sortpubdate": "2025/12/24 00:00",
     "epubdate": "2025 Dec 24"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "41472258",
+    "title": "CRISPR Treatments for AI-Designed Synthetic Viruses: Rapid Programmable Countermeasures for Emerging and Engineered Viruses.",
+    "source": "Viruses",
+    "pubdate": "2025 Dec 5",
+    "authors": [
+      "Gladue DP",
+      "O'Mahony A"
+    ],
+    "lastauthor": "O'Mahony A",
+    "sortfirstauthor": "Gladue DP",
+    "journal": "Viruses",
+    "issn": "",
+    "essn": "1999-4915",
+    "doi": "pii: 1588. doi: 10.3390/v17121588",
+    "sortpubdate": "2025/12/05 00:00",
+    "epubdate": "2025 Dec 5"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "41469925",
+    "title": "Efficacy and safety of a single dose of nirsevimab against respiratory syncytial virus infection in infants: a meta-analysis and time-to-event analysis.",
+    "source": "Ital J Pediatr",
+    "pubdate": "2025 Dec 30",
+    "authors": [
+      "Sayed MS",
+      "Elgendy MA",
+      "Gamil N",
+      "Abdullah HH",
+      "Alhwary A",
+      "Ibrahim RA",
+      "Samir SH",
+      "Jibril NS",
+      "Abdulazeem H",
+      "Alsabri M"
+    ],
+    "lastauthor": "Alsabri M",
+    "sortfirstauthor": "Sayed MS",
+    "journal": "Italian journal of pediatrics",
+    "issn": "1720-8424",
+    "essn": "1824-7288",
+    "doi": "doi: 10.1186/s13052-025-02184-4",
+    "sortpubdate": "2025/12/30 00:00",
+    "epubdate": "2025 Dec 30"
   }
 ]
