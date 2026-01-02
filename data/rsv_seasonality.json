@@ -5034,5 +5034,82 @@
     "doi": "doi: 10.1186/s12879-025-12122-8",
     "sortpubdate": "2025/11/23 00:00",
     "epubdate": "2025 Nov 23"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "41477533",
+    "title": "Normalization of Seasonality and Age Distribution of Pediatric RSV Infection Following the Pandemic Disruption in the Netherlands.",
+    "source": "Open Forum Infect Dis",
+    "pubdate": "2026 Jan",
+    "authors": [
+      "Rave N",
+      "de Bruijne MEM",
+      "Stellato RK",
+      "Bannier MAGE",
+      "Weinberger DM",
+      "Löwensteyn YN",
+      "Wildenbeest JG",
+      "Bont LJ",
+      "Surveillance of Pediatric REspiratory Admissions in Dutch hospitals (SPREAD) Study Group"
+    ],
+    "lastauthor": "Bont LJ",
+    "sortfirstauthor": "Rave N",
+    "journal": "Open forum infectious diseases",
+    "issn": "2328-8957",
+    "essn": "2328-8957",
+    "doi": "doi: 10.1093/ofid/ofaf759",
+    "sortpubdate": "2025/12/30 00:00",
+    "epubdate": "2025 Dec 30"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "41471914",
+    "title": "A New Breath: Dynamics of Respiratory Infections After the Lifting of Non-Pharmaceutical Interventions Related to COVID-19.",
+    "source": "Microorganisms",
+    "pubdate": "2025 Nov 27",
+    "authors": [
+      "Keyrouz R",
+      "Habr B",
+      "Antar Soutou M",
+      "Abou Ismail S",
+      "Abifadel M",
+      "Najjar-Pellet J",
+      "Gerbaka B",
+      "Haddad E"
+    ],
+    "lastauthor": "Haddad E",
+    "sortfirstauthor": "Keyrouz R",
+    "journal": "Microorganisms",
+    "issn": "2076-2607",
+    "essn": "2076-2607",
+    "doi": "doi: 10.3390/microorganisms13122710",
+    "sortpubdate": "2025/11/27 00:00",
+    "epubdate": "2025 Nov 27"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "41454654",
+    "title": "Spatial and temporal variability of respiratory syncytial virus disease seasonality in Japan, 2012-2024.",
+    "source": "Pediatr Int",
+    "pubdate": "2026 Jan-Dec",
+    "authors": [
+      "Arashiro T",
+      "Morioka I",
+      "Ishiwada N",
+      "Martyn O",
+      "Kramer R",
+      "Jin J",
+      "Pinho A",
+      "Corbelon E",
+      "Kusuda S"
+    ],
+    "lastauthor": "Kusuda S",
+    "sortfirstauthor": "Arashiro T",
+    "journal": "Pediatrics international : official journal of the Japan Pediatric Society",
+    "issn": "1328-8067",
+    "essn": "1442-200X",
+    "doi": "doi: 10.1111/ped.70307",
+    "sortpubdate": "2026/01/01 00:00",
+    "epubdate": ""
   }
 ]
