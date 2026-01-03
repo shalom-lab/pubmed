@@ -5052,5 +5052,48 @@
     "doi": "pii: kwaf286. doi: 10.1093/aje/kwaf286",
     "sortpubdate": "2025/12/31 00:00",
     "epubdate": "2025 Dec 31"
+  },
+  {
+    "name": "American Journal of Epidemiology",
+    "id": "41479206",
+    "title": "COVID-19 mitigation policies were associated with increased gun violence during 2020-2021.",
+    "source": "Am J Epidemiol",
+    "pubdate": "2026 Jan 2",
+    "authors": [
+      "Wolf DA",
+      "Wiemers EW",
+      "Gutin I",
+      "Montez JK",
+      "Monnat SM"
+    ],
+    "lastauthor": "Monnat SM",
+    "sortfirstauthor": "Wolf DA",
+    "journal": "American journal of epidemiology",
+    "issn": "0002-9262",
+    "essn": "1476-6256",
+    "doi": "pii: kwaf288. doi: 10.1093/aje/kwaf288",
+    "sortpubdate": "2026/01/02 00:00",
+    "epubdate": "2026 Jan 2"
+  },
+  {
+    "name": "American Journal of Epidemiology",
+    "id": "41412598",
+    "title": "Subgroup Analyses and Effect Modification with Bayesian Kernel Machine Regression.",
+    "source": "Am J Epidemiol",
+    "pubdate": "2025 Dec 19",
+    "authors": [
+      "Demateis D",
+      "Keller KP",
+      "Coull BA",
+      "Wilson A"
+    ],
+    "lastauthor": "Wilson A",
+    "sortfirstauthor": "Demateis D",
+    "journal": "American journal of epidemiology",
+    "issn": "0002-9262",
+    "essn": "1476-6256",
+    "doi": "doi: 10.1093/aje/kwaf281",
+    "sortpubdate": "2025/12/19 00:00",
+    "epubdate": "2025 Dec 19"
   }
 ]
