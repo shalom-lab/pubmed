@@ -66947,5 +66947,75 @@
     "doi": "doi: 10.1016/j.puhe.2025.106115",
     "sortpubdate": "2025/12/31 00:00",
     "epubdate": "2025 Dec 31"
+  },
+  {
+    "name": "NHANES",
+    "id": "41482816",
+    "title": "Association of Original and Revised Pooled Cohort Equations With Cardiovascular and Cerebrovascular Mortality.",
+    "source": "CNS Neurosci Ther",
+    "pubdate": "2026 Jan",
+    "authors": [
+      "Lu C",
+      "Li M",
+      "Sun D",
+      "Zhang H",
+      "Li L",
+      "Yu Y",
+      "Wang J",
+      "Cao L",
+      "Hu Z",
+      "Li X"
+    ],
+    "lastauthor": "Li X",
+    "sortfirstauthor": "Lu C",
+    "journal": "CNS neuroscience & therapeutics",
+    "issn": "1755-5930",
+    "essn": "1755-5949",
+    "doi": "doi: 10.1002/cns.70737",
+    "sortpubdate": "2026/01/01 00:00",
+    "epubdate": ""
+  },
+  {
+    "name": "NHANES",
+    "id": "41482239",
+    "title": "Interpretable machine learning for cognitive impairment screening: Development and external validation of a clinical prediction model based on NHANES data.",
+    "source": "Exp Gerontol",
+    "pubdate": "2025 Dec 31",
+    "authors": [
+      "Chen K",
+      "Yu G",
+      "Li H"
+    ],
+    "lastauthor": "Li H",
+    "sortfirstauthor": "Chen K",
+    "journal": "Experimental gerontology",
+    "issn": "0531-5565",
+    "essn": "1873-6815",
+    "doi": "doi: 10.1016/j.exger.2025.113019",
+    "sortpubdate": "2025/12/31 00:00",
+    "epubdate": "2025 Dec 31"
+  },
+  {
+    "name": "NHANES",
+    "id": "41482163",
+    "title": "Association between fractional exhaled nitric oxide (FeNO) and blood eosinophil count among children and adolescents with asthma in the United States: a population-based study.",
+    "source": "Respir Med",
+    "pubdate": "2025 Dec 31",
+    "authors": [
+      "Chen F",
+      "Lu M",
+      "Ye J",
+      "Zhang L",
+      "Gu L",
+      "Liu W"
+    ],
+    "lastauthor": "Liu W",
+    "sortfirstauthor": "Chen F",
+    "journal": "Respiratory medicine",
+    "issn": "0954-6111",
+    "essn": "1532-3064",
+    "doi": "doi: 10.1016/j.rmed.2025.108630",
+    "sortpubdate": "2025/12/31 00:00",
+    "epubdate": "2025 Dec 31"
   }
 ]

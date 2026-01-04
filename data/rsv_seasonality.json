@@ -5111,5 +5111,28 @@
     "doi": "doi: 10.1111/ped.70307",
     "sortpubdate": "2026/01/01 00:00",
     "epubdate": ""
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "41483387",
+    "title": "Comparative Diagnostic Performance of the 36-Minute STANDARD M10 Fast Assay for Molecular Diagnosis of SARS-CoV-2, Influenza A and B, and Respiratory Syncytial Virus in Near-Patient Settings.",
+    "source": "Infect Dis Ther",
+    "pubdate": "2026 Jan 3",
+    "authors": [
+      "Domnich A",
+      "Garzillo G",
+      "Paolozzi V",
+      "Ricucci V",
+      "Orsi A",
+      "Icardi G"
+    ],
+    "lastauthor": "Icardi G",
+    "sortfirstauthor": "Domnich A",
+    "journal": "Infectious diseases and therapy",
+    "issn": "2193-8229",
+    "essn": "2193-6382",
+    "doi": "doi: 10.1007/s40121-025-01284-2",
+    "sortpubdate": "2026/01/03 00:00",
+    "epubdate": "2026 Jan 3"
   }
 ]
