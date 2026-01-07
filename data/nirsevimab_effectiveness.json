@@ -3603,5 +3603,29 @@
     "doi": "doi: 10.1002/ppul.71451",
     "sortpubdate": "2026/01/01 00:00",
     "epubdate": ""
+  },
+  {
+    "name": "Nirsevimab effectiveness",
+    "id": "41494106",
+    "title": "Reliability of RSV Antigen Diagnostic Tests in the Presence of Nirsevimab.",
+    "source": "Pediatr Infect Dis J",
+    "pubdate": "2026 Jan 6",
+    "authors": [
+      "Sincero SR",
+      "Mahool KA",
+      "Schaefer E",
+      "Caceres CS",
+      "Kelly EJ",
+      "Wilkins D",
+      "Tuffy KM"
+    ],
+    "lastauthor": "Tuffy KM",
+    "sortfirstauthor": "Sincero SR",
+    "journal": "The Pediatric infectious disease journal",
+    "issn": "0891-3668",
+    "essn": "1532-0987",
+    "doi": "doi: 10.1097/INF.0000000000005119",
+    "sortpubdate": "2026/01/06 00:00",
+    "epubdate": "2026 Jan 6"
   }
 ]

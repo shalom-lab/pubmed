@@ -5125,5 +5125,80 @@
     "doi": "doi: 10.1093/aje/kwaf271",
     "sortpubdate": "2025/12/09 00:00",
     "epubdate": "2025 Dec 9"
+  },
+  {
+    "name": "American Journal of Epidemiology",
+    "id": "41492793",
+    "title": "Resurrecting complete-case analysis: A defense.",
+    "source": "Am J Epidemiol",
+    "pubdate": "2026 Jan 6",
+    "authors": [
+      "Mathur MB",
+      "Shpitser I",
+      "VanderWeele TJ"
+    ],
+    "lastauthor": "VanderWeele TJ",
+    "sortfirstauthor": "Mathur MB",
+    "journal": "American journal of epidemiology",
+    "issn": "0002-9262",
+    "essn": "1476-6256",
+    "doi": "pii: kwaf284. doi: 10.1093/aje/kwaf284",
+    "sortpubdate": "2026/01/06 00:00",
+    "epubdate": "2026 Jan 6"
+  },
+  {
+    "name": "American Journal of Epidemiology",
+    "id": "41492226",
+    "title": "Increasing and inequitable U.S. pregnancy-related mortality ratios among NonHispanic black and white women, 2000-2019.",
+    "source": "Am J Epidemiol",
+    "pubdate": "2026 Jan 6",
+    "authors": [
+      "Geronimus AT",
+      "Bound J",
+      "Hughes LD",
+      "Harris KA"
+    ],
+    "lastauthor": "Harris KA",
+    "sortfirstauthor": "Geronimus AT",
+    "journal": "American journal of epidemiology",
+    "issn": "0002-9262",
+    "essn": "1476-6256",
+    "doi": "pii: kwaf287. doi: 10.1093/aje/kwaf287",
+    "sortpubdate": "2026/01/06 00:00",
+    "epubdate": "2026 Jan 6"
+  },
+  {
+    "name": "American Journal of Epidemiology",
+    "id": "41222262",
+    "title": "Implementing and retaining a large-scale technology-mediated cohort to study HIV incidence and PrEP uptake among vulnerable cisgender men as well as transgender individuals in the U.S., the Together 5,000 cohort.",
+    "source": "Am J Epidemiol",
+    "pubdate": "2025 Nov 12",
+    "authors": [
+      "Westmoreland DA",
+      "Ray MA",
+      "Sultana S",
+      "Bleasdale J",
+      "Robertson MK",
+      "Mirzayi C",
+      "D'Angelo AB",
+      "Stief M",
+      "Hoover D",
+      "Hirshfield S",
+      "Patel VV",
+      "Pantalone DW",
+      "Carrico A",
+      "Golub SA",
+      "Nash D",
+      "Grov C",
+      "Together Team OBOT"
+    ],
+    "lastauthor": "Together Team OBOT",
+    "sortfirstauthor": "Westmoreland DA",
+    "journal": "American journal of epidemiology",
+    "issn": "0002-9262",
+    "essn": "1476-6256",
+    "doi": "doi: 10.1093/aje/kwaf250",
+    "sortpubdate": "2025/11/12 00:00",
+    "epubdate": "2025 Nov 12"
   }
 ]

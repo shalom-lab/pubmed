@@ -4164,5 +4164,27 @@
     "doi": "doi: 10.3390/v17121588",
     "sortpubdate": "2025/12/05 00:00",
     "epubdate": "2025 Dec 5"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "41492305",
+    "title": "The seasonality of respiratory syncytial virus and its associations with meteorological factors in Hong Kong, 2014-2023.",
+    "source": "One Health",
+    "pubdate": "2025 Dec",
+    "authors": [
+      "Xiong Q",
+      "Rong Z",
+      "Ran J",
+      "Ren X",
+      "Li L"
+    ],
+    "lastauthor": "Li L",
+    "sortfirstauthor": "Xiong Q",
+    "journal": "One health (Amsterdam, Netherlands)",
+    "issn": "2352-7714",
+    "essn": "2352-7714",
+    "doi": "doi: 10.1016/j.onehlt.2025.101175",
+    "sortpubdate": "2025/08/18 00:00",
+    "epubdate": "2025 Aug 18"
   }
 ]
