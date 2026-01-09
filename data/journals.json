@@ -7775,7 +7775,8 @@
   {
     "source": "Chin Med",
     "journal": "Chinese medicine",
-    "issn": "1749-8546"
+    "issn": "1749-8546",
+    "essn": "1749-8546"
   },
   {
     "source": "Acta Biomater",
@@ -11257,5 +11258,53 @@
     "source": "J Cannabis Res",
     "journal": "Journal of cannabis research",
     "essn": "2522-5782"
+  },
+  {
+    "source": "J Huntingtons Dis",
+    "journal": "Journal of Huntington's disease",
+    "issn": "1879-6397",
+    "essn": "1879-6400"
+  },
+  {
+    "source": "Zhongguo Fei Ai Za Zhi",
+    "journal": "Zhongguo fei ai za zhi = Chinese journal of lung cancer",
+    "issn": "1009-3419",
+    "essn": "1999-6187"
+  },
+  {
+    "source": "J Prosthodont Res",
+    "journal": "Journal of prosthodontic research",
+    "issn": "1883-1958",
+    "essn": "2212-4632"
+  },
+  {
+    "source": "Brain Behav Immun",
+    "journal": "Brain, behavior, and immunity",
+    "issn": "0889-1591",
+    "essn": "1090-2139"
+  },
+  {
+    "source": "Int J Psychiatry Clin Pract",
+    "journal": "International journal of psychiatry in clinical practice",
+    "issn": "1365-1501",
+    "essn": "1471-1788"
+  },
+  {
+    "source": "Wellcome Open Res",
+    "journal": "Wellcome open research",
+    "issn": "2398-502X",
+    "essn": "2398-502X"
+  },
+  {
+    "source": "Korean J Ophthalmol",
+    "journal": "Korean journal of ophthalmology : KJO",
+    "issn": "1011-8942",
+    "essn": "2092-9382"
+  },
+  {
+    "source": "Emerg Infect Dis",
+    "journal": "Emerging infectious diseases",
+    "issn": "1080-6040",
+    "essn": "1080-6059"
   }
 ]

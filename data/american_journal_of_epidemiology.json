@@ -5222,5 +5222,69 @@
     "doi": "doi: 10.1093/aje/kwaf270",
     "sortpubdate": "2025/12/05 00:00",
     "epubdate": "2025 Dec 5"
+  },
+  {
+    "name": "American Journal of Epidemiology",
+    "id": "41504714",
+    "title": "Trends in obesity-related cardiovascular and cancer mortality in Switzerland 1995-2019: an analysis of multiple causes of death.",
+    "source": "Am J Epidemiol",
+    "pubdate": "2026 Jan 8",
+    "authors": [
+      "de Linden BWA",
+      "Viehl CA",
+      "Noor N",
+      "Adair T",
+      "Vaccarella S",
+      "Carmeli C"
+    ],
+    "lastauthor": "Carmeli C",
+    "sortfirstauthor": "de Linden BWA",
+    "journal": "American journal of epidemiology",
+    "issn": "0002-9262",
+    "essn": "1476-6256",
+    "doi": "pii: kwag003. doi: 10.1093/aje/kwag003",
+    "sortpubdate": "2026/01/08 00:00",
+    "epubdate": "2026 Jan 8"
+  },
+  {
+    "name": "American Journal of Epidemiology",
+    "id": "41206624",
+    "title": "Ratios in regression analysis with causal questions-response to commentary.",
+    "source": "Am J Epidemiol",
+    "pubdate": "2026 Jan 8",
+    "authors": [
+      "Ikram MK",
+      "Labrecque JA",
+      "Ikram MA"
+    ],
+    "lastauthor": "Ikram MA",
+    "sortfirstauthor": "Ikram MK",
+    "journal": "American journal of epidemiology",
+    "issn": "0002-9262",
+    "essn": "1476-6256",
+    "doi": "doi: 10.1093/aje/kwaf249",
+    "sortpubdate": "2026/01/08 00:00",
+    "epubdate": ""
+  },
+  {
+    "name": "American Journal of Epidemiology",
+    "id": "41181891",
+    "title": "Redefining \"excess\" in the endemic COVID-19 era.",
+    "source": "Am J Epidemiol",
+    "pubdate": "2026 Jan 8",
+    "authors": [
+      "Rattanapitoon NK",
+      "Thanchonnang C",
+      "Padchasuwan NH",
+      "Rattanapitoon SK"
+    ],
+    "lastauthor": "Rattanapitoon SK",
+    "sortfirstauthor": "Rattanapitoon NK",
+    "journal": "American journal of epidemiology",
+    "issn": "0002-9262",
+    "essn": "1476-6256",
+    "doi": "doi: 10.1093/aje/kwaf244",
+    "sortpubdate": "2026/01/08 00:00",
+    "epubdate": ""
   }
 ]
