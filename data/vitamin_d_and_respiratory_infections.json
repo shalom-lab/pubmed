@@ -2433,5 +2433,29 @@
     "doi": "doi: 10.1111/all.70093",
     "sortpubdate": "2026/01/01 00:00",
     "epubdate": "2025 Oct 11"
+  },
+  {
+    "name": "Vitamin D and respiratory infections",
+    "id": "41508942",
+    "title": "Role of Vitamin D Levels in COVID-19 Disease Severity: A Multicenter Retrospective Study from Qatar.",
+    "source": "Pak J Biol Sci",
+    "pubdate": "2025 Dec",
+    "authors": [
+      "Jazar AS",
+      "Alalaween RB",
+      "Al-Saadi RK",
+      "Aljaffali NM",
+      "Al Arabi ZA",
+      "Ghabashi MA",
+      "Azzeh FS"
+    ],
+    "lastauthor": "Azzeh FS",
+    "sortfirstauthor": "Jazar AS",
+    "journal": "Pakistan journal of biological sciences : PJBS",
+    "issn": "1028-8880",
+    "essn": "1812-5735",
+    "doi": "doi: 10.3923/pjbs.2025.640.648",
+    "sortpubdate": "2025/12/01 00:00",
+    "epubdate": ""
   }
 ]
