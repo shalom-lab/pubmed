@@ -4255,5 +4255,33 @@
     "doi": "doi: 10.3201/eid3201.250870",
     "sortpubdate": "2026/01/07 00:00",
     "epubdate": "2026 Jan 7"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "41513868",
+    "title": "Estimated Incidence of All-Cause Respiratory Hospitalizations and Deaths Attributable to Respiratory Syncytial Virus Infections in Adults in Finland between 2011 and 2019: A Retrospective Database Study.",
+    "source": "J Epidemiol Glob Health",
+    "pubdate": "2026 Jan 9",
+    "authors": [
+      "Bruyndonckx R",
+      "Polkowska-Kramek A",
+      "Liang C",
+      "Kosunen M",
+      "Hätinen OP",
+      "Esnaola M",
+      "Casas M",
+      "Peerawaranun P",
+      "Ewnetu WB",
+      "Gessner BD",
+      "Begier E"
+    ],
+    "lastauthor": "Begier E",
+    "sortfirstauthor": "Bruyndonckx R",
+    "journal": "Journal of epidemiology and global health",
+    "issn": "2210-6006",
+    "essn": "2210-6014",
+    "doi": "doi: 10.1007/s44197-025-00506-7",
+    "sortpubdate": "2026/01/09 00:00",
+    "epubdate": "2026 Jan 9"
   }
 ]
