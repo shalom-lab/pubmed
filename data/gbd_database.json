@@ -48825,5 +48825,131 @@
     "doi": "doi: 10.1016/j.diabres.2026.113092",
     "sortpubdate": "2026/01/07 00:00",
     "epubdate": "2026 Jan 7"
+  },
+  {
+    "name": "GBD database",
+    "id": "41519947",
+    "title": "Global, regional, and national burden and trends of neonatal encephalopathy.",
+    "source": "Pediatr Res",
+    "pubdate": "2026 Jan 10",
+    "authors": [
+      "Zhao L",
+      "Jiang Y",
+      "Zhao Z",
+      "Wang L"
+    ],
+    "lastauthor": "Wang L",
+    "sortfirstauthor": "Zhao L",
+    "journal": "Pediatric research",
+    "issn": "0031-3998",
+    "essn": "1530-0447",
+    "doi": "doi: 10.1038/s41390-025-04582-0",
+    "sortpubdate": "2026/01/10 00:00",
+    "epubdate": "2026 Jan 10"
+  },
+  {
+    "name": "GBD database",
+    "id": "41518640",
+    "title": "The burden of multiple sclerosis in Japan from 1990 to 2021 and predictions to 2050 based on the Global Burden of Disease study 2021.",
+    "source": "Neuroepidemiology",
+    "pubdate": "2026 Jan 9",
+    "authors": [
+      "Wang R",
+      "Cossu D",
+      "Tomizawa Y",
+      "Hattori N",
+      "Hatano T"
+    ],
+    "lastauthor": "Hatano T",
+    "sortfirstauthor": "Wang R",
+    "journal": "Neuroepidemiology",
+    "issn": "0251-5350",
+    "essn": "1423-0208",
+    "doi": "doi: 10.1159/000550382",
+    "sortpubdate": "2026/01/09 00:00",
+    "epubdate": "2026 Jan 9"
+  },
+  {
+    "name": "GBD database",
+    "id": "41518472",
+    "title": "Current and projected trends in rheumatoid arthritis among postmenopausal women in the U.S.: a population-based analysis of the Global Burden of Disease Study 2021, with projections to 2035.",
+    "source": "Immunol Res",
+    "pubdate": "2026 Jan 10",
+    "authors": [
+      "Liu W",
+      "Mo X",
+      "Xu S"
+    ],
+    "lastauthor": "Xu S",
+    "sortfirstauthor": "Liu W",
+    "journal": "Immunologic research",
+    "issn": "0257-277X",
+    "essn": "1559-0755",
+    "doi": "doi: 10.1007/s12026-025-09740-4",
+    "sortpubdate": "2026/01/10 00:00",
+    "epubdate": "2026 Jan 10"
+  },
+  {
+    "name": "GBD database",
+    "id": "41517642",
+    "title": "Increasing Obesity Rates Worldwide from 1976 to 2016: The Obesity Epidemic.",
+    "source": "J Clin Med",
+    "pubdate": "2026 Jan 5",
+    "authors": [
+      "Keller K",
+      "Schmitt VH",
+      "Hahad O",
+      "Espinola-Klein C",
+      "Hobohm L"
+    ],
+    "lastauthor": "Hobohm L",
+    "sortfirstauthor": "Keller K",
+    "journal": "Journal of clinical medicine",
+    "issn": "2077-0383",
+    "essn": "2077-0383",
+    "doi": "doi: 10.3390/jcm15010394",
+    "sortpubdate": "2026/01/05 00:00",
+    "epubdate": "2026 Jan 5"
+  },
+  {
+    "name": "GBD database",
+    "id": "41516028",
+    "title": "Endometriosis: From Genes to Global Burden.",
+    "source": "Int J Mol Sci",
+    "pubdate": "2025 Dec 23",
+    "authors": [
+      "Kordowitzki P",
+      "Kelley LP",
+      "Mechsner S"
+    ],
+    "lastauthor": "Mechsner S",
+    "sortfirstauthor": "Kordowitzki P",
+    "journal": "International journal of molecular sciences",
+    "issn": "",
+    "essn": "1422-0067",
+    "doi": "doi: 10.3390/ijms27010151",
+    "sortpubdate": "2025/12/23 00:00",
+    "epubdate": "2025 Dec 23"
+  },
+  {
+    "name": "GBD database",
+    "id": "41514665",
+    "title": "Global Patterns and Temporal Trends in Ovarian and Uterine Cancer Mortality Attributable to High Body-Mass Index, 1990-2023.",
+    "source": "Cancers (Basel)",
+    "pubdate": "2026 Jan 2",
+    "authors": [
+      "Ilic I",
+      "Jakovljevic V",
+      "Lazic S",
+      "Ilic M"
+    ],
+    "lastauthor": "Ilic M",
+    "sortfirstauthor": "Ilic I",
+    "journal": "Cancers",
+    "issn": "2072-6694",
+    "essn": "2072-6694",
+    "doi": "doi: 10.3390/cancers18010157",
+    "sortpubdate": "2026/01/02 00:00",
+    "epubdate": "2026 Jan 2"
   }
 ]
