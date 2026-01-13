@@ -281,7 +281,7 @@
     "id": "40540878",
     "title": "Computational discovery of RSV Pre-F inhibitors via reinforcement learning-driven ab initio design from natural fragment libraries.",
     "source": "Comput Biol Chem",
-    "pubdate": "2025 Jun 14",
+    "pubdate": "2025 Dec",
     "authors": [
       "Wang S",
       "Zhao Y",
@@ -299,7 +299,7 @@
     "issn": "1476-9271",
     "essn": "1476-928X",
     "doi": "doi: 10.1016/j.compbiolchem.2025.108553",
-    "sortpubdate": "2025/06/14 00:00",
+    "sortpubdate": "2025/12/01 00:00",
     "epubdate": "2025 Jun 14"
   },
   {
@@ -1363,7 +1363,7 @@
     "id": "40674645",
     "title": "Development and Validation of a Temporal Progression-based Risk Assessment Tool for Respiratory Syncytial Virus Infection in Infants.",
     "source": "Pediatr Infect Dis J",
-    "pubdate": "2025 Jul 3",
+    "pubdate": "2025 Dec 1",
     "authors": [
       "Kawamoto S",
       "Morikawa Y",
@@ -1375,7 +1375,7 @@
     "issn": "0891-3668",
     "essn": "1532-0987",
     "doi": "doi: 10.1097/INF.0000000000004912",
-    "sortpubdate": "2025/07/03 00:00",
+    "sortpubdate": "2025/12/01 00:00",
     "epubdate": "2025 Jul 3"
   },
   {
@@ -4283,5 +4283,51 @@
     "doi": "doi: 10.1007/s44197-025-00506-7",
     "sortpubdate": "2026/01/09 00:00",
     "epubdate": "2026 Jan 9"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "40186452",
+    "title": "Health economic evaluation of implementing a universal immunization program with nirsevimab compared to standard of care for the prevention of respiratory syncytial virus disease in Canadian infants.",
+    "source": "Hum Vaccin Immunother",
+    "pubdate": "2025 Dec",
+    "authors": [
+      "Shin T",
+      "Lee JK",
+      "Kieffer A",
+      "Greenberg M",
+      "Wu J"
+    ],
+    "lastauthor": "Wu J",
+    "sortfirstauthor": "Shin T",
+    "journal": "Human vaccines & immunotherapeutics",
+    "issn": "2164-5515",
+    "essn": "2164-554X",
+    "doi": "doi: 10.1080/21645515.2025.2480875",
+    "sortpubdate": "2025/12/01 00:00",
+    "epubdate": "2025 Apr 5"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "39692284",
+    "title": "Cost-effectiveness of bivalent respiratory syncytial virus prefusion F vaccine for prevention of respiratory syncytial virus among older adults in Germany.",
+    "source": "Expert Rev Vaccines",
+    "pubdate": "2025 Dec",
+    "authors": [
+      "Averin A",
+      "Huebbe B",
+      "Atwood M",
+      "Bayer LJ",
+      "Lade C",
+      "von Eiff C",
+      "Sato R"
+    ],
+    "lastauthor": "Sato R",
+    "sortfirstauthor": "Averin A",
+    "journal": "Expert review of vaccines",
+    "issn": "1476-0584",
+    "essn": "1744-8395",
+    "doi": "doi: 10.1080/14760584.2024.2436183",
+    "sortpubdate": "2025/12/01 00:00",
+    "epubdate": "2024 Dec 18"
   }
 ]

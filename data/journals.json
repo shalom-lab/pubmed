@@ -4639,7 +4639,8 @@
   {
     "source": "Asian Spine J",
     "journal": "Asian spine journal",
-    "issn": "1976-1902"
+    "issn": "1976-1902",
+    "essn": "1976-7846"
   },
   {
     "source": "World J Oncol",
@@ -11431,5 +11432,17 @@
     "source": "Gigascience",
     "journal": "GigaScience",
     "essn": "2047-217X"
+  },
+  {
+    "source": "Mol Cell Endocrinol",
+    "journal": "Molecular and cellular endocrinology",
+    "issn": "0303-7207",
+    "essn": "1872-8057"
+  },
+  {
+    "source": "Clin Ter",
+    "journal": "La Clinica terapeutica",
+    "issn": "0009-9074",
+    "essn": "1972-6007"
   }
 ]

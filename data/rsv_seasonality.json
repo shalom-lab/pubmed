@@ -1808,7 +1808,7 @@
     "id": "40797372",
     "title": "Increasing public interest in lumbar decompression and fusion surgery in the United States: higher search volumes in the Northeast region from 2015 to 2024.",
     "source": "Asian Spine J",
-    "pubdate": "2025 Aug 11",
+    "pubdate": "2025 Dec",
     "authors": [
       "Mastrokostas PG",
       "Mastrokostas LE",
@@ -1826,9 +1826,9 @@
     "sortfirstauthor": "Mastrokostas PG",
     "journal": "Asian spine journal",
     "issn": "1976-1902",
-    "essn": "",
+    "essn": "1976-7846",
     "doi": "doi: 10.31616/asj.2025.0133",
-    "sortpubdate": "2025/08/11 00:00",
+    "sortpubdate": "2025/12/01 00:00",
     "epubdate": "2025 Aug 11"
   },
   {
@@ -2622,7 +2622,7 @@
     "id": "41015079",
     "title": "Etiology and epidemiology of respiratory infections in community-based influenza-like illness during the COVID-19 pandemic, Vientiane, Lao People's Democratic Republic.",
     "source": "Int J Infect Dis",
-    "pubdate": "2025 Sep 25",
+    "pubdate": "2025 Dec",
     "authors": [
       "Bonguili NCB",
       "Mombo IM",
@@ -2645,7 +2645,7 @@
     "issn": "1201-9712",
     "essn": "1878-3511",
     "doi": "doi: 10.1016/j.ijid.2025.108079",
-    "sortpubdate": "2025/09/25 00:00",
+    "sortpubdate": "2025/12/01 00:00",
     "epubdate": "2025 Sep 25"
   },
   {
@@ -2773,7 +2773,7 @@
     "id": "41043634",
     "title": "Analyzing seasonal trends of respiratory syncytial virus circulation using Latin American national surveillance database during pre- and post-COVID-19 pandemic.",
     "source": "Int J Infect Dis",
-    "pubdate": "2025 Oct 1",
+    "pubdate": "2025 Dec",
     "authors": [
       "Perroud AP",
       "Coronel DL",
@@ -2785,7 +2785,7 @@
     "issn": "1201-9712",
     "essn": "1878-3511",
     "doi": "doi: 10.1016/j.ijid.2025.108095",
-    "sortpubdate": "2025/10/01 00:00",
+    "sortpubdate": "2025/12/01 00:00",
     "epubdate": "2025 Oct 1"
   },
   {
@@ -3003,7 +3003,7 @@
     "id": "41101178",
     "title": "Wastewater-based surveillance for influenza and respiratory syncytial virus: Insights from a 21-month study in Oklahoma.",
     "source": "Epidemics",
-    "pubdate": "2025 Oct 10",
+    "pubdate": "2025 Dec",
     "authors": [
       "Deshpande G",
       "Rimal B",
@@ -3018,7 +3018,7 @@
     "issn": "",
     "essn": "1878-0067",
     "doi": "doi: 10.1016/j.epidem.2025.100861",
-    "sortpubdate": "2025/10/10 00:00",
+    "sortpubdate": "2025/12/01 00:00",
     "epubdate": "2025 Oct 10"
   },
   {
@@ -5184,5 +5184,94 @@
     "doi": "doi: 10.1007/s44197-025-00506-7",
     "sortpubdate": "2026/01/09 00:00",
     "epubdate": "2026 Jan 9"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "41521151",
+    "title": "Changes in the Epidemiology of Influenza and Respiratory Syncytial Virus During 2020-2022 Relative to the Pre-COVID-19 Pandemic Period (2017-2020) From Systematic Sentinel Syndromic Surveillance in South Africa.",
+    "source": "Influenza Other Respir Viruses",
+    "pubdate": "2026 Jan",
+    "authors": [
+      "Walaza S",
+      "Moyes J",
+      "von Gottberg A",
+      "Wolter N",
+      "Buys A",
+      "Moosa F",
+      "du Plessis M",
+      "Reubenson G",
+      "Nel J",
+      "Zar HJ",
+      "Dawood H",
+      "Variava E",
+      "Makhasi M",
+      "Mekgoe O",
+      "Nabby F",
+      "Baute N",
+      "Kleynhans J",
+      "Meiring S",
+      "Quan V",
+      "Cohen C"
+    ],
+    "lastauthor": "Cohen C",
+    "sortfirstauthor": "Walaza S",
+    "journal": "Influenza and other respiratory viruses",
+    "issn": "1750-2640",
+    "essn": "1750-2659",
+    "doi": "doi: 10.1111/irv.70207",
+    "sortpubdate": "2026/01/01 00:00",
+    "epubdate": ""
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "40019444",
+    "title": "Cost-effectiveness of wastewater and environmental monitoring of respiratory syncytial virus to guide universal infant immunoprophylaxis in Canada.",
+    "source": "J Med Econ",
+    "pubdate": "2025 Dec",
+    "authors": [
+      "Mercier É",
+      "Fullarton JR",
+      "Paes BA",
+      "Keary IP",
+      "Rodgers-Gray BS",
+      "Thampi N",
+      "Delatolla R"
+    ],
+    "lastauthor": "Delatolla R",
+    "sortfirstauthor": "Mercier É",
+    "journal": "Journal of medical economics",
+    "issn": "1369-6998",
+    "essn": "1941-837X",
+    "doi": "doi: 10.1080/13696998.2025.2473810",
+    "sortpubdate": "2025/12/01 00:00",
+    "epubdate": "2025 Mar 5"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "39717000",
+    "title": "Clinical and epidemiological characteristics of respiratory syncytial virus, SARS-CoV-2 and influenza paediatric viral respiratory infections in southwest Saudi Arabia.",
+    "source": "Ann Med",
+    "pubdate": "2025 Dec",
+    "authors": [
+      "Asseri AA",
+      "Al-Qahtani SM",
+      "Alzaydani IA",
+      "Al-Jarie A",
+      "Alyazidi NS",
+      "Alrmelawi AA",
+      "Alqahtani AM",
+      "Alsulayyim RS",
+      "Alzailaie AK",
+      "Abdullah DM",
+      "Ali AS"
+    ],
+    "lastauthor": "Ali AS",
+    "sortfirstauthor": "Asseri AA",
+    "journal": "Annals of medicine",
+    "issn": "0785-3890",
+    "essn": "1365-2060",
+    "doi": "doi: 10.1080/07853890.2024.2445791",
+    "sortpubdate": "2025/12/01 00:00",
+    "epubdate": "2024 Dec 24"
   }
 ]
