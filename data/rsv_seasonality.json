@@ -4481,7 +4481,7 @@
     "id": "41369198",
     "title": "The pandemic gap of respiratory viruses during the COVID-19 pandemic.",
     "source": "mBio",
-    "pubdate": "2025 Dec 10",
+    "pubdate": "2026 Jan 14",
     "authors": [
       "Simon V",
       "Floda D",
@@ -4498,7 +4498,7 @@
     "issn": "",
     "essn": "2150-7511",
     "doi": "doi: 10.1128/mbio.03376-25",
-    "sortpubdate": "2025/12/10 00:00",
+    "sortpubdate": "2026/01/14 00:00",
     "epubdate": "2025 Dec 10"
   },
   {
@@ -5273,5 +5273,29 @@
     "doi": "doi: 10.1080/07853890.2024.2445791",
     "sortpubdate": "2025/12/01 00:00",
     "epubdate": "2024 Dec 24"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "41529888",
+    "title": "Respiratory syncytial virus (RSV) notifications and trends in the transmission cycles from infants and young children to older adults in Ireland: an analysis of incidence shifts over a decade.",
+    "source": "BMJ Open",
+    "pubdate": "2026 Jan 13",
+    "authors": [
+      "Philip RK",
+      "Mangroo K",
+      "Gendy N",
+      "Purtill H",
+      "Kelly E",
+      "Domegan L",
+      "O'Leary M"
+    ],
+    "lastauthor": "O'Leary M",
+    "sortfirstauthor": "Philip RK",
+    "journal": "BMJ open",
+    "issn": "",
+    "essn": "2044-6055",
+    "doi": "doi: 10.1136/bmjopen-2025-107050",
+    "sortpubdate": "2026/01/13 00:00",
+    "epubdate": "2026 Jan 13"
   }
 ]

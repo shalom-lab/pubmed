@@ -60089,7 +60089,7 @@
     "id": "41385919",
     "title": "Effects of Phthalate Exposure on Oral Microbiome Diversity and Enrichment of Gemella and Streptococcus.",
     "source": "Int Dent J",
-    "pubdate": "2025 Dec 11",
+    "pubdate": "2026 Feb",
     "authors": [
       "Pan Q",
       "Zuo C",
@@ -60107,7 +60107,7 @@
     "issn": "0020-6539",
     "essn": "1875-595X",
     "doi": "doi: 10.1016/j.identj.2025.109292",
-    "sortpubdate": "2025/12/11 00:00",
+    "sortpubdate": "2026/02/01 00:00",
     "epubdate": "2025 Dec 11"
   },
   {
@@ -70076,5 +70076,29 @@
     "doi": "doi: 10.1016/j.sapharm.2025.10.013",
     "sortpubdate": "2026/02/01 00:00",
     "epubdate": "2025 Oct 31"
+  },
+  {
+    "name": "NHANES",
+    "id": "41531742",
+    "title": "Inferring high-fat dietary patterns from electronic health record data using machine learning.",
+    "source": "JAMIA Open",
+    "pubdate": "2026 Feb",
+    "authors": [
+      "Yeh YY",
+      "Lin HY",
+      "Guo J",
+      "Sun RC",
+      "Jiang S",
+      "Bian J",
+      "Dai H"
+    ],
+    "lastauthor": "Dai H",
+    "sortfirstauthor": "Yeh YY",
+    "journal": "JAMIA open",
+    "issn": "",
+    "essn": "2574-2531",
+    "doi": "doi: 10.1093/jamiaopen/ooaf181",
+    "sortpubdate": "2026/01/07 00:00",
+    "epubdate": "2026 Jan 7"
   }
 ]

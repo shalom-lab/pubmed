@@ -41867,7 +41867,7 @@
     "id": "41370986",
     "title": "Global, Regional, and National Burden of Oral Diseases in Older Adults Aged 65 Years And Over.",
     "source": "Int Dent J",
-    "pubdate": "2025 Dec 9",
+    "pubdate": "2026 Feb",
     "authors": [
       "Lu W",
       "Du W",
@@ -41879,7 +41879,7 @@
     "issn": "0020-6539",
     "essn": "1875-595X",
     "doi": "doi: 10.1016/j.identj.2025.109297",
-    "sortpubdate": "2025/12/09 00:00",
+    "sortpubdate": "2026/02/01 00:00",
     "epubdate": "2025 Dec 9"
   },
   {
@@ -45850,7 +45850,7 @@
     "id": "41447822",
     "title": "Global Burden of Oral Disorders in Adults Aged ≥65, 1990 to 2021: A Systematic Analysis of Global Burden of Disease Study 2021.",
     "source": "Int Dent J",
-    "pubdate": "2025 Dec 24",
+    "pubdate": "2026 Feb",
     "authors": [
       "Zhang Y",
       "Xu X",
@@ -45865,7 +45865,7 @@
     "issn": "0020-6539",
     "essn": "1875-595X",
     "doi": "doi: 10.1016/j.identj.2025.109345",
-    "sortpubdate": "2025/12/24 00:00",
+    "sortpubdate": "2026/02/01 00:00",
     "epubdate": "2025 Dec 24"
   },
   {
@@ -46023,7 +46023,7 @@
     "id": "41455415",
     "title": "The Burden and Projections for 2036 of Periodontal Diseases in Asia From 1990 to 2021.",
     "source": "Int Dent J",
-    "pubdate": "2025 Dec 26",
+    "pubdate": "2026 Feb",
     "authors": [
       "Li H",
       "Li S",
@@ -46041,7 +46041,7 @@
     "issn": "0020-6539",
     "essn": "1875-595X",
     "doi": "doi: 10.1016/j.identj.2025.109349",
-    "sortpubdate": "2025/12/26 00:00",
+    "sortpubdate": "2026/02/01 00:00",
     "epubdate": "2025 Dec 26"
   },
   {
@@ -49209,5 +49209,155 @@
     "doi": "doi: 10.1111/1751-2980.70026",
     "sortpubdate": "2026/01/13 00:00",
     "epubdate": "2026 Jan 13"
+  },
+  {
+    "name": "GBD database",
+    "id": "41533143",
+    "title": "Global, regional, and national burden of urolithiasis, 1992-2021: analysis of data from the global burden of disease study 2021.",
+    "source": "World J Urol",
+    "pubdate": "2026 Jan 14",
+    "authors": [
+      "Xiao Y",
+      "Wu Y",
+      "Chan K",
+      "Zhang L",
+      "He Q",
+      "Jiang C",
+      "Kong J"
+    ],
+    "lastauthor": "Kong J",
+    "sortfirstauthor": "Xiao Y",
+    "journal": "World journal of urology",
+    "issn": "0724-4983",
+    "essn": "1433-8726",
+    "doi": "doi: 10.1007/s00345-026-06193-8",
+    "sortpubdate": "2026/01/14 00:00",
+    "epubdate": "2026 Jan 14"
+  },
+  {
+    "name": "GBD database",
+    "id": "41530874",
+    "title": "Global burden of cancers attributable to high fasting plasma glucose from 1990 to 2021 and projections until 2031.",
+    "source": "Diabetol Metab Syndr",
+    "pubdate": "2026 Jan 13",
+    "authors": [
+      "Zhu X",
+      "Wang L",
+      "Liang H",
+      "Zhang J",
+      "Zhao S",
+      "Zhao C",
+      "Wang D",
+      "Ding Y"
+    ],
+    "lastauthor": "Ding Y",
+    "sortfirstauthor": "Zhu X",
+    "journal": "Diabetology & metabolic syndrome",
+    "issn": "1758-5996",
+    "essn": "",
+    "doi": "doi: 10.1186/s13098-025-02074-z",
+    "sortpubdate": "2026/01/13 00:00",
+    "epubdate": "2026 Jan 13"
+  },
+  {
+    "name": "GBD database",
+    "id": "41530487",
+    "title": "Analysis of the global burden, biological risk factors, and implications of autism spectrum disorder.",
+    "source": "Pediatr Res",
+    "pubdate": "2026 Jan 13",
+    "authors": [
+      "Saad K",
+      "Abdel-Sadek ZM",
+      "Al-Atram AA",
+      "Elhoufey A",
+      "Alanazi ATB",
+      "Temsah MH",
+      "Embaby MM",
+      "Gad EF"
+    ],
+    "lastauthor": "Gad EF",
+    "sortfirstauthor": "Saad K",
+    "journal": "Pediatric research",
+    "issn": "0031-3998",
+    "essn": "1530-0447",
+    "doi": "doi: 10.1038/s41390-026-04762-6",
+    "sortpubdate": "2026/01/13 00:00",
+    "epubdate": "2026 Jan 13"
+  },
+  {
+    "name": "GBD database",
+    "id": "41529883",
+    "title": "Global, regional and national burden of glaucoma from 1990 to 2021 and projections to 2050: a retrospective cross-sectional study.",
+    "source": "BMJ Open",
+    "pubdate": "2026 Jan 13",
+    "authors": [
+      "Peng Y",
+      "Han L",
+      "Jiang Q",
+      "Liu J",
+      "Liu X",
+      "Jiang G",
+      "Li Z",
+      "Qin S",
+      "Zhuo Y",
+      "Su W"
+    ],
+    "lastauthor": "Su W",
+    "sortfirstauthor": "Peng Y",
+    "journal": "BMJ open",
+    "issn": "",
+    "essn": "2044-6055",
+    "doi": "doi: 10.1136/bmjopen-2025-108975",
+    "sortpubdate": "2026/01/13 00:00",
+    "epubdate": "2026 Jan 13"
+  },
+  {
+    "name": "GBD database",
+    "id": "41529877",
+    "title": "Global lifetime risk of developing myocarditis, 1990-2021: a systematic analysis from the Global Burden of Disease Study 2021.",
+    "source": "BMJ Open",
+    "pubdate": "2026 Jan 13",
+    "authors": [
+      "Ji C",
+      "Li Y",
+      "Wan Y",
+      "Yang Z",
+      "Zeng M",
+      "Wang T",
+      "Li W",
+      "Liu J",
+      "Li Y",
+      "Wang S",
+      "Wang H"
+    ],
+    "lastauthor": "Wang H",
+    "sortfirstauthor": "Ji C",
+    "journal": "BMJ open",
+    "issn": "",
+    "essn": "2044-6055",
+    "doi": "doi: 10.1136/bmjopen-2025-105328",
+    "sortpubdate": "2026/01/13 00:00",
+    "epubdate": "2026 Jan 13"
+  },
+  {
+    "name": "GBD database",
+    "id": "41532468",
+    "title": "Letter to the Editor about mortality from Alzheimer's disease and other dementias and its heterogeneity across states in India: findings from GBD 2021 study.",
+    "source": "Int J Surg",
+    "pubdate": "2026 Jan 12",
+    "authors": [
+      "Lu H",
+      "Yang D",
+      "Shi Y",
+      "Wang J"
+    ],
+    "lastauthor": "Wang J",
+    "sortfirstauthor": "Lu H",
+    "journal": "International journal of surgery (London, England)",
+    "issn": "",
+    "essn": "1743-9159",
+    "doi": "doi: 10.1097/JS9.0000000000004722",
+    "sortpubdate": "2026/01/12 00:00",
+    "epubdate": "2026 Jan 12"
   }
 ]

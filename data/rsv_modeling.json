@@ -4329,5 +4329,29 @@
     "doi": "doi: 10.1080/14760584.2024.2436183",
     "sortpubdate": "2025/12/01 00:00",
     "epubdate": "2024 Dec 18"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "41529888",
+    "title": "Respiratory syncytial virus (RSV) notifications and trends in the transmission cycles from infants and young children to older adults in Ireland: an analysis of incidence shifts over a decade.",
+    "source": "BMJ Open",
+    "pubdate": "2026 Jan 13",
+    "authors": [
+      "Philip RK",
+      "Mangroo K",
+      "Gendy N",
+      "Purtill H",
+      "Kelly E",
+      "Domegan L",
+      "O'Leary M"
+    ],
+    "lastauthor": "O'Leary M",
+    "sortfirstauthor": "Philip RK",
+    "journal": "BMJ open",
+    "issn": "",
+    "essn": "2044-6055",
+    "doi": "doi: 10.1136/bmjopen-2025-107050",
+    "sortpubdate": "2026/01/13 00:00",
+    "epubdate": "2026 Jan 13"
   }
 ]
