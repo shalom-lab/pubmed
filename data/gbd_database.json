@@ -49376,7 +49376,7 @@
     "sortfirstauthor": "Gao J",
     "journal": "Journal of orthopaedics",
     "issn": "0972-978X",
-    "essn": "",
+    "essn": "0972-978X",
     "doi": "doi: 10.1016/j.jor.2025.12.049",
     "sortpubdate": "2025/12/24 00:00",
     "epubdate": "2025 Dec 24"
@@ -49529,5 +49529,67 @@
     "doi": "doi: 10.1097/JS9.0000000000004652",
     "sortpubdate": "2026/01/13 00:00",
     "epubdate": "2026 Jan 13"
+  },
+  {
+    "name": "GBD database",
+    "id": "41544052",
+    "title": "The global burden of age-related hearing loss among individuals aged 60 years and older: An analysis for the global burden of disease study 2021 and predictions to 2050.",
+    "source": "PLoS One",
+    "pubdate": "2026",
+    "authors": [
+      "Zhou P",
+      "Wu H",
+      "Xu K",
+      "Pan X",
+      "Li L"
+    ],
+    "lastauthor": "Li L",
+    "sortfirstauthor": "Zhou P",
+    "journal": "PloS one",
+    "issn": "",
+    "essn": "1932-6203",
+    "doi": "doi: 10.1371/journal.pone.0340498",
+    "sortpubdate": "2026/01/16 00:00",
+    "epubdate": "2026 Jan 16"
+  },
+  {
+    "name": "GBD database",
+    "id": "41540403",
+    "title": "Co-occurrence patterns and related risk factors of dementia and Parkinson's disease among older adults across 204 countries and territories: a spatial correspondence and systematic analysis.",
+    "source": "BMC Med",
+    "pubdate": "2026 Jan 15",
+    "authors": [
+      "Chen W",
+      "Du M",
+      "Liu M",
+      "Liu J"
+    ],
+    "lastauthor": "Liu J",
+    "sortfirstauthor": "Chen W",
+    "journal": "BMC medicine",
+    "issn": "",
+    "essn": "1741-7015",
+    "doi": "doi: 10.1186/s12916-026-04640-2",
+    "sortpubdate": "2026/01/15 00:00",
+    "epubdate": "2026 Jan 15"
+  },
+  {
+    "name": "GBD database",
+    "id": "41539202",
+    "title": "Global Burden of Lip and Oral Cavity Cancer Attributable to Alcohol Use in 204 Countries and Regions.",
+    "source": "Int Dent J",
+    "pubdate": "2026 Jan 14",
+    "authors": [
+      "Meng X",
+      "Zhang J"
+    ],
+    "lastauthor": "Zhang J",
+    "sortfirstauthor": "Meng X",
+    "journal": "International dental journal",
+    "issn": "0020-6539",
+    "essn": "1875-595X",
+    "doi": "doi: 10.1016/j.identj.2025.109359",
+    "sortpubdate": "2026/01/14 00:00",
+    "epubdate": "2026 Jan 14"
   }
 ]

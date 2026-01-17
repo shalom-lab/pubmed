@@ -70100,5 +70100,31 @@
     "doi": "doi: 10.1093/jamiaopen/ooaf181",
     "sortpubdate": "2026/01/07 00:00",
     "epubdate": "2026 Jan 7"
+  },
+  {
+    "name": "NHANES",
+    "id": "41543226",
+    "title": "Association between dental flossing frequency and oral microbiome in U.S. adults.",
+    "source": "Ann Med",
+    "pubdate": "2026 Dec",
+    "authors": [
+      "Xu Z",
+      "Hu J",
+      "Luo H",
+      "Qi X",
+      "Liu R",
+      "Liu Y",
+      "Zheng Y",
+      "Li H",
+      "Wu B"
+    ],
+    "lastauthor": "Wu B",
+    "sortfirstauthor": "Xu Z",
+    "journal": "Annals of medicine",
+    "issn": "0785-3890",
+    "essn": "1365-2060",
+    "doi": "doi: 10.1080/07853890.2026.2614826",
+    "sortpubdate": "2026/12/01 00:00",
+    "epubdate": "2026 Jan 16"
   }
 ]
