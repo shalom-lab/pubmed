@@ -4401,5 +4401,34 @@
     "doi": "doi: 10.1016/j.lana.2025.101356",
     "sortpubdate": "2025/12/22 00:00",
     "epubdate": "2025 Dec 22"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "41544694",
+    "title": "Long-term dietary interventions fail to mitigate functional connectivity loss and cognitive decline in the TgF344-AD rat model of Alzheimer's disease.",
+    "source": "Exp Neurol",
+    "pubdate": "2026 Jan 14",
+    "authors": [
+      "van Rooij JRA",
+      "van den Berg M",
+      "Van Vosselen M",
+      "Calus E",
+      "Vasilkovska T",
+      "Kosten L",
+      "Van Spilbeeck I",
+      "Van Audekerke J",
+      "Van Dam D",
+      "Bertoglio D",
+      "Adhikari MH",
+      "Verhoye M"
+    ],
+    "lastauthor": "Verhoye M",
+    "sortfirstauthor": "van Rooij JRA",
+    "journal": "Experimental neurology",
+    "issn": "0014-4886",
+    "essn": "1090-2430",
+    "doi": "doi: 10.1016/j.expneurol.2026.115647",
+    "sortpubdate": "2026/01/14 00:00",
+    "epubdate": "2026 Jan 14"
   }
 ]
