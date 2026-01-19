@@ -49614,5 +49614,102 @@
     "doi": "doi: 10.1038/s41591-025-04137-0",
     "sortpubdate": "2026/01/16 00:00",
     "epubdate": "2026 Jan 16"
+  },
+  {
+    "name": "GBD database",
+    "id": "41548082",
+    "title": "Global trends in hearing loss among the working-age population: a 30-year epidemiological analysis.",
+    "source": "Ann Med",
+    "pubdate": "2026 Dec",
+    "authors": [
+      "Liang BY",
+      "Zhou PT",
+      "Xie ZH",
+      "Han K",
+      "Li FF",
+      "Fu ZY",
+      "Han YX",
+      "Chen SW",
+      "Liu YH",
+      "Liu YJ",
+      "Wang Q",
+      "Liu YC",
+      "Tong BS"
+    ],
+    "lastauthor": "Tong BS",
+    "sortfirstauthor": "Liang BY",
+    "journal": "Annals of medicine",
+    "issn": "0785-3890",
+    "essn": "1365-2060",
+    "doi": "doi: 10.1080/07853890.2026.2616970",
+    "sortpubdate": "2026/12/01 00:00",
+    "epubdate": "2026 Jan 18"
+  },
+  {
+    "name": "GBD database",
+    "id": "41547938",
+    "title": "Association between temperature and global incidence of inflammatory bowel disease.",
+    "source": "J Health Popul Nutr",
+    "pubdate": "2026 Jan 17",
+    "authors": [
+      "Liu D",
+      "Lu Q",
+      "Fang J",
+      "Xie Y",
+      "Zhou X"
+    ],
+    "lastauthor": "Zhou X",
+    "sortfirstauthor": "Liu D",
+    "journal": "Journal of health, population, and nutrition",
+    "issn": "1606-0997",
+    "essn": "2072-1315",
+    "doi": "doi: 10.1186/s41043-025-01216-3",
+    "sortpubdate": "2026/01/17 00:00",
+    "epubdate": "2026 Jan 17"
+  },
+  {
+    "name": "GBD database",
+    "id": "41547854",
+    "title": "Thirty-one-year trends in diarrheal mortality and disability-adjusted life years attributable to lack of handwashing facilities.",
+    "source": "Trop Med Health",
+    "pubdate": "2026 Jan 17",
+    "authors": [
+      "Li F",
+      "Yang Z",
+      "Lin Z",
+      "Chen X",
+      "Yang B",
+      "Lan S"
+    ],
+    "lastauthor": "Lan S",
+    "sortfirstauthor": "Li F",
+    "journal": "Tropical medicine and health",
+    "issn": "1348-8945",
+    "essn": "",
+    "doi": "doi: 10.1186/s41182-026-00903-z",
+    "sortpubdate": "2026/01/17 00:00",
+    "epubdate": "2026 Jan 17"
+  },
+  {
+    "name": "GBD database",
+    "id": "41547581",
+    "title": "Disease burden of neurodegenerative disorders in Taiwan.",
+    "source": "J Formos Med Assoc",
+    "pubdate": "2026 Jan 16",
+    "authors": [
+      "Fan SP",
+      "Liu PC",
+      "Wang JZ",
+      "Lin CH",
+      "Lin HH"
+    ],
+    "lastauthor": "Lin HH",
+    "sortfirstauthor": "Fan SP",
+    "journal": "Journal of the Formosan Medical Association = Taiwan yi zhi",
+    "issn": "0929-6646",
+    "essn": "",
+    "doi": "pii: S0929-6646(26)00038-0. doi: 10.1016/j.jfma.2026.01.020",
+    "sortpubdate": "2026/01/16 00:00",
+    "epubdate": "2026 Jan 16"
   }
 ]
