@@ -59963,7 +59963,7 @@
     "id": "41386581",
     "title": "Association of body fat distribution with bone mineral density: evidence from observational and mendelian randomization analyses.",
     "source": "Bone",
-    "pubdate": "2025 Dec 10",
+    "pubdate": "2026 Mar",
     "authors": [
       "Sun Q",
       "Cui L",
@@ -59984,7 +59984,7 @@
     "issn": "",
     "essn": "1873-2763",
     "doi": "doi: 10.1016/j.bone.2025.117742",
-    "sortpubdate": "2025/12/10 00:00",
+    "sortpubdate": "2026/03/01 00:00",
     "epubdate": "2025 Dec 10"
   },
   {
@@ -64200,7 +64200,7 @@
     "id": "41443161",
     "title": "Development and validation of a modified phenoage for biological aging and chronic diseases in a chinese cohort.",
     "source": "Arch Gerontol Geriatr",
-    "pubdate": "2025 Dec 9",
+    "pubdate": "2026 Mar",
     "authors": [
       "Zheng J",
       "Liu T",
@@ -64213,7 +64213,7 @@
     "issn": "0167-4943",
     "essn": "1872-6976",
     "doi": "doi: 10.1016/j.archger.2025.106114",
-    "sortpubdate": "2025/12/09 00:00",
+    "sortpubdate": "2026/03/01 00:00",
     "epubdate": "2025 Dec 9"
   },
   {
@@ -70126,5 +70126,81 @@
     "doi": "doi: 10.1080/07853890.2026.2614826",
     "sortpubdate": "2026/12/01 00:00",
     "epubdate": "2026 Jan 16"
+  },
+  {
+    "name": "NHANES",
+    "id": "41551845",
+    "title": "Glyphosate exposure, bone mineral density, osteoporosis, and fractures in the United States population.",
+    "source": "J Environ Health Sci Eng",
+    "pubdate": "2026 Jun",
+    "authors": [
+      "Khalil N",
+      "Hamdaoui L",
+      "Ducatman A",
+      "Koskela A",
+      "Rebai T",
+      "Lee M",
+      "Nahhas RW"
+    ],
+    "lastauthor": "Nahhas RW",
+    "sortfirstauthor": "Khalil N",
+    "journal": "Journal of environmental health science & engineering",
+    "issn": "2052-336X",
+    "essn": "2052-336X",
+    "doi": "doi: 10.1007/s40201-025-00969-7",
+    "sortpubdate": "2026/01/16 00:00",
+    "epubdate": "2026 Jan 16"
+  },
+  {
+    "name": "NHANES",
+    "id": "41550130",
+    "title": "Life's Essential 8 and cardiovascular health: Protective effects on chronic respiratory diseases.",
+    "source": "Int J Cardiol Cardiovasc Risk Prev",
+    "pubdate": "2026 Mar",
+    "authors": [
+      "Ma J",
+      "Cao X",
+      "Ma Z",
+      "Liu X",
+      "Wang H",
+      "Liu K",
+      "Li X",
+      "Zhang C"
+    ],
+    "lastauthor": "Zhang C",
+    "sortfirstauthor": "Ma J",
+    "journal": "International journal of cardiology. Cardiovascular risk and prevention",
+    "issn": "",
+    "essn": "2772-4875",
+    "doi": "doi: 10.1016/j.ijcrp.2025.200567",
+    "sortpubdate": "2025/12/24 00:00",
+    "epubdate": "2025 Dec 24"
+  },
+  {
+    "name": "NHANES",
+    "id": "41551325",
+    "title": "Remnant cholesterol inflammatory index and MASLD in U.S. adults: mediation role of triglyceride-glucose index.",
+    "source": "J Clin Transl Endocrinol",
+    "pubdate": "2026 Feb",
+    "authors": [
+      "Hang Q",
+      "Xu T",
+      "Guo J",
+      "Li R",
+      "Zhao K",
+      "Guo Y",
+      "Shao L",
+      "Zhu H",
+      "Xu Q",
+      "Ji M"
+    ],
+    "lastauthor": "Ji M",
+    "sortfirstauthor": "Hang Q",
+    "journal": "Journal of clinical & translational endocrinology",
+    "issn": "",
+    "essn": "2214-6237",
+    "doi": "doi: 10.1016/j.jcte.2025.100427",
+    "sortpubdate": "2025/12/17 00:00",
+    "epubdate": "2025 Dec 17"
   }
 ]

@@ -32787,7 +32787,7 @@
     "id": "41208610",
     "title": "The global burden of early-onset type 2 diabetes (1990-2050): An age-period-cohort analysis of incidence, disparities, and projections.",
     "source": "Diabetes Obes Metab",
-    "pubdate": "2025 Nov 10",
+    "pubdate": "2026 Feb",
     "authors": [
       "Yu W",
       "Chen Y",
@@ -32804,7 +32804,7 @@
     "issn": "1462-8902",
     "essn": "1463-1326",
     "doi": "doi: 10.1111/dom.70287",
-    "sortpubdate": "2025/11/10 00:00",
+    "sortpubdate": "2026/02/01 00:00",
     "epubdate": "2025 Nov 10"
   },
   {
@@ -49711,5 +49711,118 @@
     "doi": "pii: S0929-6646(26)00038-0. doi: 10.1016/j.jfma.2026.01.020",
     "sortpubdate": "2026/01/16 00:00",
     "epubdate": "2026 Jan 16"
+  },
+  {
+    "name": "GBD database",
+    "id": "41550127",
+    "title": "Global burden and cross-country inequalities of alcoholic cardiomyopathy: A 1990-2021 analysis.",
+    "source": "Int J Cardiol Cardiovasc Risk Prev",
+    "pubdate": "2026 Mar",
+    "authors": [
+      "Zheng M",
+      "Sun C",
+      "Li M",
+      "Xiang H",
+      "Ren H",
+      "Cheng J"
+    ],
+    "lastauthor": "Cheng J",
+    "sortfirstauthor": "Zheng M",
+    "journal": "International journal of cardiology. Cardiovascular risk and prevention",
+    "issn": "",
+    "essn": "2772-4875",
+    "doi": "doi: 10.1016/j.ijcrp.2025.200561",
+    "sortpubdate": "2025/12/15 00:00",
+    "epubdate": "2025 Dec 15"
+  },
+  {
+    "name": "GBD database",
+    "id": "41550125",
+    "title": "Global burden of non-rheumatic calcific aortic valve disease in adults aged 60 years and older, with projections to 2041: insights from the Global Burden of Disease Study 2021.",
+    "source": "Int J Cardiol Cardiovasc Risk Prev",
+    "pubdate": "2026 Mar",
+    "authors": [
+      "Tan J",
+      "Fu X",
+      "Li X",
+      "Zhao X",
+      "Huang W",
+      "Huang J",
+      "Xu L"
+    ],
+    "lastauthor": "Xu L",
+    "sortfirstauthor": "Tan J",
+    "journal": "International journal of cardiology. Cardiovascular risk and prevention",
+    "issn": "",
+    "essn": "2772-4875",
+    "doi": "doi: 10.1016/j.ijcrp.2025.200565",
+    "sortpubdate": "2025/12/18 00:00",
+    "epubdate": "2025 Dec 18"
+  },
+  {
+    "name": "GBD database",
+    "id": "41553948",
+    "title": "Estimates of Global Needs for Neurorehabilitation: A Systematic Analysis Based on the GBD-WHO Rehabilitation Database 2021.",
+    "source": "Neuroepidemiology",
+    "pubdate": "2026 Jan 19",
+    "authors": [
+      "Fang Y",
+      "Cao K"
+    ],
+    "lastauthor": "Cao K",
+    "sortfirstauthor": "Fang Y",
+    "journal": "Neuroepidemiology",
+    "issn": "0251-5350",
+    "essn": "1423-0208",
+    "doi": "doi: 10.1159/000550340",
+    "sortpubdate": "2026/01/19 00:00",
+    "epubdate": "2026 Jan 19"
+  },
+  {
+    "name": "GBD database",
+    "id": "41553829",
+    "title": "Food Security Impacts Health of Children With Orofacial Clefts: An 8-Year Review of the Global Burden of Disease Study.",
+    "source": "Cleft Palate Craniofac J",
+    "pubdate": "2026 Jan 19",
+    "authors": [
+      "Tiongco RFP",
+      "Malek AJ",
+      "Ali A",
+      "He H",
+      "Yu JC",
+      "Lavie JL",
+      "King BJ",
+      "Masoumy M"
+    ],
+    "lastauthor": "Masoumy M",
+    "sortfirstauthor": "Tiongco RFP",
+    "journal": "The Cleft palate-craniofacial journal : official publication of the American Cleft Palate-Craniofacial Association",
+    "issn": "1055-6656",
+    "essn": "1545-1569",
+    "doi": "doi: 10.1177/10556656251414227",
+    "sortpubdate": "2026/01/19 00:00",
+    "epubdate": "2026 Jan 19"
+  },
+  {
+    "name": "GBD database",
+    "id": "41553370",
+    "title": "A comprehensive analysis of global, regional, and national trends in anorexia nervosa burden (1990-2021) and projections to 2040: insights from the global burden of disease study 2021.",
+    "source": "Soc Psychiatry Psychiatr Epidemiol",
+    "pubdate": "2026 Jan 19",
+    "authors": [
+      "Liu Z",
+      "Liu Y",
+      "Lin B",
+      "Tao E",
+      "Xu C"
+    ],
+    "lastauthor": "Xu C",
+    "sortfirstauthor": "Liu Z",
+    "journal": "Social psychiatry and psychiatric epidemiology",
+    "issn": "0933-7954",
+    "essn": "1433-9285",
+    "doi": "doi: 10.1007/s00127-025-03031-x",
+    "sortpubdate": "2026/01/19 00:00",
+    "epubdate": "2026 Jan 19"
   }
 ]

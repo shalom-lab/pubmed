@@ -3540,7 +3540,7 @@
     "id": "41187946",
     "title": "Outpatient antibiotic prescribing for medically attended respiratory syncytial virus, influenza, or human metapneumovirus illness among high-risk adults in rural Wisconsin, United States.",
     "source": "J Antimicrob Chemother",
-    "pubdate": "2025 Nov 4",
+    "pubdate": "2026 Jan 6",
     "authors": [
       "Jorgensen SCJ",
       "McClure DL",
@@ -3553,8 +3553,8 @@
     "issn": "0305-7453",
     "essn": "1460-2091",
     "doi": "pii: dkaf412. doi: 10.1093/jac/dkaf412",
-    "sortpubdate": "2025/11/04 00:00",
-    "epubdate": "2025 Nov 4"
+    "sortpubdate": "2026/01/06 00:00",
+    "epubdate": ""
   },
   {
     "name": "RSV seasonality",
@@ -5369,5 +5369,26 @@
     "doi": "pii: S1473-3099(25)00742-X. doi: 10.1016/S1473-3099(25)00742-X",
     "sortpubdate": "2026/01/12 00:00",
     "epubdate": "2026 Jan 12"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "41551297",
+    "title": "Uncovering the post-pandemic timing of influenza, RSV, and COVID-19 driving seasonal influenza-like illness in the United States: a retrospective ecological study.",
+    "source": "Lancet Reg Health Am",
+    "pubdate": "2026 Mar",
+    "authors": [
+      "Dewey G",
+      "Meyer AG",
+      "Garcia RG",
+      "Santillana M"
+    ],
+    "lastauthor": "Santillana M",
+    "sortfirstauthor": "Dewey G",
+    "journal": "Lancet regional health. Americas",
+    "issn": "",
+    "essn": "2667-193X",
+    "doi": "doi: 10.1016/j.lana.2025.101359",
+    "sortpubdate": "2026/01/01 00:00",
+    "epubdate": "2026 Jan 1"
   }
 ]
