@@ -3834,5 +3834,31 @@
     "doi": "doi: 10.2807/1560-7917.ES.2026.31.2.2500275",
     "sortpubdate": "2026/01/01 00:00",
     "epubdate": ""
+  },
+  {
+    "name": "Nirsevimab effectiveness",
+    "id": "41554736",
+    "title": "Cost-effectiveness of maternal vaccine and/or monoclonal antibody strategies against respiratory syncytial virus in Belgian infants.",
+    "source": "NPJ Vaccines",
+    "pubdate": "2026 Jan 19",
+    "authors": [
+      "Li X",
+      "Willem L",
+      "Roberfroid D",
+      "Bilcke J",
+      "Castanares Zapatero D",
+      "De Meester C",
+      "Mao Z",
+      "Thiry N",
+      "Beutels P"
+    ],
+    "lastauthor": "Beutels P",
+    "sortfirstauthor": "Li X",
+    "journal": "NPJ vaccines",
+    "issn": "",
+    "essn": "2059-0105",
+    "doi": "doi: 10.1038/s41541-026-01372-5",
+    "sortpubdate": "2026/01/19 00:00",
+    "epubdate": "2026 Jan 19"
   }
 ]

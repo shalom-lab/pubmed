@@ -62098,7 +62098,7 @@
     "id": "41407084",
     "title": "Association between biological aging and stroke and all-cause mortality: A population-based cross-sectional study and Mendelian randomization analysis.",
     "source": "J Stroke Cerebrovasc Dis",
-    "pubdate": "2025 Dec 15",
+    "pubdate": "2026 Feb",
     "authors": [
       "Wang Z",
       "Zhao X",
@@ -62110,7 +62110,7 @@
     "issn": "1052-3057",
     "essn": "1532-8511",
     "doi": "doi: 10.1016/j.jstrokecerebrovasdis.2025.108525",
-    "sortpubdate": "2025/12/15 00:00",
+    "sortpubdate": "2026/02/01 00:00",
     "epubdate": "2025 Dec 15"
   },
   {
@@ -64563,7 +64563,7 @@
     "id": "41448391",
     "title": "Binational association between polyunsaturated fatty acid intake and depression in Korea and the US: A cross-national cross-sectional study.",
     "source": "J Affect Disord",
-    "pubdate": "2025 Dec 23",
+    "pubdate": "2026 Apr 1",
     "authors": [
       "Cho H",
       "Choi T",
@@ -64581,7 +64581,7 @@
     "issn": "0165-0327",
     "essn": "1573-2517",
     "doi": "doi: 10.1016/j.jad.2025.121008",
-    "sortpubdate": "2025/12/23 00:00",
+    "sortpubdate": "2026/04/01 00:00",
     "epubdate": "2025 Dec 23"
   },
   {
@@ -70202,5 +70202,25 @@
     "doi": "doi: 10.1016/j.jcte.2025.100427",
     "sortpubdate": "2025/12/17 00:00",
     "epubdate": "2025 Dec 17"
+  },
+  {
+    "name": "NHANES",
+    "id": "41556279",
+    "title": "Comment on 'Prevalence, risk factors, and clinical implications of failed spirometry in adults: Results from NHANES 2007-2012'.",
+    "source": "Pulmonology",
+    "pubdate": "2026 Dec",
+    "authors": [
+      "Rana E",
+      "Chatterjee S",
+      "Saha M"
+    ],
+    "lastauthor": "Saha M",
+    "sortfirstauthor": "Rana E",
+    "journal": "Pulmonology",
+    "issn": "2531-0429",
+    "essn": "2531-0437",
+    "doi": "doi: 10.1080/25310429.2026.2619322",
+    "sortpubdate": "2026/12/01 00:00",
+    "epubdate": "2026 Jan 20"
   }
 ]

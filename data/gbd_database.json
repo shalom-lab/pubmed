@@ -887,7 +887,7 @@
     "id": "40631888",
     "title": "Areca Nut Production, Imports, and Their Impact on Oral Cancer Incidence.",
     "source": "J Dent Res",
-    "pubdate": "2025 Jul 9",
+    "pubdate": "2026 Feb",
     "authors": [
       "Cao LM",
       "Zhang B",
@@ -909,7 +909,7 @@
     "issn": "0022-0345",
     "essn": "1544-0591",
     "doi": "doi: 10.1177/00220345251344895",
-    "sortpubdate": "2025/07/09 00:00",
+    "sortpubdate": "2026/02/01 00:00",
     "epubdate": "2025 Jul 9"
   },
   {
@@ -13314,7 +13314,7 @@
     "id": "40877468",
     "title": "Global burden of autism spectrum disorders among population aged 70 years and older from 1990-2021, with projections to 2040: findings from the Global Burden of Disease Study 2021.",
     "source": "Mol Psychiatry",
-    "pubdate": "2025 Aug 28",
+    "pubdate": "2026 Feb",
     "authors": [
       "Tian W",
       "Yan G",
@@ -13335,7 +13335,7 @@
     "issn": "1359-4184",
     "essn": "1476-5578",
     "doi": "doi: 10.1038/s41380-025-03172-0",
-    "sortpubdate": "2025/08/28 00:00",
+    "sortpubdate": "2026/02/01 00:00",
     "epubdate": "2025 Aug 28"
   },
   {
@@ -47855,9 +47855,9 @@
   {
     "name": "GBD database",
     "id": "41485584",
-    "title": "Global and Regional Burden of Ischemic Stroke Attributable to Smoking and High Alcohol Use from 1990 to 2021, with Projections to 2050.",
+    "title": "Global and regional burden of ischemic stroke attributable to smoking and high alcohol use from 1990 to 2021, with projections to 2050.",
     "source": "J Stroke Cerebrovasc Dis",
-    "pubdate": "2026 Jan 2",
+    "pubdate": "2026 Feb",
     "authors": [
       "Guo S",
       "Qu B",
@@ -47870,7 +47870,7 @@
     "issn": "1052-3057",
     "essn": "1532-8511",
     "doi": "doi: 10.1016/j.jstrokecerebrovasdis.2026.108543",
-    "sortpubdate": "2026/01/02 00:00",
+    "sortpubdate": "2026/02/01 00:00",
     "epubdate": "2026 Jan 2"
   },
   {
@@ -49822,6 +49822,126 @@
     "issn": "0933-7954",
     "essn": "1433-9285",
     "doi": "doi: 10.1007/s00127-025-03031-x",
+    "sortpubdate": "2026/01/19 00:00",
+    "epubdate": "2026 Jan 19"
+  },
+  {
+    "name": "GBD database",
+    "id": "41557031",
+    "title": "Colorectal Cancer in China, 1990 to 2023: Trends, Modifiable Risks, and Prevention Priorities Based on Global Burden of Disease 2023 Estimates.",
+    "source": "J Gastrointest Cancer",
+    "pubdate": "2026 Jan 20",
+    "authors": [
+      "Wang S",
+      "Lv J",
+      "Wang L",
+      "Wu H",
+      "Cao X"
+    ],
+    "lastauthor": "Cao X",
+    "sortfirstauthor": "Wang S",
+    "journal": "Journal of gastrointestinal cancer",
+    "issn": "",
+    "essn": "1941-6636",
+    "doi": "doi: 10.1007/s12029-026-01400-6",
+    "sortpubdate": "2026/01/20 00:00",
+    "epubdate": "2026 Jan 20"
+  },
+  {
+    "name": "GBD database",
+    "id": "41557002",
+    "title": "Global burden of non-Hodgkin lymphoma in the elderly: a population-based study using GBD 2021.",
+    "source": "Ann Hematol",
+    "pubdate": "2026 Jan 20",
+    "authors": [
+      "Wang Y",
+      "Chen J",
+      "Guo J",
+      "Song Y",
+      "Zhu J",
+      "Ma J",
+      "Zhou M",
+      "Qi J",
+      "Liu W"
+    ],
+    "lastauthor": "Liu W",
+    "sortfirstauthor": "Wang Y",
+    "journal": "Annals of hematology",
+    "issn": "0939-5555",
+    "essn": "1432-0584",
+    "doi": "doi: 10.1007/s00277-026-06772-0",
+    "sortpubdate": "2026/01/20 00:00",
+    "epubdate": "2026 Jan 20"
+  },
+  {
+    "name": "GBD database",
+    "id": "41556760",
+    "title": "Nonlinear Relationships of Carbon Emissions with Global Mortality: Trends, Projections, and Health Equity.",
+    "source": "Environ Sci Technol",
+    "pubdate": "2026 Jan 20",
+    "authors": [
+      "Lyu X",
+      "Zhang X",
+      "Xiong W",
+      "Lai H",
+      "Gao X"
+    ],
+    "lastauthor": "Gao X",
+    "sortfirstauthor": "Lyu X",
+    "journal": "Environmental science & technology",
+    "issn": "0013-936X",
+    "essn": "1520-5851",
+    "doi": "doi: 10.1021/acs.est.5c12220",
+    "sortpubdate": "2026/01/20 00:00",
+    "epubdate": "2026 Jan 20"
+  },
+  {
+    "name": "GBD database",
+    "id": "41555443",
+    "title": "Global burden and health inequalities of premature coronary artery disease attributed to high fasting plasma glucose/body mass: insights from the Global Burden of Disease study 2021.",
+    "source": "Diabetol Metab Syndr",
+    "pubdate": "2026 Jan 19",
+    "authors": [
+      "Wang H",
+      "Han F",
+      "Wang J",
+      "Feng W",
+      "Zhang Y",
+      "Zhou J",
+      "Zhang N",
+      "Cheng Y",
+      "Mu Y",
+      "Sun Y",
+      "Zhang R"
+    ],
+    "lastauthor": "Zhang R",
+    "sortfirstauthor": "Wang H",
+    "journal": "Diabetology & metabolic syndrome",
+    "issn": "1758-5996",
+    "essn": "",
+    "doi": "doi: 10.1186/s13098-025-02072-1",
+    "sortpubdate": "2026/01/19 00:00",
+    "epubdate": "2026 Jan 19"
+  },
+  {
+    "name": "GBD database",
+    "id": "41555066",
+    "title": "Global, regional, and National burden of urologic neoplasms from 1990 to 2021 and future projections to 2050, a comprehensive analysis for global burden of disease.",
+    "source": "Discov Oncol",
+    "pubdate": "2026 Jan 19",
+    "authors": [
+      "Yang Z",
+      "Xinyang Y",
+      "Xiaoqing X",
+      "Yuanfu Q",
+      "Xin D"
+    ],
+    "lastauthor": "Xin D",
+    "sortfirstauthor": "Yang Z",
+    "journal": "Discover oncology",
+    "issn": "",
+    "essn": "2730-6011",
+    "doi": "doi: 10.1007/s12672-026-04424-3",
     "sortpubdate": "2026/01/19 00:00",
     "epubdate": "2026 Jan 19"
   }

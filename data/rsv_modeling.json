@@ -4430,5 +4430,54 @@
     "doi": "doi: 10.1016/j.expneurol.2026.115647",
     "sortpubdate": "2026/01/14 00:00",
     "epubdate": "2026 Jan 14"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "41557631",
+    "title": "The benefits and risks of maternal RSV vaccination on mortality in South Africa: A modeling study.",
+    "source": "PLoS Med",
+    "pubdate": "2026 Jan",
+    "authors": [
+      "Monoi A",
+      "Endo A",
+      "Procter SR",
+      "Leuba SI",
+      "Flasche S",
+      "Jit M",
+      "Maternal RSV Vaccine Benefit-Risk Advisory Group"
+    ],
+    "lastauthor": "Jit M",
+    "sortfirstauthor": "Monoi A",
+    "journal": "PLoS medicine",
+    "issn": "1549-1277",
+    "essn": "1549-1676",
+    "doi": "doi: 10.1371/journal.pmed.1004625",
+    "sortpubdate": "2026/01/20 00:00",
+    "epubdate": "2026 Jan 20"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "41554942",
+    "title": "Real-time prediction of influenza and respiratory syncytial virus epidemics in primary care using the Gompertz model.",
+    "source": "Sci Rep",
+    "pubdate": "2026 Jan 19",
+    "authors": [
+      "Perramon-Malavez A",
+      "Ye Q",
+      "López D",
+      "Montañola-Sales C",
+      "Alonso S",
+      "Álvarez E",
+      "Soriano-Arandes A",
+      "Prats C"
+    ],
+    "lastauthor": "Prats C",
+    "sortfirstauthor": "Perramon-Malavez A",
+    "journal": "Scientific reports",
+    "issn": "",
+    "essn": "2045-2322",
+    "doi": "doi: 10.1038/s41598-026-36519-w",
+    "sortpubdate": "2026/01/19 00:00",
+    "epubdate": "2026 Jan 19"
   }
 ]

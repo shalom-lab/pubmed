@@ -5390,5 +5390,30 @@
     "doi": "doi: 10.1016/j.lana.2025.101359",
     "sortpubdate": "2026/01/01 00:00",
     "epubdate": "2026 Jan 1"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "41554942",
+    "title": "Real-time prediction of influenza and respiratory syncytial virus epidemics in primary care using the Gompertz model.",
+    "source": "Sci Rep",
+    "pubdate": "2026 Jan 19",
+    "authors": [
+      "Perramon-Malavez A",
+      "Ye Q",
+      "López D",
+      "Montañola-Sales C",
+      "Alonso S",
+      "Álvarez E",
+      "Soriano-Arandes A",
+      "Prats C"
+    ],
+    "lastauthor": "Prats C",
+    "sortfirstauthor": "Perramon-Malavez A",
+    "journal": "Scientific reports",
+    "issn": "",
+    "essn": "2045-2322",
+    "doi": "doi: 10.1038/s41598-026-36519-w",
+    "sortpubdate": "2026/01/19 00:00",
+    "epubdate": "2026 Jan 19"
   }
 ]
