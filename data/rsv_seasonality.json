@@ -5415,5 +5415,26 @@
     "doi": "doi: 10.1038/s41598-026-36519-w",
     "sortpubdate": "2026/01/19 00:00",
     "epubdate": "2026 Jan 19"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "41563240",
+    "title": "Epidemiological shifts in pediatric respiratory pathogens in Shenzhen, China: impacts of COVID-19 control measures and relaxation.",
+    "source": "Microbiol Spectr",
+    "pubdate": "2026 Jan 21",
+    "authors": [
+      "Wu T",
+      "Zhong L",
+      "Ren Z",
+      "Chen Y"
+    ],
+    "lastauthor": "Chen Y",
+    "sortfirstauthor": "Wu T",
+    "journal": "Microbiology spectrum",
+    "issn": "",
+    "essn": "2165-0497",
+    "doi": "doi: 10.1128/spectrum.02536-25",
+    "sortpubdate": "2026/01/21 00:00",
+    "epubdate": "2026 Jan 21"
   }
 ]

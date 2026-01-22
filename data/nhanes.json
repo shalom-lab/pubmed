@@ -55089,7 +55089,7 @@
     "id": "41320917",
     "title": "Social Determinants of Health and Risk of Mortality in Adults with Gout or Hyperuricemia: Insights from the 1999-2018 NHANES.",
     "source": "Balkan Med J",
-    "pubdate": "2025 Nov 28",
+    "pubdate": "2026 Feb 2",
     "authors": [
       "Lin C",
       "Shao S",
@@ -55103,7 +55103,7 @@
     "issn": "2146-3123",
     "essn": "2146-3131",
     "doi": "doi: 10.4274/balkanmedj.galenos.2025.2025-6-149",
-    "sortpubdate": "2025/11/28 00:00",
+    "sortpubdate": "2026/02/02 00:00",
     "epubdate": "2025 Nov 28"
   },
   {
@@ -70222,5 +70222,30 @@
     "doi": "doi: 10.1080/25310429.2026.2619322",
     "sortpubdate": "2026/12/01 00:00",
     "epubdate": "2026 Jan 20"
+  },
+  {
+    "name": "NHANES",
+    "id": "41562602",
+    "title": "Environmental tobacco smoke exposure and pelvic inflammatory disease: a cross-sectional analysis of serum cotinine.",
+    "source": "J Obstet Gynaecol",
+    "pubdate": "2026 Dec",
+    "authors": [
+      "Ye M",
+      "Wu H",
+      "Shan F",
+      "Zhou Y",
+      "Zhou H",
+      "Yu J",
+      "Zhong Z",
+      "Wu Y"
+    ],
+    "lastauthor": "Wu Y",
+    "sortfirstauthor": "Ye M",
+    "journal": "Journal of obstetrics and gynaecology : the journal of the Institute of Obstetrics and Gynaecology",
+    "issn": "0144-3615",
+    "essn": "1364-6893",
+    "doi": "doi: 10.1080/01443615.2026.2617560",
+    "sortpubdate": "2026/12/01 00:00",
+    "epubdate": "2026 Jan 21"
   }
 ]
