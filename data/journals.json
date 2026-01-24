@@ -345,6 +345,7 @@
   {
     "source": "Int J Clin Pharm",
     "journal": "International journal of clinical pharmacy",
+    "issn": "2210-7703",
     "essn": "2210-7711"
   },
   {
@@ -11495,5 +11496,17 @@
     "journal": "American journal of health-system pharmacy : AJHP : official journal of the American Society of Health-System Pharmacists",
     "issn": "1079-2082",
     "essn": "1535-2900"
+  },
+  {
+    "source": "Tumori",
+    "journal": "Tumori",
+    "issn": "0300-8916",
+    "essn": "2038-2529"
+  },
+  {
+    "source": "J Hepatobiliary Pancreat Sci",
+    "journal": "Journal of hepato-biliary-pancreatic sciences",
+    "issn": "1868-6974",
+    "essn": "1868-6982"
   }
 ]

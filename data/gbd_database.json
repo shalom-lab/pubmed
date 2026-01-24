@@ -876,7 +876,7 @@
     "lastauthor": "Guo J",
     "sortfirstauthor": "Hu M",
     "journal": "International journal of clinical pharmacy",
-    "issn": "",
+    "issn": "2210-7703",
     "essn": "2210-7711",
     "doi": "doi: 10.1007/s11096-025-01961-9",
     "sortpubdate": "2026/02/01 00:00",
@@ -27652,22 +27652,22 @@
   {
     "name": "GBD database",
     "id": "41120037",
-    "title": "Minimum wage policies and obstetric disorders in the U.S.",
+    "title": "Minimum Wage Policies and Obstetric Disorders in the U.S.",
     "source": "Am J Prev Med",
-    "pubdate": "2025 Oct 19",
+    "pubdate": "2026 Feb",
     "authors": [
       "McGovern ME",
       "Rokicki S",
       "Ahn H",
-      "Reichman N"
+      "Reichman NE"
     ],
-    "lastauthor": "Reichman N",
+    "lastauthor": "Reichman NE",
     "sortfirstauthor": "McGovern ME",
     "journal": "American journal of preventive medicine",
     "issn": "0749-3797",
     "essn": "1873-2607",
     "doi": "doi: 10.1016/j.amepre.2025.108156",
-    "sortpubdate": "2025/10/19 00:00",
+    "sortpubdate": "2026/02/01 00:00",
     "epubdate": "2025 Oct 19"
   },
   {
@@ -50276,5 +50276,120 @@
     "doi": "doi: 10.1186/s13690-025-01824-9",
     "sortpubdate": "2026/01/21 00:00",
     "epubdate": "2026 Jan 21"
+  },
+  {
+    "name": "GBD database",
+    "id": "41576321",
+    "title": "The Norwegian Adult Mental Health Registry for Quality Control in Specialized Mental Health Services: Protocol for a Nationwide Naturalistic Study.",
+    "source": "JMIR Res Protoc",
+    "pubdate": "2026 Jan 23",
+    "authors": [
+      "Tjora T",
+      "Jensen K",
+      "Dieset I",
+      "Fjukstad KK",
+      "Holman PA",
+      "Tesli M",
+      "Joa I"
+    ],
+    "lastauthor": "Joa I",
+    "sortfirstauthor": "Tjora T",
+    "journal": "JMIR research protocols",
+    "issn": "",
+    "essn": "1929-0748",
+    "doi": "doi: 10.2196/82696",
+    "sortpubdate": "2026/01/23 00:00",
+    "epubdate": "2026 Jan 23"
+  },
+  {
+    "name": "GBD database",
+    "id": "41572884",
+    "title": "Incidence, mortality and risk factors of hematologic malignancies in China from 1990 to 2021: A systematic analysis for the GBD 2021.",
+    "source": "Tumori",
+    "pubdate": "2026 Jan 23",
+    "authors": [
+      "Gan D",
+      "Lin J",
+      "Zeng J",
+      "Fan J",
+      "Pan Z"
+    ],
+    "lastauthor": "Pan Z",
+    "sortfirstauthor": "Gan D",
+    "journal": "Tumori",
+    "issn": "0300-8916",
+    "essn": "2038-2529",
+    "doi": "doi: 10.1177/03008916251410092",
+    "sortpubdate": "2026/01/23 00:00",
+    "epubdate": "2026 Jan 23"
+  },
+  {
+    "name": "GBD database",
+    "id": "41572410",
+    "title": "Endoscopic and Fluoroscopic Landmarks for Preventing Pyloric Obstruction During Transgastric LAMS Deployment in EUS-Guided Gallbladder Drainage.",
+    "source": "J Hepatobiliary Pancreat Sci",
+    "pubdate": "2026 Jan 22",
+    "authors": [
+      "Toyonaga H",
+      "Nakagawa T",
+      "Masaki M",
+      "Nakata H",
+      "Takayama S",
+      "Takayama T",
+      "Orino M",
+      "Matsumoto H",
+      "Shimatani M"
+    ],
+    "lastauthor": "Shimatani M",
+    "sortfirstauthor": "Toyonaga H",
+    "journal": "Journal of hepato-biliary-pancreatic sciences",
+    "issn": "1868-6974",
+    "essn": "1868-6982",
+    "doi": "doi: 10.1002/jhbp.70068",
+    "sortpubdate": "2026/01/22 00:00",
+    "epubdate": "2026 Jan 22"
+  },
+  {
+    "name": "GBD database",
+    "id": "40825656",
+    "title": "Global trends in cataract burden: a 30-year epidemiological analysis and prediction of 2050 from the Global Burden of Disease 2021 study.",
+    "source": "Br J Ophthalmol",
+    "pubdate": "2026 Jan 22",
+    "authors": [
+      "Jiang X",
+      "Xu B",
+      "Zhai J",
+      "Huang S",
+      "Cheng H",
+      "Ma L",
+      "Zhao YE"
+    ],
+    "lastauthor": "Zhao YE",
+    "sortfirstauthor": "Jiang X",
+    "journal": "The British journal of ophthalmology",
+    "issn": "0007-1161",
+    "essn": "1468-2079",
+    "doi": "doi: 10.1136/bjo-2025-327776",
+    "sortpubdate": "2026/01/22 00:00",
+    "epubdate": "2026 Jan 22"
+  },
+  {
+    "name": "GBD database",
+    "id": "41571216",
+    "title": "National burden and future projections of hypertensive heart disease in China: a GBD 2021 analysis.",
+    "source": "Curr Probl Cardiol",
+    "pubdate": "2026 Jan 20",
+    "authors": [
+      "Wu R",
+      "Zhong X"
+    ],
+    "lastauthor": "Zhong X",
+    "sortfirstauthor": "Wu R",
+    "journal": "Current problems in cardiology",
+    "issn": "0146-2806",
+    "essn": "1535-6280",
+    "doi": "doi: 10.1016/j.cpcardiol.2026.103273",
+    "sortpubdate": "2026/01/20 00:00",
+    "epubdate": "2026 Jan 20"
   }
 ]
