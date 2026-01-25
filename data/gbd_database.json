@@ -38639,7 +38639,7 @@
     "id": "41315731",
     "title": "The burden of near vision loss from 1990 to 2021, and projections until 2032-findings from the Global Burden of Disease Study 2021.",
     "source": "Eye (Lond)",
-    "pubdate": "2025 Nov 28",
+    "pubdate": "2026 Feb",
     "authors": [
       "Gao TT",
       "Mu XY",
@@ -38652,7 +38652,7 @@
     "issn": "0950-222X",
     "essn": "1476-5454",
     "doi": "doi: 10.1038/s41433-025-04134-0",
-    "sortpubdate": "2025/11/28 00:00",
+    "sortpubdate": "2026/02/01 00:00",
     "epubdate": "2025 Nov 28"
   },
   {
@@ -50391,5 +50391,105 @@
     "doi": "doi: 10.1016/j.cpcardiol.2026.103273",
     "sortpubdate": "2026/01/20 00:00",
     "epubdate": "2026 Jan 20"
+  },
+  {
+    "name": "GBD database",
+    "id": "41578558",
+    "title": "Dementia burden among women in China: A cross-national comparative analysis with the United States and Japan using GBD 2021.",
+    "source": "Medicine (Baltimore)",
+    "pubdate": "2026 Jan 23",
+    "authors": [
+      "Li Z",
+      "Xiu W",
+      "Duan J",
+      "Zhang Y",
+      "Dou X",
+      "Zhang J",
+      "Sheng G",
+      "Liu Y"
+    ],
+    "lastauthor": "Liu Y",
+    "sortfirstauthor": "Li Z",
+    "journal": "Medicine",
+    "issn": "0025-7974",
+    "essn": "1536-5964",
+    "doi": "doi: 10.1097/MD.0000000000047361",
+    "sortpubdate": "2026/01/23 00:00",
+    "epubdate": ""
+  },
+  {
+    "name": "GBD database",
+    "id": "41578531",
+    "title": "Multiple sclerosis burden and quality of care index in China and the G20 (1990-2021): A cross-regional analysis using global burden of disease database 2021.",
+    "source": "Medicine (Baltimore)",
+    "pubdate": "2026 Jan 23",
+    "authors": [
+      "Liao H",
+      "Zhu X",
+      "Chen C",
+      "Dun L",
+      "Huang Y",
+      "Ma Y",
+      "Wang H",
+      "Yan H",
+      "Li G",
+      "Zhou Z"
+    ],
+    "lastauthor": "Zhou Z",
+    "sortfirstauthor": "Liao H",
+    "journal": "Medicine",
+    "issn": "0025-7974",
+    "essn": "1536-5964",
+    "doi": "doi: 10.1097/MD.0000000000047260",
+    "sortpubdate": "2026/01/23 00:00",
+    "epubdate": ""
+  },
+  {
+    "name": "GBD database",
+    "id": "41578459",
+    "title": "Global burden of leukemia in women of child-bearing age, 1990 to 2021: An update from the Global Burden of Disease Study 2021.",
+    "source": "Medicine (Baltimore)",
+    "pubdate": "2026 Jan 23",
+    "authors": [
+      "Chen XB",
+      "Yang ZH",
+      "Ling WJ",
+      "Feng QJ",
+      "Lu ZY"
+    ],
+    "lastauthor": "Lu ZY",
+    "sortfirstauthor": "Chen XB",
+    "journal": "Medicine",
+    "issn": "0025-7974",
+    "essn": "1536-5964",
+    "doi": "doi: 10.1097/MD.0000000000047217",
+    "sortpubdate": "2026/01/23 00:00",
+    "epubdate": ""
+  },
+  {
+    "name": "GBD database",
+    "id": "41577370",
+    "title": "Ethnic variation in thoracic aortic dimensions in the general population: a comparison between Indian and Dutch populations.",
+    "source": "Open Heart",
+    "pubdate": "2026 Jan 23",
+    "authors": [
+      "Bacour N",
+      "Idhrees M",
+      "Samraj J",
+      "Grewal S",
+      "Velayudhan B",
+      "Busra Celik N",
+      "Zafar M",
+      "Elefteriades JA",
+      "Grewal N"
+    ],
+    "lastauthor": "Grewal N",
+    "sortfirstauthor": "Bacour N",
+    "journal": "Open heart",
+    "issn": "2053-3624",
+    "essn": "",
+    "doi": "pii: e003808. doi: 10.1136/openhrt-2025-003808",
+    "sortpubdate": "2026/01/23 00:00",
+    "epubdate": "2026 Jan 23"
   }
 ]

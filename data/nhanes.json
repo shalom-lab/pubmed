@@ -62138,7 +62138,7 @@
     "id": "41406899",
     "title": "Combined associations of protein intake and resistance exercise with handgrip strength in postmenopausal women.",
     "source": "Maturitas",
-    "pubdate": "2025 Dec 12",
+    "pubdate": "2026 Feb",
     "authors": [
       "Baek JK",
       "Kim HR",
@@ -62152,7 +62152,7 @@
     "issn": "0378-5122",
     "essn": "1873-4111",
     "doi": "doi: 10.1016/j.maturitas.2025.108808",
-    "sortpubdate": "2025/12/12 00:00",
+    "sortpubdate": "2026/02/01 00:00",
     "epubdate": "2025 Dec 12"
   },
   {
@@ -66925,7 +66925,7 @@
     "id": "41478066",
     "title": "Do the associations of sedentary time with colorectal cancer risk differ by physical activity level and vice versa? A cross-sectional study of two large population-based surveys.",
     "source": "Public Health",
-    "pubdate": "2025 Dec 31",
+    "pubdate": "2026 Feb",
     "authors": [
       "Ma Y",
       "Wu X",
@@ -66945,7 +66945,7 @@
     "issn": "0033-3506",
     "essn": "1476-5616",
     "doi": "doi: 10.1016/j.puhe.2025.106115",
-    "sortpubdate": "2025/12/31 00:00",
+    "sortpubdate": "2026/02/01 00:00",
     "epubdate": "2025 Dec 31"
   },
   {
@@ -68733,7 +68733,7 @@
     "id": "41500113",
     "title": "Low socioeconomic status as a major risk factor for early-onset type 2 diabetes with limited lifestyle mediation: Cross-Sectional evidence from US and South Korean populations.",
     "source": "Soc Sci Med",
-    "pubdate": "2026 Jan 5",
+    "pubdate": "2026 Feb",
     "authors": [
       "Liu S",
       "Liu T",
@@ -68751,7 +68751,7 @@
     "issn": "0277-9536",
     "essn": "1873-5347",
     "doi": "doi: 10.1016/j.socscimed.2026.118939",
-    "sortpubdate": "2026/01/05 00:00",
+    "sortpubdate": "2026/02/01 00:00",
     "epubdate": "2026 Jan 5"
   },
   {
@@ -70266,5 +70266,24 @@
     "doi": "doi: 10.18240/ijo.2026.02.20",
     "sortpubdate": "2026/02/18 00:00",
     "epubdate": "2026 Feb 18"
+  },
+  {
+    "name": "NHANES",
+    "id": "41578995",
+    "title": "Network modeling of the relationship between intestinal symptoms and depression: A cross-sectional study using NHANES data.",
+    "source": "Appl Nurs Res",
+    "pubdate": "2026 Feb",
+    "authors": [
+      "Ye Q",
+      "Liu Y"
+    ],
+    "lastauthor": "Liu Y",
+    "sortfirstauthor": "Ye Q",
+    "journal": "Applied nursing research : ANR",
+    "issn": "0897-1897",
+    "essn": "1532-8201",
+    "doi": "doi: 10.1016/j.apnr.2025.152028",
+    "sortpubdate": "2026/02/01 00:00",
+    "epubdate": "2025 Nov 19"
   }
 ]
