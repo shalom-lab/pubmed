@@ -50491,5 +50491,46 @@
     "doi": "pii: e003808. doi: 10.1136/openhrt-2025-003808",
     "sortpubdate": "2026/01/23 00:00",
     "epubdate": "2026 Jan 23"
+  },
+  {
+    "name": "GBD database",
+    "id": "41580901",
+    "title": "The global burden of post-adolescent acne: an analysis of trends in adults aged 25-49 years from 1990 to 2021.",
+    "source": "J Dtsch Dermatol Ges",
+    "pubdate": "2026 Jan 24",
+    "authors": [
+      "Xiao Z",
+      "Chen W",
+      "Dong H",
+      "Liu H",
+      "Li X",
+      "Li H"
+    ],
+    "lastauthor": "Li H",
+    "sortfirstauthor": "Xiao Z",
+    "journal": "Journal der Deutschen Dermatologischen Gesellschaft = Journal of the German Society of Dermatology : JDDG",
+    "issn": "1610-0379",
+    "essn": "1610-0387",
+    "doi": "doi: 10.1111/ddg.15962",
+    "sortpubdate": "2026/01/24 00:00",
+    "epubdate": "2026 Jan 24"
+  },
+  {
+    "name": "GBD database",
+    "id": "41579872",
+    "title": "Burden of chronic respiratory disease in Asia, 1990-2023: a systematic analysis for the Global Burden of Disease Study 2023.",
+    "source": "Lancet Respir Med",
+    "pubdate": "2026 Jan 21",
+    "authors": [
+      "GBD 2023 Asia Chronic Respiratory Disease Collaborators"
+    ],
+    "lastauthor": "GBD 2023 Asia Chronic Respiratory Disease Collaborators",
+    "sortfirstauthor": "GBD 2023 Asia Chronic Respiratory Disease Collaborators",
+    "journal": "The Lancet. Respiratory medicine",
+    "issn": "2213-2600",
+    "essn": "2213-2619",
+    "doi": "pii: S2213-2600(25)00404-7. doi: 10.1016/S2213-2600(25)00404-7",
+    "sortpubdate": "2026/01/21 00:00",
+    "epubdate": "2026 Jan 21"
   }
 ]
