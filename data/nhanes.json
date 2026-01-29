@@ -62989,7 +62989,7 @@
     "id": "41423855",
     "title": "Underdocumentation of Obesity in the National Inpatient Sample.",
     "source": "Obesity (Silver Spring)",
-    "pubdate": "2025 Dec 21",
+    "pubdate": "2026 Feb",
     "authors": [
       "Arnold Z",
       "Dang P",
@@ -63002,7 +63002,7 @@
     "issn": "1930-7381",
     "essn": "1930-739X",
     "doi": "doi: 10.1002/oby.70111",
-    "sortpubdate": "2025/12/21 00:00",
+    "sortpubdate": "2026/02/01 00:00",
     "epubdate": "2025 Dec 21"
   },
   {
@@ -65029,7 +65029,7 @@
     "id": "41457993",
     "title": "Grip strength-to-weight ratio, all-cause and cardiovascular mortality, and cardiovascular disease prevalence: Evidence from NHANES and CHARLS.",
     "source": "Am J Prev Cardiol",
-    "pubdate": "2026 Mar",
+    "pubdate": "2026 Feb",
     "authors": [
       "Li J",
       "Sui JN",
@@ -67588,7 +67588,7 @@
     "id": "41492264",
     "title": "Social determinants of health, life's essential 8 metrics, and cardiovascular morbidity and mortality: a nationwide cohort study.",
     "source": "Am J Prev Cardiol",
-    "pubdate": "2026 Mar",
+    "pubdate": "2026 Feb",
     "authors": [
       "Xu Y",
       "Zhang X",
@@ -70308,5 +70308,24 @@
     "doi": "doi: 10.1080/0886022X.2025.2611520",
     "sortpubdate": "2026/12/01 00:00",
     "epubdate": "2026 Jan 25"
+  },
+  {
+    "name": "NHANES",
+    "id": "41585601",
+    "title": "Influence of concurrent use of conventional and E-cigarettes on rheumatoid arthritis risk among Korean adults: Findings from KNHANES 2015-2021.",
+    "source": "Prev Med Rep",
+    "pubdate": "2026 Feb",
+    "authors": [
+      "Lee SY",
+      "Lee H"
+    ],
+    "lastauthor": "Lee H",
+    "sortfirstauthor": "Lee SY",
+    "journal": "Preventive medicine reports",
+    "issn": "2211-3355",
+    "essn": "2211-3355",
+    "doi": "doi: 10.1016/j.pmedr.2025.103362",
+    "sortpubdate": "2025/12/23 00:00",
+    "epubdate": "2025 Dec 23"
   }
 ]

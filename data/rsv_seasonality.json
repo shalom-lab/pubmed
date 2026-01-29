@@ -5506,5 +5506,100 @@
     "doi": "doi: 10.1186/s12879-025-12355-7",
     "sortpubdate": "2025/12/18 00:00",
     "epubdate": "2025 Dec 18"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "41593852",
+    "title": "Continued High Levels of Invasive Streptococcus pyogenes Infections in Belgian Children Under 5 Years: Exploring Different Contributing Factors.",
+    "source": "Pediatr Infect Dis J",
+    "pubdate": "2026 Jan 28",
+    "authors": [
+      "Cornelissen L",
+      "De Keersmaeker F",
+      "De Koster S",
+      "van Kleef-van Koeveringe S",
+      "Matheeussen V",
+      "Smeesters PR"
+    ],
+    "lastauthor": "Smeesters PR",
+    "sortfirstauthor": "Cornelissen L",
+    "journal": "The Pediatric infectious disease journal",
+    "issn": "0891-3668",
+    "essn": "1532-0987",
+    "doi": "doi: 10.1097/INF.0000000000005165",
+    "sortpubdate": "2026/01/28 00:00",
+    "epubdate": "2026 Jan 28"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "41600887",
+    "title": "Respiratory Syncytial Virus Prevalence and Genotypic Distribution in the Countries of the Former Soviet Union: A Systematic Review and Meta-Analysis.",
+    "source": "Viruses",
+    "pubdate": "2026 Jan 19",
+    "authors": [
+      "Maslov DE",
+      "Osipov ID",
+      "Zabelina DS",
+      "Pak AA",
+      "Netesov SV"
+    ],
+    "lastauthor": "Netesov SV",
+    "sortfirstauthor": "Maslov DE",
+    "journal": "Viruses",
+    "issn": "",
+    "essn": "1999-4915",
+    "doi": "pii: 126. doi: 10.3390/v18010126",
+    "sortpubdate": "2026/01/19 00:00",
+    "epubdate": "2026 Jan 19"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "41597669",
+    "title": "A One-Year Wastewater-Based Surveillance Study of the Main Human Respiratory Viruses in a Middle-Size Spanish City During the COVID-19 Pandemic Period.",
+    "source": "Microorganisms",
+    "pubdate": "2026 Jan 9",
+    "authors": [
+      "Casado-Martín L",
+      "Hernández M",
+      "González-Peña MJ",
+      "Alves-Elois M",
+      "Yeramian N",
+      "Fongaro G",
+      "Eiros JM",
+      "Rodríguez-Lázaro D"
+    ],
+    "lastauthor": "Rodríguez-Lázaro D",
+    "sortfirstauthor": "Casado-Martín L",
+    "journal": "Microorganisms",
+    "issn": "2076-2607",
+    "essn": "",
+    "doi": "pii: 151. doi: 10.3390/microorganisms14010151",
+    "sortpubdate": "2026/01/09 00:00",
+    "epubdate": "2026 Jan 9"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "41600791",
+    "title": "Tracking Respiratory Viruses in Pakistan (2022-2025): Genomic and Epidemiologic Insights from Sentinel Surveillance of Influenza, SARS-CoV-2, and RSV.",
+    "source": "Viruses",
+    "pubdate": "2025 Dec 23",
+    "authors": [
+      "Badar N",
+      "Ahad A",
+      "Mirza HA",
+      "Hanan F",
+      "Javaid A",
+      "Amanat A",
+      "Saghir Z",
+      "Salman M"
+    ],
+    "lastauthor": "Salman M",
+    "sortfirstauthor": "Badar N",
+    "journal": "Viruses",
+    "issn": "",
+    "essn": "1999-4915",
+    "doi": "pii: 26. doi: 10.3390/v18010026",
+    "sortpubdate": "2025/12/23 00:00",
+    "epubdate": "2025 Dec 23"
   }
 ]

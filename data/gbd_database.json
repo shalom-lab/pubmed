@@ -39223,7 +39223,7 @@
     "id": "41329033",
     "title": "A Comparative Study of the Global Burden of Prostate Cancer (1990-2021): Emphasis on the Disparities Between the United States and China.",
     "source": "Prostate",
-    "pubdate": "2025 Dec 2",
+    "pubdate": "2026 Mar",
     "authors": [
       "Li J",
       "Wu Y",
@@ -39240,7 +39240,7 @@
     "issn": "0270-4137",
     "essn": "1097-0045",
     "doi": "doi: 10.1002/pros.70104",
-    "sortpubdate": "2025/12/02 00:00",
+    "sortpubdate": "2026/03/01 00:00",
     "epubdate": "2025 Dec 2"
   },
   {
@@ -47287,7 +47287,7 @@
     "id": "41479247",
     "title": "Vascular dementia: World Stroke Organization fact sheet 2026.",
     "source": "Int J Stroke",
-    "pubdate": "2026 Jan 1",
+    "pubdate": "2026 Feb",
     "authors": [
       "Cai Y",
       "Mok VCT",
@@ -47299,7 +47299,7 @@
     "issn": "1747-4930",
     "essn": "1747-4949",
     "doi": "doi: 10.1177/17474930251404243",
-    "sortpubdate": "2026/01/01 00:00",
+    "sortpubdate": "2026/02/01 00:00",
     "epubdate": "2026 Jan 1"
   },
   {
@@ -47484,7 +47484,7 @@
     "id": "41483634",
     "title": "Epidemiological trends and sex-specific disparities in stroke incidence, prevalence, years lived with disability (YLDs), and years of life lost (YLLs) across the African Union: insights from the Global Burden of Disease Study (1990-2023).",
     "source": "J Clin Neurosci",
-    "pubdate": "2026 Jan 2",
+    "pubdate": "2026 Mar",
     "authors": [
       "Khalil I",
       "Al-Badri SG",
@@ -47501,7 +47501,7 @@
     "issn": "0967-5868",
     "essn": "1532-2653",
     "doi": "doi: 10.1016/j.jocn.2025.111828",
-    "sortpubdate": "2026/01/02 00:00",
+    "sortpubdate": "2026/03/01 00:00",
     "epubdate": "2026 Jan 2"
   },
   {
@@ -48358,7 +48358,7 @@
     "id": "41503281",
     "title": "Global burden of ischemic heart disease attributable to temperature extremes in adults aged 40 years and older: Trends, inequalities, and projections (1990-2050).",
     "source": "Am J Prev Cardiol",
-    "pubdate": "2026 Mar",
+    "pubdate": "2026 Feb",
     "authors": [
       "Zuo Z",
       "Yang Q",
@@ -50532,5 +50532,250 @@
     "doi": "pii: S2213-2600(25)00404-7. doi: 10.1016/S2213-2600(25)00404-7",
     "sortpubdate": "2026/01/21 00:00",
     "epubdate": "2026 Jan 21"
+  },
+  {
+    "name": "GBD database",
+    "id": "41585606",
+    "title": "Epidemiologic trajectories and burden of multidrug-resistant tuberculosis (MDR-TB) mortality across South Asia: An analysis of Global Burden of Disease data (1990-2023) with machine learning forecasting to 2050.",
+    "source": "J Clin Tuberc Other Mycobact Dis",
+    "pubdate": "2026 Feb",
+    "authors": [
+      "Khalil I",
+      "Abrar S",
+      "Khalid Reza IM",
+      "Hossain MI",
+      "Akter MM",
+      "Sultana F"
+    ],
+    "lastauthor": "Sultana F",
+    "sortfirstauthor": "Khalil I",
+    "journal": "Journal of clinical tuberculosis and other mycobacterial diseases",
+    "issn": "",
+    "essn": "2405-5794",
+    "doi": "doi: 10.1016/j.jctube.2026.100580",
+    "sortpubdate": "2026/01/07 00:00",
+    "epubdate": "2026 Jan 7"
+  },
+  {
+    "name": "GBD database",
+    "id": "41422874",
+    "title": "A global health crisis in young adults: 30-Year trends in high BMI-related early-onset cancer mortality.",
+    "source": "Ann Epidemiol",
+    "pubdate": "2026 Feb",
+    "authors": [
+      "Kundu R",
+      "Kundu R",
+      "Mukherjee S"
+    ],
+    "lastauthor": "Mukherjee S",
+    "sortfirstauthor": "Kundu R",
+    "journal": "Annals of epidemiology",
+    "issn": "1047-2797",
+    "essn": "1873-2585",
+    "doi": "doi: 10.1016/j.annepidem.2025.12.006",
+    "sortpubdate": "2026/02/01 00:00",
+    "epubdate": "2025 Dec 19"
+  },
+  {
+    "name": "GBD database",
+    "id": "41603332",
+    "title": "Analysis of trends and driving factors in burden of Alzheimer's disease and other dementias from 1990 to 2021 and projections for 2050: A comprehensive perspective based on GBD 2021.",
+    "source": "J Alzheimers Dis",
+    "pubdate": "2026 Jan 28",
+    "authors": [
+      "Xu C",
+      "Zhang K",
+      "Shi W",
+      "Mubarik S",
+      "Zhang S",
+      "Fu J",
+      "Li N",
+      "Wang F"
+    ],
+    "lastauthor": "Wang F",
+    "sortfirstauthor": "Xu C",
+    "journal": "Journal of Alzheimer's disease : JAD",
+    "issn": "1387-2877",
+    "essn": "1875-8908",
+    "doi": "doi: 10.1177/13872877261415634",
+    "sortpubdate": "2026/01/28 00:00",
+    "epubdate": "2026 Jan 28"
+  },
+  {
+    "name": "GBD database",
+    "id": "41589728",
+    "title": "Declining but uneven: global evolution of maternal hemorrhage burden and its future trajectory.",
+    "source": "J Perinat Med",
+    "pubdate": "2026 Jan 28",
+    "authors": [
+      "Wang H"
+    ],
+    "lastauthor": "Wang H",
+    "sortfirstauthor": "Wang H",
+    "journal": "Journal of perinatal medicine",
+    "issn": "0300-5577",
+    "essn": "1619-3997",
+    "doi": "doi: 10.1515/jpm-2025-0601",
+    "sortpubdate": "2026/01/28 00:00",
+    "epubdate": "2026 Jan 28"
+  },
+  {
+    "name": "GBD database",
+    "id": "41593676",
+    "title": "The disease burden of cancer attributable to smoking worldwide from 1990 to 2021: an analysis of the global burden of disease study 2021.",
+    "source": "World J Surg Oncol",
+    "pubdate": "2026 Jan 27",
+    "authors": [
+      "Wei ZL",
+      "Zhou X",
+      "Liao XW",
+      "Wei YG",
+      "Huang HS",
+      "Lan CL",
+      "Xie HX",
+      "Peng T"
+    ],
+    "lastauthor": "Peng T",
+    "sortfirstauthor": "Wei ZL",
+    "journal": "World journal of surgical oncology",
+    "issn": "",
+    "essn": "1477-7819",
+    "doi": "doi: 10.1186/s12957-026-04197-7",
+    "sortpubdate": "2026/01/27 00:00",
+    "epubdate": "2026 Jan 27"
+  },
+  {
+    "name": "GBD database",
+    "id": "41591995",
+    "title": "Global Burden of Ischemic Stroke Attributable to High Sugar-Sweetened Beverages Consumption from 1990 to 2021 and Projections to 2045.",
+    "source": "Neuroepidemiology",
+    "pubdate": "2026 Jan 27",
+    "authors": [
+      "Xue C",
+      "Chen X",
+      "Mao Z",
+      "Ma C",
+      "Ji X",
+      "Cao N",
+      "Shen X"
+    ],
+    "lastauthor": "Shen X",
+    "sortfirstauthor": "Xue C",
+    "journal": "Neuroepidemiology",
+    "issn": "0251-5350",
+    "essn": "1423-0208",
+    "doi": "doi: 10.1159/000549818",
+    "sortpubdate": "2026/01/27 00:00",
+    "epubdate": "2026 Jan 27"
+  },
+  {
+    "name": "GBD database",
+    "id": "41591986",
+    "title": "Childhood cancer burden and health inequality: A systematic analysis from the global burden of diseases study 2021.",
+    "source": "PLoS One",
+    "pubdate": "2026",
+    "authors": [
+      "Pei G",
+      "Yang Y",
+      "Wang S",
+      "Meng S",
+      "Liu J",
+      "Huang Y"
+    ],
+    "lastauthor": "Huang Y",
+    "sortfirstauthor": "Pei G",
+    "journal": "PloS one",
+    "issn": "",
+    "essn": "1932-6203",
+    "doi": "doi: 10.1371/journal.pone.0341303",
+    "sortpubdate": "2026/01/27 00:00",
+    "epubdate": "2026 Jan 27"
+  },
+  {
+    "name": "GBD database",
+    "id": "41591457",
+    "title": "Global, regional, and national patterns of change in the burden of Hodgkin lymphoma from 1990 to 2021: an analysis of the global burden of disease study 2021 and projections to 2035.",
+    "source": "Ann Hematol",
+    "pubdate": "2026 Jan 27",
+    "authors": [
+      "Pu H",
+      "Zhang J",
+      "Song Y"
+    ],
+    "lastauthor": "Song Y",
+    "sortfirstauthor": "Pu H",
+    "journal": "Annals of hematology",
+    "issn": "0939-5555",
+    "essn": "1432-0584",
+    "doi": "doi: 10.1007/s00277-026-06790-y",
+    "sortpubdate": "2026/01/27 00:00",
+    "epubdate": "2026 Jan 27"
+  },
+  {
+    "name": "GBD database",
+    "id": "41588436",
+    "title": "Socioeconomic inequalities and dynamic changes in sex differences in lifetime risks of peptic ulcer disease.",
+    "source": "Biol Sex Differ",
+    "pubdate": "2026 Jan 27",
+    "authors": [
+      "Shi D",
+      "Li Y",
+      "Zheng R",
+      "Wang S",
+      "Chen R"
+    ],
+    "lastauthor": "Chen R",
+    "sortfirstauthor": "Shi D",
+    "journal": "Biology of sex differences",
+    "issn": "",
+    "essn": "2042-6410",
+    "doi": "doi: 10.1186/s13293-026-00832-w",
+    "sortpubdate": "2026/01/27 00:00",
+    "epubdate": "2026 Jan 27"
+  },
+  {
+    "name": "GBD database",
+    "id": "41587122",
+    "title": "Epidemiological trends of idiopathic epilepsy in Asia, 1990-2021: An analysis from the Global Burden of Disease Study 2021.",
+    "source": "Neuroepidemiology",
+    "pubdate": "2026 Jan 26",
+    "authors": [
+      "Zhou Y",
+      "Zhou B",
+      "Wang Y",
+      "Liu J",
+      "Fu S",
+      "Yang Z",
+      "Cai Y"
+    ],
+    "lastauthor": "Cai Y",
+    "sortfirstauthor": "Zhou Y",
+    "journal": "Neuroepidemiology",
+    "issn": "0251-5350",
+    "essn": "1423-0208",
+    "doi": "doi: 10.1159/000550383",
+    "sortpubdate": "2026/01/26 00:00",
+    "epubdate": "2026 Jan 26"
+  },
+  {
+    "name": "GBD database",
+    "id": "41586612",
+    "title": "Commentary on \"Global impact of pelvic inflammatory diseases attributable to sexually transmitted infections in women of childbearing age: a comprehensive analysis based on GBD 2021 data and bibliometric analysis\" (Letter).",
+    "source": "Int J Surg",
+    "pubdate": "2026 Jan 26",
+    "authors": [
+      "He Y",
+      "Xing B",
+      "Qin S",
+      "Liu W"
+    ],
+    "lastauthor": "Liu W",
+    "sortfirstauthor": "He Y",
+    "journal": "International journal of surgery (London, England)",
+    "issn": "",
+    "essn": "1743-9159",
+    "doi": "doi: 10.1097/JS9.0000000000004645",
+    "sortpubdate": "2026/01/26 00:00",
+    "epubdate": "2026 Jan 26"
   }
 ]
