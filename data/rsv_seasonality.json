@@ -5117,7 +5117,7 @@
     "id": "41483387",
     "title": "Comparative Diagnostic Performance of the 36-Minute STANDARD M10 Fast Assay for Molecular Diagnosis of SARS-CoV-2, Influenza A and B, and Respiratory Syncytial Virus in Near-Patient Settings.",
     "source": "Infect Dis Ther",
-    "pubdate": "2026 Jan 3",
+    "pubdate": "2026 Feb",
     "authors": [
       "Domnich A",
       "Garzillo G",
@@ -5132,7 +5132,7 @@
     "issn": "2193-8229",
     "essn": "2193-6382",
     "doi": "doi: 10.1007/s40121-025-01284-2",
-    "sortpubdate": "2026/01/03 00:00",
+    "sortpubdate": "2026/02/01 00:00",
     "epubdate": "2026 Jan 3"
   },
   {
@@ -5599,6 +5599,101 @@
     "issn": "",
     "essn": "1999-4915",
     "doi": "pii: 26. doi: 10.3390/v18010026",
+    "sortpubdate": "2025/12/23 00:00",
+    "epubdate": "2025 Dec 23"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "41600887",
+    "title": "Respiratory Syncytial Virus Prevalence and Genotypic Distribution in the Countries of the Former Soviet Union: A Systematic Review and Meta-Analysis.",
+    "source": "Viruses",
+    "pubdate": "2026 Jan 19",
+    "authors": [
+      "Maslov DE",
+      "Osipov ID",
+      "Zabelina DS",
+      "Pak AA",
+      "Netesov SV"
+    ],
+    "lastauthor": "Netesov SV",
+    "sortfirstauthor": "Maslov DE",
+    "journal": "Viruses",
+    "issn": "",
+    "essn": "1999-4915",
+    "doi": "doi: 10.3390/v18010126",
+    "sortpubdate": "2026/01/19 00:00",
+    "epubdate": "2026 Jan 19"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "41607524",
+    "title": "Six-year epidemiological dynamics of human respiratory syncytial virus infections in children in central China (2019-2024): pandemic suppression, 2023 resurgence, and immune debt effect.",
+    "source": "Front Cell Infect Microbiol",
+    "pubdate": "2025",
+    "authors": [
+      "Xia Z",
+      "Li X",
+      "Shen A",
+      "Mokrousov I",
+      "Guo P",
+      "Zhang Y"
+    ],
+    "lastauthor": "Zhang Y",
+    "sortfirstauthor": "Xia Z",
+    "journal": "Frontiers in cellular and infection microbiology",
+    "issn": "",
+    "essn": "2235-2988",
+    "doi": "doi: 10.3389/fcimb.2025.1691957",
+    "sortpubdate": "2026/01/13 00:00",
+    "epubdate": "2026 Jan 13"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "41597669",
+    "title": "A One-Year Wastewater-Based Surveillance Study of the Main Human Respiratory Viruses in a Middle-Size Spanish City During the COVID-19 Pandemic Period.",
+    "source": "Microorganisms",
+    "pubdate": "2026 Jan 9",
+    "authors": [
+      "Casado-Martín L",
+      "Hernández M",
+      "González-Peña MJ",
+      "Alves-Elois M",
+      "Yeramian N",
+      "Fongaro G",
+      "Eiros JM",
+      "Rodríguez-Lázaro D"
+    ],
+    "lastauthor": "Rodríguez-Lázaro D",
+    "sortfirstauthor": "Casado-Martín L",
+    "journal": "Microorganisms",
+    "issn": "2076-2607",
+    "essn": "2076-2607",
+    "doi": "doi: 10.3390/microorganisms14010151",
+    "sortpubdate": "2026/01/09 00:00",
+    "epubdate": "2026 Jan 9"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "41600791",
+    "title": "Tracking Respiratory Viruses in Pakistan (2022-2025): Genomic and Epidemiologic Insights from Sentinel Surveillance of Influenza, SARS-CoV-2, and RSV.",
+    "source": "Viruses",
+    "pubdate": "2025 Dec 23",
+    "authors": [
+      "Badar N",
+      "Ahad A",
+      "Mirza HA",
+      "Hanan F",
+      "Javaid A",
+      "Amanat A",
+      "Saghir Z",
+      "Salman M"
+    ],
+    "lastauthor": "Salman M",
+    "sortfirstauthor": "Badar N",
+    "journal": "Viruses",
+    "issn": "",
+    "essn": "1999-4915",
+    "doi": "doi: 10.3390/v18010026",
     "sortpubdate": "2025/12/23 00:00",
     "epubdate": "2025 Dec 23"
   }

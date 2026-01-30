@@ -4059,7 +4059,7 @@
     "id": "41432982",
     "title": "Prevalence of Respiratory Syncytial Virus in Adult Patients with Respiratory Illnesses in Low to Middle-Income Countries: A Systematic Review and Meta-Analyses.",
     "source": "Infect Dis Ther",
-    "pubdate": "2025 Dec 23",
+    "pubdate": "2026 Feb",
     "authors": [
       "Gupta D",
       "Kaur A",
@@ -4074,7 +4074,7 @@
     "issn": "2193-8229",
     "essn": "2193-6382",
     "doi": "doi: 10.1007/s40121-025-01265-5",
-    "sortpubdate": "2025/12/23 00:00",
+    "sortpubdate": "2026/02/01 00:00",
     "epubdate": "2025 Dec 23"
   },
   {
@@ -4499,6 +4499,51 @@
     "issn": "",
     "essn": "2414-6366",
     "doi": "pii: 10. doi: 10.3390/tropicalmed11010010",
+    "sortpubdate": "2025/12/29 00:00",
+    "epubdate": "2025 Dec 29"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "41607524",
+    "title": "Six-year epidemiological dynamics of human respiratory syncytial virus infections in children in central China (2019-2024): pandemic suppression, 2023 resurgence, and immune debt effect.",
+    "source": "Front Cell Infect Microbiol",
+    "pubdate": "2025",
+    "authors": [
+      "Xia Z",
+      "Li X",
+      "Shen A",
+      "Mokrousov I",
+      "Guo P",
+      "Zhang Y"
+    ],
+    "lastauthor": "Zhang Y",
+    "sortfirstauthor": "Xia Z",
+    "journal": "Frontiers in cellular and infection microbiology",
+    "issn": "",
+    "essn": "2235-2988",
+    "doi": "doi: 10.3389/fcimb.2025.1691957",
+    "sortpubdate": "2026/01/13 00:00",
+    "epubdate": "2026 Jan 13"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "41591219",
+    "title": "Analysis of the Specific Expression Profile of Immune Cells in Infants and Young Children Infected with RSV and Construction of a Disease Prediction Model.",
+    "source": "Trop Med Infect Dis",
+    "pubdate": "2025 Dec 29",
+    "authors": [
+      "Ren K",
+      "Sun H",
+      "Ren T",
+      "Ma K",
+      "Chen J"
+    ],
+    "lastauthor": "Chen J",
+    "sortfirstauthor": "Ren K",
+    "journal": "Tropical medicine and infectious disease",
+    "issn": "",
+    "essn": "2414-6366",
+    "doi": "doi: 10.3390/tropicalmed11010010",
     "sortpubdate": "2025/12/29 00:00",
     "epubdate": "2025 Dec 29"
   }
