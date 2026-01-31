@@ -4223,7 +4223,7 @@
     "id": "41501610",
     "title": "Reduced Emergency Department Visits and Hospitalizations in Infants after Universal Respiratory Syncytial Virus Immunization, Italy, 2024-25.",
     "source": "Emerg Infect Dis",
-    "pubdate": "2026 Jan 7",
+    "pubdate": "2026 Jan",
     "authors": [
       "Villa S",
       "Scarioni S",
@@ -4253,7 +4253,7 @@
     "issn": "1080-6040",
     "essn": "1080-6059",
     "doi": "doi: 10.3201/eid3201.250870",
-    "sortpubdate": "2026/01/07 00:00",
+    "sortpubdate": "2026/01/01 00:00",
     "epubdate": "2026 Jan 7"
   },
   {
@@ -4546,5 +4546,31 @@
     "doi": "doi: 10.3390/tropicalmed11010010",
     "sortpubdate": "2025/12/29 00:00",
     "epubdate": "2025 Dec 29"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "41612695",
+    "title": "Highly Efficient and Durable Th1-Biased Protective Immunity Induced by a Novel mRNA-LNP Vaccine Against RSV via AI-Assisted Antigen Screening.",
+    "source": "Mol Ther",
+    "pubdate": "2026 Jan 28",
+    "authors": [
+      "Dong K",
+      "Liu F",
+      "Zhang M",
+      "Zhou Y",
+      "Yu F",
+      "Wang W",
+      "Chai X",
+      "Li J",
+      "Song G"
+    ],
+    "lastauthor": "Song G",
+    "sortfirstauthor": "Dong K",
+    "journal": "Molecular therapy : the journal of the American Society of Gene Therapy",
+    "issn": "1525-0016",
+    "essn": "1525-0024",
+    "doi": "pii: S1525-0016(26)00032-8. doi: 10.1016/j.ymthe.2026.01.031",
+    "sortpubdate": "2026/01/28 00:00",
+    "epubdate": "2026 Jan 28"
   }
 ]

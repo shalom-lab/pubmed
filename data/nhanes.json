@@ -66469,7 +66469,7 @@
     "id": "41475567",
     "title": "Weight control methods and risk of generalized anxiety disorder (GAD-7) among Korean adults.",
     "source": "J Affect Disord",
-    "pubdate": "2025 Dec 29",
+    "pubdate": "2026 Apr 15",
     "authors": [
       "Lee S"
     ],
@@ -66479,7 +66479,7 @@
     "issn": "0165-0327",
     "essn": "1573-2517",
     "doi": "doi: 10.1016/j.jad.2025.121071",
-    "sortpubdate": "2025/12/29 00:00",
+    "sortpubdate": "2026/04/15 00:00",
     "epubdate": "2025 Dec 29"
   },
   {
@@ -67770,12 +67770,12 @@
     "id": "41490658",
     "title": "Estrogen receptor-autophagy axis protects the heart, aorta and kidneys during perimenopausal aging: Evidence from human cohort and mouse experiments.",
     "source": "Life Sci",
-    "pubdate": "2026 Jan 3",
+    "pubdate": "2026 Feb 15",
     "authors": [
       "Xiang X",
       "Jiang W",
       "Palasuberniama P",
-      "Parash MTH",
+      "Hossain Parash MT",
       "Pare R",
       "Ruan Y"
     ],
@@ -67785,7 +67785,7 @@
     "issn": "0024-3205",
     "essn": "1879-0631",
     "doi": "doi: 10.1016/j.lfs.2025.124183",
-    "sortpubdate": "2026/01/03 00:00",
+    "sortpubdate": "2026/02/15 00:00",
     "epubdate": "2026 Jan 3"
   },
   {
@@ -68358,7 +68358,7 @@
     "id": "41494613",
     "title": "Risk stratification using inflammatory and metabolic biomarkers: A multi-cohort predictive study of mortality in atherosclerotic cardiovascular disease.",
     "source": "Life Sci",
-    "pubdate": "2026 Jan 5",
+    "pubdate": "2026 Feb 15",
     "authors": [
       "Li X",
       "Zeng Q",
@@ -68374,7 +68374,7 @@
     "issn": "0024-3205",
     "essn": "1879-0631",
     "doi": "doi: 10.1016/j.lfs.2025.124182",
-    "sortpubdate": "2026/01/05 00:00",
+    "sortpubdate": "2026/02/15 00:00",
     "epubdate": "2026 Jan 5"
   },
   {
@@ -70327,5 +70327,59 @@
     "doi": "doi: 10.1016/j.pmedr.2025.103362",
     "sortpubdate": "2025/12/23 00:00",
     "epubdate": "2025 Dec 23"
+  },
+  {
+    "name": "NHANES",
+    "id": "41500440",
+    "title": "Association between body roundness index and stroke: a cross-sectional study based on representative populations from the US and the UK.",
+    "source": "Neuroscience",
+    "pubdate": "2026 Feb 16",
+    "authors": [
+      "Li N",
+      "Sun J",
+      "Zhang Y",
+      "Han Y"
+    ],
+    "lastauthor": "Han Y",
+    "sortfirstauthor": "Li N",
+    "journal": "Neuroscience",
+    "issn": "0306-4522",
+    "essn": "1873-7544",
+    "doi": "doi: 10.1016/j.neuroscience.2026.01.002",
+    "sortpubdate": "2026/02/16 00:00",
+    "epubdate": "2026 Jan 5"
+  },
+  {
+    "name": "NHANES",
+    "id": "41613353",
+    "title": "Population estimates, trends, characteristics and prognostic outcomes of cardiovascular-kidney-liver-metabolic health: A population-based study.",
+    "source": "Am J Prev Cardiol",
+    "pubdate": "2026 Feb",
+    "authors": [
+      "Chen Y",
+      "Himan HR",
+      "Yazicioglu Y",
+      "Goh R",
+      "Chin YH",
+      "Chong B",
+      "Nagarajan S",
+      "Kueh MTW",
+      "Wang JW",
+      "Muthiah MM",
+      "Zhou X",
+      "Chan MY",
+      "Mehta A",
+      "Mamas MA",
+      "Khan MS",
+      "Chew NW"
+    ],
+    "lastauthor": "Chew NW",
+    "sortfirstauthor": "Chen Y",
+    "journal": "American journal of preventive cardiology",
+    "issn": "",
+    "essn": "2666-6677",
+    "doi": "doi: 10.1016/j.ajpc.2025.101405",
+    "sortpubdate": "2026/01/03 00:00",
+    "epubdate": "2026 Jan 3"
   }
 ]

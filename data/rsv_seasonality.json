@@ -5696,5 +5696,28 @@
     "doi": "doi: 10.3390/v18010026",
     "sortpubdate": "2025/12/23 00:00",
     "epubdate": "2025 Dec 23"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "41613914",
+    "title": "Detection of SARS-CoV-2 RNA on air purifier filters in university spaces without symptomatic or confirmed cases.",
+    "source": "Aerosol Sci Technol",
+    "pubdate": "2025 Dec 20",
+    "authors": [
+      "Li J",
+      "Bot M",
+      "Liu X",
+      "Yao Y",
+      "Ophoff RA",
+      "Zhu Y"
+    ],
+    "lastauthor": "Zhu Y",
+    "sortfirstauthor": "Li J",
+    "journal": "Aerosol science and technology : the journal of the American Association for Aerosol Research",
+    "issn": "0278-6826",
+    "essn": "",
+    "doi": "doi: 10.1080/02786826.2025.2601887",
+    "sortpubdate": "2025/12/20 00:00",
+    "epubdate": "2025 Dec 20"
   }
 ]

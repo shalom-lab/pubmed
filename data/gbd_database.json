@@ -48527,7 +48527,7 @@
     "id": "41510768",
     "title": "Three-decade trends in risk factor-attributable cancer burden in China: insights from the Global Burden of Disease Study 2023.",
     "source": "Eur J Cancer Prev",
-    "pubdate": "2026 Jan 9",
+    "pubdate": "2026 Mar 1",
     "authors": [
       "Cai F",
       "Gu H",
@@ -48539,8 +48539,8 @@
     "issn": "0959-8278",
     "essn": "1473-5709",
     "doi": "doi: 10.1097/CEJ.0000000000001003",
-    "sortpubdate": "2026/01/09 00:00",
-    "epubdate": "2026 Jan 9"
+    "sortpubdate": "2026/03/01 00:00",
+    "epubdate": "2025 Jun 9"
   },
   {
     "name": "GBD database",
@@ -50887,5 +50887,75 @@
     "doi": "doi: 10.1016/j.identj.2025.109394",
     "sortpubdate": "2026/01/27 00:00",
     "epubdate": "2026 Jan 27"
+  },
+  {
+    "name": "GBD database",
+    "id": "40471692",
+    "title": "Quantitative analysis of trends and inequalities in disease burden and care quality of gynecological cancers, 1990-2021.",
+    "source": "Eur J Cancer Prev",
+    "pubdate": "2026 Mar 1",
+    "authors": [
+      "Zhu X",
+      "Xuan F",
+      "Yu S",
+      "Qiu Z",
+      "Lou Y",
+      "Qiu Z"
+    ],
+    "lastauthor": "Qiu Z",
+    "sortfirstauthor": "Zhu X",
+    "journal": "European journal of cancer prevention : the official journal of the European Cancer Prevention Organisation (ECP)",
+    "issn": "0959-8278",
+    "essn": "1473-5709",
+    "doi": "doi: 10.1097/CEJ.0000000000000978",
+    "sortpubdate": "2026/03/01 00:00",
+    "epubdate": "2025 Jun 6"
+  },
+  {
+    "name": "GBD database",
+    "id": "41613381",
+    "title": "Geographical Disparities and Socioeconomic Determinants of Untreated Dental Caries in Permanent Teeth Across Asia, 1990-2019: A Retrospective Population-Based Burden Analysis.",
+    "source": "Int J Dent",
+    "pubdate": "2026",
+    "authors": [
+      "Cui H",
+      "Minsi L",
+      "Ri M",
+      "Wanping H",
+      "Fanghe P",
+      "Xiaofeng Q"
+    ],
+    "lastauthor": "Xiaofeng Q",
+    "sortfirstauthor": "Cui H",
+    "journal": "International journal of dentistry",
+    "issn": "1687-8728",
+    "essn": "1687-8736",
+    "doi": "doi: 10.1155/ijod/5549710",
+    "sortpubdate": "2026/01/28 00:00",
+    "epubdate": "2026 Jan 28"
+  },
+  {
+    "name": "GBD database",
+    "id": "41610481",
+    "title": "Burden and Trends of Common Oral Disorders Across the Association of Southeast Asian Nations From 1990 to 2021.",
+    "source": "Int Dent J",
+    "pubdate": "2026 Jan 28",
+    "authors": [
+      "Cao Y",
+      "Wong RCW",
+      "Jansisyanont P",
+      "Hariri F",
+      "Amir LR",
+      "Segarra MS",
+      "Zheng L"
+    ],
+    "lastauthor": "Zheng L",
+    "sortfirstauthor": "Cao Y",
+    "journal": "International dental journal",
+    "issn": "0020-6539",
+    "essn": "1875-595X",
+    "doi": "doi: 10.1016/j.identj.2025.109395",
+    "sortpubdate": "2026/01/28 00:00",
+    "epubdate": "2026 Jan 28"
   }
 ]
