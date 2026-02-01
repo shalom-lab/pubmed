@@ -68402,7 +68402,7 @@
     "id": "41505070",
     "title": "Association between systemic inflammatory response index and cardiovascular disease risk in rheumatoid arthritis patients: a machine learning based on US and Chinese cohorts.",
     "source": "Clin Rheumatol",
-    "pubdate": "2026 Jan 8",
+    "pubdate": "2026 Feb",
     "authors": [
       "Zhang P",
       "Wang S",
@@ -68417,7 +68417,7 @@
     "issn": "0770-3198",
     "essn": "1434-9949",
     "doi": "doi: 10.1007/s10067-025-07915-w",
-    "sortpubdate": "2026/01/08 00:00",
+    "sortpubdate": "2026/02/01 00:00",
     "epubdate": "2026 Jan 8"
   },
   {
@@ -70381,5 +70381,91 @@
     "doi": "doi: 10.1016/j.ajpc.2025.101405",
     "sortpubdate": "2026/01/03 00:00",
     "epubdate": "2026 Jan 3"
+  },
+  {
+    "name": "NHANES",
+    "id": "41548298",
+    "title": "Association between brominated flame retardants and diagnosis or symptoms of allergies among a nationally representative sample in the US.",
+    "source": "Sci Total Environ",
+    "pubdate": "2026 Feb 1",
+    "authors": [
+      "Jankowski E",
+      "Haught M",
+      "Hood RB"
+    ],
+    "lastauthor": "Hood RB",
+    "sortfirstauthor": "Jankowski E",
+    "journal": "The Science of the total environment",
+    "issn": "0048-9697",
+    "essn": "1879-1026",
+    "doi": "doi: 10.1016/j.scitotenv.2026.181418",
+    "sortpubdate": "2026/02/01 00:00",
+    "epubdate": "2026 Jan 17"
+  },
+  {
+    "name": "NHANES",
+    "id": "41540315",
+    "title": "Prevalence of hyperuricemia and gout in relation to night fasting duration and eating frequency: NHANES 2007-2018.",
+    "source": "Clin Rheumatol",
+    "pubdate": "2026 Feb",
+    "authors": [
+      "Wu F",
+      "Meng J",
+      "Chen L"
+    ],
+    "lastauthor": "Chen L",
+    "sortfirstauthor": "Wu F",
+    "journal": "Clinical rheumatology",
+    "issn": "0770-3198",
+    "essn": "1434-9949",
+    "doi": "doi: 10.1007/s10067-025-07782-5",
+    "sortpubdate": "2026/02/01 00:00",
+    "epubdate": "2025 Nov 10"
+  },
+  {
+    "name": "NHANES",
+    "id": "41533223",
+    "title": "Urinary phytoestrogen metabolites are associated with a reduced risk of hyperuricemia.",
+    "source": "Clin Rheumatol",
+    "pubdate": "2026 Feb",
+    "authors": [
+      "Wang X",
+      "Zhang Y",
+      "Zhou S",
+      "Liu X",
+      "Zhang B",
+      "Cheng P",
+      "Zhang B"
+    ],
+    "lastauthor": "Zhang B",
+    "sortfirstauthor": "Wang X",
+    "journal": "Clinical rheumatology",
+    "issn": "0770-3198",
+    "essn": "1434-9949",
+    "doi": "doi: 10.1007/s10067-026-07924-3",
+    "sortpubdate": "2026/02/01 00:00",
+    "epubdate": "2026 Jan 14"
+  },
+  {
+    "name": "NHANES",
+    "id": "41528638",
+    "title": "Association of lipid-based insulin resistance indices with rheumatoid arthritis prevalence: a cross-sectional study from NHANES 2007-2018.",
+    "source": "Clin Rheumatol",
+    "pubdate": "2026 Feb",
+    "authors": [
+      "Fu P",
+      "Zhou H",
+      "Li Y",
+      "Wang Y",
+      "Dou H"
+    ],
+    "lastauthor": "Dou H",
+    "sortfirstauthor": "Fu P",
+    "journal": "Clinical rheumatology",
+    "issn": "0770-3198",
+    "essn": "1434-9949",
+    "doi": "doi: 10.1007/s10067-026-07929-y",
+    "sortpubdate": "2026/02/01 00:00",
+    "epubdate": "2026 Jan 13"
   }
 ]

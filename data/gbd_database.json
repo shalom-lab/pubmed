@@ -24331,7 +24331,7 @@
     "id": "41067868",
     "title": "Exploring State-Level Change in Health Care Value Over Three Decades in the United States, 1991-2020.",
     "source": "Health Serv Res",
-    "pubdate": "2025 Oct 9",
+    "pubdate": "2026 Feb",
     "authors": [
       "Lescinsky H",
       "Sahu M",
@@ -24352,7 +24352,7 @@
     "issn": "0017-9124",
     "essn": "1475-6773",
     "doi": "doi: 10.1111/1475-6773.70054",
-    "sortpubdate": "2025/10/09 00:00",
+    "sortpubdate": "2026/02/01 00:00",
     "epubdate": "2025 Oct 9"
   },
   {
@@ -37699,7 +37699,7 @@
     "id": "41307626",
     "title": "Burden of osteoarthritis in North Africa and Middle East from 1990 to 2021: findings from the Global Burden of Disease 2021 study.",
     "source": "Clin Rheumatol",
-    "pubdate": "2025 Nov 27",
+    "pubdate": "2026 Feb",
     "authors": [
       "Rashidi A",
       "Bastan MM",
@@ -37718,7 +37718,7 @@
     "issn": "0770-3198",
     "essn": "1434-9949",
     "doi": "doi: 10.1007/s10067-025-07761-w",
-    "sortpubdate": "2025/11/27 00:00",
+    "sortpubdate": "2026/02/01 00:00",
     "epubdate": "2025 Nov 27"
   },
   {
@@ -44079,7 +44079,7 @@
     "id": "41421431",
     "title": "Burden of cardiovascular diseases attributable to diet high in sodium in China and the global from 1990 to 2021.",
     "source": "Curr Probl Cardiol",
-    "pubdate": "2025 Dec 18",
+    "pubdate": "2026 Mar",
     "authors": [
       "Wei W",
       "Chen M",
@@ -44092,7 +44092,7 @@
     "issn": "0146-2806",
     "essn": "1535-6280",
     "doi": "doi: 10.1016/j.cpcardiol.2025.103248",
-    "sortpubdate": "2025/12/18 00:00",
+    "sortpubdate": "2026/03/01 00:00",
     "epubdate": "2025 Dec 18"
   },
   {
@@ -50957,5 +50957,50 @@
     "doi": "doi: 10.1016/j.identj.2025.109395",
     "sortpubdate": "2026/01/28 00:00",
     "epubdate": "2026 Jan 28"
+  },
+  {
+    "name": "GBD database",
+    "id": "41617196",
+    "title": "Global Burden of Vertebral Fractures in Women by Menopausal Status, 1990-2021, With 2050 Projections: An Analysis of Global Burden of Disease 2021.",
+    "source": "Global Spine J",
+    "pubdate": "2026 Jan 30",
+    "authors": [
+      "Fan J",
+      "Liu W",
+      "Li G",
+      "Ji K",
+      "Wang L",
+      "Lian X",
+      "Wang Y",
+      "Jian Y"
+    ],
+    "lastauthor": "Jian Y",
+    "sortfirstauthor": "Fan J",
+    "journal": "Global spine journal",
+    "issn": "2192-5682",
+    "essn": "",
+    "doi": "doi: 10.1177/21925682261421189",
+    "sortpubdate": "2026/01/30 00:00",
+    "epubdate": "2026 Jan 30"
+  },
+  {
+    "name": "GBD database",
+    "id": "41615926",
+    "title": "Global, regional, and national burden of cardiomyopathy (including alcoholic cardiomyopathy and others) from 1990 to 2021: An analysis of data from the global burden of disease study 2021 and forecast to 2040.",
+    "source": "PLoS One",
+    "pubdate": "2026",
+    "authors": [
+      "Chen H",
+      "Liang R",
+      "Tian Y"
+    ],
+    "lastauthor": "Tian Y",
+    "sortfirstauthor": "Chen H",
+    "journal": "PloS one",
+    "issn": "",
+    "essn": "1932-6203",
+    "doi": "doi: 10.1371/journal.pone.0341687",
+    "sortpubdate": "2026/01/30 00:00",
+    "epubdate": "2026 Jan 30"
   }
 ]
