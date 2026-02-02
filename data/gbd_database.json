@@ -51002,5 +51002,51 @@
     "doi": "doi: 10.1371/journal.pone.0341687",
     "sortpubdate": "2026/01/30 00:00",
     "epubdate": "2026 Jan 30"
+  },
+  {
+    "name": "GBD database",
+    "id": "41607143",
+    "title": "The Evolving Global Burden of Alopecia Areata in Young Adults: High-Income Nations Bear the Greatest Impact.",
+    "source": "Ann Dermatol",
+    "pubdate": "2026 Feb",
+    "authors": [
+      "Ma Y",
+      "Zhang Y",
+      "Dong S",
+      "Mu Y"
+    ],
+    "lastauthor": "Mu Y",
+    "sortfirstauthor": "Ma Y",
+    "journal": "Annals of dermatology",
+    "issn": "1013-9087",
+    "essn": "2005-3894",
+    "doi": "doi: 10.5021/ad.25.120",
+    "sortpubdate": "2026/02/01 00:00",
+    "epubdate": ""
+  },
+  {
+    "name": "GBD database",
+    "id": "41565236",
+    "title": "Burden of cardiovascular disease in China attributable to unbalanced fatty acid intake from 1990 to 2050.",
+    "source": "Asia Pac J Clin Nutr",
+    "pubdate": "2026 Feb",
+    "authors": [
+      "Liu X",
+      "Zhang X",
+      "Liu L",
+      "Yu Z",
+      "Qin X",
+      "Ma Y",
+      "Yang X",
+      "Liu Y"
+    ],
+    "lastauthor": "Liu Y",
+    "sortfirstauthor": "Liu X",
+    "journal": "Asia Pacific journal of clinical nutrition",
+    "issn": "0964-7058",
+    "essn": "1440-6047",
+    "doi": "doi: 10.6133/apjcn.202602_35(1).0010",
+    "sortpubdate": "2026/02/01 00:00",
+    "epubdate": ""
   }
 ]
