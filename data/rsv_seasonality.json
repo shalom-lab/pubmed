@@ -5719,5 +5719,39 @@
     "doi": "doi: 10.1080/02786826.2025.2601887",
     "sortpubdate": "2025/12/20 00:00",
     "epubdate": "2025 Dec 20"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "41619831",
+    "title": "Seasonal Community-Acquired Respiratory Virus Infections in Patients with Cancer - Epidemiological and Clinical Overview, an Analysis of the Multicenter OncoReVir Registry.",
+    "source": "Int J Infect Dis",
+    "pubdate": "2026 Jan 29",
+    "authors": [
+      "Rüthrich MM",
+      "Schmitt T",
+      "Classen AY",
+      "Brandt J",
+      "Spiekermann K",
+      "Doleschal AD",
+      "Seltmann A",
+      "Henze L",
+      "Panse J",
+      "Sauer G",
+      "Schmaedel K",
+      "Schalk E",
+      "Vehreschild MJGT",
+      "Vehreschild JJ",
+      "Teschner D",
+      "von Lilienfeld-Toal M",
+      "Giesen N"
+    ],
+    "lastauthor": "Giesen N",
+    "sortfirstauthor": "Rüthrich MM",
+    "journal": "International journal of infectious diseases : IJID : official publication of the International Society for Infectious Diseases",
+    "issn": "1201-9712",
+    "essn": "1878-3511",
+    "doi": "doi: 10.1016/j.ijid.2026.108421",
+    "sortpubdate": "2026/01/29 00:00",
+    "epubdate": "2026 Jan 29"
   }
 ]

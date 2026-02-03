@@ -36186,7 +36186,7 @@
     "id": "41268736",
     "title": "HIV/AIDS in transition: Global disparities, Africa's uneven progress and struggles, and the emerging threat of funding cuts (global burden of disease study, 1990-2021).",
     "source": "HIV Med",
-    "pubdate": "2025 Nov 21",
+    "pubdate": "2026 Feb",
     "authors": [
       "Adedokun KA",
       "Adebisi TA",
@@ -36211,7 +36211,7 @@
     "issn": "1464-2662",
     "essn": "1468-1293",
     "doi": "doi: 10.1111/hiv.70144",
-    "sortpubdate": "2025/11/21 00:00",
+    "sortpubdate": "2026/02/01 00:00",
     "epubdate": "2025 Nov 21"
   },
   {
@@ -38163,7 +38163,7 @@
     "id": "41313263",
     "title": "Negating the burden of hip fracture in high-risk populations: a narrative review of epidemiology, costs, and multifaceted mitigation strategies.",
     "source": "Expert Rev Pharmacoecon Outcomes Res",
-    "pubdate": "2025 Dec 1",
+    "pubdate": "2026 Feb",
     "authors": [
       "Liu E",
       "Liu RY"
@@ -38174,7 +38174,7 @@
     "issn": "1473-7167",
     "essn": "1744-8379",
     "doi": "doi: 10.1080/14737167.2025.2596764",
-    "sortpubdate": "2025/12/01 00:00",
+    "sortpubdate": "2026/02/01 00:00",
     "epubdate": "2025 Dec 1"
   },
   {
@@ -42429,7 +42429,7 @@
     "id": "41395678",
     "title": "Investigation and future trend prediction of disease burden of chronic kidney disease due to diabetes mellitus type 2 globally and in China from 1990 to 2021.",
     "source": "J Diabetes Investig",
-    "pubdate": "2025 Dec 15",
+    "pubdate": "2026 Feb",
     "authors": [
       "Du J",
       "Tang Y",
@@ -42444,7 +42444,7 @@
     "issn": "2040-1116",
     "essn": "2040-1124",
     "doi": "doi: 10.1111/jdi.70216",
-    "sortpubdate": "2025/12/15 00:00",
+    "sortpubdate": "2026/02/01 00:00",
     "epubdate": "2025 Dec 15"
   },
   {
@@ -51048,5 +51048,268 @@
     "doi": "doi: 10.6133/apjcn.202602_35(1).0010",
     "sortpubdate": "2026/02/01 00:00",
     "epubdate": ""
+  },
+  {
+    "name": "GBD database",
+    "id": "41623409",
+    "title": "Global burden and trends of depression among women of childbearing age, 1990-2021.",
+    "source": "Public Health Pract (Oxf)",
+    "pubdate": "2026 Jun",
+    "authors": [
+      "Yang X",
+      "Feng CP",
+      "Liu Z",
+      "Wu P"
+    ],
+    "lastauthor": "Wu P",
+    "sortfirstauthor": "Yang X",
+    "journal": "Public health in practice (Oxford, England)",
+    "issn": "",
+    "essn": "2666-5352",
+    "doi": "doi: 10.1016/j.puhip.2025.100688",
+    "sortpubdate": "2025/12/14 00:00",
+    "epubdate": "2025 Dec 14"
+  },
+  {
+    "name": "GBD database",
+    "id": "41628133",
+    "title": "Trends in the burden of gastroesophageal reflux disease in China and Global from 1990 to 2021 and predictive analysis for 2040.",
+    "source": "PLoS One",
+    "pubdate": "2026",
+    "authors": [
+      "Tang Z",
+      "Chen Z",
+      "Huang Y",
+      "Fang J",
+      "Yang X",
+      "Li C",
+      "Zhang H",
+      "Xie E"
+    ],
+    "lastauthor": "Xie E",
+    "sortfirstauthor": "Tang Z",
+    "journal": "PloS one",
+    "issn": "",
+    "essn": "1932-6203",
+    "doi": "doi: 10.1371/journal.pone.0341619",
+    "sortpubdate": "2026/02/02 00:00",
+    "epubdate": "2026 Feb 2"
+  },
+  {
+    "name": "GBD database",
+    "id": "41628117",
+    "title": "Temporal trends and health inequalities in global, regional, and national years lived with disability of severe periodontitis from 1990 to 2021.",
+    "source": "PLoS One",
+    "pubdate": "2026",
+    "authors": [
+      "Zhang S",
+      "Liu SY",
+      "Wang Q",
+      "Suo YX",
+      "Zhang YQ",
+      "Hu CY",
+      "Xie L"
+    ],
+    "lastauthor": "Xie L",
+    "sortfirstauthor": "Zhang S",
+    "journal": "PloS one",
+    "issn": "",
+    "essn": "1932-6203",
+    "doi": "doi: 10.1371/journal.pone.0337994",
+    "sortpubdate": "2026/02/02 00:00",
+    "epubdate": "2026 Feb 2"
+  },
+  {
+    "name": "GBD database",
+    "id": "41623184",
+    "title": "Projecting the macroeconomic burden of high body mass index related diseases in China: A Bayesian productivity-adjusted life years approach based on global burden of diseases 2023.",
+    "source": "Diabetes Obes Metab",
+    "pubdate": "2026 Feb 2",
+    "authors": [
+      "Liu Z",
+      "Huo R",
+      "Zhao L",
+      "Jiang Y",
+      "Man X",
+      "Shi X",
+      "Liang L",
+      "Lin Y",
+      "Li X",
+      "Cheng W"
+    ],
+    "lastauthor": "Cheng W",
+    "sortfirstauthor": "Liu Z",
+    "journal": "Diabetes, obesity & metabolism",
+    "issn": "1462-8902",
+    "essn": "1463-1326",
+    "doi": "doi: 10.1111/dom.70486",
+    "sortpubdate": "2026/02/02 00:00",
+    "epubdate": "2026 Feb 2"
+  },
+  {
+    "name": "GBD database",
+    "id": "41622373",
+    "title": "National and subnational burden of neurological disorders in Iran, 1990 to 2021: results from the global burden of disease study 2021.",
+    "source": "Neurol Sci",
+    "pubdate": "2026 Feb 2",
+    "authors": [
+      "Ilaghi M",
+      "Bastan MM",
+      "Aflatoonian S",
+      "Nejadghaderi SA"
+    ],
+    "lastauthor": "Nejadghaderi SA",
+    "sortfirstauthor": "Ilaghi M",
+    "journal": "Neurological sciences : official journal of the Italian Neurological Society and of the Italian Society of Clinical Neurophysiology",
+    "issn": "1590-1874",
+    "essn": "1590-3478",
+    "doi": "doi: 10.1007/s10072-025-08632-7",
+    "sortpubdate": "2026/02/02 00:00",
+    "epubdate": "2026 Feb 2"
+  },
+  {
+    "name": "GBD database",
+    "id": "41622207",
+    "title": "The burden of diseases from human-animal contact in 2021: a spatiotemporal analysis using the \"Production-Living-Ecology\" framework.",
+    "source": "BMC Glob Public Health",
+    "pubdate": "2026 Feb 2",
+    "authors": [
+      "Lai Y",
+      "Li Y",
+      "Qu F",
+      "Wu B",
+      "Liu X",
+      "Zhang X",
+      "Shi B",
+      "Wang X",
+      "Yu L",
+      "You D"
+    ],
+    "lastauthor": "You D",
+    "sortfirstauthor": "Lai Y",
+    "journal": "BMC global and public health",
+    "issn": "",
+    "essn": "2731-913X",
+    "doi": "doi: 10.1186/s44263-026-00244-3",
+    "sortpubdate": "2026/02/02 00:00",
+    "epubdate": "2026 Feb 2"
+  },
+  {
+    "name": "GBD database",
+    "id": "41614596",
+    "title": "Maternal hemorrhage among women aged 15-49: declining incidence but increasing global gaps.",
+    "source": "J Perinat Med",
+    "pubdate": "2026 Feb 2",
+    "authors": [
+      "Li Y",
+      "Tang G",
+      "Zhang L",
+      "Chen P"
+    ],
+    "lastauthor": "Chen P",
+    "sortfirstauthor": "Li Y",
+    "journal": "Journal of perinatal medicine",
+    "issn": "0300-5577",
+    "essn": "1619-3997",
+    "doi": "doi: 10.1515/jpm-2025-0662",
+    "sortpubdate": "2026/02/02 00:00",
+    "epubdate": "2026 Feb 2"
+  },
+  {
+    "name": "GBD database",
+    "id": "41626718",
+    "title": "Mapping the Global Burden and Inequalities of Bipolar Disorder, 1990-2021, With Projections to 2050: A Systematic Analysis.",
+    "source": "Bipolar Disord",
+    "pubdate": "2026 Feb",
+    "authors": [
+      "Saeed S",
+      "Luo Z",
+      "Wang H",
+      "Xu L",
+      "Zhang X",
+      "Tang A",
+      "Ma X",
+      "Lai J",
+      "Song P",
+      "Hu S"
+    ],
+    "lastauthor": "Hu S",
+    "sortfirstauthor": "Saeed S",
+    "journal": "Bipolar disorders",
+    "issn": "1398-5647",
+    "essn": "1399-5618",
+    "doi": "doi: 10.1111/bdi.70074",
+    "sortpubdate": "2026/02/01 00:00",
+    "epubdate": ""
+  },
+  {
+    "name": "GBD database",
+    "id": "41622752",
+    "title": "Quantification of Age and Sex Ratio Differences between Trial and Target Population for New Drugs.",
+    "source": "Clin Pharmacol Ther",
+    "pubdate": "2026 Feb 1",
+    "authors": [
+      "Serra-Burriel M",
+      "Schlossmacher P",
+      "Vokinger KN"
+    ],
+    "lastauthor": "Vokinger KN",
+    "sortfirstauthor": "Serra-Burriel M",
+    "journal": "Clinical pharmacology and therapeutics",
+    "issn": "0009-9236",
+    "essn": "1532-6535",
+    "doi": "doi: 10.1002/cpt.70221",
+    "sortpubdate": "2026/02/01 00:00",
+    "epubdate": "2026 Feb 1"
+  },
+  {
+    "name": "GBD database",
+    "id": "41621862",
+    "title": "Nationwide age-, sex-, cause-specific burden of blindness and vision impairment in China.",
+    "source": "Br J Ophthalmol",
+    "pubdate": "2026 Feb 1",
+    "authors": [
+      "Guo X",
+      "Xiong R",
+      "Yao J",
+      "Li H",
+      "Zhu Z",
+      "Chen Y",
+      "Huang W",
+      "He M",
+      "Wang W"
+    ],
+    "lastauthor": "Wang W",
+    "sortfirstauthor": "Guo X",
+    "journal": "The British journal of ophthalmology",
+    "issn": "0007-1161",
+    "essn": "1468-2079",
+    "doi": "pii: bjo-2025-327389. doi: 10.1136/bjo-2025-327389",
+    "sortpubdate": "2026/02/01 00:00",
+    "epubdate": "2026 Feb 1"
+  },
+  {
+    "name": "GBD database",
+    "id": "41620804",
+    "title": "Global burden and cross-country inequalities of age-related eye diseases from 1990 to 2021: a comprehensive analysis of temporal trends and socioeconomic disparities.",
+    "source": "Eye Vis (Lond)",
+    "pubdate": "2026 Feb 1",
+    "authors": [
+      "Li K",
+      "Tang J",
+      "Zhang Z",
+      "Li X",
+      "Zheng Y",
+      "Jiang D",
+      "Sun J"
+    ],
+    "lastauthor": "Sun J",
+    "sortfirstauthor": "Li K",
+    "journal": "Eye and vision (London, England)",
+    "issn": "2326-0254",
+    "essn": "2326-0254",
+    "doi": "doi: 10.1186/s40662-026-00473-5",
+    "sortpubdate": "2026/02/01 00:00",
+    "epubdate": "2026 Feb 1"
   }
 ]

@@ -4572,5 +4572,53 @@
     "doi": "pii: S1525-0016(26)00032-8. doi: 10.1016/j.ymthe.2026.01.031",
     "sortpubdate": "2026/01/28 00:00",
     "epubdate": "2026 Jan 28"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "41624517",
+    "title": "Programmable lipid nanoparticles for RNA therapeutics: Design principles and clinical translation.",
+    "source": "Mater Today Bio",
+    "pubdate": "2026 Apr",
+    "authors": [
+      "Navid Talemi M",
+      "Ramezani Farani M",
+      "Alipour Eskandani N",
+      "Mirzaee D",
+      "Alipourfard I",
+      "Huh YS"
+    ],
+    "lastauthor": "Huh YS",
+    "sortfirstauthor": "Navid Talemi M",
+    "journal": "Materials today. Bio",
+    "issn": "",
+    "essn": "2590-0064",
+    "doi": "doi: 10.1016/j.mtbio.2026.102774",
+    "sortpubdate": "2026/01/07 00:00",
+    "epubdate": "2026 Jan 7"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "41619355",
+    "title": "Clinical and economic benefits of bivalent respiratory syncytial virus prefusion F (RSVpreF) maternal vaccine for prevention of RSV illness in infants: A cost-effectiveness analysis for Singapore.",
+    "source": "Vaccine",
+    "pubdate": "2026 Jan 30",
+    "authors": [
+      "Thakkar K",
+      "Kefalogianni R",
+      "Zhang J",
+      "Yung CF",
+      "Tagore S",
+      "Dashraath P",
+      "Law AW",
+      "Mendes D"
+    ],
+    "lastauthor": "Mendes D",
+    "sortfirstauthor": "Thakkar K",
+    "journal": "Vaccine",
+    "issn": "0264-410X",
+    "essn": "1873-2518",
+    "doi": "doi: 10.1016/j.vaccine.2026.128285",
+    "sortpubdate": "2026/01/30 00:00",
+    "epubdate": "2026 Jan 30"
   }
 ]
