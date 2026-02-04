@@ -4620,5 +4620,81 @@
     "doi": "doi: 10.1016/j.vaccine.2026.128285",
     "sortpubdate": "2026/01/30 00:00",
     "epubdate": "2026 Jan 30"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "41631651",
+    "title": "Cost-effectiveness of a single dose of the adjuvanted RSVPreF3 vaccine for the prevention of respiratory syncytial virus (RSV) among patients with chronic obstructive pulmonary disease in Italy.",
+    "source": "Expert Rev Vaccines",
+    "pubdate": "2026 Feb 3",
+    "authors": [
+      "Puggina A",
+      "Rumi F",
+      "Zarkadoulas E",
+      "Lorenzini G",
+      "Di Marco F",
+      "Calabró GE"
+    ],
+    "lastauthor": "Calabró GE",
+    "sortfirstauthor": "Puggina A",
+    "journal": "Expert review of vaccines",
+    "issn": "1476-0584",
+    "essn": "1744-8395",
+    "doi": "doi: 10.1080/14760584.2026.2626916",
+    "sortpubdate": "2026/02/03 00:00",
+    "epubdate": "2026 Feb 3"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "41632477",
+    "title": "Risk of Cardiorespiratory Events Following Respiratory Syncytial Virus-Related Hospitalization.",
+    "source": "JAMA Netw Open",
+    "pubdate": "2026 Feb 2",
+    "authors": [
+      "Liang C",
+      "Judy J",
+      "Aliabadi N",
+      "Sato R",
+      "Chilson E",
+      "Zhou Y",
+      "Zhao X",
+      "Gessner BD",
+      "Begier E"
+    ],
+    "lastauthor": "Begier E",
+    "sortfirstauthor": "Liang C",
+    "journal": "JAMA network open",
+    "issn": "",
+    "essn": "2574-3805",
+    "doi": "doi: 10.1001/jamanetworkopen.2025.56767",
+    "sortpubdate": "2026/02/02 00:00",
+    "epubdate": "2026 Feb 2"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "41632120",
+    "title": "Diagnostic Accuracy of Severe Acute Respiratory Infection Definitions in Hospitalized Children: A Systematic Review and Meta-Analysis.",
+    "source": "JAMA Netw Open",
+    "pubdate": "2025 Dec 1",
+    "authors": [
+      "Hersi L",
+      "Kant T",
+      "Kaziev CL",
+      "Farrar DS",
+      "Bryan N",
+      "Cunningham J",
+      "Mtaweh H",
+      "Mahant S",
+      "Morris SK",
+      "Gill PJ"
+    ],
+    "lastauthor": "Gill PJ",
+    "sortfirstauthor": "Hersi L",
+    "journal": "JAMA network open",
+    "issn": "",
+    "essn": "2574-3805",
+    "doi": "doi: 10.1001/jamanetworkopen.2025.50298",
+    "sortpubdate": "2025/12/01 00:00",
+    "epubdate": "2025 Dec 1"
   }
 ]

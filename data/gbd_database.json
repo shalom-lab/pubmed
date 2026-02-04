@@ -45804,7 +45804,7 @@
     "id": "41447869",
     "title": "Global, regional, and national burden of fractures due to road injuries: Based on the global burden of disease 2021.",
     "source": "Injury",
-    "pubdate": "2025 Dec 16",
+    "pubdate": "2026 Feb",
     "authors": [
       "Lu M",
       "Zheng G",
@@ -45819,7 +45819,7 @@
     "issn": "0020-1383",
     "essn": "1879-0267",
     "doi": "doi: 10.1016/j.injury.2025.112977",
-    "sortpubdate": "2025/12/16 00:00",
+    "sortpubdate": "2026/02/01 00:00",
     "epubdate": "2025 Dec 16"
   },
   {
@@ -47836,7 +47836,7 @@
     "id": "41485714",
     "title": "Beyond burden: a Quality of Care Index (QCI) assessment of hepatitis B in 204 countries, 1990-2021.",
     "source": "Virus Res",
-    "pubdate": "2026 Jan 2",
+    "pubdate": "2026 Feb",
     "authors": [
       "Hu Y",
       "Qi X",
@@ -47849,7 +47849,7 @@
     "issn": "0168-1702",
     "essn": "1872-7492",
     "doi": "doi: 10.1016/j.virusres.2025.199683",
-    "sortpubdate": "2026/01/02 00:00",
+    "sortpubdate": "2026/02/01 00:00",
     "epubdate": "2026 Jan 2"
   },
   {
@@ -48805,7 +48805,7 @@
     "id": "41513045",
     "title": "The burden and mortality impact of cardiovascular disease-metabolic dysfunction-associated steatotic liver disease comorbidity.",
     "source": "Diabetes Res Clin Pract",
-    "pubdate": "2026 Jan 7",
+    "pubdate": "2026 Feb",
     "authors": [
       "Tan S",
       "Huang T",
@@ -48823,7 +48823,7 @@
     "issn": "0168-8227",
     "essn": "1872-8227",
     "doi": "doi: 10.1016/j.diabres.2026.113092",
-    "sortpubdate": "2026/01/07 00:00",
+    "sortpubdate": "2026/02/01 00:00",
     "epubdate": "2026 Jan 7"
   },
   {
@@ -49878,7 +49878,7 @@
     "id": "41556760",
     "title": "Nonlinear Relationships of Carbon Emissions with Global Mortality: Trends, Projections, and Health Equity.",
     "source": "Environ Sci Technol",
-    "pubdate": "2026 Jan 20",
+    "pubdate": "2026 Feb 3",
     "authors": [
       "Lyu X",
       "Zhang X",
@@ -49892,7 +49892,7 @@
     "issn": "0013-936X",
     "essn": "1520-5851",
     "doi": "doi: 10.1021/acs.est.5c12220",
-    "sortpubdate": "2026/01/20 00:00",
+    "sortpubdate": "2026/02/03 00:00",
     "epubdate": "2026 Jan 20"
   },
   {
@@ -51311,5 +51311,195 @@
     "doi": "doi: 10.1186/s40662-026-00473-5",
     "sortpubdate": "2026/02/01 00:00",
     "epubdate": "2026 Feb 1"
+  },
+  {
+    "name": "GBD database",
+    "id": "41630487",
+    "title": "Geographic disparities and health inequality evolution in the disease burden of tracheal, bronchus, and lung cancer in Asia: a 33-year longitudinal analysis and future projections.",
+    "source": "Ann Med",
+    "pubdate": "2026 Dec",
+    "authors": [
+      "Wang H",
+      "Qin X",
+      "Zhang X",
+      "Wang N",
+      "Wu Z",
+      "Xiao Z"
+    ],
+    "lastauthor": "Xiao Z",
+    "sortfirstauthor": "Wang H",
+    "journal": "Annals of medicine",
+    "issn": "0785-3890",
+    "essn": "1365-2060",
+    "doi": "doi: 10.1080/07853890.2026.2624212",
+    "sortpubdate": "2026/12/01 00:00",
+    "epubdate": "2026 Feb 2"
+  },
+  {
+    "name": "GBD database",
+    "id": "41632762",
+    "title": "A Comparative Study of Discrepancies Between Global Burden of Disease Estimates and Published Literature on Spinal Cord Injury Incidence at the country level: Methodological Insights and Future Directions.",
+    "source": "Neuroepidemiology",
+    "pubdate": "2026 Feb 3",
+    "authors": [
+      "Jazayeri SB",
+      "Khodadoust E",
+      "Hassan Zadeh Tabatabaei MS",
+      "Rahimimovaghar N",
+      "Rahimi-Movaghar V"
+    ],
+    "lastauthor": "Rahimi-Movaghar V",
+    "sortfirstauthor": "Jazayeri SB",
+    "journal": "Neuroepidemiology",
+    "issn": "0251-5350",
+    "essn": "1423-0208",
+    "doi": "doi: 10.1159/000550839",
+    "sortpubdate": "2026/02/03 00:00",
+    "epubdate": "2026 Feb 3"
+  },
+  {
+    "name": "GBD database",
+    "id": "41632004",
+    "title": "Epidemiological shifts, clinicopathological features, and integrative nomograms of gastric cancer metastasis: a large-scale retrospective cohort study.",
+    "source": "Int J Surg",
+    "pubdate": "2026 Feb 3",
+    "authors": [
+      "Zhang T",
+      "Liu Y",
+      "Sun H",
+      "Ma M",
+      "Maitusong A",
+      "Gao Y",
+      "Zhou J",
+      "Li Z",
+      "Wang X",
+      "Wang X",
+      "Cong T",
+      "Sheng W",
+      "Xu M"
+    ],
+    "lastauthor": "Xu M",
+    "sortfirstauthor": "Zhang T",
+    "journal": "International journal of surgery (London, England)",
+    "issn": "",
+    "essn": "1743-9159",
+    "doi": "doi: 10.1097/JS9.0000000000004808",
+    "sortpubdate": "2026/02/03 00:00",
+    "epubdate": "2026 Feb 3"
+  },
+  {
+    "name": "GBD database",
+    "id": "41632001",
+    "title": "The disparity and trend of childhood cancer burden in survival perspective: a systematic analysis for the global burden of disease 2021.",
+    "source": "Int J Surg",
+    "pubdate": "2026 Feb 3",
+    "authors": [
+      "Mao X",
+      "Wang X",
+      "Fang T",
+      "Zhang X",
+      "Yang J",
+      "Gào X",
+      "Pei Z",
+      "Lu Y",
+      "Zhan S",
+      "Xu G",
+      "Liu Z"
+    ],
+    "lastauthor": "Liu Z",
+    "sortfirstauthor": "Mao X",
+    "journal": "International journal of surgery (London, England)",
+    "issn": "",
+    "essn": "1743-9159",
+    "doi": "doi: 10.1097/JS9.0000000000004775",
+    "sortpubdate": "2026/02/03 00:00",
+    "epubdate": "2026 Feb 3"
+  },
+  {
+    "name": "GBD database",
+    "id": "41631666",
+    "title": "The concordance and correlation of Global Burden of Disease stroke incidence rates with stroke incidence rates from population-based stroke registers.",
+    "source": "Int J Stroke",
+    "pubdate": "2026 Feb 3",
+    "authors": [
+      "Youkee D",
+      "Wolfe C"
+    ],
+    "lastauthor": "Wolfe C",
+    "sortfirstauthor": "Youkee D",
+    "journal": "International journal of stroke : official journal of the International Stroke Society",
+    "issn": "1747-4930",
+    "essn": "1747-4949",
+    "doi": "doi: 10.1177/17474930261423425",
+    "sortpubdate": "2026/02/03 00:00",
+    "epubdate": "2026 Feb 3"
+  },
+  {
+    "name": "GBD database",
+    "id": "41630079",
+    "title": "Burden and trends of decubitus ulcers in East Asia, 1990-2021, with projections to 2031: a comprehensive analysis of the global burden of disease study.",
+    "source": "J Health Popul Nutr",
+    "pubdate": "2026 Feb 2",
+    "authors": [
+      "Wang L",
+      "Liu Z",
+      "Zhu X",
+      "Zhou Y",
+      "Zhao S",
+      "Zhao C",
+      "Liang H",
+      "Zhang J",
+      "Gao T",
+      "Ding Y"
+    ],
+    "lastauthor": "Ding Y",
+    "sortfirstauthor": "Wang L",
+    "journal": "Journal of health, population, and nutrition",
+    "issn": "1606-0997",
+    "essn": "2072-1315",
+    "doi": "doi: 10.1186/s41043-025-01210-9",
+    "sortpubdate": "2026/02/02 00:00",
+    "epubdate": "2026 Feb 2"
+  },
+  {
+    "name": "GBD database",
+    "id": "41631106",
+    "title": "Global quality of care trends for lip and oral cavity cancer: A quality of care index analysis, 1990-2021.",
+    "source": "Prev Med Rep",
+    "pubdate": "2026 Feb",
+    "authors": [
+      "Zhang Y",
+      "Xu W",
+      "Wang H",
+      "Mao L",
+      "Sun J"
+    ],
+    "lastauthor": "Sun J",
+    "sortfirstauthor": "Zhang Y",
+    "journal": "Preventive medicine reports",
+    "issn": "2211-3355",
+    "essn": "2211-3355",
+    "doi": "doi: 10.1016/j.pmedr.2026.103380",
+    "sortpubdate": "2026/01/07 00:00",
+    "epubdate": "2026 Jan 7"
+  },
+  {
+    "name": "GBD database",
+    "id": "41630530",
+    "title": "Time-Sensitive Conditions in Melanesia: A Descriptive Analysis of Global Burden of Disease Data for Fiji, Papua New Guinea, Solomon Islands, and Vanuatu.",
+    "source": "Emerg Med Australas",
+    "pubdate": "2026 Feb",
+    "authors": [
+      "Guertin M",
+      "Mitchell R"
+    ],
+    "lastauthor": "Mitchell R",
+    "sortfirstauthor": "Guertin M",
+    "journal": "Emergency medicine Australasia : EMA",
+    "issn": "",
+    "essn": "1742-6723",
+    "doi": "doi: 10.1111/1742-6723.70195",
+    "sortpubdate": "2026/02/01 00:00",
+    "epubdate": ""
   }
 ]
