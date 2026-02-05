@@ -70958,5 +70958,73 @@
     "doi": "doi: 10.1097/JS9.0000000000004912",
     "sortpubdate": "2026/02/03 00:00",
     "epubdate": "2026 Feb 3"
+  },
+  {
+    "name": "NHANES",
+    "id": "41637463",
+    "title": "Construction of a depression risk prediction model for hepatitis B patients based on machine learning strategy.",
+    "source": "PLoS One",
+    "pubdate": "2026",
+    "authors": [
+      "Wang S",
+      "Liu H",
+      "Liang C",
+      "Kong C",
+      "Li J",
+      "Wang M",
+      "Dong K",
+      "Wang Q",
+      "Zhang D",
+      "Guo R"
+    ],
+    "lastauthor": "Guo R",
+    "sortfirstauthor": "Wang S",
+    "journal": "PloS one",
+    "issn": "",
+    "essn": "1932-6203",
+    "doi": "doi: 10.1371/journal.pone.0341236",
+    "sortpubdate": "2026/02/04 00:00",
+    "epubdate": "2026 Feb 4"
+  },
+  {
+    "name": "NHANES",
+    "id": "41636279",
+    "title": "Closing the paper mines.",
+    "source": "Account Res",
+    "pubdate": "2026 Feb 4",
+    "authors": [
+      "Barnett A",
+      "Byrne J"
+    ],
+    "lastauthor": "Byrne J",
+    "sortfirstauthor": "Barnett A",
+    "journal": "Accountability in research",
+    "issn": "0898-9621",
+    "essn": "1545-5815",
+    "doi": "doi: 10.1080/08989621.2026.2626740",
+    "sortpubdate": "2026/02/04 00:00",
+    "epubdate": "2026 Feb 4"
+  },
+  {
+    "name": "NHANES",
+    "id": "41634904",
+    "title": "Association between healthy lifestyle score and thyroid function biomarkers in adults: a cross-sectional analysis.",
+    "source": "Br J Nutr",
+    "pubdate": "2026 Feb 4",
+    "authors": [
+      "Cheng X",
+      "Chen X",
+      "Yan L",
+      "Yang J",
+      "Zhao Y"
+    ],
+    "lastauthor": "Zhao Y",
+    "sortfirstauthor": "Cheng X",
+    "journal": "The British journal of nutrition",
+    "issn": "0007-1145",
+    "essn": "1475-2662",
+    "doi": "doi: 10.1017/S0007114526106382",
+    "sortpubdate": "2026/02/04 00:00",
+    "epubdate": "2026 Feb 4"
   }
 ]

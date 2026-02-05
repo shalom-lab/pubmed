@@ -4696,5 +4696,30 @@
     "doi": "doi: 10.1001/jamanetworkopen.2025.50298",
     "sortpubdate": "2025/12/01 00:00",
     "epubdate": "2025 Dec 1"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "41637686",
+    "title": "Cost-effectiveness of the adjuvanted respiratory syncytial virus prefusion F protein (RSVPreF3) vaccine in Japanese adults aged 50-59 years at increased risk of severe RSV disease and those aged ≥60 years.",
+    "source": "Expert Rev Vaccines",
+    "pubdate": "2026 Feb 4",
+    "authors": [
+      "Tajima K",
+      "Zarkadoulas E",
+      "Simons J",
+      "Kurai D",
+      "Grace M",
+      "Graham J",
+      "Ho Y",
+      "Verelst F"
+    ],
+    "lastauthor": "Verelst F",
+    "sortfirstauthor": "Tajima K",
+    "journal": "Expert review of vaccines",
+    "issn": "1476-0584",
+    "essn": "1744-8395",
+    "doi": "doi: 10.1080/14760584.2026.2626921",
+    "sortpubdate": "2026/02/04 00:00",
+    "epubdate": "2026 Feb 4"
   }
 ]
