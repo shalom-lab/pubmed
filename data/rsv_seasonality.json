@@ -4319,7 +4319,7 @@
     "id": "41321098",
     "title": "Seasonal Trends of Major Respiratory, Gastrointestinal, and Other Viral Infections in Korea: An Analysis Before, During, and After the Coronavirus Disease 2019 Pandemic.",
     "source": "Ann Lab Med",
-    "pubdate": "2025 Dec 1",
+    "pubdate": "2026 Mar 1",
     "authors": [
       "Lee SK",
       "Kim JH",
@@ -4331,7 +4331,7 @@
     "issn": "2234-3806",
     "essn": "2234-3814",
     "doi": "doi: 10.3343/alm.2025.0226",
-    "sortpubdate": "2025/12/01 00:00",
+    "sortpubdate": "2026/03/01 00:00",
     "epubdate": "2025 Dec 1"
   },
   {
@@ -5753,5 +5753,29 @@
     "doi": "doi: 10.1016/j.ijid.2026.108421",
     "sortpubdate": "2026/01/29 00:00",
     "epubdate": "2026 Jan 29"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "41606972",
+    "title": "[Analysis of non-bacterial respiratory pathogens in children in Shijiazhuang City from 2023 to 2024].",
+    "source": "Zhonghua Yu Fang Yi Xue Za Zhi",
+    "pubdate": "2026 Feb 6",
+    "authors": [
+      "Zhai Y",
+      "Huang J",
+      "Shi NN",
+      "Bai XM",
+      "Li YL",
+      "Guo YH",
+      "Ma L"
+    ],
+    "lastauthor": "Ma L",
+    "sortfirstauthor": "Zhai Y",
+    "journal": "Zhonghua yu fang yi xue za zhi [Chinese journal of preventive medicine]",
+    "issn": "0253-9624",
+    "essn": "",
+    "doi": "doi: 10.3760/cma.j.cn112150-20250401-00271",
+    "sortpubdate": "2026/02/06 00:00",
+    "epubdate": ""
   }
 ]
