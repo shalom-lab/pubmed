@@ -52420,5 +52420,67 @@
     "doi": "doi: 10.3389/fpubh.2026.1684344",
     "sortpubdate": "2026/01/15 00:00",
     "epubdate": "2026 Jan 15"
+  },
+  {
+    "name": "GBD database",
+    "id": "41653342",
+    "title": "Burden of tracheal, bronchus, and lung cancer based on GBD 2021.",
+    "source": "Discov Oncol",
+    "pubdate": "2026 Feb 7",
+    "authors": [
+      "Hu C",
+      "Nong S",
+      "Meng Y",
+      "Deng R",
+      "Cheng Y",
+      "Wang J",
+      "Luo B"
+    ],
+    "lastauthor": "Luo B",
+    "sortfirstauthor": "Hu C",
+    "journal": "Discover oncology",
+    "issn": "",
+    "essn": "2730-6011",
+    "doi": "doi: 10.1007/s12672-026-04596-y",
+    "sortpubdate": "2026/02/07 00:00",
+    "epubdate": "2026 Feb 7"
+  },
+  {
+    "name": "GBD database",
+    "id": "41653080",
+    "title": "Stereoscopic epidemiology of global cancer: Complementary lenses from GBD 2023 and GLOBOCAN 2022.",
+    "source": "Int J Cancer",
+    "pubdate": "2026 Feb 7",
+    "authors": [
+      "Li F",
+      "Zhang L"
+    ],
+    "lastauthor": "Zhang L",
+    "sortfirstauthor": "Li F",
+    "journal": "International journal of cancer",
+    "issn": "0020-7136",
+    "essn": "1097-0215",
+    "doi": "doi: 10.1002/ijc.70378",
+    "sortpubdate": "2026/02/07 00:00",
+    "epubdate": "2026 Feb 7"
+  },
+  {
+    "name": "GBD database",
+    "id": "41650827",
+    "title": "Global, regional, and national burden of multiple sclerosis from 1990 to 2021 and projections to 2040: A comprehensive analysis from the global burden of disease study.",
+    "source": "Mult Scler Relat Disord",
+    "pubdate": "2026 Jan 23",
+    "authors": [
+      "Tan J",
+      "Han D"
+    ],
+    "lastauthor": "Han D",
+    "sortfirstauthor": "Tan J",
+    "journal": "Multiple sclerosis and related disorders",
+    "issn": "2211-0348",
+    "essn": "2211-0356",
+    "doi": "doi: 10.1016/j.msard.2026.107027",
+    "sortpubdate": "2026/01/23 00:00",
+    "epubdate": "2026 Jan 23"
   }
 ]
