@@ -52482,5 +52482,73 @@
     "doi": "doi: 10.1016/j.msard.2026.107027",
     "sortpubdate": "2026/01/23 00:00",
     "epubdate": "2026 Jan 23"
+  },
+  {
+    "name": "GBD database",
+    "id": "41655154",
+    "title": "[What diseases and risks cause health losses in Hungary?].",
+    "source": "Orv Hetil",
+    "pubdate": "2026 Feb 8",
+    "authors": [
+      "Vitrai J",
+      "Horváth V"
+    ],
+    "lastauthor": "Horváth V",
+    "sortfirstauthor": "Vitrai J",
+    "journal": "Orvosi hetilap",
+    "issn": "0030-6002",
+    "essn": "1788-6120",
+    "doi": "doi: 10.1556/650.2026.33481",
+    "sortpubdate": "2026/02/08 00:00",
+    "epubdate": "2026 Feb 8"
+  },
+  {
+    "name": "GBD database",
+    "id": "41654951",
+    "title": "Global and regional quality of care index in major depressive disorder: the global burden of disease study 2021.",
+    "source": "Int J Equity Health",
+    "pubdate": "2026 Feb 7",
+    "authors": [
+      "Xu C",
+      "Zhu L",
+      "Lai J",
+      "Luo Z",
+      "Ying J",
+      "Hu S",
+      "Song P",
+      "Yang J"
+    ],
+    "lastauthor": "Yang J",
+    "sortfirstauthor": "Xu C",
+    "journal": "International journal for equity in health",
+    "issn": "",
+    "essn": "1475-9276",
+    "doi": "doi: 10.1186/s12939-026-02775-5",
+    "sortpubdate": "2026/02/07 00:00",
+    "epubdate": "2026 Feb 7"
+  },
+  {
+    "name": "GBD database",
+    "id": "41654876",
+    "title": "Age-sex differences in the global burden of asthma and risk factors, 1990-2021: results from the global burden of disease study 2021.",
+    "source": "BMC Pulm Med",
+    "pubdate": "2026 Feb 7",
+    "authors": [
+      "Wu S",
+      "Ding R",
+      "Huang W",
+      "Shang Y",
+      "Xu W",
+      "Shi F",
+      "Cheng Q"
+    ],
+    "lastauthor": "Cheng Q",
+    "sortfirstauthor": "Wu S",
+    "journal": "BMC pulmonary medicine",
+    "issn": "",
+    "essn": "1471-2466",
+    "doi": "doi: 10.1186/s12890-025-03994-2",
+    "sortpubdate": "2026/02/07 00:00",
+    "epubdate": "2026 Feb 7"
   }
 ]

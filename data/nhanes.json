@@ -72218,5 +72218,114 @@
     "doi": "doi: 10.1152/ajpheart.00958.2025",
     "sortpubdate": "2026/02/06 00:00",
     "epubdate": "2026 Feb 6"
+  },
+  {
+    "name": "NHANES",
+    "id": "41655270",
+    "title": "Associations between neutrophil-to-high-density lipoprotein cholesterol ratio and albuminuria: A cross-sectional study.",
+    "source": "J Int Med Res",
+    "pubdate": "2026 Feb",
+    "authors": [
+      "Pang P",
+      "Wang J",
+      "Wu J",
+      "Lin K"
+    ],
+    "lastauthor": "Lin K",
+    "sortfirstauthor": "Pang P",
+    "journal": "The Journal of international medical research",
+    "issn": "0300-0605",
+    "essn": "1473-2300",
+    "doi": "doi: 10.1177/03000605261416749",
+    "sortpubdate": "2026/02/01 00:00",
+    "epubdate": "2026 Feb 8"
+  },
+  {
+    "name": "NHANES",
+    "id": "41654856",
+    "title": "Explainable machine learning for depression risk prediction in adults with obesity: development of an online tool.",
+    "source": "BMC Med Inform Decis Mak",
+    "pubdate": "2026 Feb 7",
+    "authors": [
+      "Xie Y",
+      "Huo Y",
+      "Zhang C",
+      "He J",
+      "Feng J"
+    ],
+    "lastauthor": "Feng J",
+    "sortfirstauthor": "Xie Y",
+    "journal": "BMC medical informatics and decision making",
+    "issn": "",
+    "essn": "1472-6947",
+    "doi": "doi: 10.1186/s12911-026-03359-7",
+    "sortpubdate": "2026/02/07 00:00",
+    "epubdate": "2026 Feb 7"
+  },
+  {
+    "name": "NHANES",
+    "id": "41654001",
+    "title": "The C-Reactive Protein-Albumin-Lymphocyte (CALLY) Index and All-Cause Mortality in Adults with Asthma: A Cohort Study Using NHANES 1999-2010.",
+    "source": "Respir Med",
+    "pubdate": "2026 Feb 5",
+    "authors": [
+      "Luo W",
+      "Yu Z",
+      "Zhang Y",
+      "Lin D",
+      "Wang W",
+      "Wang C"
+    ],
+    "lastauthor": "Wang C",
+    "sortfirstauthor": "Luo W",
+    "journal": "Respiratory medicine",
+    "issn": "0954-6111",
+    "essn": "1532-3064",
+    "doi": "doi: 10.1016/j.rmed.2026.108706",
+    "sortpubdate": "2026/02/05 00:00",
+    "epubdate": "2026 Feb 5"
+  },
+  {
+    "name": "NHANES",
+    "id": "41653945",
+    "title": "Association Between Monocyte to High-Density Lipoprotein Cholesterol Ratio and Stroke Prevalence in American Adults: A Cross-Sectional NHANES Study.",
+    "source": "J Stroke Cerebrovasc Dis",
+    "pubdate": "2026 Feb 5",
+    "authors": [
+      "Wang J",
+      "Zheng G",
+      "Xu J"
+    ],
+    "lastauthor": "Xu J",
+    "sortfirstauthor": "Wang J",
+    "journal": "Journal of stroke and cerebrovascular diseases : the official journal of National Stroke Association",
+    "issn": "1052-3057",
+    "essn": "1532-8511",
+    "doi": "doi: 10.1016/j.jstrokecerebrovasdis.2026.108580",
+    "sortpubdate": "2026/02/05 00:00",
+    "epubdate": "2026 Feb 5"
+  },
+  {
+    "name": "NHANES",
+    "id": "41653707",
+    "title": "Dietary intake of live microbes is inversely associated with fatigue and modified by serum folate among adults aged 40 years or more.",
+    "source": "Maturitas",
+    "pubdate": "2026 Feb 3",
+    "authors": [
+      "Bigman G",
+      "Kleckner AS",
+      "Li Y",
+      "Dennis EA",
+      "Ryan AS",
+      "Sorkin JD"
+    ],
+    "lastauthor": "Sorkin JD",
+    "sortfirstauthor": "Bigman G",
+    "journal": "Maturitas",
+    "issn": "0378-5122",
+    "essn": "1873-4111",
+    "doi": "doi: 10.1016/j.maturitas.2026.108868",
+    "sortpubdate": "2026/02/03 00:00",
+    "epubdate": "2026 Feb 3"
   }
 ]

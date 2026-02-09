@@ -5777,5 +5777,24 @@
     "doi": "doi: 10.3760/cma.j.cn112150-20250401-00271",
     "sortpubdate": "2026/02/06 00:00",
     "epubdate": ""
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "41520109",
+    "title": "Shifting patterns of pediatric respiratory viruses during the SARS-CoV-2 pandemic: a retrospective observational study.",
+    "source": "BMC Infect Dis",
+    "pubdate": "2026 Jan 10",
+    "authors": [
+      "Tekinsoy M",
+      "Agca H"
+    ],
+    "lastauthor": "Agca H",
+    "sortfirstauthor": "Tekinsoy M",
+    "journal": "BMC infectious diseases",
+    "issn": "",
+    "essn": "1471-2334",
+    "doi": "doi: 10.1186/s12879-025-12513-x",
+    "sortpubdate": "2026/01/10 00:00",
+    "epubdate": "2026 Jan 10"
   }
 ]
