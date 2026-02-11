@@ -4917,7 +4917,7 @@
     "id": "41467992",
     "title": "Immune and Virological Factors Influencing Human Respiratory Syncytial Virus Circulation and Increased Prevalence During and After the COVID-19 Pandemic.",
     "source": "Viral Immunol",
-    "pubdate": "2025 Dec 18",
+    "pubdate": "2026 Jan",
     "authors": [
       "Mendlovic F",
       "Plett T",
@@ -4932,8 +4932,8 @@
     "issn": "0882-8245",
     "essn": "1557-8976",
     "doi": "doi: 10.1177/08828245251407618",
-    "sortpubdate": "2025/12/18 00:00",
-    "epubdate": "2025 Dec 18"
+    "sortpubdate": "2026/01/01 00:00",
+    "epubdate": "2026 Jan 7"
   },
   {
     "name": "RSV seasonality",
@@ -5796,5 +5796,24 @@
     "doi": "doi: 10.1186/s12879-025-12513-x",
     "sortpubdate": "2026/01/10 00:00",
     "epubdate": "2026 Jan 10"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "41666261",
+    "title": "Spatial patterns and environmental influences of COVID-19 outbreaks, post-Omicron.",
+    "source": "PLoS One",
+    "pubdate": "2026",
+    "authors": [
+      "Stamper A",
+      "Baker RE"
+    ],
+    "lastauthor": "Baker RE",
+    "sortfirstauthor": "Stamper A",
+    "journal": "PloS one",
+    "issn": "",
+    "essn": "1932-6203",
+    "doi": "doi: 10.1371/journal.pone.0342510",
+    "sortpubdate": "2026/02/10 00:00",
+    "epubdate": "2026 Feb 10"
   }
 ]

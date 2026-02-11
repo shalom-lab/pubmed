@@ -6848,5 +6848,72 @@
     "doi": "doi: 10.1093/aje/kwaf268",
     "sortpubdate": "2025/12/05 00:00",
     "epubdate": "2025 Dec 5"
+  },
+  {
+    "name": "American Journal of Epidemiology",
+    "id": "41664935",
+    "title": "Applying Capture Recapture Methods to Estimate the Burden of Chlamydial and Gonococcal Infections Using Indian Health Service Medical Records, 2016-2021.",
+    "source": "Am J Epidemiol",
+    "pubdate": "2026 Feb 10",
+    "authors": [
+      "Haberling DL",
+      "Ge L",
+      "Pondo T",
+      "Taylor MM",
+      "Nuorti JP",
+      "Apostolou A"
+    ],
+    "lastauthor": "Apostolou A",
+    "sortfirstauthor": "Haberling DL",
+    "journal": "American journal of epidemiology",
+    "issn": "0002-9262",
+    "essn": "1476-6256",
+    "doi": "pii: kwag031. doi: 10.1093/aje/kwag031",
+    "sortpubdate": "2026/02/10 00:00",
+    "epubdate": "2026 Feb 10"
+  },
+  {
+    "name": "American Journal of Epidemiology",
+    "id": "41662841",
+    "title": "Living DAGs: The Future of DAGs in Epidemiology.",
+    "source": "Am J Epidemiol",
+    "pubdate": "2026 Feb 9",
+    "authors": [
+      "Reynolds RJ"
+    ],
+    "lastauthor": "Reynolds RJ",
+    "sortfirstauthor": "Reynolds RJ",
+    "journal": "American journal of epidemiology",
+    "issn": "0002-9262",
+    "essn": "1476-6256",
+    "doi": "pii: kwag029. doi: 10.1093/aje/kwag029",
+    "sortpubdate": "2026/02/09 00:00",
+    "epubdate": "2026 Feb 9"
+  },
+  {
+    "name": "American Journal of Epidemiology",
+    "id": "41662840",
+    "title": "Building the Mountain Mama and Baby Cohort: Study Design, Protocol, and Early Prenatal Clinic-based Recruitment Outcomes.",
+    "source": "Am J Epidemiol",
+    "pubdate": "2026 Feb 9",
+    "authors": [
+      "Gibbs BB",
+      "Chmelik K",
+      "Marshall EM",
+      "Henggeler WK",
+      "Olfert IM",
+      "Rowan S",
+      "Lilly C",
+      "Hodder SL",
+      "Umer A"
+    ],
+    "lastauthor": "Umer A",
+    "sortfirstauthor": "Gibbs BB",
+    "journal": "American journal of epidemiology",
+    "issn": "0002-9262",
+    "essn": "1476-6256",
+    "doi": "pii: kwag030. doi: 10.1093/aje/kwag030",
+    "sortpubdate": "2026/02/09 00:00",
+    "epubdate": "2026 Feb 9"
   }
 ]

@@ -52784,5 +52784,51 @@
     "doi": "doi: 10.1111/jgh.70261",
     "sortpubdate": "2026/02/08 00:00",
     "epubdate": "2026 Feb 8"
+  },
+  {
+    "name": "GBD database",
+    "id": "41665456",
+    "title": "Evolution of the Burden of Carbapenem-Resistant Klebsiella pneumoniae Infections in the Elderly, 1990-2021: Global Trends, Regional Heterogeneity, and Health Inequalities.",
+    "source": "Microb Drug Resist",
+    "pubdate": "2026 Feb 10",
+    "authors": [
+      "Chen Y",
+      "Zhang F",
+      "Chen Y",
+      "Qian Z"
+    ],
+    "lastauthor": "Qian Z",
+    "sortfirstauthor": "Chen Y",
+    "journal": "Microbial drug resistance (Larchmont, N.Y.)",
+    "issn": "1076-6294",
+    "essn": "1931-8448",
+    "doi": "doi: 10.1177/10766294261422462",
+    "sortpubdate": "2026/02/10 00:00",
+    "epubdate": "2026 Feb 10"
+  },
+  {
+    "name": "GBD database",
+    "id": "41664847",
+    "title": "Estimating the global macroeconomic impact of colorectal cancer: evidence from Global Burden of Disease 2021 and Value of a Statistical Life Year framework.",
+    "source": "Int J Surg",
+    "pubdate": "2026 Feb 5",
+    "authors": [
+      "Lv W",
+      "Wang S",
+      "Duan L",
+      "Wu Y",
+      "Tian X",
+      "Dong Z",
+      "Xu S",
+      "Wang B"
+    ],
+    "lastauthor": "Wang B",
+    "sortfirstauthor": "Lv W",
+    "journal": "International journal of surgery (London, England)",
+    "issn": "",
+    "essn": "1743-9159",
+    "doi": "doi: 10.1097/JS9.0000000000004687",
+    "sortpubdate": "2026/02/05 00:00",
+    "epubdate": "2026 Feb 5"
   }
 ]
