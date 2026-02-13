@@ -3521,7 +3521,7 @@
     "id": "41286483",
     "title": "Position statement of the Mexican Association of Pediatrics on the immunoprevention of respiratory syncytial virus infection during pregnancy and infancy.",
     "source": "World J Pediatr",
-    "pubdate": "2025 Nov 24",
+    "pubdate": "2026 Jan",
     "authors": [
       "Montesinos Ramírez C",
       "Saltigeral Simental P",
@@ -3553,7 +3553,7 @@
     "issn": "",
     "essn": "1867-0687",
     "doi": "doi: 10.1007/s12519-025-00997-1",
-    "sortpubdate": "2025/11/24 00:00",
+    "sortpubdate": "2026/01/01 00:00",
     "epubdate": "2025 Nov 24"
   },
   {
@@ -4550,9 +4550,9 @@
   {
     "name": "RSV modeling",
     "id": "41612695",
-    "title": "Highly Efficient and Durable Th1-Biased Protective Immunity Induced by a Novel mRNA-LNP Vaccine Against RSV via AI-Assisted Antigen Screening.",
+    "title": "Highly efficient and durable Th1-biased protective immunity from a novel mRNA vaccine against RSV via AI-assisted antigen screening.",
     "source": "Mol Ther",
-    "pubdate": "2026 Jan 28",
+    "pubdate": "2026 Jan 29",
     "authors": [
       "Dong K",
       "Liu F",
@@ -4570,8 +4570,8 @@
     "issn": "1525-0016",
     "essn": "1525-0024",
     "doi": "pii: S1525-0016(26)00032-8. doi: 10.1016/j.ymthe.2026.01.031",
-    "sortpubdate": "2026/01/28 00:00",
-    "epubdate": "2026 Jan 28"
+    "sortpubdate": "2026/01/29 00:00",
+    "epubdate": "2026 Jan 29"
   },
   {
     "name": "RSV modeling",
@@ -4801,6 +4801,32 @@
     "issn": "",
     "essn": "1743-9159",
     "doi": "doi: 10.1097/JS9.0000000000004655",
+    "sortpubdate": "2026/02/05 00:00",
+    "epubdate": "2026 Feb 5"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "41676723",
+    "title": "Streptococcus pneumoniae colonization modulates human nasal epithelial responses to respiratory syncytial virus infection.",
+    "source": "bioRxiv",
+    "pubdate": "2026 Feb 5",
+    "authors": [
+      "Kafer LA",
+      "Escapa IF",
+      "Boyd AI",
+      "Tostado AR",
+      "Kambal A",
+      "Blutt SE",
+      "Avadhanula V",
+      "Piedra PA",
+      "Lemon KP"
+    ],
+    "lastauthor": "Lemon KP",
+    "sortfirstauthor": "Kafer LA",
+    "journal": "bioRxiv : the preprint server for biology",
+    "issn": "",
+    "essn": "2692-8205",
+    "doi": "pii: 2026.02.05.703985. doi: 10.64898/2026.02.05.703985",
     "sortpubdate": "2026/02/05 00:00",
     "epubdate": "2026 Feb 5"
   }

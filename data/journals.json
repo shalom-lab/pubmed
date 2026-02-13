@@ -11755,5 +11755,33 @@
     "journal": "Health policy and planning",
     "issn": "0268-1080",
     "essn": "1460-2237"
+  },
+  {
+    "source": "IMetaOmics",
+    "journal": "iMetaOmics",
+    "issn": "2996-9506",
+    "essn": "2996-9514"
+  },
+  {
+    "source": "Mhealth",
+    "journal": "mHealth",
+    "issn": "2306-9740",
+    "essn": "2306-9740"
+  },
+  {
+    "source": "Endocr Res",
+    "journal": "Endocrine research",
+    "issn": "0743-5800",
+    "essn": "1532-4206"
+  },
+  {
+    "source": "Cardiooncology",
+    "journal": "Cardio-oncology (London, England)",
+    "essn": "2057-3804"
+  },
+  {
+    "source": "bioRxiv",
+    "journal": "bioRxiv : the preprint server for biology",
+    "essn": "2692-8205"
   }
 ]
