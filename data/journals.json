@@ -523,6 +523,7 @@
   {
     "source": "World J Pediatr",
     "journal": "World journal of pediatrics : WJP",
+    "issn": "1708-8569",
     "essn": "1867-0687"
   },
   {
@@ -11783,5 +11784,34 @@
     "source": "bioRxiv",
     "journal": "bioRxiv : the preprint server for biology",
     "essn": "2692-8205"
+  },
+  {
+    "source": "Cardiology",
+    "journal": "Cardiology",
+    "issn": "0008-6312",
+    "essn": "1421-9751"
+  },
+  {
+    "source": "Ups J Med Sci",
+    "journal": "Upsala journal of medical sciences",
+    "issn": "0300-9734",
+    "essn": "2000-1967"
+  },
+  {
+    "source": "J Neurosurg Pediatr",
+    "journal": "Journal of neurosurgery. Pediatrics",
+    "issn": "1933-0707",
+    "essn": "1933-0715"
+  },
+  {
+    "source": "Circ Popul Health Outcomes",
+    "journal": "Circulation. Population health and outcomes",
+    "essn": "3068-563X"
+  },
+  {
+    "source": "Water Res",
+    "journal": "Water research",
+    "issn": "0043-1354",
+    "essn": "1879-2448"
   }
 ]

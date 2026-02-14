@@ -3077,7 +3077,7 @@
     "id": "41286483",
     "title": "Position statement of the Mexican Association of Pediatrics on the immunoprevention of respiratory syncytial virus infection during pregnancy and infancy.",
     "source": "World J Pediatr",
-    "pubdate": "2025 Nov 24",
+    "pubdate": "2026 Jan",
     "authors": [
       "Montesinos Ramírez C",
       "Saltigeral Simental P",
@@ -3106,10 +3106,10 @@
     "lastauthor": "Vital Reyes VS",
     "sortfirstauthor": "Montesinos Ramírez C",
     "journal": "World journal of pediatrics : WJP",
-    "issn": "",
+    "issn": "1708-8569",
     "essn": "1867-0687",
     "doi": "doi: 10.1007/s12519-025-00997-1",
-    "sortpubdate": "2025/11/24 00:00",
+    "sortpubdate": "2026/01/01 00:00",
     "epubdate": "2025 Nov 24"
   },
   {
@@ -3296,7 +3296,7 @@
     "id": "41352411",
     "title": "PolyBodies for the Treatment of Respiratory Syncytial Virus Infection.",
     "source": "Drug Discov Today",
-    "pubdate": "2025 Dec 4",
+    "pubdate": "2026 Jan",
     "authors": [
       "Prasad YR",
       "Sandeep",
@@ -3309,7 +3309,7 @@
     "issn": "1359-6446",
     "essn": "1878-5832",
     "doi": "doi: 10.1016/j.drudis.2025.104572",
-    "sortpubdate": "2025/12/04 00:00",
+    "sortpubdate": "2026/01/01 00:00",
     "epubdate": "2025 Dec 4"
   },
   {
@@ -4029,5 +4029,84 @@
     "doi": "doi: 10.1002/ppul.71500",
     "sortpubdate": "2026/02/01 00:00",
     "epubdate": ""
+  },
+  {
+    "name": "Nirsevimab effectiveness",
+    "id": "41685002",
+    "title": "Current and Emerging Strategies for the Prevention of Respiratory Syncytial Virus (RSV) Infections: A Comprehensive Review of Vaccines and Antibody Therapies.",
+    "source": "Cureus",
+    "pubdate": "2026 Jan",
+    "authors": [
+      "Genis D",
+      "Riaz W",
+      "Hussain A",
+      "Oz T"
+    ],
+    "lastauthor": "Oz T",
+    "sortfirstauthor": "Genis D",
+    "journal": "Cureus",
+    "issn": "2168-8184",
+    "essn": "2168-8184",
+    "doi": "doi: 10.7759/cureus.101340",
+    "sortpubdate": "2026/01/12 00:00",
+    "epubdate": "2026 Jan 12"
+  },
+  {
+    "name": "Nirsevimab effectiveness",
+    "id": "41675439",
+    "title": "Real-world impact of nirsevimab immunisation and maternal RSV vaccination against respiratory disease on emergency department attendances and admissions: a multinational retrospective analysis.",
+    "source": "Lancet Reg Health Eur",
+    "pubdate": "2026 Apr",
+    "authors": [
+      "Perramon-Malavez A",
+      "Chiaretti A",
+      "Coma E",
+      "Craiu M",
+      "Foster S",
+      "Leonard P",
+      "Marlow R",
+      "Thors V",
+      "Martínez-Marcos M",
+      "Mendioroz J",
+      "Vila J",
+      "Creus-Costa A",
+      "Prats C",
+      "Roland D",
+      "Soriano-Arandes A",
+      "Williams TC",
+      "Buonsenso D"
+    ],
+    "lastauthor": "Buonsenso D",
+    "sortfirstauthor": "Perramon-Malavez A",
+    "journal": "The Lancet regional health. Europe",
+    "issn": "",
+    "essn": "2666-7762",
+    "doi": "doi: 10.1016/j.lanepe.2026.101597",
+    "sortpubdate": "2026/02/03 00:00",
+    "epubdate": "2026 Feb 3"
+  },
+  {
+    "name": "Nirsevimab effectiveness",
+    "id": "41674395",
+    "title": "Impact of Nirsevimab on Respiratory Syncytial Virus PCR Test Positivity in Young Infants: A Community-Level Observational Study in Queensland, Australia.",
+    "source": "J Paediatr Child Health",
+    "pubdate": "2026 Feb 12",
+    "authors": [
+      "El-Heneidy A",
+      "Grimwood K",
+      "Robson JM",
+      "Vilaylath CV",
+      "Cherian SG",
+      "Lambert SB",
+      "Ware RS"
+    ],
+    "lastauthor": "Ware RS",
+    "sortfirstauthor": "El-Heneidy A",
+    "journal": "Journal of paediatrics and child health",
+    "issn": "1034-4810",
+    "essn": "1440-1754",
+    "doi": "doi: 10.1111/jpc.70317",
+    "sortpubdate": "2026/02/12 00:00",
+    "epubdate": "2026 Feb 12"
   }
 ]

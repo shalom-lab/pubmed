@@ -3550,7 +3550,7 @@
     "lastauthor": "Vital Reyes VS",
     "sortfirstauthor": "Montesinos Ramírez C",
     "journal": "World journal of pediatrics : WJP",
-    "issn": "",
+    "issn": "1708-8569",
     "essn": "1867-0687",
     "doi": "doi: 10.1007/s12519-025-00997-1",
     "sortpubdate": "2026/01/01 00:00",
@@ -4829,5 +4829,47 @@
     "doi": "pii: 2026.02.05.703985. doi: 10.64898/2026.02.05.703985",
     "sortpubdate": "2026/02/05 00:00",
     "epubdate": "2026 Feb 5"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "41681722",
+    "title": "A Clinical Prediction Model for Bacterial Coinfection in Children with Respiratory Syncytial Virus Infection: A Development and Validation Study.",
+    "source": "Diagnostics (Basel)",
+    "pubdate": "2026 Jan 27",
+    "authors": [
+      "Lian D",
+      "Wei J",
+      "Wang D",
+      "Xie M",
+      "Lin C",
+      "Tang Q"
+    ],
+    "lastauthor": "Tang Q",
+    "sortfirstauthor": "Lian D",
+    "journal": "Diagnostics (Basel, Switzerland)",
+    "issn": "2075-4418",
+    "essn": "",
+    "doi": "pii: 403. doi: 10.3390/diagnostics16030403",
+    "sortpubdate": "2026/01/27 00:00",
+    "epubdate": "2026 Jan 27"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "41679033",
+    "title": "Handling left-censored wastewater surveillance data at the city level: A state-space model incorporating a logistic function.",
+    "source": "Water Res",
+    "pubdate": "2026 Feb 1",
+    "authors": [
+      "Ando H",
+      "Reynolds K"
+    ],
+    "lastauthor": "Reynolds K",
+    "sortfirstauthor": "Ando H",
+    "journal": "Water research",
+    "issn": "0043-1354",
+    "essn": "1879-2448",
+    "doi": "doi: 10.1016/j.watres.2026.125488",
+    "sortpubdate": "2026/02/01 00:00",
+    "epubdate": "2026 Feb 1"
   }
 ]
