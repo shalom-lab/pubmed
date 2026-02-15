@@ -4871,5 +4871,28 @@
     "doi": "doi: 10.1016/j.watres.2026.125488",
     "sortpubdate": "2026/02/01 00:00",
     "epubdate": "2026 Feb 1"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "41681722",
+    "title": "A Clinical Prediction Model for Bacterial Coinfection in Children with Respiratory Syncytial Virus Infection: A Development and Validation Study.",
+    "source": "Diagnostics (Basel)",
+    "pubdate": "2026 Jan 27",
+    "authors": [
+      "Lian D",
+      "Wei J",
+      "Wang D",
+      "Xie M",
+      "Lin C",
+      "Tang Q"
+    ],
+    "lastauthor": "Tang Q",
+    "sortfirstauthor": "Lian D",
+    "journal": "Diagnostics (Basel, Switzerland)",
+    "issn": "2075-4418",
+    "essn": "2075-4418",
+    "doi": "doi: 10.3390/diagnostics16030403",
+    "sortpubdate": "2026/01/27 00:00",
+    "epubdate": "2026 Jan 27"
   }
 ]
