@@ -53811,5 +53811,47 @@
     "doi": "doi: 10.3390/jcm15030960",
     "sortpubdate": "2026/01/25 00:00",
     "epubdate": "2026 Jan 25"
+  },
+  {
+    "name": "GBD database",
+    "id": "41691352",
+    "title": "Global burden and trends of rheumatoid arthritis attributable to smoking from 1990 to 2021 with forecasts to 2050.",
+    "source": "Trop Med Health",
+    "pubdate": "2026 Feb 14",
+    "authors": [
+      "Wu Y",
+      "Niu Y",
+      "Wang Y",
+      "Yang Z",
+      "Wen P"
+    ],
+    "lastauthor": "Wen P",
+    "sortfirstauthor": "Wu Y",
+    "journal": "Tropical medicine and health",
+    "issn": "1348-8945",
+    "essn": "",
+    "doi": "doi: 10.1186/s41182-026-00921-x",
+    "sortpubdate": "2026/02/14 00:00",
+    "epubdate": "2026 Feb 14"
+  },
+  {
+    "name": "GBD database",
+    "id": "41690869",
+    "title": "Global burden of rheumatic heart disease among women of reproductive age: Socioeconomic and temporal trends, 1990 to 2021.",
+    "source": "Arch Cardiovasc Dis",
+    "pubdate": "2026 Jan 23",
+    "authors": [
+      "Li R",
+      "Hou S",
+      "Wu J"
+    ],
+    "lastauthor": "Wu J",
+    "sortfirstauthor": "Li R",
+    "journal": "Archives of cardiovascular diseases",
+    "issn": "",
+    "essn": "1875-2128",
+    "doi": "pii: S1875-2136(26)00010-0. doi: 10.1016/j.acvd.2026.01.003",
+    "sortpubdate": "2026/01/23 00:00",
+    "epubdate": "2026 Jan 23"
   }
 ]

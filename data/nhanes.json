@@ -74462,5 +74462,53 @@
     "doi": "doi: 10.1007/s00394-025-03823-6",
     "sortpubdate": "2026/02/12 00:00",
     "epubdate": "2026 Feb 12"
+  },
+  {
+    "name": "NHANES",
+    "id": "41691268",
+    "title": "Association of cardiovascular-kidney-metabolic syndrome stages with MASLD prevalence and liver fibrosis severity: evidence from traditional and machine learning approaches.",
+    "source": "Eur J Med Res",
+    "pubdate": "2026 Feb 14",
+    "authors": [
+      "Zheng Y",
+      "Li T",
+      "Guo S",
+      "Song J"
+    ],
+    "lastauthor": "Song J",
+    "sortfirstauthor": "Zheng Y",
+    "journal": "European journal of medical research",
+    "issn": "0949-2321",
+    "essn": "2047-783X",
+    "doi": "doi: 10.1186/s40001-026-04037-0",
+    "sortpubdate": "2026/02/14 00:00",
+    "epubdate": "2026 Feb 14"
+  },
+  {
+    "name": "NHANES",
+    "id": "41690089",
+    "title": "Exposure to personal care products and thyroid function in adults: Unveiling the association and potential mechanism.",
+    "source": "Ecotoxicol Environ Saf",
+    "pubdate": "2026 Feb 13",
+    "authors": [
+      "Zou H",
+      "Zhong J",
+      "Wei X",
+      "Wen Y",
+      "Liu J",
+      "Hu X",
+      "Yu J",
+      "Yu Y",
+      "Wan Y",
+      "Xiao L"
+    ],
+    "lastauthor": "Xiao L",
+    "sortfirstauthor": "Zou H",
+    "journal": "Ecotoxicology and environmental safety",
+    "issn": "0147-6513",
+    "essn": "1090-2414",
+    "doi": "doi: 10.1016/j.ecoenv.2026.119855",
+    "sortpubdate": "2026/02/13 00:00",
+    "epubdate": "2026 Feb 13"
   }
 ]
