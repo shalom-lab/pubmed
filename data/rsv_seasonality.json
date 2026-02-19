@@ -5921,5 +5921,62 @@
     "doi": "doi: 10.3389/fdgth.2025.1713089",
     "sortpubdate": "2026/01/29 00:00",
     "epubdate": "2026 Jan 29"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "41705300",
+    "title": "Strengthening Respiratory Virus Surveillance in Sub-Saharan Africa: Integrated Epidemiological and Genomic Monitoring in Côte d'Ivoire.",
+    "source": "Influenza Other Respir Viruses",
+    "pubdate": "2026 Feb",
+    "authors": [
+      "Kadjo HA",
+      "Coulibaly D",
+      "Ouattara YK",
+      "Aboubacar S",
+      "Maxime D",
+      "Konan N",
+      "Luc-Venance K",
+      "Helene K",
+      "Marc MJ",
+      "Bertin K",
+      "Marius A",
+      "Adjogoua E",
+      "Daniel E",
+      "Syndou M"
+    ],
+    "lastauthor": "Syndou M",
+    "sortfirstauthor": "Kadjo HA",
+    "journal": "Influenza and other respiratory viruses",
+    "issn": "1750-2640",
+    "essn": "1750-2659",
+    "doi": "doi: 10.1111/irv.70239",
+    "sortpubdate": "2026/02/01 00:00",
+    "epubdate": ""
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "41566313",
+    "title": "A retrospective cohort study and spatial analysis of climate and community-level determinants of respiratory syncytial virus notifications among Queensland infants, prior to the introduction of the RSV mother and infant protection program (RSV-MIPP) immunisation initiative.",
+    "source": "BMC Public Health",
+    "pubdate": "2026 Jan 22",
+    "authors": [
+      "Graham S",
+      "Sartorius B",
+      "Snelling T",
+      "Homaira N",
+      "Newall AT",
+      "Binks M",
+      "Lau C",
+      "Hughes C",
+      "McHugh L"
+    ],
+    "lastauthor": "McHugh L",
+    "sortfirstauthor": "Graham S",
+    "journal": "BMC public health",
+    "issn": "",
+    "essn": "1471-2458",
+    "doi": "doi: 10.1186/s12889-026-26288-6",
+    "sortpubdate": "2026/01/22 00:00",
+    "epubdate": "2026 Jan 22"
   }
 ]

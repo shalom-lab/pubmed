@@ -6915,5 +6915,34 @@
     "doi": "pii: kwag030. doi: 10.1093/aje/kwag030",
     "sortpubdate": "2026/02/09 00:00",
     "epubdate": "2026 Feb 9"
+  },
+  {
+    "name": "American Journal of Epidemiology",
+    "id": "41536210",
+    "title": "Assessing the generalizability of prevalence estimates from the all of us research program.",
+    "source": "Am J Epidemiol",
+    "pubdate": "2026 Jan 15",
+    "authors": [
+      "Montgomery BW",
+      "Elkasabi M",
+      "Brannock MD",
+      "Marcial L",
+      "Huda A",
+      "McPheeters M",
+      "Schulkey C",
+      "Hedden S",
+      "Greenland P",
+      "Sastry C",
+      "Adjemian J",
+      "Litwin TR"
+    ],
+    "lastauthor": "Litwin TR",
+    "sortfirstauthor": "Montgomery BW",
+    "journal": "American journal of epidemiology",
+    "issn": "0002-9262",
+    "essn": "1476-6256",
+    "doi": "doi: 10.1093/aje/kwag010",
+    "sortpubdate": "2026/01/15 00:00",
+    "epubdate": "2026 Jan 15"
   }
 ]
