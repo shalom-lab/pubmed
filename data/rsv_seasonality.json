@@ -5978,5 +5978,40 @@
     "doi": "doi: 10.1186/s12889-026-26288-6",
     "sortpubdate": "2026/01/22 00:00",
     "epubdate": "2026 Jan 22"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "41712508",
+    "title": "Respiratory Virus Activity - United States, July 1, 2024-June 30, 2025.",
+    "source": "MMWR Morb Mortal Wkly Rep",
+    "pubdate": "2026 Feb 19",
+    "authors": [
+      "Silk BJ",
+      "Prill MM",
+      "Winn AK",
+      "Patton ME",
+      "Moline HL",
+      "Melgar M",
+      "Ma KC",
+      "Paden CR",
+      "Atherton LJ",
+      "Khan D",
+      "Taylor CA",
+      "Tannis A",
+      "Patel K",
+      "Goldstein LA",
+      "Kniss K",
+      "Merced-Morales A",
+      "Thornburg N",
+      "Dawood FS"
+    ],
+    "lastauthor": "Dawood FS",
+    "sortfirstauthor": "Silk BJ",
+    "journal": "MMWR. Morbidity and mortality weekly report",
+    "issn": "0149-2195",
+    "essn": "1545-861X",
+    "doi": "doi: 10.15585/mmwr.mm7506a2",
+    "sortpubdate": "2026/02/19 00:00",
+    "epubdate": "2026 Feb 19"
   }
 ]
