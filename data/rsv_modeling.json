@@ -4601,7 +4601,7 @@
     "id": "41619355",
     "title": "Clinical and economic benefits of bivalent respiratory syncytial virus prefusion F (RSVpreF) maternal vaccine for prevention of RSV illness in infants: A cost-effectiveness analysis for Singapore.",
     "source": "Vaccine",
-    "pubdate": "2026 Jan 30",
+    "pubdate": "2026 Mar 7",
     "authors": [
       "Thakkar K",
       "Kefalogianni R",
@@ -4618,7 +4618,7 @@
     "issn": "0264-410X",
     "essn": "1873-2518",
     "doi": "doi: 10.1016/j.vaccine.2026.128285",
-    "sortpubdate": "2026/01/30 00:00",
+    "sortpubdate": "2026/03/07 00:00",
     "epubdate": "2026 Jan 30"
   },
   {
@@ -4912,5 +4912,46 @@
     "doi": "doi: 10.1038/s41598-026-40530-6",
     "sortpubdate": "2026/02/18 00:00",
     "epubdate": "2026 Feb 18"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "41717604",
+    "title": "Dynamic spatiotemporal graph attention networks for cross-regional multi-disease forecasting and intervention optimization.",
+    "source": "Front Public Health",
+    "pubdate": "2026",
+    "authors": [
+      "Liu S",
+      "Cao L"
+    ],
+    "lastauthor": "Cao L",
+    "sortfirstauthor": "Liu S",
+    "journal": "Frontiers in public health",
+    "issn": "",
+    "essn": "2296-2565",
+    "doi": "doi: 10.3389/fpubh.2026.1720620",
+    "sortpubdate": "2026/02/04 00:00",
+    "epubdate": "2026 Feb 4"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "41714680",
+    "title": "Mathematical analysis of a stochastic delay model for respiratory syncytial virus dynamics.",
+    "source": "Sci Rep",
+    "pubdate": "2026 Feb 20",
+    "authors": [
+      "Raza A",
+      "Lampart M",
+      "Shafique U",
+      "Alfwzan WF",
+      "Fadhal E"
+    ],
+    "lastauthor": "Fadhal E",
+    "sortfirstauthor": "Raza A",
+    "journal": "Scientific reports",
+    "issn": "",
+    "essn": "2045-2322",
+    "doi": "doi: 10.1038/s41598-026-39783-y",
+    "sortpubdate": "2026/02/20 00:00",
+    "epubdate": "2026 Feb 20"
   }
 ]
