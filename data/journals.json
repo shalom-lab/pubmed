@@ -2471,7 +2471,8 @@
   {
     "source": "Audiol Res",
     "journal": "Audiology research",
-    "issn": "2039-4330"
+    "issn": "2039-4330",
+    "essn": "2039-4349"
   },
   {
     "source": "J Med Syst",
@@ -12021,5 +12022,16 @@
     "source": "F1000Res",
     "journal": "F1000Research",
     "essn": "2046-1402"
+  },
+  {
+    "source": "Eur J Epidemiol",
+    "journal": "European journal of epidemiology",
+    "issn": "0393-2990",
+    "essn": "1573-7284"
+  },
+  {
+    "source": "Subst Abuse Treat Prev Policy",
+    "journal": "Substance abuse treatment, prevention, and policy",
+    "essn": "1747-597X"
   }
 ]
