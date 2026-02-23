@@ -55162,5 +55162,95 @@
     "doi": "doi: 10.1186/s13011-026-00711-y",
     "sortpubdate": "2026/02/19 00:00",
     "epubdate": "2026 Feb 19"
+  },
+  {
+    "name": "GBD database",
+    "id": "41723862",
+    "title": "Global, regional, and national burden of aortic aneurysm and its risk factors, 1990-2021: a systematic analysis for the Global Burden of Disease Study 2021.",
+    "source": "Int J Surg",
+    "pubdate": "2026 Feb 5",
+    "authors": [
+      "Yinzhi S",
+      "Mengying L",
+      "Jinsong J",
+      "Dan S"
+    ],
+    "lastauthor": "Dan S",
+    "sortfirstauthor": "Yinzhi S",
+    "journal": "International journal of surgery (London, England)",
+    "issn": "",
+    "essn": "1743-9159",
+    "doi": "doi: 10.1097/JS9.0000000000004581",
+    "sortpubdate": "2026/02/05 00:00",
+    "epubdate": "2026 Feb 5"
+  },
+  {
+    "name": "GBD database",
+    "id": "41723555",
+    "title": "Global burden of lower respiratory infections associated with antimicrobial resistance: insights from the Global Burden of Disease 2021.",
+    "source": "Antimicrob Resist Infect Control",
+    "pubdate": "2026 Feb 21",
+    "authors": [
+      "Zhang ZL",
+      "Qian KL",
+      "Xiao MZ"
+    ],
+    "lastauthor": "Xiao MZ",
+    "sortfirstauthor": "Zhang ZL",
+    "journal": "Antimicrobial resistance and infection control",
+    "issn": "",
+    "essn": "2047-2994",
+    "doi": "doi: 10.1186/s13756-026-01720-z",
+    "sortpubdate": "2026/02/21 00:00",
+    "epubdate": "2026 Feb 21"
+  },
+  {
+    "name": "GBD database",
+    "id": "41722608",
+    "title": "Prevalence estimates of small vulnerable newborns in China (2012-22): a modelling study.",
+    "source": "Lancet Glob Health",
+    "pubdate": "2026 Feb 18",
+    "authors": [
+      "Xie Y",
+      "Liang J",
+      "Mu Y",
+      "Chen P",
+      "Wang Y",
+      "Liu Z",
+      "Li Q",
+      "Li M",
+      "Dai L",
+      "Li X",
+      "Zhu J",
+      "Liu H"
+    ],
+    "lastauthor": "Liu H",
+    "sortfirstauthor": "Xie Y",
+    "journal": "The Lancet. Global health",
+    "issn": "",
+    "essn": "2214-109X",
+    "doi": "pii: S2214-109X(25)00498-X. doi: 10.1016/S2214-109X(25)00498-X",
+    "sortpubdate": "2026/02/18 00:00",
+    "epubdate": "2026 Feb 18"
+  },
+  {
+    "name": "GBD database",
+    "id": "41722206",
+    "title": "Global, regional, and national burden of age-related hearing loss and Alzheimer's disease, 1990-2021, with projections to 2040: A global burden of disease study.",
+    "source": "Arch Gerontol Geriatr",
+    "pubdate": "2026 Feb 13",
+    "authors": [
+      "Liu D",
+      "Zhang Y",
+      "Zhang S"
+    ],
+    "lastauthor": "Zhang S",
+    "sortfirstauthor": "Liu D",
+    "journal": "Archives of gerontology and geriatrics",
+    "issn": "0167-4943",
+    "essn": "1872-6976",
+    "doi": "doi: 10.1016/j.archger.2026.106170",
+    "sortpubdate": "2026/02/13 00:00",
+    "epubdate": "2026 Feb 13"
   }
 ]

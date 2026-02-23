@@ -4953,5 +4953,28 @@
     "doi": "doi: 10.1038/s41598-026-39783-y",
     "sortpubdate": "2026/02/20 00:00",
     "epubdate": "2026 Feb 20"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "41606523",
+    "title": "Estimating the burden of RSV- and influenza-associated ED visits, hospitalizations, ICU admissions, and deaths across age and socioeconomic groups in New York State, 2005-2019.",
+    "source": "BMC Infect Dis",
+    "pubdate": "2026 Jan 28",
+    "authors": [
+      "Xu H",
+      "Pitzer VE",
+      "Warren JL",
+      "Shapiro ED",
+      "Perniciaro S",
+      "Weinberger DM"
+    ],
+    "lastauthor": "Weinberger DM",
+    "sortfirstauthor": "Xu H",
+    "journal": "BMC infectious diseases",
+    "issn": "",
+    "essn": "1471-2334",
+    "doi": "doi: 10.1186/s12879-026-12574-6",
+    "sortpubdate": "2026/01/28 00:00",
+    "epubdate": "2026 Jan 28"
   }
 ]

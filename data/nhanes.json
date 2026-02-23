@@ -76008,5 +76008,66 @@
     "doi": "pii: 1935. doi: 10.1038/s41467-026-69738-w",
     "sortpubdate": "2026/02/19 00:00",
     "epubdate": "2026 Feb 19"
+  },
+  {
+    "name": "NHANES",
+    "id": "41723518",
+    "title": "Association between dietary polyunsaturated fatty acids and cardiovascular disease in individuals with rheumatoid arthritis.",
+    "source": "Eur J Med Res",
+    "pubdate": "2026 Feb 21",
+    "authors": [
+      "Huang D",
+      "Wu P",
+      "Chen Y",
+      "Zhong S"
+    ],
+    "lastauthor": "Zhong S",
+    "sortfirstauthor": "Huang D",
+    "journal": "European journal of medical research",
+    "issn": "0949-2321",
+    "essn": "2047-783X",
+    "doi": "doi: 10.1186/s40001-026-04085-6",
+    "sortpubdate": "2026/02/21 00:00",
+    "epubdate": "2026 Feb 21"
+  },
+  {
+    "name": "NHANES",
+    "id": "41723148",
+    "title": "Antioxidant vitamin index and risk of age-related macular degeneration: multicenter validation and clinical translation.",
+    "source": "NPJ Aging",
+    "pubdate": "2026 Feb 21",
+    "authors": [
+      "Cui X",
+      "Hui J",
+      "Han Z",
+      "Han Q"
+    ],
+    "lastauthor": "Han Q",
+    "sortfirstauthor": "Cui X",
+    "journal": "npj aging",
+    "issn": "",
+    "essn": "2731-6068",
+    "doi": "doi: 10.1038/s41514-026-00348-y",
+    "sortpubdate": "2026/02/21 00:00",
+    "epubdate": "2026 Feb 21"
+  },
+  {
+    "name": "NHANES",
+    "id": "41723055",
+    "title": "Hypertension and the mortality crossover among non-Hispanic Blacks and Whites aged 80 years and older in the U.S.",
+    "source": "J Natl Med Assoc",
+    "pubdate": "2026 Feb 20",
+    "authors": [
+      "Ahegbebu C",
+      "Gillum RF"
+    ],
+    "lastauthor": "Gillum RF",
+    "sortfirstauthor": "Ahegbebu C",
+    "journal": "Journal of the National Medical Association",
+    "issn": "0027-9684",
+    "essn": "1943-4693",
+    "doi": "pii: S0027-9684(26)00013-1. doi: 10.1016/j.jnma.2026.01.004",
+    "sortpubdate": "2026/02/20 00:00",
+    "epubdate": "2026 Feb 20"
   }
 ]
