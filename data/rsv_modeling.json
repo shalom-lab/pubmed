@@ -5027,5 +5027,41 @@
     "doi": "doi: 10.1186/s12916-026-04700-7",
     "sortpubdate": "2026/02/24 00:00",
     "epubdate": "2026 Feb 24"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "41735015",
+    "title": "Predicting low oxygen in patients with acute COVID-19 infection isolating at home: a clinical prediction model.",
+    "source": "BMJ Open Respir Res",
+    "pubdate": "2026 Feb 24",
+    "authors": [
+      "Wu R",
+      "Mariakakis A",
+      "de Lara E",
+      "Munn J",
+      "Liaqat D",
+      "Liaqat S",
+      "Chen J",
+      "To T",
+      "Lam PW",
+      "Simor A",
+      "Chan AK",
+      "Andany N",
+      "Masood S",
+      "Daneman N",
+      "Chan T",
+      "Graham C",
+      "Comondore V",
+      "Tu AY",
+      "Gershon A"
+    ],
+    "lastauthor": "Gershon A",
+    "sortfirstauthor": "Wu R",
+    "journal": "BMJ open respiratory research",
+    "issn": "",
+    "essn": "2052-4439",
+    "doi": "pii: e003728. doi: 10.1136/bmjresp-2025-003728",
+    "sortpubdate": "2026/02/24 00:00",
+    "epubdate": "2026 Feb 24"
   }
 ]
