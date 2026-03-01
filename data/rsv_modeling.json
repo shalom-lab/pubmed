@@ -5241,5 +5241,28 @@
     "doi": "doi: 10.3390/vaccines14020160",
     "sortpubdate": "2026/02/08 00:00",
     "epubdate": "2026 Feb 8"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "41759886",
+    "title": "Cost-Effectiveness Analysis of Bivalent Respiratory Syncytial Virus Prefusion F (RSVpreF) Maternal Vaccine for the Prevention of RSV Illness Among Infants in Hong Kong.",
+    "source": "Int J Infect Dis",
+    "pubdate": "2026 Feb 25",
+    "authors": [
+      "Wong V",
+      "Fung M",
+      "Kendall R",
+      "Ivkovic L",
+      "Law AW",
+      "Mendes D"
+    ],
+    "lastauthor": "Mendes D",
+    "sortfirstauthor": "Wong V",
+    "journal": "International journal of infectious diseases : IJID : official publication of the International Society for Infectious Diseases",
+    "issn": "1201-9712",
+    "essn": "1878-3511",
+    "doi": "doi: 10.1016/j.ijid.2026.108503",
+    "sortpubdate": "2026/02/25 00:00",
+    "epubdate": "2026 Feb 25"
   }
 ]
