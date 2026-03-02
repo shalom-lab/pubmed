@@ -2647,7 +2647,8 @@
   {
     "source": "Br J Hosp Med (Lond)",
     "journal": "British journal of hospital medicine (London, England : 2005)",
-    "issn": "1750-8460"
+    "issn": "1750-8460",
+    "essn": "1759-7390"
   },
   {
     "source": "Biometals",
@@ -12263,5 +12264,41 @@
     "source": "NPJ Syst Biol Appl",
     "journal": "NPJ systems biology and applications",
     "essn": "2056-7189"
+  },
+  {
+    "source": "J Pharmacol Exp Ther",
+    "journal": "The Journal of pharmacology and experimental therapeutics",
+    "issn": "0022-3565",
+    "essn": "1521-0103"
+  },
+  {
+    "source": "Int Nurs Rev",
+    "journal": "International nursing review",
+    "issn": "0020-8132",
+    "essn": "1466-7657"
+  },
+  {
+    "source": "In Vivo",
+    "journal": "In vivo (Athens, Greece)",
+    "issn": "0258-851X",
+    "essn": "1791-7549"
+  },
+  {
+    "source": "Curr Diabetes Rev",
+    "journal": "Current diabetes reviews",
+    "issn": "1573-3998",
+    "essn": "1875-6417"
+  },
+  {
+    "source": "Curr Probl Diagn Radiol",
+    "journal": "Current problems in diagnostic radiology",
+    "issn": "0363-0188",
+    "essn": "1535-6302"
+  },
+  {
+    "source": "CA Cancer J Clin",
+    "journal": "CA: a cancer journal for clinicians",
+    "issn": "0007-9235",
+    "essn": "1542-4863"
   }
 ]
