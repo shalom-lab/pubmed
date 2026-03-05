@@ -5421,7 +5421,7 @@
     "id": "41563240",
     "title": "Epidemiological shifts in pediatric respiratory pathogens in Shenzhen, China: impacts of COVID-19 control measures and relaxation.",
     "source": "Microbiol Spectr",
-    "pubdate": "2026 Jan 21",
+    "pubdate": "2026 Mar 3",
     "authors": [
       "Wu T",
       "Zhong L",
@@ -5434,7 +5434,7 @@
     "issn": "",
     "essn": "2165-0497",
     "doi": "doi: 10.1128/spectrum.02536-25",
-    "sortpubdate": "2026/01/21 00:00",
+    "sortpubdate": "2026/03/03 00:00",
     "epubdate": "2026 Jan 21"
   },
   {
@@ -6523,5 +6523,28 @@
     "doi": "pii: 134. doi: 10.1186/s12916-026-04700-7",
     "sortpubdate": "2026/02/24 00:00",
     "epubdate": "2026 Feb 24"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "41629983",
+    "title": "Changes in pediatric primary care contacts: has the RSV-immunization modified the age-related access?",
+    "source": "Ital J Pediatr",
+    "pubdate": "2026 Feb 2",
+    "authors": [
+      "Boracchini R",
+      "Barbieri E",
+      "Canova B",
+      "Baraldi E",
+      "Giaquinto C",
+      "Cantarutti A"
+    ],
+    "lastauthor": "Cantarutti A",
+    "sortfirstauthor": "Boracchini R",
+    "journal": "Italian journal of pediatrics",
+    "issn": "1720-8424",
+    "essn": "1824-7288",
+    "doi": "doi: 10.1186/s13052-026-02205-w",
+    "sortpubdate": "2026/02/02 00:00",
+    "epubdate": "2026 Feb 2"
   }
 ]

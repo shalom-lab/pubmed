@@ -7275,5 +7275,76 @@
     "doi": "pii: kwag034. doi: 10.1093/aje/kwag034",
     "sortpubdate": "2026/03/02 00:00",
     "epubdate": "2026 Mar 2"
+  },
+  {
+    "name": "American Journal of Epidemiology",
+    "id": "41778894",
+    "title": "Requirement for Written Informed Consent and Selection Bias in a Chart-Review Prostate Cancer Study.",
+    "source": "Am J Epidemiol",
+    "pubdate": "2026 Mar 4",
+    "authors": [
+      "Zheng R",
+      "Das SK",
+      "Tran TD",
+      "Friedrich NA",
+      "Cummings SM",
+      "Gonzalez A",
+      "De Hoedt AM",
+      "Bellerose H",
+      "Hoffmeyer A",
+      "Van de Ven TJ",
+      "Freedland SJ"
+    ],
+    "lastauthor": "Freedland SJ",
+    "sortfirstauthor": "Zheng R",
+    "journal": "American journal of epidemiology",
+    "issn": "0002-9262",
+    "essn": "1476-6256",
+    "doi": "pii: kwag043. doi: 10.1093/aje/kwag043",
+    "sortpubdate": "2026/03/04 00:00",
+    "epubdate": "2026 Mar 4"
+  },
+  {
+    "name": "American Journal of Epidemiology",
+    "id": "41778892",
+    "title": "Use of the test-negative design to estimate the protective effect of a scalar immune measure: A simulation analysis.",
+    "source": "Am J Epidemiol",
+    "pubdate": "2026 Mar 4",
+    "authors": [
+      "Zhang Z",
+      "Boyer CB",
+      "Lipsitch M"
+    ],
+    "lastauthor": "Lipsitch M",
+    "sortfirstauthor": "Zhang Z",
+    "journal": "American journal of epidemiology",
+    "issn": "0002-9262",
+    "essn": "1476-6256",
+    "doi": "pii: kwag036. doi: 10.1093/aje/kwag036",
+    "sortpubdate": "2026/03/04 00:00",
+    "epubdate": "2026 Mar 4"
+  },
+  {
+    "name": "American Journal of Epidemiology",
+    "id": "41775648",
+    "title": "Methodological considerations for investigating the impact of abortion restrictions on outcomes using aggregate panel data.",
+    "source": "Am J Epidemiol",
+    "pubdate": "2026 Mar 3",
+    "authors": [
+      "Gemmill A",
+      "Franks A",
+      "Feller A",
+      "Stuart EA",
+      "Ben-Michael E",
+      "Bell SO"
+    ],
+    "lastauthor": "Bell SO",
+    "sortfirstauthor": "Gemmill A",
+    "journal": "American journal of epidemiology",
+    "issn": "0002-9262",
+    "essn": "1476-6256",
+    "doi": "pii: kwag032. doi: 10.1093/aje/kwag032",
+    "sortpubdate": "2026/03/03 00:00",
+    "epubdate": "2026 Mar 3"
   }
 ]
