@@ -12409,7 +12409,8 @@
   {
     "source": "Ther Adv Musculoskelet Dis",
     "journal": "Therapeutic advances in musculoskeletal disease",
-    "issn": "1759-720X"
+    "issn": "1759-720X",
+    "essn": "1759-7218"
   },
   {
     "source": "JACC Basic Transl Sci",
@@ -12421,5 +12422,29 @@
     "journal": "Family practice",
     "issn": "0263-2136",
     "essn": "1460-2229"
+  },
+  {
+    "source": "J Clin Oncol",
+    "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+    "issn": "0732-183X",
+    "essn": "1527-7755"
+  },
+  {
+    "source": "Cell Mol Neurobiol",
+    "journal": "Cellular and molecular neurobiology",
+    "issn": "0272-4340",
+    "essn": "1573-6830"
+  },
+  {
+    "source": "Int J Breast Cancer",
+    "journal": "International journal of breast cancer",
+    "issn": "2090-3170",
+    "essn": "2090-3189"
+  },
+  {
+    "source": "Lancet Oncol",
+    "journal": "The Lancet. Oncology",
+    "issn": "1470-2045",
+    "essn": "1474-5488"
   }
 ]

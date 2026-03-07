@@ -7346,5 +7346,81 @@
     "doi": "pii: kwag032. doi: 10.1093/aje/kwag032",
     "sortpubdate": "2026/03/03 00:00",
     "epubdate": "2026 Mar 3"
+  },
+  {
+    "name": "American Journal of Epidemiology",
+    "id": "41789949",
+    "title": "Comparison of disease risk score methods to study treatment effect heterogeneity: a simulation study.",
+    "source": "Am J Epidemiol",
+    "pubdate": "2026 Mar 6",
+    "authors": [
+      "Thelen HE",
+      "Yang W",
+      "Hennessy S",
+      "Cohen J",
+      "Guo W",
+      "Miano T"
+    ],
+    "lastauthor": "Miano T",
+    "sortfirstauthor": "Thelen HE",
+    "journal": "American journal of epidemiology",
+    "issn": "0002-9262",
+    "essn": "1476-6256",
+    "doi": "pii: kwag050. doi: 10.1093/aje/kwag050",
+    "sortpubdate": "2026/03/06 00:00",
+    "epubdate": "2026 Mar 6"
+  },
+  {
+    "name": "American Journal of Epidemiology",
+    "id": "41789947",
+    "title": "The relationship between psychological stress and SARS-CoV-2 nucleocapsid-antibody response following natural infection: Longitudinal findings from the Aegis Study.",
+    "source": "Am J Epidemiol",
+    "pubdate": "2026 Mar 6",
+    "authors": [
+      "Beidelman ET",
+      "Judge A",
+      "Allison DB",
+      "Dickinson S",
+      "Arroyo LG",
+      "Macagno ALM",
+      "Ricciardi MJ",
+      "Macy J",
+      "Perlman S",
+      "Ludema C",
+      "Maki KC",
+      "Rosenberg M"
+    ],
+    "lastauthor": "Rosenberg M",
+    "sortfirstauthor": "Beidelman ET",
+    "journal": "American journal of epidemiology",
+    "issn": "0002-9262",
+    "essn": "1476-6256",
+    "doi": "pii: kwag048. doi: 10.1093/aje/kwag048",
+    "sortpubdate": "2026/03/06 00:00",
+    "epubdate": "2026 Mar 6"
+  },
+  {
+    "name": "American Journal of Epidemiology",
+    "id": "41789929",
+    "title": "Estimating the Effect of Pravastatin versus Usual Care Under Full Adherence in the Antihypertensive and Lipid-Lowering Treatment to Prevent Heart Attack Trial-Lipid Lowering Trial (ALLHAT-LLT).",
+    "source": "Am J Epidemiol",
+    "pubdate": "2026 Mar 6",
+    "authors": [
+      "Russo RG",
+      "Siefkas A",
+      "Davis BR",
+      "Rimm EB",
+      "Dahabreh IJ",
+      "Hernán MA",
+      "Danaei G"
+    ],
+    "lastauthor": "Danaei G",
+    "sortfirstauthor": "Russo RG",
+    "journal": "American journal of epidemiology",
+    "issn": "0002-9262",
+    "essn": "1476-6256",
+    "doi": "pii: kwag049. doi: 10.1093/aje/kwag049",
+    "sortpubdate": "2026/03/06 00:00",
+    "epubdate": "2026 Mar 6"
   }
 ]

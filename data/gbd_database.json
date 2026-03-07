@@ -57456,7 +57456,7 @@
     "sortfirstauthor": "Zhao M",
     "journal": "Frontiers in nutrition",
     "issn": "2296-861X",
-    "essn": "",
+    "essn": "2296-861X",
     "doi": "doi: 10.3389/fnut.2026.1790081",
     "sortpubdate": "2026/02/17 00:00",
     "epubdate": "2026 Feb 17"
@@ -57483,7 +57483,7 @@
     "sortfirstauthor": "Pan H",
     "journal": "International journal of women's health",
     "issn": "1179-1411",
-    "essn": "",
+    "essn": "1179-1411",
     "doi": "doi: 10.2147/IJWH.S568859",
     "sortpubdate": "2026/02/26 00:00",
     "epubdate": "2026 Feb 26"
@@ -57528,7 +57528,7 @@
     "sortfirstauthor": "Qin L",
     "journal": "Clinical, cosmetic and investigational dermatology",
     "issn": "1178-7015",
-    "essn": "",
+    "essn": "1178-7015",
     "doi": "doi: 10.2147/CCID.S586589",
     "sortpubdate": "2026/02/26 00:00",
     "epubdate": "2026 Feb 26"
@@ -57557,7 +57557,7 @@
     "sortfirstauthor": "Wang N",
     "journal": "Frontiers in cardiovascular medicine",
     "issn": "2297-055X",
-    "essn": "",
+    "essn": "2297-055X",
     "doi": "doi: 10.3389/fcvm.2026.1679255",
     "sortpubdate": "2026/02/17 00:00",
     "epubdate": "2026 Feb 17"
@@ -57582,7 +57582,7 @@
     "sortfirstauthor": "Fu F",
     "journal": "Therapeutic advances in musculoskeletal disease",
     "issn": "1759-720X",
-    "essn": "",
+    "essn": "1759-7218",
     "doi": "doi: 10.1177/1759720X261426247",
     "sortpubdate": "2026/02/28 00:00",
     "epubdate": "2026 Feb 28"
@@ -57691,7 +57691,7 @@
     "id": "41780694",
     "title": "Global, regional, and national burden of depressive disorders in older adults from 1990 to 2021, with projections of prevalence to 2050: a trend analysis for the Global Burden of Disease Study 2021.",
     "source": "J Affect Disord",
-    "pubdate": "2026 Mar 2",
+    "pubdate": "2026 Mar 3",
     "authors": [
       "Chen M",
       "Li M",
@@ -57704,8 +57704,8 @@
     "issn": "0165-0327",
     "essn": "1573-2517",
     "doi": "doi: 10.1016/j.jad.2026.121531",
-    "sortpubdate": "2026/03/02 00:00",
-    "epubdate": "2026 Mar 2"
+    "sortpubdate": "2026/03/03 00:00",
+    "epubdate": "2026 Mar 3"
   },
   {
     "name": "GBD database",
@@ -57769,5 +57769,217 @@
     "doi": "doi: 10.1016/j.psychres.2026.117066",
     "sortpubdate": "2026/03/02 00:00",
     "epubdate": "2026 Mar 2"
+  },
+  {
+    "name": "GBD database",
+    "id": "41790667",
+    "title": "Burden of inguinal, femoral, and abdominal hernias in Asia from 1990 to 2021, with forecasts to 2050: A systematic analysis of the Global Burden of Disease 2021 study.",
+    "source": "Medicine (Baltimore)",
+    "pubdate": "2026 Mar 6",
+    "authors": [
+      "Zheng L",
+      "Zhang S",
+      "Li Y",
+      "Güngör C",
+      "Ge H"
+    ],
+    "lastauthor": "Ge H",
+    "sortfirstauthor": "Zheng L",
+    "journal": "Medicine",
+    "issn": "0025-7974",
+    "essn": "1536-5964",
+    "doi": "doi: 10.1097/MD.0000000000047752",
+    "sortpubdate": "2026/03/06 00:00",
+    "epubdate": ""
+  },
+  {
+    "name": "GBD database",
+    "id": "41790628",
+    "title": "Epidemiological trends of NASH-related liver cancer in young and middle-aged populations: A global disease burden analysis from 1990 to 2021.",
+    "source": "Medicine (Baltimore)",
+    "pubdate": "2026 Mar 6",
+    "authors": [
+      "Shang H",
+      "Chu B",
+      "Yu X",
+      "Tang N",
+      "Chen Z"
+    ],
+    "lastauthor": "Chen Z",
+    "sortfirstauthor": "Shang H",
+    "journal": "Medicine",
+    "issn": "0025-7974",
+    "essn": "1536-5964",
+    "doi": "doi: 10.1097/MD.0000000000047913",
+    "sortpubdate": "2026/03/06 00:00",
+    "epubdate": ""
+  },
+  {
+    "name": "GBD database",
+    "id": "41790342",
+    "title": "Global, regional, and national burden of Clostridioides difficile infection (1990-2021) with projections to 2051: A multimodal analysis integrating machine learning (SHAP-XGBoost) and GBD 2021 data.",
+    "source": "Eur J Clin Microbiol Infect Dis",
+    "pubdate": "2026 Mar 6",
+    "authors": [
+      "Zhao W",
+      "Li H",
+      "Hu M",
+      "Ren Y",
+      "Wang Y",
+      "Ye Y"
+    ],
+    "lastauthor": "Ye Y",
+    "sortfirstauthor": "Zhao W",
+    "journal": "European journal of clinical microbiology & infectious diseases : official publication of the European Society of Clinical Microbiology",
+    "issn": "0934-9723",
+    "essn": "1435-4373",
+    "doi": "doi: 10.1007/s10096-026-05426-3",
+    "sortpubdate": "2026/03/06 00:00",
+    "epubdate": "2026 Mar 6"
+  },
+  {
+    "name": "GBD database",
+    "id": "41789520",
+    "title": "Global, regional, and national burden of epilepsy, 1990-2021: a Global Burden of Disease study.",
+    "source": "J Glob Health",
+    "pubdate": "2026 Mar 6",
+    "authors": [
+      "Zhao J",
+      "Chen Q",
+      "Dong J",
+      "Gao M",
+      "Ge S",
+      "Wang A"
+    ],
+    "lastauthor": "Wang A",
+    "sortfirstauthor": "Zhao J",
+    "journal": "Journal of global health",
+    "issn": "2047-2978",
+    "essn": "2047-2986",
+    "doi": "doi: 10.7189/jogh.16.04066",
+    "sortpubdate": "2026/03/06 00:00",
+    "epubdate": "2026 Mar 6"
+  },
+  {
+    "name": "GBD database",
+    "id": "41788656",
+    "title": "A comparative appraisal of stigma among healthcare workers towards alcohol and substance use disorders: a case vignette study.",
+    "source": "Front Psychiatry",
+    "pubdate": "2026",
+    "authors": [
+      "Yilmaz O",
+      "Budakli AA",
+      "Aslan E"
+    ],
+    "lastauthor": "Aslan E",
+    "sortfirstauthor": "Yilmaz O",
+    "journal": "Frontiers in psychiatry",
+    "issn": "1664-0640",
+    "essn": "1664-0640",
+    "doi": "doi: 10.3389/fpsyt.2026.1634817",
+    "sortpubdate": "2026/02/18 00:00",
+    "epubdate": "2026 Feb 18"
+  },
+  {
+    "name": "GBD database",
+    "id": "41786152",
+    "title": "EFFICACY AND SAFETY OF ENDOSCOPIC ULTRASOUND-GUIDED CHOLEDOCHODUODENOSTOMY COMPARED WITH ENDOSCOPIC ULTRASOUND-GUIDED GALLBLADDER DRAINAGE FOR PALLIATION OF MALIGNANT DISTAL BILIARY OBSTRUCTION: A SYSTEMATIC REVIEW AND META ANALYSIS.",
+    "source": "Gastrointest Endosc",
+    "pubdate": "2026 Mar 3",
+    "authors": [
+      "Chandan S",
+      "Alsaleh T",
+      "Adler DG"
+    ],
+    "lastauthor": "Adler DG",
+    "sortfirstauthor": "Chandan S",
+    "journal": "Gastrointestinal endoscopy",
+    "issn": "0016-5107",
+    "essn": "1097-6779",
+    "doi": "pii: S0016-5107(26)00157-4. doi: 10.1016/j.gie.2026.02.044",
+    "sortpubdate": "2026/03/03 00:00",
+    "epubdate": "2026 Mar 3"
+  },
+  {
+    "name": "GBD database",
+    "id": "41785927",
+    "title": "Hearing loss and depressive symptoms across populations: Evidence from global burden of disease data and two large cohort studies.",
+    "source": "J Affect Disord",
+    "pubdate": "2026 Mar 3",
+    "authors": [
+      "Jiao P",
+      "Ye L",
+      "Gong Y",
+      "Dai Y",
+      "Yu H"
+    ],
+    "lastauthor": "Yu H",
+    "sortfirstauthor": "Jiao P",
+    "journal": "Journal of affective disorders",
+    "issn": "0165-0327",
+    "essn": "1573-2517",
+    "doi": "doi: 10.1016/j.jad.2026.121520",
+    "sortpubdate": "2026/03/03 00:00",
+    "epubdate": "2026 Mar 3"
+  },
+  {
+    "name": "GBD database",
+    "id": "41785894",
+    "title": "Global, regional, and national burden of breast cancer among females, 1990-2023, with forecasts to 2050: a systematic analysis for the Global Burden of Disease Study 2023.",
+    "source": "Lancet Oncol",
+    "pubdate": "2026 Mar",
+    "authors": [
+      "GBD 2023 Breast Cancer Collaborators"
+    ],
+    "lastauthor": "GBD 2023 Breast Cancer Collaborators",
+    "sortfirstauthor": "GBD 2023 Breast Cancer Collaborators",
+    "journal": "The Lancet. Oncology",
+    "issn": "1470-2045",
+    "essn": "1474-5488",
+    "doi": "doi: 10.1016/S1470-2045(25)00730-2",
+    "sortpubdate": "2026/03/01 00:00",
+    "epubdate": ""
+  },
+  {
+    "name": "GBD database",
+    "id": "41785681",
+    "title": "Benefit-risk assessment of HPV vaccination programs in Australia, the United States, and Japan.",
+    "source": "Vaccine",
+    "pubdate": "2026 Mar 4",
+    "authors": [
+      "Satake M",
+      "Ito S",
+      "Sawano C",
+      "Scuffham P",
+      "Tsukamoto K"
+    ],
+    "lastauthor": "Tsukamoto K",
+    "sortfirstauthor": "Satake M",
+    "journal": "Vaccine",
+    "issn": "0264-410X",
+    "essn": "1873-2518",
+    "doi": "doi: 10.1016/j.vaccine.2026.128407",
+    "sortpubdate": "2026/03/04 00:00",
+    "epubdate": "2026 Mar 4"
+  },
+  {
+    "name": "GBD database",
+    "id": "41785665",
+    "title": "The hidden burden of disease in Brazil: A quantitative comparison between official notifications and modeled estimates from the Global Burden of Disease study.",
+    "source": "Public Health",
+    "pubdate": "2026 Mar 4",
+    "authors": [
+      "da Silva MD",
+      "Procianoy GS",
+      "Behar PRP"
+    ],
+    "lastauthor": "Behar PRP",
+    "sortfirstauthor": "da Silva MD",
+    "journal": "Public health",
+    "issn": "0033-3506",
+    "essn": "1476-5616",
+    "doi": "doi: 10.1016/j.puhe.2026.106224",
+    "sortpubdate": "2026/03/04 00:00",
+    "epubdate": "2026 Mar 4"
   }
 ]

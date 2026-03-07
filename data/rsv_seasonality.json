@@ -6546,5 +6546,55 @@
     "doi": "doi: 10.1186/s13052-026-02205-w",
     "sortpubdate": "2026/02/02 00:00",
     "epubdate": "2026 Feb 2"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "41789882",
+    "title": "Burden of respiratory syncytial virus among older adults with an acute respiratory infection: a prospective study in six European countries.",
+    "source": "Clin Infect Dis",
+    "pubdate": "2026 Mar 6",
+    "authors": [
+      "Riera MT",
+      "Prato R",
+      "Pérez-Rubio A",
+      "Echave-Sustaeta JM",
+      "Verelst F",
+      "Gawade S",
+      "Pirçon JY",
+      "Saeedi P",
+      "Joosten P",
+      "RSV-029 study group"
+    ],
+    "lastauthor": "Joosten P",
+    "sortfirstauthor": "Riera MT",
+    "journal": "Clinical infectious diseases : an official publication of the Infectious Diseases Society of America",
+    "issn": "1058-4838",
+    "essn": "1537-6591",
+    "doi": "pii: ciag146. doi: 10.1093/cid/ciag146",
+    "sortpubdate": "2026/03/06 00:00",
+    "epubdate": "2026 Mar 6"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "41788536",
+    "title": "Epidemiological analysis of respiratory pathogen detection in 11 regions of Yunnan from 2021 to 2023.",
+    "source": "Front Public Health",
+    "pubdate": "2026",
+    "authors": [
+      "Wang W",
+      "Liu M",
+      "Zhu X",
+      "Yang X",
+      "Liu Y",
+      "Chen Y"
+    ],
+    "lastauthor": "Chen Y",
+    "sortfirstauthor": "Wang W",
+    "journal": "Frontiers in public health",
+    "issn": "",
+    "essn": "2296-2565",
+    "doi": "doi: 10.3389/fpubh.2026.1771339",
+    "sortpubdate": "2026/02/18 00:00",
+    "epubdate": "2026 Feb 18"
   }
 ]
