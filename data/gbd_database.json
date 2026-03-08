@@ -57981,5 +57981,53 @@
     "doi": "doi: 10.1016/j.puhe.2026.106224",
     "sortpubdate": "2026/03/04 00:00",
     "epubdate": "2026 Mar 4"
+  },
+  {
+    "name": "GBD database",
+    "id": "41792793",
+    "title": "Evaluation and projection of the global burden of thyroid cancer from 1990 to 2035: an analysis based on the Global Burden of Disease Study.",
+    "source": "Thyroid Res",
+    "pubdate": "2026 Mar 6",
+    "authors": [
+      "Wang L",
+      "Li R",
+      "Zeng X",
+      "Zhang H"
+    ],
+    "lastauthor": "Zhang H",
+    "sortfirstauthor": "Wang L",
+    "journal": "Thyroid research",
+    "issn": "1756-6614",
+    "essn": "",
+    "doi": "pii: 10. doi: 10.1186/s13044-026-00288-5",
+    "sortpubdate": "2026/03/06 00:00",
+    "epubdate": "2026 Mar 6"
+  },
+  {
+    "name": "GBD database",
+    "id": "41792050",
+    "title": "Trends and Burden of Inguinal, Femoral, and Abdominal Hernia From 1990 to 2023 in the Gulf Cooperation Council.",
+    "source": "World J Surg",
+    "pubdate": "2026 Mar 6",
+    "authors": [
+      "Al-Shammari YM",
+      "Al-Awadhi MA",
+      "Mandani HA",
+      "AlDorai MJ",
+      "Alsubaiei A",
+      "Mohammad MS",
+      "AlDorai AJ",
+      "Aldhafiri GA",
+      "Alkhalfan DA",
+      "Almazeedi S"
+    ],
+    "lastauthor": "Almazeedi S",
+    "sortfirstauthor": "Al-Shammari YM",
+    "journal": "World journal of surgery",
+    "issn": "0364-2313",
+    "essn": "1432-2323",
+    "doi": "doi: 10.1002/wjs.70297",
+    "sortpubdate": "2026/03/06 00:00",
+    "epubdate": "2026 Mar 6"
   }
 ]

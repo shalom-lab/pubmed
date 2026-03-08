@@ -79358,9 +79358,9 @@
   {
     "name": "NHANES",
     "id": "41779139",
-    "title": "Insulin Resistance Increases Stroke Risk: A Cross-sectional Study from NHANES 1999-2018 and A Mendelian Randomization Study.",
+    "title": "Insulin resistance increases stroke risk: a cross-sectional study from NHANES 1999-2018 and a Mendelian randomization study.",
     "source": "Int J Neurosci",
-    "pubdate": "2026 Mar 4",
+    "pubdate": "2026 Mar 7",
     "authors": [
       "Hu Y",
       "Zou F",
@@ -79373,8 +79373,8 @@
     "issn": "0020-7454",
     "essn": "1563-5279",
     "doi": "doi: 10.1080/00207454.2026.2641049",
-    "sortpubdate": "2026/03/04 00:00",
-    "epubdate": "2026 Mar 4"
+    "sortpubdate": "2026/03/07 00:00",
+    "epubdate": "2026 Mar 7"
   },
   {
     "name": "NHANES",
@@ -80438,7 +80438,7 @@
     "sortfirstauthor": "Chung IH",
     "journal": "Annals of pediatric endocrinology & metabolism",
     "issn": "2287-1012",
-    "essn": "",
+    "essn": "2287-1292",
     "doi": "doi: 10.6065/apem.2550224.112",
     "sortpubdate": "2026/02/01 00:00",
     "epubdate": "2026 Feb 28"
@@ -80564,5 +80564,78 @@
     "doi": "pii: afag049. doi: 10.1093/ageing/afag049",
     "sortpubdate": "2026/02/01 00:00",
     "epubdate": ""
+  },
+  {
+    "name": "NHANES",
+    "id": "41793702",
+    "title": "Relationship of serum α-Klotho with diabetic kidney disease and mortality in diabetes: A population-based observational study.",
+    "source": "Clin Nephrol",
+    "pubdate": "2026 Mar 7",
+    "authors": [
+      "Zhang L",
+      "Fan D",
+      "Zhu T",
+      "Geng L",
+      "Gan L",
+      "Ou S",
+      "Xu Y",
+      "Yin D"
+    ],
+    "lastauthor": "Yin D",
+    "sortfirstauthor": "Zhang L",
+    "journal": "Clinical nephrology",
+    "issn": "0301-0430",
+    "essn": "",
+    "doi": "doi: 10.5414/CN111769",
+    "sortpubdate": "2026/03/07 00:00",
+    "epubdate": "2026 Mar 7"
+  },
+  {
+    "name": "NHANES",
+    "id": "41793276",
+    "title": "Interaction Between Composite Dietary Antioxidant Index and Alcohol Consumption on Cardiovascular Diseases: NHANES 2005-2018.",
+    "source": "Clin Cardiol",
+    "pubdate": "2026 Mar",
+    "authors": [
+      "Zhu Y",
+      "Zheng L",
+      "Bing J",
+      "Teng X",
+      "Hao P",
+      "Song P",
+      "Wan L"
+    ],
+    "lastauthor": "Wan L",
+    "sortfirstauthor": "Zhu Y",
+    "journal": "Clinical cardiology",
+    "issn": "0160-9289",
+    "essn": "1932-8737",
+    "doi": "doi: 10.1002/clc.70274",
+    "sortpubdate": "2026/03/01 00:00",
+    "epubdate": ""
+  },
+  {
+    "name": "NHANES",
+    "id": "41792911",
+    "title": "Adapting Sexual Behavior Survey Data to Parameterize an Agent-Based Model of Human Papillomavirus (HPV) Transmission.",
+    "source": "Med Decis Making",
+    "pubdate": "2026 Mar 6",
+    "authors": [
+      "Spencer JC",
+      "Burger EA",
+      "Portnoy A",
+      "Campos NG",
+      "Regan MC",
+      "Sy S",
+      "Kim JJ"
+    ],
+    "lastauthor": "Kim JJ",
+    "sortfirstauthor": "Spencer JC",
+    "journal": "Medical decision making : an international journal of the Society for Medical Decision Making",
+    "issn": "0272-989X",
+    "essn": "1552-681X",
+    "doi": "doi: 10.1177/0272989X261425681",
+    "sortpubdate": "2026/03/06 00:00",
+    "epubdate": "2026 Mar 6"
   }
 ]
