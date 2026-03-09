@@ -2379,7 +2379,8 @@
   {
     "source": "Thyroid Res",
     "journal": "Thyroid research",
-    "issn": "1756-6614"
+    "issn": "1756-6614",
+    "essn": "1756-6614"
   },
   {
     "source": "Eur Radiol Exp",
@@ -12446,5 +12447,17 @@
     "journal": "The Lancet. Oncology",
     "issn": "1470-2045",
     "essn": "1474-5488"
+  },
+  {
+    "source": "J Hosp Infect",
+    "journal": "The Journal of hospital infection",
+    "issn": "0195-6701",
+    "essn": "1532-2939"
+  },
+  {
+    "source": "Bioorg Chem",
+    "journal": "Bioorganic chemistry",
+    "issn": "0045-2068",
+    "essn": "1090-2120"
   }
 ]

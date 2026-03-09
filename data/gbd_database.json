@@ -58029,5 +58029,46 @@
     "doi": "doi: 10.1002/wjs.70297",
     "sortpubdate": "2026/03/06 00:00",
     "epubdate": "2026 Mar 6"
+  },
+  {
+    "name": "GBD database",
+    "id": "41795765",
+    "title": "Global regional and national burden of nonmelanoma skin cancer from 1990 to 2021 based on the global burden of disease 2021 study.",
+    "source": "Discov Oncol",
+    "pubdate": "2026 Mar 8",
+    "authors": [
+      "Dai Y",
+      "Liu X",
+      "Tang H"
+    ],
+    "lastauthor": "Tang H",
+    "sortfirstauthor": "Dai Y",
+    "journal": "Discover oncology",
+    "issn": "",
+    "essn": "2730-6011",
+    "doi": "doi: 10.1007/s12672-026-04769-9",
+    "sortpubdate": "2026/03/08 00:00",
+    "epubdate": "2026 Mar 8"
+  },
+  {
+    "name": "GBD database",
+    "id": "41792793",
+    "title": "Evaluation and projection of the global burden of thyroid cancer from 1990 to 2035: an analysis based on the Global Burden of Disease Study.",
+    "source": "Thyroid Res",
+    "pubdate": "2026 Mar 6",
+    "authors": [
+      "Wang L",
+      "Li R",
+      "Zeng X",
+      "Zhang H"
+    ],
+    "lastauthor": "Zhang H",
+    "sortfirstauthor": "Wang L",
+    "journal": "Thyroid research",
+    "issn": "1756-6614",
+    "essn": "1756-6614",
+    "doi": "doi: 10.1186/s13044-026-00288-5",
+    "sortpubdate": "2026/03/06 00:00",
+    "epubdate": "2026 Mar 6"
   }
 ]

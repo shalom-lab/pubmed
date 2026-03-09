@@ -5413,5 +5413,51 @@
     "doi": "doi: 10.1007/s40273-026-01601-8",
     "sortpubdate": "2026/03/07 00:00",
     "epubdate": "2026 Mar 7"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "41795339",
+    "title": "Design, synthesis and pharmacological evaluation of phenylthiophene-2-carboxamide-based RSV fusion protein inhibitors.",
+    "source": "Bioorg Chem",
+    "pubdate": "2026 Feb 26",
+    "authors": [
+      "Zaman MK",
+      "Yang C",
+      "He F",
+      "He C",
+      "Wu Q",
+      "Zhou H",
+      "Yang Z",
+      "Li Y"
+    ],
+    "lastauthor": "Li Y",
+    "sortfirstauthor": "Zaman MK",
+    "journal": "Bioorganic chemistry",
+    "issn": "0045-2068",
+    "essn": "1090-2120",
+    "doi": "doi: 10.1016/j.bioorg.2026.109690",
+    "sortpubdate": "2026/02/26 00:00",
+    "epubdate": "2026 Feb 26"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "41793878",
+    "title": "Maternal immunity drives age-related patterns of RSV disease.",
+    "source": "Epidemics",
+    "pubdate": "2026 Feb 28",
+    "authors": [
+      "Brigitta C",
+      "Hodgson D",
+      "Medley GF",
+      "Eggo RM"
+    ],
+    "lastauthor": "Eggo RM",
+    "sortfirstauthor": "Brigitta C",
+    "journal": "Epidemics",
+    "issn": "",
+    "essn": "1878-0067",
+    "doi": "doi: 10.1016/j.epidem.2026.100903",
+    "sortpubdate": "2026/02/28 00:00",
+    "epubdate": "2026 Feb 28"
   }
 ]

@@ -80637,5 +80637,177 @@
     "doi": "doi: 10.1177/0272989X261425681",
     "sortpubdate": "2026/03/06 00:00",
     "epubdate": "2026 Mar 6"
+  },
+  {
+    "name": "NHANES",
+    "id": "41795811",
+    "title": "Accelerated aging mediates the association between fecal incontinence and mortality: Evidence from the National Health and Nutrition Examination Survey.",
+    "source": "J Int Med Res",
+    "pubdate": "2026 Mar",
+    "authors": [
+      "Lu Y",
+      "Yu Z",
+      "Chen H",
+      "Shen H"
+    ],
+    "lastauthor": "Shen H",
+    "sortfirstauthor": "Lu Y",
+    "journal": "The Journal of international medical research",
+    "issn": "0300-0605",
+    "essn": "1473-2300",
+    "doi": "doi: 10.1177/03000605261425322",
+    "sortpubdate": "2026/03/01 00:00",
+    "epubdate": "2026 Mar 8"
+  },
+  {
+    "name": "NHANES",
+    "id": "41795810",
+    "title": "Association of muscle strength with abdominal aortic calcification.",
+    "source": "J Int Med Res",
+    "pubdate": "2026 Mar",
+    "authors": [
+      "Li XX",
+      "Wang FS",
+      "Wang H",
+      "Gao LJ",
+      "Liu K"
+    ],
+    "lastauthor": "Liu K",
+    "sortfirstauthor": "Li XX",
+    "journal": "The Journal of international medical research",
+    "issn": "0300-0605",
+    "essn": "1473-2300",
+    "doi": "doi: 10.1177/03000605261421738",
+    "sortpubdate": "2026/03/01 00:00",
+    "epubdate": "2026 Mar 8"
+  },
+  {
+    "name": "NHANES",
+    "id": "41794937",
+    "title": "The risk of osteoporosis in COPD: An analysis of sex differences and mediating effects based on NHANES.",
+    "source": "NPJ Prim Care Respir Med",
+    "pubdate": "2026 Mar 7",
+    "authors": [
+      "Gao Y",
+      "Li Z",
+      "Wu J",
+      "Du L",
+      "Min M",
+      "Li L",
+      "Chen X",
+      "Zhong Z",
+      "Chen S"
+    ],
+    "lastauthor": "Chen S",
+    "sortfirstauthor": "Gao Y",
+    "journal": "NPJ primary care respiratory medicine",
+    "issn": "",
+    "essn": "2055-1010",
+    "doi": "doi: 10.1038/s41533-026-00490-w",
+    "sortpubdate": "2026/03/07 00:00",
+    "epubdate": "2026 Mar 7"
+  },
+  {
+    "name": "NHANES",
+    "id": "41794833",
+    "title": "The association between systemic inflammation markers and breast cancer.",
+    "source": "Sci Rep",
+    "pubdate": "2026 Mar 7",
+    "authors": [
+      "Zhang S",
+      "Li R",
+      "Chen C",
+      "Liu MM",
+      "Tang J",
+      "Li X"
+    ],
+    "lastauthor": "Li X",
+    "sortfirstauthor": "Zhang S",
+    "journal": "Scientific reports",
+    "issn": "",
+    "essn": "2045-2322",
+    "doi": "doi: 10.1038/s41598-025-10809-1",
+    "sortpubdate": "2026/03/07 00:00",
+    "epubdate": "2026 Mar 7"
+  },
+  {
+    "name": "NHANES",
+    "id": "41794688",
+    "title": "Association between the oxidative balance score and depressive symptoms in adults with metabolic syndrome: a cross-sectional study from NHANES.",
+    "source": "BMC Psychiatry",
+    "pubdate": "2026 Mar 7",
+    "authors": [
+      "You J",
+      "Wu J",
+      "Zheng L",
+      "Pei J",
+      "Xia S",
+      "Qiao S"
+    ],
+    "lastauthor": "Qiao S",
+    "sortfirstauthor": "You J",
+    "journal": "BMC psychiatry",
+    "issn": "",
+    "essn": "1471-244X",
+    "doi": "doi: 10.1186/s12888-026-07957-7",
+    "sortpubdate": "2026/03/07 00:00",
+    "epubdate": "2026 Mar 7"
+  },
+  {
+    "name": "NHANES",
+    "id": "41794606",
+    "title": "Prognostic value of the cardiometabolic index for mortality in patients with cardiometabolic syndrome: A longitudinal analysis based on NHANES data.",
+    "source": "Nutr Metab Cardiovasc Dis",
+    "pubdate": "2026 Feb 11",
+    "authors": [
+      "Li J",
+      "Bai SJ"
+    ],
+    "lastauthor": "Bai SJ",
+    "sortfirstauthor": "Li J",
+    "journal": "Nutrition, metabolism, and cardiovascular diseases : NMCD",
+    "issn": "0939-4753",
+    "essn": "1590-3729",
+    "doi": "doi: 10.1016/j.numecd.2026.104611",
+    "sortpubdate": "2026/02/11 00:00",
+    "epubdate": "2026 Feb 11"
+  },
+  {
+    "name": "NHANES",
+    "id": "41794397",
+    "title": "Telomere Length and All-Cause Mortality Among U.S. Adults: Examining the Role of Age and Race/Ethnicity.",
+    "source": "Am J Med Sci",
+    "pubdate": "2026 Mar 5",
+    "authors": [
+      "Kodali HP",
+      "Borrell LN"
+    ],
+    "lastauthor": "Borrell LN",
+    "sortfirstauthor": "Kodali HP",
+    "journal": "The American journal of the medical sciences",
+    "issn": "0002-9629",
+    "essn": "1538-2990",
+    "doi": "pii: S0002-9629(26)00107-2. doi: 10.1016/j.amjms.2026.03.005",
+    "sortpubdate": "2026/03/05 00:00",
+    "epubdate": "2026 Mar 5"
+  },
+  {
+    "name": "NHANES",
+    "id": "41793906",
+    "title": "Association between neutrophil percentage-to-albumin ratio and sleep disorders risk: insights from a large US population-based study.",
+    "source": "Cytokine",
+    "pubdate": "2026 Mar 6",
+    "authors": [
+      "Wang J",
+      "Hu Y"
+    ],
+    "lastauthor": "Hu Y",
+    "sortfirstauthor": "Wang J",
+    "journal": "Cytokine",
+    "issn": "1043-4666",
+    "essn": "1096-0023",
+    "doi": "doi: 10.1016/j.cyto.2026.157136",
+    "sortpubdate": "2026/03/06 00:00",
+    "epubdate": "2026 Mar 6"
   }
 ]
