@@ -6596,5 +6596,32 @@
     "doi": "doi: 10.3389/fpubh.2026.1771339",
     "sortpubdate": "2026/02/18 00:00",
     "epubdate": "2026 Feb 18"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "41803911",
+    "title": "Kinetics of antibodies and risk of respiratory syncytial virus infection: a longitudinal cohort in Taizhou City, eastern China.",
+    "source": "BMC Med",
+    "pubdate": "2026 Mar 9",
+    "authors": [
+      "Wang Q",
+      "Hodgson D",
+      "Zheng B",
+      "Liang H",
+      "Zhang S",
+      "Xu J",
+      "Leung K",
+      "Kucharski A",
+      "Lin H",
+      "Wang W"
+    ],
+    "lastauthor": "Wang W",
+    "sortfirstauthor": "Wang Q",
+    "journal": "BMC medicine",
+    "issn": "",
+    "essn": "1741-7015",
+    "doi": "doi: 10.1186/s12916-026-04773-4",
+    "sortpubdate": "2026/03/09 00:00",
+    "epubdate": "2026 Mar 9"
   }
 ]
