@@ -5459,5 +5459,29 @@
     "doi": "doi: 10.1016/j.epidem.2026.100903",
     "sortpubdate": "2026/02/28 00:00",
     "epubdate": "2026 Feb 28"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "41808167",
+    "title": "The influence of age-dependent susceptibility on RSV transmission dynamics and immunisation population-level impact.",
+    "source": "BMC Med",
+    "pubdate": "2026 Mar 11",
+    "authors": [
+      "Zhao C",
+      "Zhang Y",
+      "Osei-Yeboah R",
+      "Li X",
+      "Li Y",
+      "Wang X",
+      "Nair H"
+    ],
+    "lastauthor": "Nair H",
+    "sortfirstauthor": "Zhao C",
+    "journal": "BMC medicine",
+    "issn": "",
+    "essn": "1741-7015",
+    "doi": "doi: 10.1186/s12916-026-04776-1",
+    "sortpubdate": "2026/03/11 00:00",
+    "epubdate": "2026 Mar 11"
   }
 ]
