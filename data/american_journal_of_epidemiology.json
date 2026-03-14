@@ -7565,5 +7565,55 @@
     "doi": "pii: kwag055. doi: 10.1093/aje/kwag055",
     "sortpubdate": "2026/03/10 00:00",
     "epubdate": "2026 Mar 10"
+  },
+  {
+    "name": "American Journal of Epidemiology",
+    "id": "41823102",
+    "title": "Including an infrequently measured time-varying error-prone covariate in survival analyses: a simulation-based comparison of methods.",
+    "source": "Am J Epidemiol",
+    "pubdate": "2026 Mar 13",
+    "authors": [
+      "Philipps V",
+      "Freedman L",
+      "Deffner V",
+      "Helmer C",
+      "Jacqmin-Gadda H",
+      "Boshuizen H",
+      "Thiébaut ACM",
+      "Proust-Lima C",
+      "Topic Group Tg Of The Stratos Initiative OBOMEAM"
+    ],
+    "lastauthor": "Topic Group Tg Of The Stratos Initiative OBOMEAM",
+    "sortfirstauthor": "Philipps V",
+    "journal": "American journal of epidemiology",
+    "issn": "0002-9262",
+    "essn": "1476-6256",
+    "doi": "pii: kwag059. doi: 10.1093/aje/kwag059",
+    "sortpubdate": "2026/03/13 00:00",
+    "epubdate": "2026 Mar 13"
+  },
+  {
+    "name": "American Journal of Epidemiology",
+    "id": "41820223",
+    "title": "Infectious disease modeling for public health practice: projections, scenarios, and uncertainty in three phases of outbreak response.",
+    "source": "Am J Epidemiol",
+    "pubdate": "2026 Mar 12",
+    "authors": [
+      "Brouwer AF",
+      "Eisenberg MC",
+      "Dean NE",
+      "Hochheiser H",
+      "Huang P",
+      "Coyle JR",
+      "Rennert L"
+    ],
+    "lastauthor": "Rennert L",
+    "sortfirstauthor": "Brouwer AF",
+    "journal": "American journal of epidemiology",
+    "issn": "0002-9262",
+    "essn": "1476-6256",
+    "doi": "pii: kwag058. doi: 10.1093/aje/kwag058",
+    "sortpubdate": "2026/03/12 00:00",
+    "epubdate": "2026 Mar 12"
   }
 ]
