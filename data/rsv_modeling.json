@@ -5516,5 +5516,28 @@
     "doi": "doi: 10.1016/j.puhe.2026.106245",
     "sortpubdate": "2026/03/09 00:00",
     "epubdate": "2026 Mar 9"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "41826246",
+    "title": "A Pragmatic Bayesian Adaptive Trial Design Based on the Value of Information: The Value-Driven Adaptive Design.",
+    "source": "Med Decis Making",
+    "pubdate": "2026 Mar 13",
+    "authors": [
+      "Dymock M",
+      "Marsh JA",
+      "Jones M",
+      "Heath A",
+      "Murray K",
+      "Snelling TL"
+    ],
+    "lastauthor": "Snelling TL",
+    "sortfirstauthor": "Dymock M",
+    "journal": "Medical decision making : an international journal of the Society for Medical Decision Making",
+    "issn": "0272-989X",
+    "essn": "1552-681X",
+    "doi": "doi: 10.1177/0272989X261423177",
+    "sortpubdate": "2026/03/13 00:00",
+    "epubdate": "2026 Mar 13"
   }
 ]
