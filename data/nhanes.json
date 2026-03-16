@@ -82858,7 +82858,7 @@
   {
     "name": "NHANES",
     "id": "41819287",
-    "title": "Adiposity Rebound or Fat-Free Mass Anabolism in Children - Challenging a 42-Year-Old BMI puzzle with Waist-to-Height Ratio: The American Society of Nutrition Foundation's 2025 Inaugural Flemming Quaade Award for Innovation in Childhood Obesity Lecture.",
+    "title": "Adiposity Rebound or Fat-Free Mass Anabolism in Children-Challenging a 42-Year-Old BMI Puzzle with Waist-to-Height Ratio: The American Society of Nutrition Foundation's 2025 Inaugural Flemming Quaade Award for Innovation in Childhood Obesity Lecture.",
     "source": "J Nutr",
     "pubdate": "2026 Mar 10",
     "authors": [
@@ -82876,7 +82876,7 @@
   {
     "name": "NHANES",
     "id": "41819212",
-    "title": "The Synergistic Association of Environmental Stressors with Abdominal Aortic Calcification: An Observational and Integrated Genetic Analysis.",
+    "title": "The synergistic association of environmental stressors with abdominal aortic calcification: An observational and integrated genetic analysis.",
     "source": "Environ Pollut",
     "pubdate": "2026 Mar 10",
     "authors": [
@@ -83027,5 +83027,185 @@
     "doi": "doi: 10.1016/j.exger.2026.113088",
     "sortpubdate": "2026/03/11 00:00",
     "epubdate": "2026 Mar 11"
+  },
+  {
+    "name": "NHANES",
+    "id": "41832679",
+    "title": "Impact of Volatile Organic Compounds on Liver Function in Adolescents: Mediation and Preventive Insights from NHANES.",
+    "source": "Curr Pharm Des",
+    "pubdate": "2026 Mar 11",
+    "authors": [
+      "Yao X",
+      "You C",
+      "Zhou M",
+      "Zhou H",
+      "Tang C",
+      "Zhang H",
+      "Wang X",
+      "Jin W",
+      "Zhang L"
+    ],
+    "lastauthor": "Zhang L",
+    "sortfirstauthor": "Yao X",
+    "journal": "Current pharmaceutical design",
+    "issn": "1381-6128",
+    "essn": "1873-4286",
+    "doi": "doi: 10.2174/0113816128431488251204105511",
+    "sortpubdate": "2026/03/11 00:00",
+    "epubdate": "2026 Mar 11"
+  },
+  {
+    "name": "NHANES",
+    "id": "41832408",
+    "title": "Heavy metals and prevalence of sexually transmitted infections: a cross-sectional study using data from the National Health and Nutrition Examination Survey (NHANES) 2003-2016.",
+    "source": "BMC Infect Dis",
+    "pubdate": "2026 Mar 14",
+    "authors": [
+      "Taylor BD",
+      "Noah A",
+      "Adekanmbi V",
+      "Zhang Y",
+      "Ingle M",
+      "Berenson A"
+    ],
+    "lastauthor": "Berenson A",
+    "sortfirstauthor": "Taylor BD",
+    "journal": "BMC infectious diseases",
+    "issn": "",
+    "essn": "1471-2334",
+    "doi": "doi: 10.1186/s12879-026-13046-7",
+    "sortpubdate": "2026/03/14 00:00",
+    "epubdate": "2026 Mar 14"
+  },
+  {
+    "name": "NHANES",
+    "id": "41831685",
+    "title": "Associations of Learning Disability and Attention Deficit/Hyperactivity Disorder with High Serum Ferritin Concentrations among Children and Adolescents.",
+    "source": "J Acad Nutr Diet",
+    "pubdate": "2026 Mar 12",
+    "authors": [
+      "Xiao X",
+      "Liu B",
+      "Xiong Y",
+      "Wangchen Z",
+      "Bao W",
+      "Rong S",
+      "Chen M",
+      "Du Y",
+      "Snetselaar LG",
+      "Xu G"
+    ],
+    "lastauthor": "Xu G",
+    "sortfirstauthor": "Xiao X",
+    "journal": "Journal of the Academy of Nutrition and Dietetics",
+    "issn": "2212-2672",
+    "essn": "",
+    "doi": "doi: 10.1016/j.jand.2026.156328",
+    "sortpubdate": "2026/03/12 00:00",
+    "epubdate": "2026 Mar 12"
+  },
+  {
+    "name": "NHANES",
+    "id": "41831203",
+    "title": "Associations of Body Roundness Index with Hypertension Risk and Blood Pressure in Diabetes and Prediabetes Adults: A Study Based on the NHANES Databas.",
+    "source": "Metab Syndr Relat Disord",
+    "pubdate": "2026 Mar 14",
+    "authors": [
+      "Li XJ",
+      "Wang PP",
+      "Fan YQ",
+      "Han QH"
+    ],
+    "lastauthor": "Han QH",
+    "sortfirstauthor": "Li XJ",
+    "journal": "Metabolic syndrome and related disorders",
+    "issn": "1540-4196",
+    "essn": "1557-8518",
+    "doi": "doi: 10.1177/15578518261429030",
+    "sortpubdate": "2026/03/14 00:00",
+    "epubdate": "2026 Mar 14"
+  },
+  {
+    "name": "NHANES",
+    "id": "41831129",
+    "title": "Association between weekend catch-up sleep and Metabolic dysfunction-associated steatotic liver disease in US adults.",
+    "source": "Clin Exp Med",
+    "pubdate": "2026 Mar 14",
+    "authors": [
+      "Chen J",
+      "Wang W",
+      "He J",
+      "Fang X"
+    ],
+    "lastauthor": "Fang X",
+    "sortfirstauthor": "Chen J",
+    "journal": "Clinical and experimental medicine",
+    "issn": "1591-8890",
+    "essn": "1591-9528",
+    "doi": "doi: 10.1007/s10238-026-02114-6",
+    "sortpubdate": "2026/03/14 00:00",
+    "epubdate": "2026 Mar 14"
+  },
+  {
+    "name": "NHANES",
+    "id": "41830481",
+    "title": "Allostatic Load in Patients with Type 2 Diabetes Treated with GLP-1 Receptor Agonists.",
+    "source": "Metab Syndr Relat Disord",
+    "pubdate": "2026 Mar 14",
+    "authors": [
+      "Yu Y",
+      "Groth S"
+    ],
+    "lastauthor": "Groth S",
+    "sortfirstauthor": "Yu Y",
+    "journal": "Metabolic syndrome and related disorders",
+    "issn": "1540-4196",
+    "essn": "1557-8518",
+    "doi": "doi: 10.1177/15578518261431688",
+    "sortpubdate": "2026/03/14 00:00",
+    "epubdate": "2026 Mar 14"
+  },
+  {
+    "name": "NHANES",
+    "id": "41827581",
+    "title": "Association Between Vitamin D Deficiency and Cardiometabolic Risk Clustering Among Rural Community-Dwelling Older Adults: A Cross-Sectional Study.",
+    "source": "Healthcare (Basel)",
+    "pubdate": "2026 Mar 2",
+    "authors": [
+      "Yun H",
+      "Jang K"
+    ],
+    "lastauthor": "Jang K",
+    "sortfirstauthor": "Yun H",
+    "journal": "Healthcare (Basel, Switzerland)",
+    "issn": "2227-9032",
+    "essn": "2227-9032",
+    "doi": "doi: 10.3390/healthcare14050627",
+    "sortpubdate": "2026/03/02 00:00",
+    "epubdate": "2026 Mar 2"
+  },
+  {
+    "name": "NHANES",
+    "id": "41826308",
+    "title": "Oxidative balance score and periodontitis: nonlinear dose-response in NHANES 2009-2014.",
+    "source": "BDJ Open",
+    "pubdate": "2026 Mar 13",
+    "authors": [
+      "Gao C",
+      "Wang M",
+      "He H",
+      "Zhu Z",
+      "Li Q",
+      "Gao Z",
+      "Mei L"
+    ],
+    "lastauthor": "Mei L",
+    "sortfirstauthor": "Gao C",
+    "journal": "BDJ open",
+    "issn": "",
+    "essn": "2056-807X",
+    "doi": "doi: 10.1038/s41405-026-00410-7",
+    "sortpubdate": "2026/03/13 00:00",
+    "epubdate": "2026 Mar 13"
   }
 ]

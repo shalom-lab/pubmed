@@ -12648,6 +12648,30 @@
   {
     "source": "Materials (Basel)",
     "journal": "Materials (Basel, Switzerland)",
-    "issn": "1996-1944"
+    "issn": "1996-1944",
+    "essn": "1996-1944"
+  },
+  {
+    "source": "Cell Rep",
+    "journal": "Cell reports",
+    "essn": "2211-1247"
+  },
+  {
+    "source": "J Reprod Immunol",
+    "journal": "Journal of reproductive immunology",
+    "issn": "0165-0378",
+    "essn": "1872-7603"
+  },
+  {
+    "source": "Carbohydr Polym",
+    "journal": "Carbohydrate polymers",
+    "issn": "0144-8617",
+    "essn": "1879-1344"
+  },
+  {
+    "source": "Opt Lett",
+    "journal": "Optics letters",
+    "issn": "0146-9592",
+    "essn": "1539-4794"
   }
 ]
