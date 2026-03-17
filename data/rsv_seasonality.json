@@ -6164,13 +6164,13 @@
   {
     "name": "RSV seasonality",
     "id": "41740733",
-    "title": "Seasonal Dynamics of Influenza and RSV in the Caribbean: A Call for Regionally Tailored Preventive Measures.",
+    "title": "Seasonal dynamics of influenza and RSV in the Caribbean: A call for regionally tailored preventive measures.",
     "source": "Int J Infect Dis",
     "pubdate": "2026 Feb 23",
     "authors": [
       "Maria C",
       "Kalpoe J",
-      "Tromp A",
+      "Tromp AT",
       "Koene F",
       "Souverein D",
       "van Roeden S",
@@ -6656,5 +6656,80 @@
     "doi": "doi: 10.1371/journal.pone.0333329",
     "sortpubdate": "2026/03/13 00:00",
     "epubdate": "2026 Mar 13"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "41834610",
+    "title": "A Global Perspective on Viral Pneumonia.",
+    "source": "J Thorac Imaging",
+    "pubdate": "2026 Mar 16",
+    "authors": [
+      "Vella M",
+      "Elicker BM"
+    ],
+    "lastauthor": "Elicker BM",
+    "sortfirstauthor": "Vella M",
+    "journal": "Journal of thoracic imaging",
+    "issn": "0883-5993",
+    "essn": "1536-0237",
+    "doi": "doi: 10.1097/RTI.0000000000000874",
+    "sortpubdate": "2026/03/16 00:00",
+    "epubdate": "2026 Mar 16"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "41834197",
+    "title": "[Epidemiological analysis of children with respiratory syncytial virus infections in Kunming from 2018 to 2025 and prediction of epidemic trends].",
+    "source": "Zhonghua Er Ke Za Zhi",
+    "pubdate": "2026 Mar 14",
+    "authors": [
+      "Liu HF",
+      "Zhu YY",
+      "Yuan TY",
+      "Wang F",
+      "Yang JW",
+      "Zhao L",
+      "Xu J",
+      "Li Y",
+      "Huang RW",
+      "Fu HM"
+    ],
+    "lastauthor": "Fu HM",
+    "sortfirstauthor": "Liu HF",
+    "journal": "Zhonghua er ke za zhi = Chinese journal of pediatrics",
+    "issn": "0578-1310",
+    "essn": "",
+    "doi": "doi: 10.3760/cma.j.cn112140-20251226-01147",
+    "sortpubdate": "2026/03/14 00:00",
+    "epubdate": "2026 Mar 14"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "41833132",
+    "title": "Safety monitoring of health outcomes following RSVPreF3 + AS01 and RSVPreF vaccination among Medicare beneficiaries aged 65 years and older in the United States, 2023-2024.",
+    "source": "Vaccine",
+    "pubdate": "2026 Mar 14",
+    "authors": [
+      "Lloyd PC",
+      "Shah PB",
+      "Zhang HT",
+      "Shah N",
+      "Nair N",
+      "Wan Z",
+      "Hu M",
+      "Clarke TC",
+      "Chen M",
+      "Chillarige Y",
+      "Anderson SA",
+      "Forshee RA"
+    ],
+    "lastauthor": "Forshee RA",
+    "sortfirstauthor": "Lloyd PC",
+    "journal": "Vaccine",
+    "issn": "0264-410X",
+    "essn": "1873-2518",
+    "doi": "doi: 10.1016/j.vaccine.2026.128459",
+    "sortpubdate": "2026/03/14 00:00",
+    "epubdate": "2026 Mar 14"
   }
 ]
