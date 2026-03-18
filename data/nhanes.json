@@ -83272,7 +83272,7 @@
     "lastauthor": "Li X",
     "sortfirstauthor": "Xu YQ",
     "journal": "Frontiers in aging",
-    "issn": "",
+    "issn": "2673-6217",
     "essn": "2673-6217",
     "doi": "doi: 10.3389/fragi.2025.1722675",
     "sortpubdate": "2026/02/26 00:00",
@@ -83311,7 +83311,7 @@
     "lastauthor": "Zhu H",
     "sortfirstauthor": "Zhou W",
     "journal": "Tobacco induced diseases",
-    "issn": "",
+    "issn": "2070-7266",
     "essn": "1617-9625",
     "doi": "doi: 10.18332/tid/217412",
     "sortpubdate": "2026/03/11 00:00",
@@ -83368,7 +83368,7 @@
     "sortfirstauthor": "Zhang Z",
     "journal": "Journal of diabetes and metabolic disorders",
     "issn": "2251-6581",
-    "essn": "",
+    "essn": "2251-6581",
     "doi": "doi: 10.1007/s40200-026-01896-6",
     "sortpubdate": "2026/03/13 00:00",
     "epubdate": "2026 Mar 13"
@@ -83461,5 +83461,196 @@
     "doi": "doi: 10.1080/0886022X.2026.2642478",
     "sortpubdate": "2026/12/01 00:00",
     "epubdate": "2026 Mar 15"
+  },
+  {
+    "name": "NHANES",
+    "id": "41843786",
+    "title": "Association Between Red Blood Cell Distribution Width-to-Albumin Ratio and Stroke Among Adults in the United States.",
+    "source": "Anatol J Cardiol",
+    "pubdate": "2026 Mar 17",
+    "authors": [
+      "Xue C",
+      "Wang K"
+    ],
+    "lastauthor": "Wang K",
+    "sortfirstauthor": "Xue C",
+    "journal": "Anatolian journal of cardiology",
+    "issn": "2149-2263",
+    "essn": "2149-2271",
+    "doi": "doi: 10.14744/AnatolJCardiol.2026.6016",
+    "sortpubdate": "2026/03/17 00:00",
+    "epubdate": "2026 Mar 17"
+  },
+  {
+    "name": "NHANES",
+    "id": "41843158",
+    "title": "Comparison of associations of intake of ultra-processed and non-ultra-processed whole-grain foods with cardiometabolic risk measures in Australian and US adults.",
+    "source": "Eur J Nutr",
+    "pubdate": "2026 Mar 17",
+    "authors": [
+      "Price EJ",
+      "Du M",
+      "Barrett EM",
+      "McKeown NM",
+      "Batterham MJ",
+      "Zhang FF",
+      "Martínez-Steele E",
+      "Beck EJ"
+    ],
+    "lastauthor": "Beck EJ",
+    "sortfirstauthor": "Price EJ",
+    "journal": "European journal of nutrition",
+    "issn": "1436-6207",
+    "essn": "1436-6215",
+    "doi": "pii: 93. doi: 10.1007/s00394-026-03942-8",
+    "sortpubdate": "2026/03/17 00:00",
+    "epubdate": "2026 Mar 17"
+  },
+  {
+    "name": "NHANES",
+    "id": "41842829",
+    "title": "Mediation analysis of adiposity and inflammation in the associations of Life's Crucial 9 and Life's Essential 8 with mortality among postmenopausal women.",
+    "source": "Menopause",
+    "pubdate": "2026 Mar 17",
+    "authors": [
+      "Wei J",
+      "Liu Y"
+    ],
+    "lastauthor": "Liu Y",
+    "sortfirstauthor": "Wei J",
+    "journal": "Menopause (New York, N.Y.)",
+    "issn": "1072-3714",
+    "essn": "1530-0374",
+    "doi": "doi: 10.1097/GME.0000000000002761",
+    "sortpubdate": "2026/03/17 00:00",
+    "epubdate": "2026 Mar 17"
+  },
+  {
+    "name": "NHANES",
+    "id": "41842597",
+    "title": "Association between serum α-Klotho levels and tinnitus stratified by sex and depression: A cross-sectional study from NHANES.",
+    "source": "Medicine (Baltimore)",
+    "pubdate": "2026 Mar 13",
+    "authors": [
+      "Zhang X",
+      "Gao Z",
+      "Zhang Y",
+      "Liu G",
+      "Zhang Y",
+      "Chi N",
+      "Zhang J",
+      "Wu Y",
+      "Qi Z",
+      "Ding D"
+    ],
+    "lastauthor": "Ding D",
+    "sortfirstauthor": "Zhang X",
+    "journal": "Medicine",
+    "issn": "0025-7974",
+    "essn": "1536-5964",
+    "doi": "doi: 10.1097/MD.0000000000047973",
+    "sortpubdate": "2026/03/13 00:00",
+    "epubdate": ""
+  },
+  {
+    "name": "NHANES",
+    "id": "41841599",
+    "title": "The association between sexual activity frequency and depression: The moderating role of physical activity.",
+    "source": "Afr J Reprod Health",
+    "pubdate": "2026 Mar 16",
+    "authors": [
+      "Qin G",
+      "Gong Y"
+    ],
+    "lastauthor": "Gong Y",
+    "sortfirstauthor": "Qin G",
+    "journal": "African journal of reproductive health",
+    "issn": "1118-4841",
+    "essn": "",
+    "doi": "doi: 10.29063/ajrh2026/v30i5.10",
+    "sortpubdate": "2026/03/16 00:00",
+    "epubdate": ""
+  },
+  {
+    "name": "NHANES",
+    "id": "41840833",
+    "title": "Association between urinary polycyclic aromatic hydrocarbon metabolites and sleep disturbances: A cross-sectional study integrating machine learning and network toxicology.",
+    "source": "J Int Med Res",
+    "pubdate": "2026 Mar",
+    "authors": [
+      "Bao Y",
+      "Liang B",
+      "Dong Y",
+      "Wang R"
+    ],
+    "lastauthor": "Wang R",
+    "sortfirstauthor": "Bao Y",
+    "journal": "The Journal of international medical research",
+    "issn": "0300-0605",
+    "essn": "1473-2300",
+    "doi": "doi: 10.1177/03000605261429208",
+    "sortpubdate": "2026/03/01 00:00",
+    "epubdate": "2026 Mar 16"
+  },
+  {
+    "name": "NHANES",
+    "id": "41840744",
+    "title": "Association between high-risk drinking and cardiovascular health based on Life's Essential 8: analysis using 2016-2021 Korean National Health and Nutrition Examination Survey data.",
+    "source": "BMJ Open",
+    "pubdate": "2026 Mar 13",
+    "authors": [
+      "Choi S",
+      "Kim Y",
+      "Kim J"
+    ],
+    "lastauthor": "Kim J",
+    "sortfirstauthor": "Choi S",
+    "journal": "BMJ open",
+    "issn": "",
+    "essn": "2044-6055",
+    "doi": "doi: 10.1136/bmjopen-2025-106587",
+    "sortpubdate": "2026/03/13 00:00",
+    "epubdate": "2026 Mar 13"
+  },
+  {
+    "name": "NHANES",
+    "id": "41840710",
+    "title": "Association of novel inflammation markers derived from high-sensitivity C-reactive protein with anemia: a cross-sectional study based on NHANES 2015-2018.",
+    "source": "Thromb J",
+    "pubdate": "2026 Mar 16",
+    "authors": [
+      "Peng J",
+      "Wan L",
+      "Tan J",
+      "Zeng L"
+    ],
+    "lastauthor": "Zeng L",
+    "sortfirstauthor": "Peng J",
+    "journal": "Thrombosis journal",
+    "issn": "1477-9560",
+    "essn": "",
+    "doi": "doi: 10.1186/s12959-026-00851-y",
+    "sortpubdate": "2026/03/16 00:00",
+    "epubdate": "2026 Mar 16"
+  },
+  {
+    "name": "NHANES",
+    "id": "41840353",
+    "title": "Sedentary Behavior as a Risk Factor for Nasal Inflammatory Diseases: A Cross-Sectional Study.",
+    "source": "Ear Nose Throat J",
+    "pubdate": "2026 Mar 16",
+    "authors": [
+      "Liu Y",
+      "Li M",
+      "Chen H"
+    ],
+    "lastauthor": "Chen H",
+    "sortfirstauthor": "Liu Y",
+    "journal": "Ear, nose, & throat journal",
+    "issn": "0145-5613",
+    "essn": "1942-7522",
+    "doi": "doi: 10.1177/01455613261421037",
+    "sortpubdate": "2026/03/16 00:00",
+    "epubdate": "2026 Mar 16"
   }
 ]

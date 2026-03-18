@@ -60092,7 +60092,7 @@
     "sortfirstauthor": "Altobaishat O",
     "journal": "Proceedings (Baylor University. Medical Center)",
     "issn": "0899-8280",
-    "essn": "",
+    "essn": "1525-3252",
     "doi": "doi: 10.1080/08998280.2025.2593111",
     "sortpubdate": "2025/12/10 00:00",
     "epubdate": "2025 Dec 10"
@@ -60141,7 +60141,7 @@
     "sortfirstauthor": "Chen M",
     "journal": "Journal of orthopaedic translation",
     "issn": "2214-031X",
-    "essn": "",
+    "essn": "2214-0328",
     "doi": "doi: 10.1016/j.jot.2025.11.005",
     "sortpubdate": "2026/01/08 00:00",
     "epubdate": "2026 Jan 8"
@@ -60160,7 +60160,7 @@
     "sortfirstauthor": "Lu K",
     "journal": "Frontiers in oncology",
     "issn": "2234-943X",
-    "essn": "",
+    "essn": "2234-943X",
     "doi": "doi: 10.3389/fonc.2026.1690349",
     "sortpubdate": "2026/02/27 00:00",
     "epubdate": "2026 Feb 27"
@@ -60351,5 +60351,82 @@
     "doi": "pii: S2352-3018(26)00006-8. doi: 10.1016/S2352-3018(26)00006-8",
     "sortpubdate": "2026/03/12 00:00",
     "epubdate": "2026 Mar 12"
+  },
+  {
+    "name": "GBD database",
+    "id": "41842733",
+    "title": "Burden of Parkinson's disease from 1990 to 2021 at the global, regional, and national level, with forecasts to 2035.",
+    "source": "Neurodegener Dis Manag",
+    "pubdate": "2026 Mar 17",
+    "authors": [
+      "Huang S",
+      "Wu J",
+      "Chen G",
+      "Liang Y",
+      "Chen Z",
+      "Xia J",
+      "He W"
+    ],
+    "lastauthor": "He W",
+    "sortfirstauthor": "Huang S",
+    "journal": "Neurodegenerative disease management",
+    "issn": "1758-2024",
+    "essn": "1758-2032",
+    "doi": "doi: 10.1080/17582024.2026.2645616",
+    "sortpubdate": "2026/03/17 00:00",
+    "epubdate": "2026 Mar 17"
+  },
+  {
+    "name": "GBD database",
+    "id": "41841073",
+    "title": "Burden of Infectious Diseases in Afghanistan in 1999 and 2023: Findings From the Global Burden of Disease 2023 Study.",
+    "source": "Cureus",
+    "pubdate": "2026 Feb",
+    "authors": [
+      "Khan A",
+      "Tidman M"
+    ],
+    "lastauthor": "Tidman M",
+    "sortfirstauthor": "Khan A",
+    "journal": "Cureus",
+    "issn": "2168-8184",
+    "essn": "2168-8184",
+    "doi": "doi: 10.7759/cureus.103884",
+    "sortpubdate": "2026/02/18 00:00",
+    "epubdate": "2026 Feb 18"
+  },
+  {
+    "name": "GBD database",
+    "id": "41840755",
+    "title": "Burden of Oral Diseases in Adults Aged 70 Years and Older: Time-Trend Analysis of Global Burden of Disease Study 2021.",
+    "source": "Oral Dis",
+    "pubdate": "2026 Mar 16",
+    "authors": [
+      "Shan W",
+      "Feng Q",
+      "Yao L",
+      "Cen M",
+      "Zhou X",
+      "Ma L",
+      "Chen J",
+      "Zhou W",
+      "Chen C",
+      "Chen M",
+      "Miao J",
+      "Qi J",
+      "Zhang H",
+      "Qu R",
+      "Dai A",
+      "Zhou J",
+      "Yang S"
+    ],
+    "lastauthor": "Yang S",
+    "sortfirstauthor": "Shan W",
+    "journal": "Oral diseases",
+    "issn": "1354-523X",
+    "essn": "1601-0825",
+    "doi": "doi: 10.1111/odi.70300",
+    "sortpubdate": "2026/03/16 00:00",
+    "epubdate": "2026 Mar 16"
   }
 ]

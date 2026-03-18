@@ -5444,7 +5444,7 @@
     "id": "41793878",
     "title": "Maternal immunity drives age-related patterns of RSV disease.",
     "source": "Epidemics",
-    "pubdate": "2026 Feb 28",
+    "pubdate": "2026 Mar",
     "authors": [
       "Brigitta C",
       "Hodgson D",
@@ -5457,7 +5457,7 @@
     "issn": "",
     "essn": "1878-0067",
     "doi": "doi: 10.1016/j.epidem.2026.100903",
-    "sortpubdate": "2026/02/28 00:00",
+    "sortpubdate": "2026/03/01 00:00",
     "epubdate": "2026 Feb 28"
   },
   {
@@ -5616,5 +5616,36 @@
     "doi": "doi: 10.3760/cma.j.cn112140-20251226-01147",
     "sortpubdate": "2026/03/14 00:00",
     "epubdate": "2026 Mar 14"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "41843553",
+    "title": "Estimation of Respiratory Syncytial Virus-attributable hospitalizations among older adults in Japan between 2015 and 2018: An administrative health claims database analysis.",
+    "source": "PLoS One",
+    "pubdate": "2026",
+    "authors": [
+      "Seki M",
+      "Kobayashi Y",
+      "Méroc E",
+      "Kitano T",
+      "Polkowska-Kramek A",
+      "Yoshida A",
+      "Ito S",
+      "Liang C",
+      "Bruyndonckx R",
+      "Moges SM",
+      "Conde-Sousa E",
+      "Nuttens C",
+      "Gessner BD",
+      "Begier E"
+    ],
+    "lastauthor": "Begier E",
+    "sortfirstauthor": "Seki M",
+    "journal": "PloS one",
+    "issn": "",
+    "essn": "1932-6203",
+    "doi": "doi: 10.1371/journal.pone.0344294",
+    "sortpubdate": "2026/03/17 00:00",
+    "epubdate": "2026 Mar 17"
   }
 ]
