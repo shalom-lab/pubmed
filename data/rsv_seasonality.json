@@ -6754,5 +6754,25 @@
     "doi": "pii: 567. doi: 10.1186/s12879-026-12845-2",
     "sortpubdate": "2026/02/11 00:00",
     "epubdate": "2026 Feb 11"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "41850045",
+    "title": "Leveraging regularity in COVID-19 growth rate dynamics for epidemic wave forecasting.",
+    "source": "Epidemics",
+    "pubdate": "2026 Mar 16",
+    "authors": [
+      "Shin MJY",
+      "Paireau J",
+      "Cauchemez S"
+    ],
+    "lastauthor": "Cauchemez S",
+    "sortfirstauthor": "Shin MJY",
+    "journal": "Epidemics",
+    "issn": "",
+    "essn": "1878-0067",
+    "doi": "doi: 10.1016/j.epidem.2026.100908",
+    "sortpubdate": "2026/03/16 00:00",
+    "epubdate": "2026 Mar 16"
   }
 ]

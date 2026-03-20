@@ -9156,7 +9156,8 @@
   {
     "source": "Nutr Health",
     "journal": "Nutrition and health",
-    "issn": "0260-1060"
+    "issn": "0260-1060",
+    "essn": "2047-945X"
   },
   {
     "source": "Syst Rev",
@@ -12746,5 +12747,21 @@
     "journal": "Contact lens & anterior eye : the journal of the British Contact Lens Association",
     "issn": "1367-0484",
     "essn": "1476-5411"
+  },
+  {
+    "source": "Clinicoecon Outcomes Res",
+    "journal": "ClinicoEconomics and outcomes research : CEOR",
+    "issn": "1178-6981",
+    "essn": "1178-6981"
+  },
+  {
+    "source": "BMJ Open Ophthalmol",
+    "journal": "BMJ open ophthalmology",
+    "essn": "2397-3269"
+  },
+  {
+    "source": "ACS Pharmacol Transl Sci",
+    "journal": "ACS pharmacology & translational science",
+    "essn": "2575-9108"
   }
 ]

@@ -5647,5 +5647,49 @@
     "doi": "doi: 10.1371/journal.pone.0344294",
     "sortpubdate": "2026/03/17 00:00",
     "epubdate": "2026 Mar 17"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "41850425",
+    "title": "A Rsv@HMnO(2)-HA nanozyme for AKI therapy via targeting inflammatory storm and activating SIRT1/PGC-1α to restore mitochondrial homeostasis.",
+    "source": "J Adv Res",
+    "pubdate": "2026 Mar 16",
+    "authors": [
+      "Su J",
+      "Wu L",
+      "Zhu H",
+      "Wang H",
+      "He X",
+      "Liang B",
+      "Cai J"
+    ],
+    "lastauthor": "Cai J",
+    "sortfirstauthor": "Su J",
+    "journal": "Journal of advanced research",
+    "issn": "",
+    "essn": "2090-1224",
+    "doi": "pii: S2090-1232(26)00250-X. doi: 10.1016/j.jare.2026.03.029",
+    "sortpubdate": "2026/03/16 00:00",
+    "epubdate": "2026 Mar 16"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "41850045",
+    "title": "Leveraging regularity in COVID-19 growth rate dynamics for epidemic wave forecasting.",
+    "source": "Epidemics",
+    "pubdate": "2026 Mar 16",
+    "authors": [
+      "Shin MJY",
+      "Paireau J",
+      "Cauchemez S"
+    ],
+    "lastauthor": "Cauchemez S",
+    "sortfirstauthor": "Shin MJY",
+    "journal": "Epidemics",
+    "issn": "",
+    "essn": "1878-0067",
+    "doi": "doi: 10.1016/j.epidem.2026.100908",
+    "sortpubdate": "2026/03/16 00:00",
+    "epubdate": "2026 Mar 16"
   }
 ]
