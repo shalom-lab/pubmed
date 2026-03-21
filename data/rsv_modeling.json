@@ -5691,5 +5691,27 @@
     "doi": "doi: 10.1016/j.epidem.2026.100908",
     "sortpubdate": "2026/03/16 00:00",
     "epubdate": "2026 Mar 16"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "41859113",
+    "title": "Infection, vaccination and risk of dementia: a proposed immunological model.",
+    "source": "Front Immunol",
+    "pubdate": "2026",
+    "authors": [
+      "Devine J",
+      "Jacobs B",
+      "Leroux-Roels I",
+      "Leroux-Roels G",
+      "van der Most R"
+    ],
+    "lastauthor": "van der Most R",
+    "sortfirstauthor": "Devine J",
+    "journal": "Frontiers in immunology",
+    "issn": "",
+    "essn": "1664-3224",
+    "doi": "doi: 10.3389/fimmu.2026.1748535",
+    "sortpubdate": "2026/03/04 00:00",
+    "epubdate": "2026 Mar 4"
   }
 ]
