@@ -61444,5 +61444,50 @@
     "doi": "doi: 10.1007/s00277-026-06923-3",
     "sortpubdate": "2026/03/18 00:00",
     "epubdate": "2026 Mar 18"
+  },
+  {
+    "name": "GBD database",
+    "id": "41862409",
+    "title": "Trends and projections of Burkitt Lymphoma burden (1990-2036): an analysis based on the global burden of disease study 2021.",
+    "source": "Hematology",
+    "pubdate": "2026 Dec 31",
+    "authors": [
+      "Zhou Y",
+      "Zhang J",
+      "Zhu L",
+      "Jiang Q",
+      "Shen Q",
+      "Wu Y"
+    ],
+    "lastauthor": "Wu Y",
+    "sortfirstauthor": "Zhou Y",
+    "journal": "Hematology (Amsterdam, Netherlands)",
+    "issn": "1024-5332",
+    "essn": "1607-8454",
+    "doi": "doi: 10.1080/16078454.2026.2648319",
+    "sortpubdate": "2026/12/31 00:00",
+    "epubdate": "2026 Mar 20"
+  },
+  {
+    "name": "GBD database",
+    "id": "41862301",
+    "title": "Global burden and causal analysis of LDL-C-related cardiovascular diseases: A GBD 2021 and Mendelian randomization study.",
+    "source": "Nutr Metab Cardiovasc Dis",
+    "pubdate": "2026 Feb 10",
+    "authors": [
+      "Zhang J",
+      "Wu Y",
+      "Zhang Y",
+      "Gao L",
+      "Hu Y"
+    ],
+    "lastauthor": "Hu Y",
+    "sortfirstauthor": "Zhang J",
+    "journal": "Nutrition, metabolism, and cardiovascular diseases : NMCD",
+    "issn": "0939-4753",
+    "essn": "1590-3729",
+    "doi": "doi: 10.1016/j.numecd.2026.104622",
+    "sortpubdate": "2026/02/10 00:00",
+    "epubdate": "2026 Feb 10"
   }
 ]
