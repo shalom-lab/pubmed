@@ -5725,7 +5725,7 @@
     "id": "41619831",
     "title": "Seasonal community-acquired respiratory virus infections in patients with cancer-Epidemiological and clinical overview, an analysis of the multicenter OncoReVir registry.",
     "source": "Int J Infect Dis",
-    "pubdate": "2026 Jan 29",
+    "pubdate": "2026 Apr",
     "authors": [
       "Rüthrich MM",
       "Schmitt T",
@@ -5751,7 +5751,7 @@
     "issn": "1201-9712",
     "essn": "1878-3511",
     "doi": "doi: 10.1016/j.ijid.2026.108421",
-    "sortpubdate": "2026/01/29 00:00",
+    "sortpubdate": "2026/04/01 00:00",
     "epubdate": "2026 Jan 29"
   },
   {
@@ -6774,5 +6774,35 @@
     "doi": "doi: 10.1016/j.epidem.2026.100908",
     "sortpubdate": "2026/03/16 00:00",
     "epubdate": "2026 Mar 16"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "41863892",
+    "title": "Epidemiological characteristics of respiratory viruses in children with community-acquired pneumonia in Guangzhou, 2023-2024.",
+    "source": "J Infect Public Health",
+    "pubdate": "2026 Mar 13",
+    "authors": [
+      "Xu T",
+      "Kuang L",
+      "Chen Y",
+      "Zhang J",
+      "Zhou Y",
+      "Hou X",
+      "Wang C",
+      "Yan Y",
+      "Xiao M",
+      "Zhang Y",
+      "Liu X",
+      "Xie J",
+      "Zhu B"
+    ],
+    "lastauthor": "Zhu B",
+    "sortfirstauthor": "Xu T",
+    "journal": "Journal of infection and public health",
+    "issn": "1876-0341",
+    "essn": "1876-035X",
+    "doi": "doi: 10.1016/j.jiph.2026.103193",
+    "sortpubdate": "2026/03/13 00:00",
+    "epubdate": "2026 Mar 13"
   }
 ]

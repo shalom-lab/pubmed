@@ -61489,5 +61489,95 @@
     "doi": "doi: 10.1016/j.numecd.2026.104622",
     "sortpubdate": "2026/02/10 00:00",
     "epubdate": "2026 Feb 10"
+  },
+  {
+    "name": "GBD database",
+    "id": "41865143",
+    "title": "Global trends in age at onset of gout, 1990-2023: a sex-stratified and forecast analysis of the Global Burden of Disease Study 2023.",
+    "source": "Clin Rheumatol",
+    "pubdate": "2026 Mar 22",
+    "authors": [
+      "Rastogi N",
+      "Rastogi S"
+    ],
+    "lastauthor": "Rastogi S",
+    "sortfirstauthor": "Rastogi N",
+    "journal": "Clinical rheumatology",
+    "issn": "0770-3198",
+    "essn": "1434-9949",
+    "doi": "doi: 10.1007/s10067-026-08050-w",
+    "sortpubdate": "2026/03/22 00:00",
+    "epubdate": "2026 Mar 22"
+  },
+  {
+    "name": "GBD database",
+    "id": "41864794",
+    "title": "Epidemiological burden of Alzheimer's and Parkinson's diseases in East Asia: A comparative review of global burden of disease estimates and national registry data.",
+    "source": "J Formos Med Assoc",
+    "pubdate": "2026 Mar 20",
+    "authors": [
+      "Fan SP",
+      "Liu PC",
+      "Wang JZ",
+      "Win NN",
+      "Lin CH",
+      "Lin HH"
+    ],
+    "lastauthor": "Lin HH",
+    "sortfirstauthor": "Fan SP",
+    "journal": "Journal of the Formosan Medical Association = Taiwan yi zhi",
+    "issn": "0929-6646",
+    "essn": "",
+    "doi": "pii: S0929-6646(26)00242-1. doi: 10.1016/j.jfma.2026.03.072",
+    "sortpubdate": "2026/03/20 00:00",
+    "epubdate": "2026 Mar 20"
+  },
+  {
+    "name": "GBD database",
+    "id": "41864064",
+    "title": "Trends and determinants of childhood anxiety disorders burden in Asia, 1990-2023.",
+    "source": "J Anxiety Disord",
+    "pubdate": "2026 Mar 19",
+    "authors": [
+      "Zhang K",
+      "Kan C",
+      "Han F",
+      "Li X",
+      "Zheng T",
+      "Hou N",
+      "Xue Y",
+      "Sun X"
+    ],
+    "lastauthor": "Sun X",
+    "sortfirstauthor": "Zhang K",
+    "journal": "Journal of anxiety disorders",
+    "issn": "0887-6185",
+    "essn": "1873-7897",
+    "doi": "doi: 10.1016/j.janxdis.2026.103156",
+    "sortpubdate": "2026/03/19 00:00",
+    "epubdate": "2026 Mar 19"
+  },
+  {
+    "name": "GBD database",
+    "id": "41863762",
+    "title": "Global burden shift from infectious to non-communicable neurological disorders in adolescents and young adults (10-24 years): findings from the global burden of disease study 1990-2021.",
+    "source": "Int J Clin Pharm",
+    "pubdate": "2026 Mar 21",
+    "authors": [
+      "Gu T",
+      "Jiang R",
+      "Tian Y",
+      "Zhao Z",
+      "Wang L",
+      "Cao M"
+    ],
+    "lastauthor": "Cao M",
+    "sortfirstauthor": "Gu T",
+    "journal": "International journal of clinical pharmacy",
+    "issn": "",
+    "essn": "2210-7711",
+    "doi": "doi: 10.1007/s11096-026-02104-4",
+    "sortpubdate": "2026/03/21 00:00",
+    "epubdate": "2026 Mar 21"
   }
 ]
