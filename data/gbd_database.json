@@ -61905,5 +61905,95 @@
     "doi": "doi: 10.1016/j.ejogrb.2026.115069",
     "sortpubdate": "2026/03/11 00:00",
     "epubdate": "2026 Mar 11"
+  },
+  {
+    "name": "GBD database",
+    "id": "41874724",
+    "title": "Ageing and Inequality Drive the Global Burden of Low Bone Mineral Density in Midlife and Older Women.",
+    "source": "Calcif Tissue Int",
+    "pubdate": "2026 Mar 24",
+    "authors": [
+      "Guo M",
+      "Guo M",
+      "Cai M",
+      "Sun T",
+      "Qiao L",
+      "Dong H"
+    ],
+    "lastauthor": "Dong H",
+    "sortfirstauthor": "Guo M",
+    "journal": "Calcified tissue international",
+    "issn": "0171-967X",
+    "essn": "1432-0827",
+    "doi": "pii: 44. doi: 10.1007/s00223-026-01513-x",
+    "sortpubdate": "2026/03/24 00:00",
+    "epubdate": "2026 Mar 24"
+  },
+  {
+    "name": "GBD database",
+    "id": "41872431",
+    "title": "Lifetime burden of congenital heart disease from 1990 to 2021: a systematic analysis from the Global Burden of Disease Study 2021.",
+    "source": "Sci China Life Sci",
+    "pubdate": "2026 Mar 19",
+    "authors": [
+      "Liu MY",
+      "Cui Y",
+      "Qiu LH",
+      "Zhang JX",
+      "Zhang SX",
+      "Ma JL",
+      "Pan H",
+      "Zhang JX",
+      "Ma WG",
+      "Chen JM",
+      "Jing ZC"
+    ],
+    "lastauthor": "Jing ZC",
+    "sortfirstauthor": "Liu MY",
+    "journal": "Science China. Life sciences",
+    "issn": "1674-7305",
+    "essn": "1869-1889",
+    "doi": "doi: 10.1007/s11427-025-3279-8",
+    "sortpubdate": "2026/03/19 00:00",
+    "epubdate": "2026 Mar 19"
+  },
+  {
+    "name": "GBD database",
+    "id": "41871817",
+    "title": "Safeguarding the Open Data Ecosystem and Regulating the Misuse of Public Health Datasets in an Era of Rapidly Scaled Research Production.",
+    "source": "J Clin Epidemiol",
+    "pubdate": "2026 Mar 21",
+    "authors": [
+      "Zil-E-Ali A"
+    ],
+    "lastauthor": "Zil-E-Ali A",
+    "sortfirstauthor": "Zil-E-Ali A",
+    "journal": "Journal of clinical epidemiology",
+    "issn": "0895-4356",
+    "essn": "1878-5921",
+    "doi": "doi: 10.1016/j.jclinepi.2026.112252",
+    "sortpubdate": "2026/03/21 00:00",
+    "epubdate": "2026 Mar 21"
+  },
+  {
+    "name": "GBD database",
+    "id": "41866211",
+    "title": "[Burden, trends and gender disparities of alcoholic cardiomyopathy in China from 1990 to 2021].",
+    "source": "Zhonghua Xin Xue Guan Bing Za Zhi",
+    "pubdate": "2026 Mar 24",
+    "authors": [
+      "Fang Z",
+      "Luo XF",
+      "Zhang YH",
+      "Zhang J"
+    ],
+    "lastauthor": "Zhang J",
+    "sortfirstauthor": "Fang Z",
+    "journal": "Zhonghua xin xue guan bing za zhi",
+    "issn": "0253-3758",
+    "essn": "",
+    "doi": "doi: 10.3760/cma.j.cn112148-20250513-00348",
+    "sortpubdate": "2026/03/24 00:00",
+    "epubdate": ""
   }
 ]

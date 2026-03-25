@@ -85600,5 +85600,241 @@
     "doi": "doi: 10.1016/j.ecoenv.2026.120048",
     "sortpubdate": "2026/03/21 00:00",
     "epubdate": "2026 Mar 21"
+  },
+  {
+    "name": "NHANES",
+    "id": "41875385",
+    "title": "Abnormal Cholesterol in Children and Adolescents: United States, August 2021-August 2023.",
+    "source": "NCHS Data Brief",
+    "pubdate": "2026 Mar",
+    "authors": [
+      "Noiman A",
+      "Hughes JP",
+      "Leachman J",
+      "Nguyen D"
+    ],
+    "lastauthor": "Nguyen D",
+    "sortfirstauthor": "Noiman A",
+    "journal": "NCHS data brief",
+    "issn": "",
+    "essn": "1941-4935",
+    "doi": "doi: 10.15620/cdc/174648",
+    "sortpubdate": "2026/03/01 00:00",
+    "epubdate": ""
+  },
+  {
+    "name": "NHANES",
+    "id": "41874631",
+    "title": "Body Composition Modulates Risk for Stress Urinary Incontinence in Women < 60.",
+    "source": "Int Urogynecol J",
+    "pubdate": "2026 Mar 24",
+    "authors": [
+      "Wolff DT",
+      "Evans JK",
+      "Rigdon J",
+      "Prokopiou N",
+      "Sandberg M",
+      "Dutta R",
+      "El Haraki A"
+    ],
+    "lastauthor": "El Haraki A",
+    "sortfirstauthor": "Wolff DT",
+    "journal": "International urogynecology journal",
+    "issn": "0937-3462",
+    "essn": "1433-3023",
+    "doi": "doi: 10.1007/s00192-026-06589-5",
+    "sortpubdate": "2026/03/24 00:00",
+    "epubdate": "2026 Mar 24"
+  },
+  {
+    "name": "NHANES",
+    "id": "41874411",
+    "title": "Association Between Smoking Cessation Duration and Heated Tobacco Product Use Among People Who Formerly or Never Used Combustible Cigarettes in Korea.",
+    "source": "Nicotine Tob Res",
+    "pubdate": "2026 Mar 24",
+    "authors": [
+      "Cheon E",
+      "Cho SI"
+    ],
+    "lastauthor": "Cho SI",
+    "sortfirstauthor": "Cheon E",
+    "journal": "Nicotine & tobacco research : official journal of the Society for Research on Nicotine and Tobacco",
+    "issn": "1462-2203",
+    "essn": "1469-994X",
+    "doi": "pii: ntag059. doi: 10.1093/ntr/ntag059",
+    "sortpubdate": "2026/03/24 00:00",
+    "epubdate": "2026 Mar 24"
+  },
+  {
+    "name": "NHANES",
+    "id": "41874070",
+    "title": "Personalized Hearing Loss Care Using SNOMED CT-Aligned Ontology and Random Forest Machine Learning: A Hybrid Decision-Support Framework.",
+    "source": "Audiol Res",
+    "pubdate": "2026 Mar 2",
+    "authors": [
+      "Kebsi D",
+      "Barki C",
+      "Dergaa I",
+      "Gouider R",
+      "Ceylan Hİ",
+      "Maddouri A",
+      "Jemai A",
+      "Elloumi M",
+      "Bragazzi NL",
+      "Boussi Rahmouni H"
+    ],
+    "lastauthor": "Boussi Rahmouni H",
+    "sortfirstauthor": "Kebsi D",
+    "journal": "Audiology research",
+    "issn": "2039-4330",
+    "essn": "",
+    "doi": "pii: 37. doi: 10.3390/audiolres16020037",
+    "sortpubdate": "2026/03/02 00:00",
+    "epubdate": "2026 Mar 2"
+  },
+  {
+    "name": "NHANES",
+    "id": "41874068",
+    "title": "Association Between Tinnitus and Angina Pectoris in U.S. Adults: Evidence from NHANES 2009-2018.",
+    "source": "Audiol Res",
+    "pubdate": "2026 Feb 28",
+    "authors": [
+      "Britton M",
+      "Bhatt IS"
+    ],
+    "lastauthor": "Bhatt IS",
+    "sortfirstauthor": "Britton M",
+    "journal": "Audiology research",
+    "issn": "2039-4330",
+    "essn": "",
+    "doi": "pii: 35. doi: 10.3390/audiolres16020035",
+    "sortpubdate": "2026/02/28 00:00",
+    "epubdate": "2026 Feb 28"
+  },
+  {
+    "name": "NHANES",
+    "id": "41873608",
+    "title": "Identifying Undiagnosed COPD Using Machine Learning-Based Classification.",
+    "source": "Respir Care",
+    "pubdate": "2026 Mar 24",
+    "authors": [
+      "Ekelund S",
+      "Rosenskjold J",
+      "Kronborg T",
+      "Hangaard S"
+    ],
+    "lastauthor": "Hangaard S",
+    "sortfirstauthor": "Ekelund S",
+    "journal": "Respiratory care",
+    "issn": "0020-1324",
+    "essn": "1943-3654",
+    "doi": "doi: 10.1177/19433654261429455",
+    "sortpubdate": "2026/03/24 00:00",
+    "epubdate": "2026 Mar 24"
+  },
+  {
+    "name": "NHANES",
+    "id": "41873575",
+    "title": "Association of Sun-Reactive Phototype, But Not Pigmentary Phenotype, With the Risk of Atopic Dermatitis: A Population-Based Analysis.",
+    "source": "Dermatitis",
+    "pubdate": "2026 Mar 24",
+    "authors": [
+      "Hu Y",
+      "Da M",
+      "Wang F"
+    ],
+    "lastauthor": "Wang F",
+    "sortfirstauthor": "Hu Y",
+    "journal": "Dermatitis : contact, atopic, occupational, drug",
+    "issn": "1710-3568",
+    "essn": "2162-5220",
+    "doi": "doi: 10.1177/17103568261435766",
+    "sortpubdate": "2026/03/24 00:00",
+    "epubdate": "2026 Mar 24"
+  },
+  {
+    "name": "NHANES",
+    "id": "41873320",
+    "title": "Sociodemographic Determinants of Telemedicine Uptake Among Adults in the United States.",
+    "source": "Cureus",
+    "pubdate": "2026 Feb",
+    "authors": [
+      "Mensah EA",
+      "Otuo AA",
+      "Twum-Damoah E",
+      "Peprah EY",
+      "Bronya NA",
+      "Jebiwot S",
+      "Aderinwale OA",
+      "Francis OS",
+      "Owusu DN"
+    ],
+    "lastauthor": "Owusu DN",
+    "sortfirstauthor": "Mensah EA",
+    "journal": "Cureus",
+    "issn": "2168-8184",
+    "essn": "2168-8184",
+    "doi": "doi: 10.7759/cureus.103972",
+    "sortpubdate": "2026/02/20 00:00",
+    "epubdate": "2026 Feb 20"
+  },
+  {
+    "name": "NHANES",
+    "id": "41871976",
+    "title": "Frailty, socioeconomic factors, and nutritional biomarkers in patients with nondialysis chronic kidney disease: A cross-sectional analysis.",
+    "source": "J Int Med Res",
+    "pubdate": "2026 Mar",
+    "authors": [
+      "Yang Y",
+      "Yang F",
+      "Zeng L",
+      "Yuan Z"
+    ],
+    "lastauthor": "Yuan Z",
+    "sortfirstauthor": "Yang Y",
+    "journal": "The Journal of international medical research",
+    "issn": "0300-0605",
+    "essn": "1473-2300",
+    "doi": "doi: 10.1177/03000605261431572",
+    "sortpubdate": "2026/03/01 00:00",
+    "epubdate": "2026 Mar 23"
+  },
+  {
+    "name": "NHANES",
+    "id": "41871817",
+    "title": "Safeguarding the Open Data Ecosystem and Regulating the Misuse of Public Health Datasets in an Era of Rapidly Scaled Research Production.",
+    "source": "J Clin Epidemiol",
+    "pubdate": "2026 Mar 21",
+    "authors": [
+      "Zil-E-Ali A"
+    ],
+    "lastauthor": "Zil-E-Ali A",
+    "sortfirstauthor": "Zil-E-Ali A",
+    "journal": "Journal of clinical epidemiology",
+    "issn": "0895-4356",
+    "essn": "1878-5921",
+    "doi": "doi: 10.1016/j.jclinepi.2026.112252",
+    "sortpubdate": "2026/03/21 00:00",
+    "epubdate": "2026 Mar 21"
+  },
+  {
+    "name": "NHANES",
+    "id": "41871449",
+    "title": "Serum dehydroepiandrosterone sulfate and asthma in a nationwide study of U.S. adults.",
+    "source": "Ann Am Thorac Soc",
+    "pubdate": "2026 Mar 23",
+    "authors": [
+      "Han YY",
+      "Rosser FJ",
+      "Celedón JC"
+    ],
+    "lastauthor": "Celedón JC",
+    "sortfirstauthor": "Han YY",
+    "journal": "Annals of the American Thoracic Society",
+    "issn": "",
+    "essn": "2325-6621",
+    "doi": "pii: aaoag075. doi: 10.1093/annalsats/aaoag075",
+    "sortpubdate": "2026/03/23 00:00",
+    "epubdate": "2026 Mar 23"
   }
 ]
