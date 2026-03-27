@@ -7853,5 +7853,47 @@
     "doi": "pii: kwaf156. doi: 10.1093/aje/kwaf156",
     "sortpubdate": "2026/03/25 00:00",
     "epubdate": "2026 Mar 25"
+  },
+  {
+    "name": "American Journal of Epidemiology",
+    "id": "41885476",
+    "title": "Two-way fixed effects models in air pollution epidemiology: a proposed framework for model specifications and recommendations for future studies.",
+    "source": "Am J Epidemiol",
+    "pubdate": "2026 Mar 26",
+    "authors": [
+      "Ma Y",
+      "Kaplan J",
+      "Rehkopf DH",
+      "Huynh B",
+      "Kiang M",
+      "Benmarhnia T"
+    ],
+    "lastauthor": "Benmarhnia T",
+    "sortfirstauthor": "Ma Y",
+    "journal": "American journal of epidemiology",
+    "issn": "0002-9262",
+    "essn": "1476-6256",
+    "doi": "pii: kwag069. doi: 10.1093/aje/kwag069",
+    "sortpubdate": "2026/03/26 00:00",
+    "epubdate": "2026 Mar 26"
+  },
+  {
+    "name": "American Journal of Epidemiology",
+    "id": "41885375",
+    "title": "Commentary on Resurrecting Complete-Case Analysis: A Defense - The loss of information remains unresolved.",
+    "source": "Am J Epidemiol",
+    "pubdate": "2026 Mar 26",
+    "authors": [
+      "Stockton B",
+      "Harel O"
+    ],
+    "lastauthor": "Harel O",
+    "sortfirstauthor": "Stockton B",
+    "journal": "American journal of epidemiology",
+    "issn": "0002-9262",
+    "essn": "1476-6256",
+    "doi": "pii: kwag068. doi: 10.1093/aje/kwag068",
+    "sortpubdate": "2026/03/26 00:00",
+    "epubdate": "2026 Mar 26"
   }
 ]
