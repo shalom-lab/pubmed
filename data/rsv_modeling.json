@@ -5245,9 +5245,9 @@
   {
     "name": "RSV modeling",
     "id": "41759886",
-    "title": "Cost-Effectiveness Analysis of Bivalent Respiratory Syncytial Virus Prefusion F (RSVpreF) Maternal Vaccine for the Prevention of RSV Illness Among Infants in Hong Kong.",
+    "title": "Cost-effectiveness analysis of bivalent respiratory syncytial virus prefusion F (RSVpreF) maternal vaccine for the prevention of RSV illness among infants in Hong Kong.",
     "source": "Int J Infect Dis",
-    "pubdate": "2026 Feb 25",
+    "pubdate": "2026 Feb 26",
     "authors": [
       "Wong V",
       "Fung M",
@@ -5262,8 +5262,8 @@
     "issn": "1201-9712",
     "essn": "1878-3511",
     "doi": "doi: 10.1016/j.ijid.2026.108503",
-    "sortpubdate": "2026/02/25 00:00",
-    "epubdate": "2026 Feb 25"
+    "sortpubdate": "2026/02/26 00:00",
+    "epubdate": "2026 Feb 26"
   },
   {
     "name": "RSV modeling",
@@ -5758,5 +5758,69 @@
     "doi": "pii: 9728. doi: 10.1038/s41598-026-40530-6",
     "sortpubdate": "2026/02/18 00:00",
     "epubdate": "2026 Feb 18"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "41890999",
+    "title": "Basic Baseline model design choices can substantially influence performance in collaborative forecast hubs.",
+    "source": "medRxiv",
+    "pubdate": "2026 Mar 20",
+    "authors": [
+      "Suez E",
+      "Fox SJ"
+    ],
+    "lastauthor": "Fox SJ",
+    "sortfirstauthor": "Suez E",
+    "journal": "medRxiv : the preprint server for health sciences",
+    "issn": "",
+    "essn": "",
+    "doi": "pii: 2026.03.18.26348748. doi: 10.64898/2026.03.18.26348748",
+    "sortpubdate": "2026/03/20 00:00",
+    "epubdate": "2026 Mar 20"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "41886634",
+    "title": "A comparative study of incidence rate and severity of influenza virus and respiratory syncytial virus associated hospitalisation in older adults in Jiangsu Province, China: a retrospective analysis of a regional medical database.",
+    "source": "J Glob Health",
+    "pubdate": "2026 Mar 27",
+    "authors": [
+      "Zhang T",
+      "Guo L",
+      "Miao Y",
+      "Wang C",
+      "Wang X",
+      "Li Y"
+    ],
+    "lastauthor": "Li Y",
+    "sortfirstauthor": "Zhang T",
+    "journal": "Journal of global health",
+    "issn": "2047-2978",
+    "essn": "2047-2986",
+    "doi": "doi: 10.7189/jogh.16.04115",
+    "sortpubdate": "2026/03/27 00:00",
+    "epubdate": "2026 Mar 27"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "41714680",
+    "title": "Mathematical analysis of a stochastic delay model for respiratory syncytial virus dynamics.",
+    "source": "Sci Rep",
+    "pubdate": "2026 Feb 20",
+    "authors": [
+      "Raza A",
+      "Lampart M",
+      "Shafique U",
+      "Alfwzan WF",
+      "Fadhal E"
+    ],
+    "lastauthor": "Fadhal E",
+    "sortfirstauthor": "Raza A",
+    "journal": "Scientific reports",
+    "issn": "",
+    "essn": "2045-2322",
+    "doi": "pii: 10022. doi: 10.1038/s41598-026-39783-y",
+    "sortpubdate": "2026/02/20 00:00",
+    "epubdate": "2026 Feb 20"
   }
 ]

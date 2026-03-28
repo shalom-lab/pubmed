@@ -6887,5 +6887,24 @@
     "doi": "doi: 10.1016/j.epidem.2026.100906",
     "sortpubdate": "2026/03/18 00:00",
     "epubdate": "2026 Mar 18"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "41890999",
+    "title": "Basic Baseline model design choices can substantially influence performance in collaborative forecast hubs.",
+    "source": "medRxiv",
+    "pubdate": "2026 Mar 20",
+    "authors": [
+      "Suez E",
+      "Fox SJ"
+    ],
+    "lastauthor": "Fox SJ",
+    "sortfirstauthor": "Suez E",
+    "journal": "medRxiv : the preprint server for health sciences",
+    "issn": "",
+    "essn": "",
+    "doi": "pii: 2026.03.18.26348748. doi: 10.64898/2026.03.18.26348748",
+    "sortpubdate": "2026/03/20 00:00",
+    "epubdate": "2026 Mar 20"
   }
 ]
