@@ -6906,5 +6906,58 @@
     "doi": "pii: 2026.03.18.26348748. doi: 10.64898/2026.03.18.26348748",
     "sortpubdate": "2026/03/20 00:00",
     "epubdate": "2026 Mar 20"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "41901738",
+    "title": "Acute Respiratory Infections in Ghanaian Children: Epidemiology, Antimicrobial Resistance, and Prevention Strategies.",
+    "source": "Pathogens",
+    "pubdate": "2026 Mar 6",
+    "authors": [
+      "Arthur SE",
+      "Eyeson J",
+      "Kubi AA",
+      "Amartey FA",
+      "Matey R",
+      "Aboagye JO",
+      "Kyei GB"
+    ],
+    "lastauthor": "Kyei GB",
+    "sortfirstauthor": "Arthur SE",
+    "journal": "Pathogens (Basel, Switzerland)",
+    "issn": "",
+    "essn": "2076-0817",
+    "doi": "pii: 285. doi: 10.3390/pathogens15030285",
+    "sortpubdate": "2026/03/06 00:00",
+    "epubdate": "2026 Mar 6"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "41895471",
+    "title": "Epidemiological surveillance of Mycoplasma pneumoniae in Targeted next-generation sequencing analysis in Southern Chinese populations in 2023.",
+    "source": "J Glob Antimicrob Resist",
+    "pubdate": "2026 Mar 25",
+    "authors": [
+      "Lin X",
+      "Li Z",
+      "Kong C",
+      "Cai Z",
+      "Lu S",
+      "Lv Y",
+      "Li N",
+      "Liu W",
+      "Li H",
+      "Li N",
+      "Li B",
+      "Sun S"
+    ],
+    "lastauthor": "Sun S",
+    "sortfirstauthor": "Lin X",
+    "journal": "Journal of global antimicrobial resistance",
+    "issn": "2213-7165",
+    "essn": "2213-7173",
+    "doi": "pii: S2213-7165(26)00043-3. doi: 10.1016/j.jgar.2026.03.009",
+    "sortpubdate": "2026/03/25 00:00",
+    "epubdate": "2026 Mar 25"
   }
 ]
