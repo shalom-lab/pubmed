@@ -5822,5 +5822,35 @@
     "doi": "pii: 10022. doi: 10.1038/s41598-026-39783-y",
     "sortpubdate": "2026/02/20 00:00",
     "epubdate": "2026 Feb 20"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "41724768",
+    "title": "Immunoinformatics based designing of a broad-spectrum multi-epitope vaccine against co-infection of human metapneumovirus, respiratory syncytial virus, and influenza A virus.",
+    "source": "Sci Rep",
+    "pubdate": "2026 Feb 23",
+    "authors": [
+      "Li L",
+      "Chen Y",
+      "Wu S",
+      "Wu C",
+      "Xie J",
+      "Shah A",
+      "Xie X",
+      "Tan J",
+      "Qin Y",
+      "Zeng Y",
+      "Jan AU",
+      "Yang T",
+      "Ullah S"
+    ],
+    "lastauthor": "Ullah S",
+    "sortfirstauthor": "Li L",
+    "journal": "Scientific reports",
+    "issn": "",
+    "essn": "2045-2322",
+    "doi": "doi: 10.1038/s41598-026-40812-z",
+    "sortpubdate": "2026/02/23 00:00",
+    "epubdate": "2026 Feb 23"
   }
 ]

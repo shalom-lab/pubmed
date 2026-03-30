@@ -12918,7 +12918,8 @@
   {
     "source": "Clin Pract",
     "journal": "Clinics and practice",
-    "issn": "2039-7275"
+    "issn": "2039-7275",
+    "essn": "2039-7283"
   },
   {
     "source": "Hum Resour Health",
@@ -12958,5 +12959,17 @@
     "journal": "Travel medicine and infectious disease",
     "issn": "1477-8939",
     "essn": "1873-0442"
+  },
+  {
+    "source": "Mol Med",
+    "journal": "Molecular medicine (Cambridge, Mass.)",
+    "issn": "1076-1551",
+    "essn": "1528-3658"
+  },
+  {
+    "source": "Ann Phys Rehabil Med",
+    "journal": "Annals of physical and rehabilitation medicine",
+    "issn": "1877-0657",
+    "essn": "1877-0665"
   }
 ]
