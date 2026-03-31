@@ -7895,5 +7895,72 @@
     "doi": "pii: kwag068. doi: 10.1093/aje/kwag068",
     "sortpubdate": "2026/03/26 00:00",
     "epubdate": "2026 Mar 26"
+  },
+  {
+    "name": "American Journal of Epidemiology",
+    "id": "41910046",
+    "title": "Five misconceptions about categorizing exposure variables measured with error in epidemiological research.",
+    "source": "Am J Epidemiol",
+    "pubdate": "2026 Mar 30",
+    "authors": [
+      "Thiébaut ACM",
+      "Boshuizen HC",
+      "Midthune D",
+      "Wallace MP",
+      "Kipnis V",
+      "Gustafson P",
+      "Of The International STRengthening Analytical Thinking For Observational Studies Stratos Initiative OBOMEAMTGT"
+    ],
+    "lastauthor": "Of The International STRengthening Analytical Thinking For Observational Studies Stratos Initiative OBOMEAMTGT",
+    "sortfirstauthor": "Thiébaut ACM",
+    "journal": "American journal of epidemiology",
+    "issn": "0002-9262",
+    "essn": "1476-6256",
+    "doi": "pii: kwag071. doi: 10.1093/aje/kwag071",
+    "sortpubdate": "2026/03/30 00:00",
+    "epubdate": "2026 Mar 30"
+  },
+  {
+    "name": "American Journal of Epidemiology",
+    "id": "41910040",
+    "title": "Critical gestational windows of heat exposure associated with preterm birth: a nationwide observational study.",
+    "source": "Am J Epidemiol",
+    "pubdate": "2026 Mar 30",
+    "authors": [
+      "Terada S",
+      "Nishimura H",
+      "Miyasaka N",
+      "Nawa N",
+      "Fujiwara T"
+    ],
+    "lastauthor": "Fujiwara T",
+    "sortfirstauthor": "Terada S",
+    "journal": "American journal of epidemiology",
+    "issn": "0002-9262",
+    "essn": "1476-6256",
+    "doi": "pii: kwag070. doi: 10.1093/aje/kwag070",
+    "sortpubdate": "2026/03/30 00:00",
+    "epubdate": "2026 Mar 30"
+  },
+  {
+    "name": "American Journal of Epidemiology",
+    "id": "41910037",
+    "title": "The Rogan-Gladen estimator for outcome misclassification.",
+    "source": "Am J Epidemiol",
+    "pubdate": "2026 Mar 30",
+    "authors": [
+      "Edwards JK",
+      "Zivich PN",
+      "Shook-Sa BE",
+      "Cole SR"
+    ],
+    "lastauthor": "Cole SR",
+    "sortfirstauthor": "Edwards JK",
+    "journal": "American journal of epidemiology",
+    "issn": "0002-9262",
+    "essn": "1476-6256",
+    "doi": "pii: kwag057. doi: 10.1093/aje/kwag057",
+    "sortpubdate": "2026/03/30 00:00",
+    "epubdate": "2026 Mar 30"
   }
 ]

@@ -5852,5 +5852,29 @@
     "doi": "doi: 10.1038/s41598-026-40812-z",
     "sortpubdate": "2026/02/23 00:00",
     "epubdate": "2026 Feb 23"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "41908856",
+    "title": "The prevalence and role of human respiratory syncytial virus in pediatric respiratory tract infections: a systematic review and meta-analysis of global data.",
+    "source": "EClinicalMedicine",
+    "pubdate": "2026 Apr",
+    "authors": [
+      "Khales P",
+      "Razizadeh MH",
+      "Ghorbani S",
+      "Saadati H",
+      "Salavatiha Z",
+      "Moattari A",
+      "Tavakoli A"
+    ],
+    "lastauthor": "Tavakoli A",
+    "sortfirstauthor": "Khales P",
+    "journal": "EClinicalMedicine",
+    "issn": "",
+    "essn": "2589-5370",
+    "doi": "doi: 10.1016/j.eclinm.2026.103837",
+    "sortpubdate": "2026/03/20 00:00",
+    "epubdate": "2026 Mar 20"
   }
 ]
