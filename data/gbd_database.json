@@ -63386,5 +63386,79 @@
     "doi": "doi: 10.1016/j.jstrokecerebrovasdis.2026.108623",
     "sortpubdate": "2026/03/27 00:00",
     "epubdate": "2026 Mar 27"
+  },
+  {
+    "name": "GBD database",
+    "id": "41914226",
+    "title": "Epidemiology of urolithiasis: between big data and field research.",
+    "source": "Arch Ital Urol Androl",
+    "pubdate": "2026 Mar 31",
+    "authors": [
+      "Trinchieri A"
+    ],
+    "lastauthor": "Trinchieri A",
+    "sortfirstauthor": "Trinchieri A",
+    "journal": "Archivio italiano di urologia, andrologia : organo ufficiale [di] Societa italiana di ecografia urologica e nefrologica",
+    "issn": "1124-3562",
+    "essn": "2282-4197",
+    "doi": "doi: 10.4081/aiua.2026.15172",
+    "sortpubdate": "2026/03/31 00:00",
+    "epubdate": ""
+  },
+  {
+    "name": "GBD database",
+    "id": "41912805",
+    "title": "Global, regional and national burden of ischemic heart disease attributable to suboptimal diet, 1990-2023: a Global Burden of Disease study.",
+    "source": "Nat Med",
+    "pubdate": "2026 Mar 30",
+    "authors": [
+      "GBD 2023 IHD & Dietary Risk Factors Collaborators"
+    ],
+    "lastauthor": "GBD 2023 IHD & Dietary Risk Factors Collaborators",
+    "sortfirstauthor": "GBD 2023 IHD & Dietary Risk Factors Collaborators",
+    "journal": "Nature medicine",
+    "issn": "1078-8956",
+    "essn": "1546-170X",
+    "doi": "doi: 10.1038/s41591-026-04250-8",
+    "sortpubdate": "2026/03/30 00:00",
+    "epubdate": "2026 Mar 30"
+  },
+  {
+    "name": "GBD database",
+    "id": "41911930",
+    "title": "Global, regional, and national burden of meningitis, its risk factors, and aetiologies, 1990-2023: a systematic analysis for the Global Burden of Disease Study 2023.",
+    "source": "Lancet Neurol",
+    "pubdate": "2026 Mar 27",
+    "authors": [
+      "GBD 2023 Meningitis & Antimicrobial Resistance Collaborators"
+    ],
+    "lastauthor": "GBD 2023 Meningitis & Antimicrobial Resistance Collaborators",
+    "sortfirstauthor": "GBD 2023 Meningitis & Antimicrobial Resistance Collaborators",
+    "journal": "The Lancet. Neurology",
+    "issn": "1474-4422",
+    "essn": "1474-4465",
+    "doi": "pii: S1474-4422(26)00101-8. doi: 10.1016/S1474-4422(26)00101-8",
+    "sortpubdate": "2026/03/27 00:00",
+    "epubdate": "2026 Mar 27"
+  },
+  {
+    "name": "GBD database",
+    "id": "41906025",
+    "title": "Global burden of neonatal respiratory infections attributable to air pollution: a systematic analysis based on the global burden of disease 2021 study.",
+    "source": "Eur J Pediatr",
+    "pubdate": "2026 Mar 30",
+    "authors": [
+      "Wang Y",
+      "Cai F",
+      "Jiang X"
+    ],
+    "lastauthor": "Jiang X",
+    "sortfirstauthor": "Wang Y",
+    "journal": "European journal of pediatrics",
+    "issn": "0340-6199",
+    "essn": "1432-1076",
+    "doi": "doi: 10.1007/s00431-026-06902-w",
+    "sortpubdate": "2026/03/30 00:00",
+    "epubdate": "2026 Mar 30"
   }
 ]
