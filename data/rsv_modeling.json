@@ -5903,5 +5903,63 @@
     "doi": "doi: 10.1111/ppe.70141",
     "sortpubdate": "2026/03/31 00:00",
     "epubdate": "2026 Mar 31"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "41918699",
+    "title": "Stratify severe risk in children with respiratory syncytial virus pneumonia-A retrospective study based on machine learning and SHAP interpretation.",
+    "source": "Front Pediatr",
+    "pubdate": "2026",
+    "authors": [
+      "Pan JA",
+      "Yang WH",
+      "Wu CF",
+      "Zhou M",
+      "Liu J",
+      "Chen LN"
+    ],
+    "lastauthor": "Chen LN",
+    "sortfirstauthor": "Pan JA",
+    "journal": "Frontiers in pediatrics",
+    "issn": "2296-2360",
+    "essn": "2296-2360",
+    "doi": "doi: 10.3389/fped.2026.1775752",
+    "sortpubdate": "2026/03/16 00:00",
+    "epubdate": "2026 Mar 16"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "41819980",
+    "title": "Age distribution of respiratory syncytial virus disease in children younger than 5 years in low-income and middle-income countries: a systematic review and meta-analysis.",
+    "source": "Lancet Child Adolesc Health",
+    "pubdate": "2026 Apr",
+    "authors": [
+      "Mahmud S",
+      "van Zandvoort K",
+      "Guo L",
+      "Li Y",
+      "Nair H",
+      "Feikin DR",
+      "Sparrow E",
+      "Chowdhury F",
+      "Cohen C",
+      "Dbaibo GS",
+      "Gentile A",
+      "Gill CJ",
+      "Gordon A",
+      "Horton KC",
+      "Cao Q",
+      "Stolyarov K",
+      "Clark AD",
+      "RSV Age Study Collaborators"
+    ],
+    "lastauthor": "Clark AD",
+    "sortfirstauthor": "Mahmud S",
+    "journal": "The Lancet. Child & adolescent health",
+    "issn": "2352-4642",
+    "essn": "2352-4650",
+    "doi": "doi: 10.1016/S2352-4642(25)00349-9",
+    "sortpubdate": "2026/04/01 00:00",
+    "epubdate": ""
   }
 ]
