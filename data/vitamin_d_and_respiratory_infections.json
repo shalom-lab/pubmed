@@ -3264,5 +3264,29 @@
     "doi": "doi: 10.1177/08828245261426982",
     "sortpubdate": "2026/04/01 00:00",
     "epubdate": "2026 Mar 10"
+  },
+  {
+    "name": "Vitamin D and respiratory infections",
+    "id": "41922045",
+    "title": "Vitamin D in health and disease and potential shield against COVID-19.",
+    "source": "Adv Clin Chem",
+    "pubdate": "2026",
+    "authors": [
+      "Gupta J",
+      "Pinjari D",
+      "Aggarwal Y",
+      "Kumar D",
+      "Syal K",
+      "Bhattacharyya R",
+      "Banerjee D"
+    ],
+    "lastauthor": "Banerjee D",
+    "sortfirstauthor": "Gupta J",
+    "journal": "Advances in clinical chemistry",
+    "issn": "0065-2423",
+    "essn": "2162-9471",
+    "doi": "doi: 10.1016/bs.acc.2025.12.001",
+    "sortpubdate": "2026/01/01 00:00",
+    "epubdate": "2026 Feb 12"
   }
 ]

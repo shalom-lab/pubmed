@@ -5133,7 +5133,7 @@
     "id": "41746506",
     "title": "Cost-Effectiveness of Nirsevimab and Clesrovimab in Preventing Respiratory Syncytial Virus Lower Respiratory Tract Disease in Infants in the United States: A Modeling Study.",
     "source": "Infect Dis Ther",
-    "pubdate": "2026 Feb 26",
+    "pubdate": "2026 Apr",
     "authors": [
       "Yarnoff B",
       "Beuvelet M",
@@ -5153,7 +5153,7 @@
     "issn": "2193-8229",
     "essn": "2193-6382",
     "doi": "doi: 10.1007/s40121-026-01311-w",
-    "sortpubdate": "2026/02/26 00:00",
+    "sortpubdate": "2026/04/01 00:00",
     "epubdate": "2026 Feb 26"
   },
   {
@@ -5419,7 +5419,7 @@
     "id": "41795339",
     "title": "Design, synthesis and pharmacological evaluation of phenylthiophene-2-carboxamide-based RSV fusion protein inhibitors.",
     "source": "Bioorg Chem",
-    "pubdate": "2026 Feb 26",
+    "pubdate": "2026 Jun 15",
     "authors": [
       "Zaman MK",
       "Yang C",
@@ -5436,7 +5436,7 @@
     "issn": "0045-2068",
     "essn": "1090-2120",
     "doi": "doi: 10.1016/j.bioorg.2026.109690",
-    "sortpubdate": "2026/02/26 00:00",
+    "sortpubdate": "2026/06/15 00:00",
     "epubdate": "2026 Feb 26"
   },
   {
@@ -5961,5 +5961,34 @@
     "doi": "doi: 10.1016/S2352-4642(25)00349-9",
     "sortpubdate": "2026/04/01 00:00",
     "epubdate": ""
+  },
+  {
+    "name": "RSV modeling",
+    "id": "41731394",
+    "title": "Etiological landscape and co-infection dynamics in Acute Respiratory Infections (ARIs): insights from a multicenter outpatient study in Yunnan, China.",
+    "source": "BMC Infect Dis",
+    "pubdate": "2026 Feb 23",
+    "authors": [
+      "Chen J",
+      "Li J",
+      "Feng Y",
+      "Wei N",
+      "Yang S",
+      "Liu G",
+      "Ai J",
+      "Qu H",
+      "Liu Z",
+      "Li D",
+      "Geng J",
+      "Hou J"
+    ],
+    "lastauthor": "Hou J",
+    "sortfirstauthor": "Chen J",
+    "journal": "BMC infectious diseases",
+    "issn": "",
+    "essn": "1471-2334",
+    "doi": "doi: 10.1186/s12879-026-12937-z",
+    "sortpubdate": "2026/02/23 00:00",
+    "epubdate": "2026 Feb 23"
   }
 ]
