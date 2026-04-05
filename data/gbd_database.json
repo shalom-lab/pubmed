@@ -64024,5 +64024,59 @@
     "doi": "doi: 10.1186/s12876-025-04484-9",
     "sortpubdate": "2026/04/02 00:00",
     "epubdate": "2026 Apr 2"
+  },
+  {
+    "name": "GBD database",
+    "id": "41933769",
+    "title": "Multi omics analysis reveals senescence associated genes in metabolic dysfunction associated steatohepatitis related liver cancer and their functional validation.",
+    "source": "Int J Biol Macromol",
+    "pubdate": "2026 Mar 31",
+    "authors": [
+      "Lin S",
+      "Teng Y",
+      "Wu Q",
+      "Wang Z",
+      "Feng X",
+      "Huang J",
+      "Zeng Y",
+      "Fan Z",
+      "Yan Y"
+    ],
+    "lastauthor": "Yan Y",
+    "sortfirstauthor": "Lin S",
+    "journal": "International journal of biological macromolecules",
+    "issn": "0141-8130",
+    "essn": "1879-0003",
+    "doi": "doi: 10.1016/j.ijbiomac.2026.151713",
+    "sortpubdate": "2026/03/31 00:00",
+    "epubdate": "2026 Mar 31"
+  },
+  {
+    "name": "GBD database",
+    "id": "41933334",
+    "title": "Fatal and non-fatal health outcomes of malaria among reproductive age women in Eastern Sub-Saharan Africa, from 1990 to 2023.",
+    "source": "Malar J",
+    "pubdate": "2026 Apr 3",
+    "authors": [
+      "Tadesse S",
+      "Korma W",
+      "Sherfa A",
+      "Bedewi J",
+      "Alemseged EA",
+      "Angaw Y",
+      "Assefa L",
+      "Fekadu Y",
+      "Ashenafi G",
+      "Tsegaye D",
+      "Gemechu T"
+    ],
+    "lastauthor": "Gemechu T",
+    "sortfirstauthor": "Tadesse S",
+    "journal": "Malaria journal",
+    "issn": "",
+    "essn": "1475-2875",
+    "doi": "doi: 10.1186/s12936-026-05903-2",
+    "sortpubdate": "2026/04/03 00:00",
+    "epubdate": "2026 Apr 3"
   }
 ]
