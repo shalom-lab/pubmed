@@ -5489,7 +5489,7 @@
     "id": "41812490",
     "title": "Epidemiological characteristics and driving factors of co-circulation and co-detection of multiple respiratory pathogens: A multi-center surveillance study in China.",
     "source": "Public Health",
-    "pubdate": "2026 Mar 9",
+    "pubdate": "2026 May",
     "authors": [
       "Zhang H",
       "Qu R",
@@ -5514,8 +5514,8 @@
     "issn": "0033-3506",
     "essn": "1476-5616",
     "doi": "doi: 10.1016/j.puhe.2026.106245",
-    "sortpubdate": "2026/03/09 00:00",
-    "epubdate": "2026 Mar 9"
+    "sortpubdate": "2026/05/01 00:00",
+    "epubdate": "2026 Mar 10"
   },
   {
     "name": "RSV modeling",
@@ -5990,5 +5990,53 @@
     "doi": "doi: 10.1186/s12879-026-12937-z",
     "sortpubdate": "2026/02/23 00:00",
     "epubdate": "2026 Feb 23"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "41935586",
+    "title": "Targeting the Human Protein Disulfide Isomerase A3 as a Broad-Spectrum Antiviral Approach Against Human Respiratory Viruses.",
+    "source": "Int J Antimicrob Agents",
+    "pubdate": "2026 Apr 2",
+    "authors": [
+      "Sibille G",
+      "Maggiora A",
+      "Cimato G",
+      "Luganini A",
+      "Gribaudo G"
+    ],
+    "lastauthor": "Gribaudo G",
+    "sortfirstauthor": "Sibille G",
+    "journal": "International journal of antimicrobial agents",
+    "issn": "0924-8579",
+    "essn": "1872-7913",
+    "doi": "doi: 10.1016/j.ijantimicag.2026.107802",
+    "sortpubdate": "2026/04/02 00:00",
+    "epubdate": "2026 Apr 2"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "41761146",
+    "title": "Identification of key clinical features for pediatric respiratory syncytial virus infection using machine learning.",
+    "source": "BMC Pediatr",
+    "pubdate": "2026 Feb 27",
+    "authors": [
+      "Miyagi Y",
+      "Morimoto Y",
+      "Satake E",
+      "Iwashima S",
+      "Yano Y",
+      "Urabe R",
+      "Kitagawa A",
+      "Kato H",
+      "Kin K"
+    ],
+    "lastauthor": "Kin K",
+    "sortfirstauthor": "Miyagi Y",
+    "journal": "BMC pediatrics",
+    "issn": "",
+    "essn": "1471-2431",
+    "doi": "doi: 10.1186/s12887-026-06659-z",
+    "sortpubdate": "2026/02/27 00:00",
+    "epubdate": "2026 Feb 27"
   }
 ]

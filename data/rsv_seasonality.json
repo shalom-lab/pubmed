@@ -7083,5 +7083,29 @@
     "doi": "doi: 10.1186/s12879-026-12937-z",
     "sortpubdate": "2026/02/23 00:00",
     "epubdate": "2026 Feb 23"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "41934687",
+    "title": "Adverse events after Pfizer's Respiratory Syncytial Virus Vaccine in pregnant women in the Vaccine Adverse Event Reporting System, 2024-2025, United States.",
+    "source": "Vaccine",
+    "pubdate": "2026 Apr 3",
+    "authors": [
+      "Moro PL",
+      "Romanson B",
+      "Marquez P",
+      "Zhang B",
+      "Zauche LH",
+      "Strid P",
+      "Stroud E"
+    ],
+    "lastauthor": "Stroud E",
+    "sortfirstauthor": "Moro PL",
+    "journal": "Vaccine",
+    "issn": "0264-410X",
+    "essn": "1873-2518",
+    "doi": "doi: 10.1016/j.vaccine.2026.128547",
+    "sortpubdate": "2026/04/03 00:00",
+    "epubdate": "2026 Apr 3"
   }
 ]
