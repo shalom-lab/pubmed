@@ -89833,7 +89833,7 @@
     "id": "41935749",
     "title": "Accelerated biological aging (GOLD BioAgeDiff) and depressive symptoms in US adults: NHANES 2005-2018.",
     "source": "J Affect Disord",
-    "pubdate": "2026 Apr 2",
+    "pubdate": "2026 Apr 3",
     "authors": [
       "Chen X",
       "Jin T",
@@ -89848,8 +89848,8 @@
     "issn": "0165-0327",
     "essn": "1573-2517",
     "doi": "doi: 10.1016/j.jad.2026.121735",
-    "sortpubdate": "2026/04/02 00:00",
-    "epubdate": "2026 Apr 2"
+    "sortpubdate": "2026/04/03 00:00",
+    "epubdate": "2026 Apr 3"
   },
   {
     "name": "NHANES",
@@ -90082,5 +90082,247 @@
     "doi": "pii: 35. doi: 10.1007/s12012-026-10108-9",
     "sortpubdate": "2026/04/04 00:00",
     "epubdate": "2026 Apr 4"
+  },
+  {
+    "name": "NHANES",
+    "id": "41941533",
+    "title": "Association between allostatic load and thyroid function in U.S. adults: a cross-sectional study based on NHANES data.",
+    "source": "Stress",
+    "pubdate": "2026 Dec 31",
+    "authors": [
+      "Zhuolin D",
+      "Chun H",
+      "Su X"
+    ],
+    "lastauthor": "Su X",
+    "sortfirstauthor": "Zhuolin D",
+    "journal": "Stress (Amsterdam, Netherlands)",
+    "issn": "1025-3890",
+    "essn": "1607-8888",
+    "doi": "doi: 10.1080/10253890.2026.2653858",
+    "sortpubdate": "2026/12/31 00:00",
+    "epubdate": "2026 Apr 6"
+  },
+  {
+    "name": "NHANES",
+    "id": "41940902",
+    "title": "The association between Waist-to-Height Ratio and asthma in U.S. children: a cross‑sectional study from NHANES 1999 to 2020.",
+    "source": "J Asthma",
+    "pubdate": "2026 Apr 6",
+    "authors": [
+      "Wang Y",
+      "Li L",
+      "Wang J",
+      "Shen H",
+      "Chen X"
+    ],
+    "lastauthor": "Chen X",
+    "sortfirstauthor": "Wang Y",
+    "journal": "The Journal of asthma : official journal of the Association for the Care of Asthma",
+    "issn": "0277-0903",
+    "essn": "1532-4303",
+    "doi": "doi: 10.1080/02770903.2026.2654584",
+    "sortpubdate": "2026/04/06 00:00",
+    "epubdate": "2026 Apr 6"
+  },
+  {
+    "name": "NHANES",
+    "id": "41940630",
+    "title": "Internally Validated Logistic Regression Nomogram for Depressive Symptoms Risk Prediction in Middle-Aged and Older Adults With Sarcopenia: Cross-Sectional Study.",
+    "source": "Inquiry",
+    "pubdate": "2026 Jan-Dec",
+    "authors": [
+      "Li E",
+      "Ai F",
+      "Tang P",
+      "Wen H",
+      "Guo B"
+    ],
+    "lastauthor": "Guo B",
+    "sortfirstauthor": "Li E",
+    "journal": "Inquiry : a journal of medical care organization, provision and financing",
+    "issn": "0046-9580",
+    "essn": "1945-7243",
+    "doi": "doi: 10.1177/00469580261436992",
+    "sortpubdate": "2026/01/01 00:00",
+    "epubdate": "2026 Apr 6"
+  },
+  {
+    "name": "NHANES",
+    "id": "41939927",
+    "title": "Inflammation Levels and the Health Impact of Anti-Inflammatory Diets on Chronic Obstructive Pulmonary Disease: An NHANES Study.",
+    "source": "Int J Chron Obstruct Pulmon Dis",
+    "pubdate": "2026",
+    "authors": [
+      "Feng T",
+      "Yu W"
+    ],
+    "lastauthor": "Yu W",
+    "sortfirstauthor": "Feng T",
+    "journal": "International journal of chronic obstructive pulmonary disease",
+    "issn": "1176-9106",
+    "essn": "1178-2005",
+    "doi": "doi: 10.2147/COPD.S535829",
+    "sortpubdate": "2026/03/31 00:00",
+    "epubdate": "2026 Mar 31"
+  },
+  {
+    "name": "NHANES",
+    "id": "41939547",
+    "title": "Prevalence and Sociodemographic Correlates of Obesity Among US Youth Aged 2-19 Years: An Analysis Using Pooled 2011-2018 National Health and Nutrition Examination Survey (NHANES) Data.",
+    "source": "Cureus",
+    "pubdate": "2026 Mar",
+    "authors": [
+      "Gopep NS",
+      "Oladimeji A",
+      "Ebere-Bank D",
+      "Otu RO",
+      "Uzor A",
+      "Olawusi E"
+    ],
+    "lastauthor": "Olawusi E",
+    "sortfirstauthor": "Gopep NS",
+    "journal": "Cureus",
+    "issn": "2168-8184",
+    "essn": "2168-8184",
+    "doi": "doi: 10.7759/cureus.104716",
+    "sortpubdate": "2026/03/05 00:00",
+    "epubdate": "2026 Mar 5"
+  },
+  {
+    "name": "NHANES",
+    "id": "41938664",
+    "title": "Association of Vitamin D Levels and Mortality in Overactive Bladder: Nonlinear Dose-Response and Threshold Effect.",
+    "source": "Food Sci Nutr",
+    "pubdate": "2026 Apr",
+    "authors": [
+      "Yang C",
+      "Shen N",
+      "Xiao H",
+      "Zhao Z",
+      "Yang Q",
+      "Liu Y",
+      "Lai D"
+    ],
+    "lastauthor": "Lai D",
+    "sortfirstauthor": "Yang C",
+    "journal": "Food science & nutrition",
+    "issn": "2048-7177",
+    "essn": "2048-7177",
+    "doi": "doi: 10.1002/fsn3.71722",
+    "sortpubdate": "2026/04/02 00:00",
+    "epubdate": "2026 Apr 2"
+  },
+  {
+    "name": "NHANES",
+    "id": "41937721",
+    "title": "Association between low-carbohydrate-diet score and osteoporosis in hypertensive patients: a cross-sectional study.",
+    "source": "Ann Hum Biol",
+    "pubdate": "2026 Dec",
+    "authors": [
+      "Liu X",
+      "Ying H",
+      "Wang Q",
+      "Liao S",
+      "Xu B"
+    ],
+    "lastauthor": "Xu B",
+    "sortfirstauthor": "Liu X",
+    "journal": "Annals of human biology",
+    "issn": "0301-4460",
+    "essn": "1464-5033",
+    "doi": "doi: 10.1080/03014460.2026.2649751",
+    "sortpubdate": "2026/12/01 00:00",
+    "epubdate": "2026 Apr 6"
+  },
+  {
+    "name": "NHANES",
+    "id": "41937611",
+    "title": "The Association Between Sedentary Behavior and Cardiovascular Disease Risk: An Analysis Based on NHANES Data.",
+    "source": "Cardiovasc Ther",
+    "pubdate": "2026",
+    "authors": [
+      "Huang H",
+      "Zhao Z",
+      "Yu Z",
+      "Feng F",
+      "Zhang Z",
+      "Fan B",
+      "Meng LB"
+    ],
+    "lastauthor": "Meng LB",
+    "sortfirstauthor": "Huang H",
+    "journal": "Cardiovascular therapeutics",
+    "issn": "1755-5914",
+    "essn": "1755-5922",
+    "doi": "doi: 10.1155/cdr/6940329",
+    "sortpubdate": "2026/01/01 00:00",
+    "epubdate": ""
+  },
+  {
+    "name": "NHANES",
+    "id": "41937402",
+    "title": "Comments to \"Analysis of the Current Status and Associated Factors of Premature Frailty in Adults Aged 18-59 Years Based on the NHANES Database\".",
+    "source": "Geriatr Gerontol Int",
+    "pubdate": "2026 Apr",
+    "authors": [
+      "Coskuntuncel P",
+      "Donmez Guler D",
+      "Kemik Z",
+      "Korkmaz C",
+      "Sari B",
+      "Ates Bulut E"
+    ],
+    "lastauthor": "Ates Bulut E",
+    "sortfirstauthor": "Coskuntuncel P",
+    "journal": "Geriatrics & gerontology international",
+    "issn": "",
+    "essn": "1447-0594",
+    "doi": "doi: 10.1111/ggi.70477",
+    "sortpubdate": "2026/04/01 00:00",
+    "epubdate": ""
+  },
+  {
+    "name": "NHANES",
+    "id": "41937396",
+    "title": "Comment on: \"Domain-Specific Physical Activity and Its Association With Frailty Syndrome: Evidence From NHANES Using Phenotype and Index-Based Models\".",
+    "source": "Geriatr Gerontol Int",
+    "pubdate": "2026 Apr",
+    "authors": [
+      "Lu H",
+      "Yao Y",
+      "Hu P"
+    ],
+    "lastauthor": "Hu P",
+    "sortfirstauthor": "Lu H",
+    "journal": "Geriatrics & gerontology international",
+    "issn": "",
+    "essn": "1447-0594",
+    "doi": "doi: 10.1111/ggi.70461",
+    "sortpubdate": "2026/04/01 00:00",
+    "epubdate": ""
+  },
+  {
+    "name": "NHANES",
+    "id": "41936389",
+    "title": "Trends in Weight Loss Attempts and Strategies Among US Adolescents With Overweight or Obesity.",
+    "source": "Obesity (Silver Spring)",
+    "pubdate": "2026 Apr 5",
+    "authors": [
+      "Liu L",
+      "Xiong G",
+      "Zhao H",
+      "Shi H",
+      "Liang M",
+      "Nahata MC"
+    ],
+    "lastauthor": "Nahata MC",
+    "sortfirstauthor": "Liu L",
+    "journal": "Obesity (Silver Spring, Md.)",
+    "issn": "1930-7381",
+    "essn": "1930-739X",
+    "doi": "doi: 10.1002/oby.70184",
+    "sortpubdate": "2026/04/05 00:00",
+    "epubdate": "2026 Apr 5"
   }
 ]
