@@ -6062,5 +6062,27 @@
     "doi": "pii: jiag206. doi: 10.1093/infdis/jiag206",
     "sortpubdate": "2026/04/07 00:00",
     "epubdate": "2026 Apr 7"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "41959791",
+    "title": "HHBayes : A Flexible Bayesian Framework for Simulating and Analyzing Household Transmission Dynamics.",
+    "source": "medRxiv",
+    "pubdate": "2026 Apr 3",
+    "authors": [
+      "Li K",
+      "Hou Y",
+      "Mukherjee B",
+      "Pitzer VE",
+      "Weinberger DM"
+    ],
+    "lastauthor": "Weinberger DM",
+    "sortfirstauthor": "Li K",
+    "journal": "medRxiv : the preprint server for health sciences",
+    "issn": "",
+    "essn": "",
+    "doi": "pii: 2026.04.01.26349903. doi: 10.64898/2026.04.01.26349903",
+    "sortpubdate": "2026/04/03 00:00",
+    "epubdate": "2026 Apr 3"
   }
 ]

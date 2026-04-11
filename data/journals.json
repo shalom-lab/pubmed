@@ -2998,7 +2998,8 @@
   {
     "source": "Asia Pac Allergy",
     "journal": "Asia Pacific allergy",
-    "issn": "2233-8276"
+    "issn": "2233-8276",
+    "essn": "2233-8268"
   },
   {
     "source": "Br J Psychiatry",
@@ -13258,5 +13259,26 @@
     "journal": "Surgical neurology international",
     "issn": "2229-5097",
     "essn": "2152-7806"
+  },
+  {
+    "source": "J Clin Transl Sci",
+    "journal": "Journal of clinical and translational science",
+    "essn": "2059-8661"
+  },
+  {
+    "source": "JTCVS Open",
+    "journal": "JTCVS open",
+    "essn": "2666-2736"
+  },
+  {
+    "source": "Discoveries (Craiova)",
+    "journal": "Discoveries (Craiova, Romania)",
+    "essn": "2359-7232"
+  },
+  {
+    "source": "Virology",
+    "journal": "Virology",
+    "issn": "0042-6822",
+    "essn": "1096-0341"
   }
 ]
