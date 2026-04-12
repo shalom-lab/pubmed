@@ -91975,5 +91975,91 @@
     "doi": "doi: 10.4178/epih.e2026014",
     "sortpubdate": "2026/03/30 00:00",
     "epubdate": "2026 Mar 30"
+  },
+  {
+    "name": "NHANES",
+    "id": "41963893",
+    "title": "Association between low-carbohydrate diet score and childhood obesity: a national population-based study.",
+    "source": "BMC Pediatr",
+    "pubdate": "2026 Apr 11",
+    "authors": [
+      "Wang F",
+      "Liu Z",
+      "Liu F",
+      "Qiao X",
+      "Zhao Z",
+      "Zhang L"
+    ],
+    "lastauthor": "Zhang L",
+    "sortfirstauthor": "Wang F",
+    "journal": "BMC pediatrics",
+    "issn": "",
+    "essn": "1471-2431",
+    "doi": "doi: 10.1186/s12887-026-06835-1",
+    "sortpubdate": "2026/04/11 00:00",
+    "epubdate": "2026 Apr 11"
+  },
+  {
+    "name": "NHANES",
+    "id": "41963094",
+    "title": "Association between cardiometabolic index and high-sensitivity C-reactive protein: A cross-sectional study from National Health and Nutrition Examination Survey 2015 to 2018.",
+    "source": "J Int Med Res",
+    "pubdate": "2026 Apr",
+    "authors": [
+      "Yan Y",
+      "Tang Y"
+    ],
+    "lastauthor": "Tang Y",
+    "sortfirstauthor": "Yan Y",
+    "journal": "The Journal of international medical research",
+    "issn": "0300-0605",
+    "essn": "1473-2300",
+    "doi": "doi: 10.1177/03000605261436654",
+    "sortpubdate": "2026/04/01 00:00",
+    "epubdate": "2026 Apr 10"
+  },
+  {
+    "name": "NHANES",
+    "id": "41962767",
+    "title": "Association between dietary fibre intake and depressive symptoms before and during the COVID-19 pandemic.",
+    "source": "Clin Nutr ESPEN",
+    "pubdate": "2026 Apr 8",
+    "authors": [
+      "Amaha ND",
+      "Gidey KB",
+      "Kaushik A",
+      "Lassi ZS",
+      "Yisma E"
+    ],
+    "lastauthor": "Yisma E",
+    "sortfirstauthor": "Amaha ND",
+    "journal": "Clinical nutrition ESPEN",
+    "issn": "",
+    "essn": "2405-4577",
+    "doi": "doi: 10.1016/j.clnesp.2026.103272",
+    "sortpubdate": "2026/04/08 00:00",
+    "epubdate": "2026 Apr 8"
+  },
+  {
+    "name": "NHANES",
+    "id": "41962494",
+    "title": "Sex differences in the relationship between eating window, night eating, and metabolic syndrome risk in emerging adults: Analysis of national health and nutrition examination survey 2017-2020 data.",
+    "source": "Clin Nutr",
+    "pubdate": "2026 Mar 27",
+    "authors": [
+      "Vizthum D",
+      "Melough MM",
+      "Patterson F",
+      "Earthman CP",
+      "Pacanowski CR"
+    ],
+    "lastauthor": "Pacanowski CR",
+    "sortfirstauthor": "Vizthum D",
+    "journal": "Clinical nutrition (Edinburgh, Scotland)",
+    "issn": "0261-5614",
+    "essn": "1532-1983",
+    "doi": "doi: 10.1016/j.clnu.2026.106646",
+    "sortpubdate": "2026/03/27 00:00",
+    "epubdate": "2026 Mar 27"
   }
 ]

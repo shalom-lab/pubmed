@@ -65078,5 +65078,28 @@
     "doi": "doi: 10.1016/j.envres.2026.124425",
     "sortpubdate": "2026/04/07 00:00",
     "epubdate": "2026 Apr 7"
+  },
+  {
+    "name": "GBD database",
+    "id": "41964403",
+    "title": "Identifying Immunological Biomarkers for Major Depressive Disorder: Insights From Machine Learning, Single-Nucleus Bioinformatics, and Experimental Validation.",
+    "source": "Biomed Res Int",
+    "pubdate": "2026",
+    "authors": [
+      "Kangsheng L",
+      "Xiaohui Y",
+      "Xin P",
+      "Yong Y",
+      "Hongliang L",
+      "Yihui D"
+    ],
+    "lastauthor": "Yihui D",
+    "sortfirstauthor": "Kangsheng L",
+    "journal": "BioMed research international",
+    "issn": "",
+    "essn": "2314-6141",
+    "doi": "doi: 10.1155/bmri/6184295",
+    "sortpubdate": "2026/01/01 00:00",
+    "epubdate": ""
   }
 ]
