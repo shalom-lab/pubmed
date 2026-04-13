@@ -65096,10 +65096,61 @@
     "lastauthor": "Yihui D",
     "sortfirstauthor": "Kangsheng L",
     "journal": "BioMed research international",
-    "issn": "",
+    "issn": "2314-6133",
     "essn": "2314-6141",
     "doi": "doi: 10.1155/bmri/6184295",
     "sortpubdate": "2026/01/01 00:00",
     "epubdate": ""
+  },
+  {
+    "name": "GBD database",
+    "id": "41966464",
+    "title": "Estimating the preventable burden of cardiovascular disease attributable to ultra-processed dietary patterns in Canada: A modeling study.",
+    "source": "Am J Prev Med",
+    "pubdate": "2026 Apr 9",
+    "authors": [
+      "V H (c)",
+      "E N",
+      "J W (c)",
+      "Lfm R",
+      "Jy P",
+      "J IG",
+      "N F",
+      "Jc M"
+    ],
+    "lastauthor": "Jc M",
+    "sortfirstauthor": "V H (c)",
+    "journal": "American journal of preventive medicine",
+    "issn": "0749-3797",
+    "essn": "1873-2607",
+    "doi": "doi: 10.1016/j.amepre.2026.108363",
+    "sortpubdate": "2026/04/09 00:00",
+    "epubdate": "2026 Apr 9"
+  },
+  {
+    "name": "GBD database",
+    "id": "41965700",
+    "title": "The epidemiology of tuberculosis infection and the Human Development Index (HDI) in Iran between 1990-2021: secondary analysis of the global burden of disease.",
+    "source": "BMC Infect Dis",
+    "pubdate": "2026 Apr 11",
+    "authors": [
+      "Kaffash A",
+      "Shobeiri SS",
+      "Pouraslan E",
+      "Kazemzadeh A",
+      "Mohammadi FD",
+      "Ghazal N",
+      "Amini M",
+      "Ashena H",
+      "Khazaei Z"
+    ],
+    "lastauthor": "Khazaei Z",
+    "sortfirstauthor": "Kaffash A",
+    "journal": "BMC infectious diseases",
+    "issn": "",
+    "essn": "1471-2334",
+    "doi": "doi: 10.1186/s12879-026-13148-2",
+    "sortpubdate": "2026/04/11 00:00",
+    "epubdate": "2026 Apr 11"
   }
 ]
