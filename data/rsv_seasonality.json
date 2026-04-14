@@ -7205,5 +7205,30 @@
     "doi": "doi: 10.1186/s13052-026-02233-6",
     "sortpubdate": "2026/04/10 00:00",
     "epubdate": "2026 Apr 10"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "41971326",
+    "title": "Evolutionary trajectory and co-infection dynamics of human influenza A(H1N1) virus (2000-2025): an integrated framework informed by expert-informed bibliometrics.",
+    "source": "Front Microbiol",
+    "pubdate": "2026",
+    "authors": [
+      "Cao X",
+      "Tang J",
+      "Liu Y",
+      "Wang X",
+      "Li Q",
+      "Xu Y",
+      "Li X",
+      "Zhao F"
+    ],
+    "lastauthor": "Zhao F",
+    "sortfirstauthor": "Cao X",
+    "journal": "Frontiers in microbiology",
+    "issn": "1664-302X",
+    "essn": "1664-302X",
+    "doi": "doi: 10.3389/fmicb.2026.1793244",
+    "sortpubdate": "2026/03/26 00:00",
+    "epubdate": "2026 Mar 26"
   }
 ]
