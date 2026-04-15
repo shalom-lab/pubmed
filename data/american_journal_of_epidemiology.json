@@ -8086,5 +8086,74 @@
     "doi": "doi: 10.1093/aje/kwag062",
     "sortpubdate": "2026/03/18 00:00",
     "epubdate": "2026 Mar 18"
+  },
+  {
+    "name": "American Journal of Epidemiology",
+    "id": "41974455",
+    "title": "New to Cohort, Not New to Care: Leveraging Historical Data in HIV Clinical Cohorts in the United States.",
+    "source": "Am J Epidemiol",
+    "pubdate": "2026 Apr 13",
+    "authors": [
+      "Haw NJL",
+      "Hogan B",
+      "Humes E",
+      "Coburn SB",
+      "Zheng C",
+      "Cheng Y",
+      "Zhang Y",
+      "Gebo KA",
+      "Lam JO",
+      "Karris MY",
+      "Zalla LC",
+      "Horberg MA",
+      "Napravnik S",
+      "Gill MJ",
+      "Althoff KN",
+      "Lesko CR"
+    ],
+    "lastauthor": "Lesko CR",
+    "sortfirstauthor": "Haw NJL",
+    "journal": "American journal of epidemiology",
+    "issn": "0002-9262",
+    "essn": "1476-6256",
+    "doi": "pii: kwag082. doi: 10.1093/aje/kwag082",
+    "sortpubdate": "2026/04/13 00:00",
+    "epubdate": "2026 Apr 13"
+  },
+  {
+    "name": "American Journal of Epidemiology",
+    "id": "41974452",
+    "title": "Clarifying Causal Questions in Population Health Research: Anatomy of a Causal Estimand.",
+    "source": "Am J Epidemiol",
+    "pubdate": "2026 Apr 13",
+    "authors": [
+      "Shiba K"
+    ],
+    "lastauthor": "Shiba K",
+    "sortfirstauthor": "Shiba K",
+    "journal": "American journal of epidemiology",
+    "issn": "0002-9262",
+    "essn": "1476-6256",
+    "doi": "pii: kwag079. doi: 10.1093/aje/kwag079",
+    "sortpubdate": "2026/04/13 00:00",
+    "epubdate": "2026 Apr 13"
+  },
+  {
+    "name": "American Journal of Epidemiology",
+    "id": "41974449",
+    "title": "Effect measure modification in mixtures and public health.",
+    "source": "Am J Epidemiol",
+    "pubdate": "2026 Apr 13",
+    "authors": [
+      "Keil AP"
+    ],
+    "lastauthor": "Keil AP",
+    "sortfirstauthor": "Keil AP",
+    "journal": "American journal of epidemiology",
+    "issn": "0002-9262",
+    "essn": "1476-6256",
+    "doi": "pii: kwag081. doi: 10.1093/aje/kwag081",
+    "sortpubdate": "2026/04/13 00:00",
+    "epubdate": "2026 Apr 13"
   }
 ]

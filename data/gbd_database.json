@@ -65392,5 +65392,109 @@
     "doi": "pii: skag117. doi: 10.1093/jas/skag117",
     "sortpubdate": "2026/04/10 00:00",
     "epubdate": "2026 Apr 10"
+  },
+  {
+    "name": "GBD database",
+    "id": "41980036",
+    "title": "Global burden of esophageal cancer attributable to smoking and alcohol, 1990-2021, with projections to 2040: a population-based analysis of the global burden of disease study 2021.",
+    "source": "Ann Med",
+    "pubdate": "2026 Dec",
+    "authors": [
+      "Zhou H",
+      "Wu J",
+      "Yin Y"
+    ],
+    "lastauthor": "Yin Y",
+    "sortfirstauthor": "Zhou H",
+    "journal": "Annals of medicine",
+    "issn": "0785-3890",
+    "essn": "1365-2060",
+    "doi": "doi: 10.1080/07853890.2026.2657616",
+    "sortpubdate": "2026/12/01 00:00",
+    "epubdate": "2026 Apr 14"
+  },
+  {
+    "name": "GBD database",
+    "id": "41978638",
+    "title": "Divergent Trajectories of Youth Mental Health in Emerging Economies: A Global Burden of Disease Analysis of Anxiety and Autism Spectrum Disorders in BRICS Nations (1990-2030).",
+    "source": "Psychol Res Behav Manag",
+    "pubdate": "2026",
+    "authors": [
+      "Wen J"
+    ],
+    "lastauthor": "Wen J",
+    "sortfirstauthor": "Wen J",
+    "journal": "Psychology research and behavior management",
+    "issn": "1179-1578",
+    "essn": "1179-1578",
+    "doi": "doi: 10.2147/PRBM.S598402",
+    "sortpubdate": "2026/04/08 00:00",
+    "epubdate": "2026 Apr 8"
+  },
+  {
+    "name": "GBD database",
+    "id": "41974914",
+    "title": "Global, regional, and national burden of injury associated internal hemorrhage in the abdomen and pelvis from 1990-2021.",
+    "source": "Commun Med (Lond)",
+    "pubdate": "2026 Apr 13",
+    "authors": [
+      "Feng X",
+      "Zhu X",
+      "Zou M",
+      "Zhou W",
+      "Liu Q",
+      "Lu Y",
+      "Chen W",
+      "Lin Q",
+      "Liu F",
+      "Luo S",
+      "Liu H"
+    ],
+    "lastauthor": "Liu H",
+    "sortfirstauthor": "Feng X",
+    "journal": "Communications medicine",
+    "issn": "",
+    "essn": "2730-664X",
+    "doi": "doi: 10.1038/s43856-026-01560-3",
+    "sortpubdate": "2026/04/13 00:00",
+    "epubdate": "2026 Apr 13"
+  },
+  {
+    "name": "GBD database",
+    "id": "41974169",
+    "title": "Ischemic Stroke Burden Attributable to Household Air Pollution in WHO Regions from 1990 to 2021.",
+    "source": "Thromb Haemost",
+    "pubdate": "2026 Apr 13",
+    "authors": [
+      "Feng B",
+      "Chao L"
+    ],
+    "lastauthor": "Chao L",
+    "sortfirstauthor": "Feng B",
+    "journal": "Thrombosis and haemostasis",
+    "issn": "0340-6245",
+    "essn": "2567-689X",
+    "doi": "doi: 10.1055/a-2849-6275",
+    "sortpubdate": "2026/04/13 00:00",
+    "epubdate": "2026 Apr 13"
+  },
+  {
+    "name": "GBD database",
+    "id": "41972578",
+    "title": "Malaria in the 21st Century: Global Disease Burden, Epidemiological Insights, and Strategic Control Approaches.",
+    "source": "Biology (Basel)",
+    "pubdate": "2026 Apr 3",
+    "authors": [
+      "Alharbi BF",
+      "Ahmed MA"
+    ],
+    "lastauthor": "Ahmed MA",
+    "sortfirstauthor": "Alharbi BF",
+    "journal": "Biology",
+    "issn": "2079-7737",
+    "essn": "2079-7737",
+    "doi": "doi: 10.3390/biology15070575",
+    "sortpubdate": "2026/04/03 00:00",
+    "epubdate": "2026 Apr 3"
   }
 ]
