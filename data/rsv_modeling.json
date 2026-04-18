@@ -6253,5 +6253,79 @@
     "doi": "doi: 10.1136/bmjopen-2025-115580",
     "sortpubdate": "2026/04/15 00:00",
     "epubdate": "2026 Apr 15"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "41996163",
+    "title": "Type I interferons induced upon respiratory viral infection impair lung metastatic initiation.",
+    "source": "Proc Natl Acad Sci U S A",
+    "pubdate": "2026 Apr 21",
+    "authors": [
+      "Farias A",
+      "Bridgeman VL",
+      "Rodrigues FS",
+      "Puttur F",
+      "Owen A",
+      "Ruhland S",
+      "Ferreira RMM",
+      "Mack M",
+      "Malanchi I",
+      "Johansson C"
+    ],
+    "lastauthor": "Johansson C",
+    "sortfirstauthor": "Farias A",
+    "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+    "issn": "0027-8424",
+    "essn": "1091-6490",
+    "doi": "doi: 10.1073/pnas.2412919123",
+    "sortpubdate": "2026/04/21 00:00",
+    "epubdate": "2026 Apr 17"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "41808167",
+    "title": "The influence of age-dependent susceptibility on RSV transmission dynamics and immunisation population-level impact.",
+    "source": "BMC Med",
+    "pubdate": "2026 Mar 11",
+    "authors": [
+      "Zhao C",
+      "Zhang Y",
+      "Osei-Yeboah R",
+      "Li X",
+      "Li Y",
+      "Wang X",
+      "Nair H"
+    ],
+    "lastauthor": "Nair H",
+    "sortfirstauthor": "Zhao C",
+    "journal": "BMC medicine",
+    "issn": "",
+    "essn": "1741-7015",
+    "doi": "pii: 254. doi: 10.1186/s12916-026-04776-1",
+    "sortpubdate": "2026/03/11 00:00",
+    "epubdate": "2026 Mar 11"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "41803740",
+    "title": "Machine learning-based predictive model for the diagnosis of PH pulmonary hypertension diagnosis integrating cardiac magnetic resonance imaging and clinical biomarkers.",
+    "source": "BMC Med Imaging",
+    "pubdate": "2026 Mar 9",
+    "authors": [
+      "Cheng Q",
+      "Yang F",
+      "Wu C",
+      "Xiao D",
+      "Hao X",
+      "Jiang H"
+    ],
+    "lastauthor": "Jiang H",
+    "sortfirstauthor": "Cheng Q",
+    "journal": "BMC medical imaging",
+    "issn": "",
+    "essn": "1471-2342",
+    "doi": "doi: 10.1186/s12880-026-02254-x",
+    "sortpubdate": "2026/03/09 00:00",
+    "epubdate": "2026 Mar 9"
   }
 ]

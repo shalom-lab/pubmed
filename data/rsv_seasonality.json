@@ -7159,7 +7159,7 @@
     "id": "41955877",
     "title": "Molecular characteristics, epidemiological trends, and public health implications of human metapneumovirus (hMPV): a review.",
     "source": "Virology",
-    "pubdate": "2026 Apr 2",
+    "pubdate": "2026 Jun",
     "authors": [
       "Ngwoke I",
       "Ahmed MM",
@@ -7179,7 +7179,7 @@
     "issn": "0042-6822",
     "essn": "1096-0341",
     "doi": "doi: 10.1016/j.virol.2026.110897",
-    "sortpubdate": "2026/04/02 00:00",
+    "sortpubdate": "2026/06/01 00:00",
     "epubdate": "2026 Apr 2"
   },
   {
@@ -7296,5 +7296,33 @@
     "doi": "pii: 247. doi: 10.1186/s12916-026-04773-4",
     "sortpubdate": "2026/03/09 00:00",
     "epubdate": "2026 Mar 9"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "41991292",
+    "title": "[Analysis of the pathogenic spectrum and epidemiological characteristics of acute respiratory infection in Henan Province from 2024 to 2025].",
+    "source": "Zhonghua Yu Fang Yi Xue Za Zhi",
+    "pubdate": "2026 Apr 6",
+    "authors": [
+      "Wang XY",
+      "Zhang XX",
+      "Yang KC",
+      "Seng MH",
+      "Zhao S",
+      "Du BH",
+      "Li J",
+      "Ji YF",
+      "Shi LB",
+      "Liu YY",
+      "Zhang YY"
+    ],
+    "lastauthor": "Zhang YY",
+    "sortfirstauthor": "Wang XY",
+    "journal": "Zhonghua yu fang yi xue za zhi [Chinese journal of preventive medicine]",
+    "issn": "0253-9624",
+    "essn": "",
+    "doi": "doi: 10.3760/cma.j.cn112150-20250430-00376",
+    "sortpubdate": "2026/04/06 00:00",
+    "epubdate": ""
   }
 ]
