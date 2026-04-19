@@ -66177,5 +66177,66 @@
     "doi": "pii: S2468-1253(26)00011-7. doi: 10.1016/S2468-1253(26)00011-7",
     "sortpubdate": "2026/04/13 00:00",
     "epubdate": "2026 Apr 13"
+  },
+  {
+    "name": "GBD database",
+    "id": "41998468",
+    "title": "Trends in Burden of Schizophrenia among Adolescents and Young Adults: A Global Analysis from 1990 to 2021.",
+    "source": "Child Psychiatry Hum Dev",
+    "pubdate": "2026 Apr 17",
+    "authors": [
+      "Wang S",
+      "Yu M",
+      "He Y",
+      "Wang D",
+      "Liu K",
+      "Xiang B"
+    ],
+    "lastauthor": "Xiang B",
+    "sortfirstauthor": "Wang S",
+    "journal": "Child psychiatry and human development",
+    "issn": "0009-398X",
+    "essn": "1573-3327",
+    "doi": "doi: 10.1007/s10578-026-02018-2",
+    "sortpubdate": "2026/04/17 00:00",
+    "epubdate": "2026 Apr 17"
+  },
+  {
+    "name": "GBD database",
+    "id": "41997429",
+    "title": "Discrepancies in incidence and age distribution of Bordetella pertussis: A comparison of Global Burden of Disease estimates and national surveillance data.",
+    "source": "J Infect",
+    "pubdate": "2026 Apr 15",
+    "authors": [
+      "Li K",
+      "Luo K",
+      "Chen T"
+    ],
+    "lastauthor": "Chen T",
+    "sortfirstauthor": "Li K",
+    "journal": "The Journal of infection",
+    "issn": "0163-4453",
+    "essn": "1532-2742",
+    "doi": "doi: 10.1016/j.jinf.2026.106747",
+    "sortpubdate": "2026/04/15 00:00",
+    "epubdate": "2026 Apr 15"
+  },
+  {
+    "name": "GBD database",
+    "id": "41997372",
+    "title": "The burden of depressive disorders in men in the United Arab Emirates: a public health priority.",
+    "source": "J Affect Disord",
+    "pubdate": "2026 Apr 15",
+    "authors": [
+      "Arnone D"
+    ],
+    "lastauthor": "Arnone D",
+    "sortfirstauthor": "Arnone D",
+    "journal": "Journal of affective disorders",
+    "issn": "0165-0327",
+    "essn": "1573-2517",
+    "doi": "doi: 10.1016/j.jad.2026.121813",
+    "sortpubdate": "2026/04/15 00:00",
+    "epubdate": "2026 Apr 15"
   }
 ]
