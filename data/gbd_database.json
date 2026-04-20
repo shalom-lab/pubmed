@@ -66238,5 +66238,80 @@
     "doi": "doi: 10.1016/j.jad.2026.121813",
     "sortpubdate": "2026/04/15 00:00",
     "epubdate": "2026 Apr 15"
+  },
+  {
+    "name": "GBD database",
+    "id": "42001232",
+    "title": "Divergent Trends in Stroke Subtype Mortality Attributable to High Systolic Blood Pressure in China, 1990 to 2021: An Age-Period-Cohort Analysis and Projection.",
+    "source": "Med Sci Monit",
+    "pubdate": "2026 Apr 19",
+    "authors": [
+      "Li Y",
+      "Li L",
+      "Wang M",
+      "Xu Q",
+      "Liu L",
+      "Wang X",
+      "Liu X",
+      "Li H",
+      "Song F",
+      "Cai W"
+    ],
+    "lastauthor": "Cai W",
+    "sortfirstauthor": "Li Y",
+    "journal": "Medical science monitor : international medical journal of experimental and clinical research",
+    "issn": "1234-1010",
+    "essn": "1643-3750",
+    "doi": "doi: 10.12659/MSM.951794",
+    "sortpubdate": "2026/04/19 00:00",
+    "epubdate": "2026 Apr 19"
+  },
+  {
+    "name": "GBD database",
+    "id": "42000073",
+    "title": "Global burden of diabetes and depression (1990-2021), global burden trends, and the impact of vitamin D on diabetes and depression: A multidimensional analysis based on GBD and NHANES.",
+    "source": "J Affect Disord",
+    "pubdate": "2026 Apr 16",
+    "authors": [
+      "Pang P",
+      "Song G",
+      "Li Z",
+      "Zhu J",
+      "Chen Y",
+      "Song H",
+      "Sun H"
+    ],
+    "lastauthor": "Sun H",
+    "sortfirstauthor": "Pang P",
+    "journal": "Journal of affective disorders",
+    "issn": "0165-0327",
+    "essn": "1573-2517",
+    "doi": "doi: 10.1016/j.jad.2026.121809",
+    "sortpubdate": "2026/04/16 00:00",
+    "epubdate": "2026 Apr 16"
+  },
+  {
+    "name": "GBD database",
+    "id": "41999403",
+    "title": "The burden and trends of late-onset multiple sclerosis, Parkinson's disease, Alzheimer's disease and other dementias among adults aged 55 and older, spanning from 1990 to 2021, with projections through 2050.",
+    "source": "Neurol Sci",
+    "pubdate": "2026 Apr 18",
+    "authors": [
+      "Liu X",
+      "Mi X",
+      "Yu X",
+      "Deng N",
+      "Lei Y",
+      "Shu J",
+      "Tang J"
+    ],
+    "lastauthor": "Tang J",
+    "sortfirstauthor": "Liu X",
+    "journal": "Neurological sciences : official journal of the Italian Neurological Society and of the Italian Society of Clinical Neurophysiology",
+    "issn": "1590-1874",
+    "essn": "1590-3478",
+    "doi": "pii: 439. doi: 10.1007/s10072-026-08986-6",
+    "sortpubdate": "2026/04/18 00:00",
+    "epubdate": "2026 Apr 18"
   }
 ]
