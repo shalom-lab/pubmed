@@ -6327,5 +6327,53 @@
     "doi": "doi: 10.1186/s12880-026-02254-x",
     "sortpubdate": "2026/03/09 00:00",
     "epubdate": "2026 Mar 9"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "42007299",
+    "title": "A Predictive Nomogram for Severe RSV Infection in Children: A Retrospective, Single-Center Development and Validation Study.",
+    "source": "J Inflamm Res",
+    "pubdate": "2026",
+    "authors": [
+      "Li W",
+      "Wang S",
+      "Wang X",
+      "Niu X",
+      "Guo Y",
+      "Zou Y"
+    ],
+    "lastauthor": "Zou Y",
+    "sortfirstauthor": "Li W",
+    "journal": "Journal of inflammation research",
+    "issn": "1178-7031",
+    "essn": "1178-7031",
+    "doi": "doi: 10.2147/JIR.S580432",
+    "sortpubdate": "2026/04/12 00:00",
+    "epubdate": "2026 Apr 12"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "42001739",
+    "title": "Estimating the cost-effectiveness of respiratory syncytial virus (RSV) vaccination program for older Australian adults.",
+    "source": "Vaccine",
+    "pubdate": "2026 Apr 18",
+    "authors": [
+      "Paul KK",
+      "Torres M",
+      "Shih STF",
+      "Gray RT",
+      "Wood JG",
+      "Nazareno AL",
+      "Jan S",
+      "Newall AT"
+    ],
+    "lastauthor": "Newall AT",
+    "sortfirstauthor": "Paul KK",
+    "journal": "Vaccine",
+    "issn": "0264-410X",
+    "essn": "1873-2518",
+    "doi": "doi: 10.1016/j.vaccine.2026.128591",
+    "sortpubdate": "2026/04/18 00:00",
+    "epubdate": "2026 Apr 18"
   }
 ]
