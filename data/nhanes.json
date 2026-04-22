@@ -94633,5 +94633,239 @@
     "doi": "doi: 10.1007/s40520-026-03400-9",
     "sortpubdate": "2026/04/19 00:00",
     "epubdate": "2026 Apr 19"
+  },
+  {
+    "name": "NHANES",
+    "id": "42013458",
+    "title": "Urinary Sodium Excretion and the Risk of Prevalent Anemia: Nationwide Population-Based Cross-Sectional Study.",
+    "source": "JMIR Public Health Surveill",
+    "pubdate": "2026 Apr 21",
+    "authors": [
+      "Suh SH",
+      "Lee D",
+      "Ma SK",
+      "Yoo S",
+      "Kim SW"
+    ],
+    "lastauthor": "Kim SW",
+    "sortfirstauthor": "Suh SH",
+    "journal": "JMIR public health and surveillance",
+    "issn": "",
+    "essn": "2369-2960",
+    "doi": "doi: 10.2196/88408",
+    "sortpubdate": "2026/04/21 00:00",
+    "epubdate": "2026 Apr 21"
+  },
+  {
+    "name": "NHANES",
+    "id": "42012638",
+    "title": "Inverse association between the C-reactive protein-to-albumin-to-lymphocyte (CALLY) index and kidney stones in US adults: a population-based study.",
+    "source": "Urolithiasis",
+    "pubdate": "2026 Apr 21",
+    "authors": [
+      "Yang J",
+      "Cao J",
+      "Nie AP",
+      "Yuan Q",
+      "Cheng Q",
+      "Wang K"
+    ],
+    "lastauthor": "Wang K",
+    "sortfirstauthor": "Yang J",
+    "journal": "Urolithiasis",
+    "issn": "2194-7228",
+    "essn": "2194-7236",
+    "doi": "pii: 90. doi: 10.1007/s00240-026-01991-6",
+    "sortpubdate": "2026/04/21 00:00",
+    "epubdate": "2026 Apr 21"
+  },
+  {
+    "name": "NHANES",
+    "id": "42011859",
+    "title": "Chronotype, Race, and Gender.",
+    "source": "J Biol Rhythms",
+    "pubdate": "2026 Apr 21",
+    "authors": [
+      "Refinetti R"
+    ],
+    "lastauthor": "Refinetti R",
+    "sortfirstauthor": "Refinetti R",
+    "journal": "Journal of biological rhythms",
+    "issn": "0748-7304",
+    "essn": "1552-4531",
+    "doi": "doi: 10.1177/07487304261439211",
+    "sortpubdate": "2026/04/21 00:00",
+    "epubdate": "2026 Apr 21"
+  },
+  {
+    "name": "NHANES",
+    "id": "42011507",
+    "title": "The Mediating Role of WBC in the Relationship Between Triglyceride-Glucose Index and Chronic Pain: Evidence From NHANES 2001-2004 Data.",
+    "source": "Pain Res Manag",
+    "pubdate": "2026",
+    "authors": [
+      "Zhou D",
+      "Jin F",
+      "Zhang L",
+      "Chen J",
+      "Tian L",
+      "Li J"
+    ],
+    "lastauthor": "Li J",
+    "sortfirstauthor": "Zhou D",
+    "journal": "Pain research & management",
+    "issn": "1203-6765",
+    "essn": "1918-1523",
+    "doi": "doi: 10.1155/prm/3793191",
+    "sortpubdate": "2026/01/01 00:00",
+    "epubdate": ""
+  },
+  {
+    "name": "NHANES",
+    "id": "42011279",
+    "title": "Factors Associated With Metabolic Syndrome in Korean Older Adults: A Cross-Sectional Analysis of KNHANES VIII (2019-2021).",
+    "source": "Health Sci Rep",
+    "pubdate": "2026 Apr",
+    "authors": [
+      "Jang K",
+      "Seomun G"
+    ],
+    "lastauthor": "Seomun G",
+    "sortfirstauthor": "Jang K",
+    "journal": "Health science reports",
+    "issn": "",
+    "essn": "2398-8835",
+    "doi": "doi: 10.1002/hsr2.72371",
+    "sortpubdate": "2026/04/19 00:00",
+    "epubdate": "2026 Apr 19"
+  },
+  {
+    "name": "NHANES",
+    "id": "42011272",
+    "title": "The Impact of the CALLY Index on All-Cause Mortality in Patients With Depression: A Longitudinal Analysis Using NHANES Data.",
+    "source": "Health Sci Rep",
+    "pubdate": "2026 Apr",
+    "authors": [
+      "Zhang Y",
+      "Sa R",
+      "Jia H",
+      "Wang X",
+      "Ma R",
+      "Tong L"
+    ],
+    "lastauthor": "Tong L",
+    "sortfirstauthor": "Zhang Y",
+    "journal": "Health science reports",
+    "issn": "",
+    "essn": "2398-8835",
+    "doi": "doi: 10.1002/hsr2.72387",
+    "sortpubdate": "2026/04/19 00:00",
+    "epubdate": "2026 Apr 19"
+  },
+  {
+    "name": "NHANES",
+    "id": "42010959",
+    "title": "Prevalence and Temporal Trends of Metabolic Syndrome and Dietary Associations Among U.S. Women: NHANES 2013-2023.",
+    "source": "J Womens Health (Larchmt)",
+    "pubdate": "2026 Apr 20",
+    "authors": [
+      "Feng S",
+      "Colwell B"
+    ],
+    "lastauthor": "Colwell B",
+    "sortfirstauthor": "Feng S",
+    "journal": "Journal of women's health (2002)",
+    "issn": "1540-9996",
+    "essn": "1931-843X",
+    "doi": "doi: 10.1177/15409996261443809",
+    "sortpubdate": "2026/04/20 00:00",
+    "epubdate": "2026 Apr 20"
+  },
+  {
+    "name": "NHANES",
+    "id": "42010102",
+    "title": "Prevalence of Atherosclerotic Cardiovascular Disease Risk-Enhancing Factors and Their Association with Primary Prevention Statin Use.",
+    "source": "J Gen Intern Med",
+    "pubdate": "2026 Apr 20",
+    "authors": [
+      "Wilson LM",
+      "Sussman JB",
+      "Blumenthal RS",
+      "Reynolds HR",
+      "Anderson TS"
+    ],
+    "lastauthor": "Anderson TS",
+    "sortfirstauthor": "Wilson LM",
+    "journal": "Journal of general internal medicine",
+    "issn": "0884-8734",
+    "essn": "1525-1497",
+    "doi": "doi: 10.1007/s11606-026-10423-5",
+    "sortpubdate": "2026/04/20 00:00",
+    "epubdate": "2026 Apr 20"
+  },
+  {
+    "name": "NHANES",
+    "id": "42008554",
+    "title": "Red Blood Cell Distribution Width-to-Albumin Ratio and Migraine: Associations with Prevalence and All-Cause Mortality in a Population-Based Study.",
+    "source": "J Vis Exp",
+    "pubdate": "2026 Mar 31",
+    "authors": [
+      "Wei H",
+      "Sun S",
+      "Hu Y",
+      "Cai L",
+      "Jin Y",
+      "Yin S"
+    ],
+    "lastauthor": "Yin S",
+    "sortfirstauthor": "Wei H",
+    "journal": "Journal of visualized experiments : JoVE",
+    "issn": "",
+    "essn": "1940-087X",
+    "doi": "doi: 10.3791/70638",
+    "sortpubdate": "2026/03/31 00:00",
+    "epubdate": "2026 Mar 31"
+  },
+  {
+    "name": "NHANES",
+    "id": "42007948",
+    "title": "Association between the uric acid to HDL-Cholesterol ratio and diabetic kidney disease in individuals with type 2 diabetes and NAFLD: evidence from NHANES and an external validation cohort.",
+    "source": "Expert Rev Mol Diagn",
+    "pubdate": "2026 Apr 20",
+    "authors": [
+      "Gong Z",
+      "Zhang D",
+      "Cai N",
+      "Wang P"
+    ],
+    "lastauthor": "Wang P",
+    "sortfirstauthor": "Gong Z",
+    "journal": "Expert review of molecular diagnostics",
+    "issn": "1473-7159",
+    "essn": "1744-8352",
+    "doi": "doi: 10.1080/14737159.2026.2663523",
+    "sortpubdate": "2026/04/20 00:00",
+    "epubdate": "2026 Apr 20"
+  },
+  {
+    "name": "NHANES",
+    "id": "42002792",
+    "title": "The combined predictive value of the triglyceride-glucose index and A Body Shape Index on all-cause mortality: a 26-year prospective cohort analysis from the Rancho Bernardo Study.",
+    "source": "Cardiovasc Diabetol Endocrinol Rep",
+    "pubdate": "2026 Apr 20",
+    "authors": [
+      "Gerges Z",
+      "Ramkumar A",
+      "Hossain MI",
+      "Tee SS"
+    ],
+    "lastauthor": "Tee SS",
+    "sortfirstauthor": "Gerges Z",
+    "journal": "Cardiovascular diabetology. Endocrinology reports",
+    "issn": "",
+    "essn": "3059-4057",
+    "doi": "doi: 10.1186/s40842-026-00284-6",
+    "sortpubdate": "2026/04/20 00:00",
+    "epubdate": "2026 Apr 20"
   }
 ]

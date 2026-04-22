@@ -6375,5 +6375,34 @@
     "doi": "doi: 10.1016/j.vaccine.2026.128591",
     "sortpubdate": "2026/04/18 00:00",
     "epubdate": "2026 Apr 18"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "42012186",
+    "title": "The oral nucleoside analogue inhibitor VV251 effectively inhibits coinfection by respiratory syncytial virus and influenza A virus.",
+    "source": "J Virol",
+    "pubdate": "2026 Apr 21",
+    "authors": [
+      "Zhang R",
+      "Jian X",
+      "Zhang Y",
+      "Sun Y",
+      "Xu M",
+      "Cao J",
+      "Tian G",
+      "Xiang L",
+      "Shen J",
+      "Xiao G",
+      "Hu T",
+      "Zhang L"
+    ],
+    "lastauthor": "Zhang L",
+    "sortfirstauthor": "Zhang R",
+    "journal": "Journal of virology",
+    "issn": "0022-538X",
+    "essn": "1098-5514",
+    "doi": "doi: 10.1128/jvi.00006-26",
+    "sortpubdate": "2026/04/21 00:00",
+    "epubdate": "2026 Apr 21"
   }
 ]
