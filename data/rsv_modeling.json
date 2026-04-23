@@ -6404,5 +6404,52 @@
     "doi": "doi: 10.1128/jvi.00006-26",
     "sortpubdate": "2026/04/21 00:00",
     "epubdate": "2026 Apr 21"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "42014708",
+    "title": "Development of in vitro airway epithelial model to assess immune response and safety of mucosal adjuvants.",
+    "source": "NPJ Vaccines",
+    "pubdate": "2026 Apr 22",
+    "authors": [
+      "Acosta D",
+      "Rubel Hoq M",
+      "Takeda K",
+      "Costley CD",
+      "Golding H",
+      "Zaitseva M"
+    ],
+    "lastauthor": "Zaitseva M",
+    "sortfirstauthor": "Acosta D",
+    "journal": "NPJ vaccines",
+    "issn": "",
+    "essn": "2059-0105",
+    "doi": "doi: 10.1038/s41541-026-01459-z",
+    "sortpubdate": "2026/04/22 00:00",
+    "epubdate": "2026 Apr 22"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "41820965",
+    "title": "Impact of Nirsevimab on bronchiolities in pediatric primary care in Lazio Region: an observational study.",
+    "source": "Ital J Pediatr",
+    "pubdate": "2026 Mar 13",
+    "authors": [
+      "Petrone D",
+      "Sani I",
+      "De Vittori V",
+      "Brenna S",
+      "Rotili PL",
+      "Fonte MT",
+      "Scientific Committee of the Italian Pediatrician Federation (FIMP), Rome, Italy"
+    ],
+    "lastauthor": "Fonte MT",
+    "sortfirstauthor": "Petrone D",
+    "journal": "Italian journal of pediatrics",
+    "issn": "1720-8424",
+    "essn": "1824-7288",
+    "doi": "doi: 10.1186/s13052-026-02221-w",
+    "sortpubdate": "2026/03/13 00:00",
+    "epubdate": "2026 Mar 13"
   }
 ]

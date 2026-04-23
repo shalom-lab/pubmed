@@ -66751,5 +66751,69 @@
     "doi": "doi: 10.1371/journal.pone.0347482",
     "sortpubdate": "2026/04/20 00:00",
     "epubdate": "2026 Apr 20"
+  },
+  {
+    "name": "GBD database",
+    "id": "42018004",
+    "title": "Global trends in the burden of non-Hodgkin Lymphoma: a comprehensive analysis from 1990 to 2045.",
+    "source": "Cancer Causes Control",
+    "pubdate": "2026 Apr 22",
+    "authors": [
+      "Wang S",
+      "Wang J",
+      "Lin J"
+    ],
+    "lastauthor": "Lin J",
+    "sortfirstauthor": "Wang S",
+    "journal": "Cancer causes & control : CCC",
+    "issn": "0957-5243",
+    "essn": "1573-7225",
+    "doi": "pii: 84. doi: 10.1007/s10552-026-02167-8",
+    "sortpubdate": "2026/04/22 00:00",
+    "epubdate": "2026 Apr 22"
+  },
+  {
+    "name": "GBD database",
+    "id": "42016447",
+    "title": "From data to action: leveraging Global Burden of Disease Studies for rheumatic and musculoskeletal diseases.",
+    "source": "Front Immunol",
+    "pubdate": "2025",
+    "authors": [
+      "Chen S",
+      "Liu Y",
+      "Xin Y",
+      "Qiu Y",
+      "Geng X",
+      "Zhang J"
+    ],
+    "lastauthor": "Zhang J",
+    "sortfirstauthor": "Chen S",
+    "journal": "Frontiers in immunology",
+    "issn": "",
+    "essn": "1664-3224",
+    "doi": "doi: 10.3389/fimmu.2025.1754256",
+    "sortpubdate": "2026/02/10 00:00",
+    "epubdate": "2026 Feb 10"
+  },
+  {
+    "name": "GBD database",
+    "id": "42015703",
+    "title": "[Trends, predictions, and etiological characteristics of the incidence and mortality of lower respiratory infections among children under 14 years in China from 1990 to 2021].",
+    "source": "Zhongguo Dang Dai Er Ke Za Zhi",
+    "pubdate": "2026 Apr 15",
+    "authors": [
+      "Liao Y",
+      "Lin YY",
+      "Li YY",
+      "Yang JH"
+    ],
+    "lastauthor": "Yang JH",
+    "sortfirstauthor": "Liao Y",
+    "journal": "Zhongguo dang dai er ke za zhi = Chinese journal of contemporary pediatrics",
+    "issn": "1008-8830",
+    "essn": "",
+    "doi": "doi: 10.7499/j.issn.1008-8830.2503163",
+    "sortpubdate": "2026/04/15 00:00",
+    "epubdate": ""
   }
 ]

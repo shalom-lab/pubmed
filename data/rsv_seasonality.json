@@ -6832,7 +6832,7 @@
     "id": "41885416",
     "title": "Adaptation of the multiplexed CRISPR-Cas13 CARMEN RVP assay for longitudinal detection of respiratory pathogens from air samples.",
     "source": "Appl Environ Microbiol",
-    "pubdate": "2026 Mar 26",
+    "pubdate": "2026 Apr 22",
     "authors": [
       "Ellis AL",
       "Stauss M",
@@ -6855,7 +6855,7 @@
     "issn": "0099-2240",
     "essn": "1098-5336",
     "doi": "doi: 10.1128/aem.02117-25",
-    "sortpubdate": "2026/03/26 00:00",
+    "sortpubdate": "2026/04/22 00:00",
     "epubdate": "2026 Mar 26"
   },
   {
@@ -7448,5 +7448,29 @@
     "doi": "doi: 10.1371/journal.pone.0347659",
     "sortpubdate": "2026/04/20 00:00",
     "epubdate": "2026 Apr 20"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "41826972",
+    "title": "Epidemiological characteristics of six respiratory pathogens in respiratory infections in Fuzhou, China.",
+    "source": "Respir Res",
+    "pubdate": "2026 Mar 13",
+    "authors": [
+      "Chen S",
+      "Jiang L",
+      "Zhou H",
+      "Lunzhu D",
+      "Yu L",
+      "Shen X",
+      "Cao P"
+    ],
+    "lastauthor": "Cao P",
+    "sortfirstauthor": "Chen S",
+    "journal": "Respiratory research",
+    "issn": "1465-9921",
+    "essn": "1465-993X",
+    "doi": "doi: 10.1186/s12931-026-03617-2",
+    "sortpubdate": "2026/03/13 00:00",
+    "epubdate": "2026 Mar 13"
   }
 ]
