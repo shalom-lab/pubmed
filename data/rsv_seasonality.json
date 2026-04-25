@@ -7472,5 +7472,29 @@
     "doi": "doi: 10.1186/s12931-026-03617-2",
     "sortpubdate": "2026/03/13 00:00",
     "epubdate": "2026 Mar 13"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "42025254",
+    "title": "Newborn screening dried blood spots enable population-level measurement of RSV immunity.",
+    "source": "J Clin Virol",
+    "pubdate": "2026 Apr 19",
+    "authors": [
+      "Dang X",
+      "Shew J",
+      "Viñeta Paramo M",
+      "Sinclair G",
+      "Li S",
+      "Golding L",
+      "Lavoie PM"
+    ],
+    "lastauthor": "Lavoie PM",
+    "sortfirstauthor": "Dang X",
+    "journal": "Journal of clinical virology : the official publication of the Pan American Society for Clinical Virology",
+    "issn": "1386-6532",
+    "essn": "1873-5967",
+    "doi": "doi: 10.1016/j.jcv.2026.105946",
+    "sortpubdate": "2026/04/19 00:00",
+    "epubdate": "2026 Apr 19"
   }
 ]
