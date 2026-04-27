@@ -66811,7 +66811,7 @@
     "sortfirstauthor": "Liao Y",
     "journal": "Zhongguo dang dai er ke za zhi = Chinese journal of contemporary pediatrics",
     "issn": "1008-8830",
-    "essn": "",
+    "essn": "2096-9228",
     "doi": "doi: 10.7499/j.issn.1008-8830.2503163",
     "sortpubdate": "2026/04/15 00:00",
     "epubdate": ""
@@ -67401,5 +67401,26 @@
     "doi": "doi: 10.1016/j.psyneuen.2026.107862",
     "sortpubdate": "2026/04/20 00:00",
     "epubdate": "2026 Apr 20"
+  },
+  {
+    "name": "GBD database",
+    "id": "42033897",
+    "title": "Disease burden of maternal sepsis and maternal infections in low- and middle-income countries from 1990 to 2023 and projections to 2035: An analysis based on the global burden of disease study.",
+    "source": "Eur J Obstet Gynecol Reprod Biol",
+    "pubdate": "2026 Apr 22",
+    "authors": [
+      "Feng B",
+      "Duan L",
+      "Wang B",
+      "Chen B"
+    ],
+    "lastauthor": "Chen B",
+    "sortfirstauthor": "Feng B",
+    "journal": "European journal of obstetrics, gynecology, and reproductive biology",
+    "issn": "0301-2115",
+    "essn": "1872-7654",
+    "doi": "doi: 10.1016/j.ejogrb.2026.115145",
+    "sortpubdate": "2026/04/22 00:00",
+    "epubdate": "2026 Apr 22"
   }
 ]
