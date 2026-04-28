@@ -6470,5 +6470,62 @@
     "doi": "pii: 382. doi: 10.1186/s12951-026-04216-5",
     "sortpubdate": "2026/03/14 00:00",
     "epubdate": "2026 Mar 14"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "42042832",
+    "title": "Enhanced Th1 Cellular Immunity Induced by an RSV-F mRNA Vaccine Rationally Designed Using NLP Algorithms.",
+    "source": "Vaccines (Basel)",
+    "pubdate": "2026 Apr 16",
+    "authors": [
+      "Xia ZW",
+      "Tang Q",
+      "Pan JJ",
+      "Liu J",
+      "Jia LX",
+      "Zhang GM",
+      "Xie MN",
+      "Zheng JH",
+      "Lv CS",
+      "Zhang L",
+      "Shi YH",
+      "He L",
+      "Luo M",
+      "Zhao JL"
+    ],
+    "lastauthor": "Zhao JL",
+    "sortfirstauthor": "Xia ZW",
+    "journal": "Vaccines",
+    "issn": "2076-393X",
+    "essn": "",
+    "doi": "pii: 356. doi: 10.3390/vaccines14040356",
+    "sortpubdate": "2026/04/16 00:00",
+    "epubdate": "2026 Apr 16"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "42035616",
+    "title": "Decoding viral evolution through integrative bioinformatics: From genomes to global health.",
+    "source": "Virology",
+    "pubdate": "2026 Apr 21",
+    "authors": [
+      "Kimura R",
+      "Hayashi Y",
+      "Fujimoto-Sato Y",
+      "Ishii H",
+      "Suzuki Y",
+      "Katayama K",
+      "Mizukoshi F",
+      "Ryo A",
+      "Kimura H"
+    ],
+    "lastauthor": "Kimura H",
+    "sortfirstauthor": "Kimura R",
+    "journal": "Virology",
+    "issn": "0042-6822",
+    "essn": "1096-0341",
+    "doi": "doi: 10.1016/j.virol.2026.110920",
+    "sortpubdate": "2026/04/21 00:00",
+    "epubdate": "2026 Apr 21"
   }
 ]

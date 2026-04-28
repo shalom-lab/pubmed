@@ -8469,5 +8469,25 @@
     "doi": "doi: 10.1093/aje/kwag058",
     "sortpubdate": "2026/03/12 00:00",
     "epubdate": "2026 Mar 12"
+  },
+  {
+    "name": "American Journal of Epidemiology",
+    "id": "42037424",
+    "title": "Estimate an Exposure Response Function with Negative Controls: A Bayesian Nonparametric Approach.",
+    "source": "Am J Epidemiol",
+    "pubdate": "2026 Apr 27",
+    "authors": [
+      "Hu JK",
+      "Zorzetto D",
+      "Dominici F"
+    ],
+    "lastauthor": "Dominici F",
+    "sortfirstauthor": "Hu JK",
+    "journal": "American journal of epidemiology",
+    "issn": "0002-9262",
+    "essn": "1476-6256",
+    "doi": "pii: kwag073. doi: 10.1093/aje/kwag073",
+    "sortpubdate": "2026/04/27 00:00",
+    "epubdate": "2026 Apr 27"
   }
 ]

@@ -6708,7 +6708,7 @@
     "id": "41833132",
     "title": "Safety monitoring of health outcomes following RSVPreF3 + AS01 and RSVPreF vaccination among Medicare beneficiaries aged 65 years and older in the United States, 2023-2024.",
     "source": "Vaccine",
-    "pubdate": "2026 Mar 14",
+    "pubdate": "2026 Apr 19",
     "authors": [
       "Lloyd PC",
       "Shah PB",
@@ -6729,7 +6729,7 @@
     "issn": "0264-410X",
     "essn": "1873-2518",
     "doi": "doi: 10.1016/j.vaccine.2026.128459",
-    "sortpubdate": "2026/03/14 00:00",
+    "sortpubdate": "2026/04/19 00:00",
     "epubdate": "2026 Mar 14"
   },
   {
@@ -7496,5 +7496,76 @@
     "doi": "doi: 10.1016/j.jcv.2026.105946",
     "sortpubdate": "2026/04/19 00:00",
     "epubdate": "2026 Apr 19"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "42043209",
+    "title": "Changes in Seasonal Patterns of Pediatric Respiratory Viral Infections Before, During, and After the COVID-19 Pandemic: A Seventeen-Year Surveillance Study in the Republic of Korea.",
+    "source": "Viruses",
+    "pubdate": "2026 Mar 29",
+    "authors": [
+      "Oh MR",
+      "Han JS",
+      "Jeon JS",
+      "Kim JK"
+    ],
+    "lastauthor": "Kim JK",
+    "sortfirstauthor": "Oh MR",
+    "journal": "Viruses",
+    "issn": "",
+    "essn": "1999-4915",
+    "doi": "pii: 420. doi: 10.3390/v18040420",
+    "sortpubdate": "2026/03/29 00:00",
+    "epubdate": "2026 Mar 29"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "42042265",
+    "title": "Post-Pandemic Resurgence and Seasonal Patterns of Influenza Viruses and Respiratory Syncytial Virus in Arequipa, Peru (2021-2023).",
+    "source": "Epidemiologia (Basel)",
+    "pubdate": "2026 Apr 21",
+    "authors": [
+      "Chipana-Ramos C",
+      "Talavera YM",
+      "Zamudio-Rodriguez L",
+      "Villanueva-Sardon L",
+      "Carrasco AGM",
+      "Chacón RD",
+      "Ita-Balta Y"
+    ],
+    "lastauthor": "Ita-Balta Y",
+    "sortfirstauthor": "Chipana-Ramos C",
+    "journal": "Epidemiologia (Basel, Switzerland)",
+    "issn": "",
+    "essn": "2673-3986",
+    "doi": "pii: 57. doi: 10.3390/epidemiologia7020057",
+    "sortpubdate": "2026/04/21 00:00",
+    "epubdate": "2026 Apr 21"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "42035616",
+    "title": "Decoding viral evolution through integrative bioinformatics: From genomes to global health.",
+    "source": "Virology",
+    "pubdate": "2026 Apr 21",
+    "authors": [
+      "Kimura R",
+      "Hayashi Y",
+      "Fujimoto-Sato Y",
+      "Ishii H",
+      "Suzuki Y",
+      "Katayama K",
+      "Mizukoshi F",
+      "Ryo A",
+      "Kimura H"
+    ],
+    "lastauthor": "Kimura H",
+    "sortfirstauthor": "Kimura R",
+    "journal": "Virology",
+    "issn": "0042-6822",
+    "essn": "1096-0341",
+    "doi": "doi: 10.1016/j.virol.2026.110920",
+    "sortpubdate": "2026/04/21 00:00",
+    "epubdate": "2026 Apr 21"
   }
 ]

@@ -3500,5 +3500,46 @@
     "doi": "doi: 10.1016/j.ijtb.2025.08.003",
     "sortpubdate": "2026/04/01 00:00",
     "epubdate": "2025 Aug 20"
+  },
+  {
+    "name": "Vitamin D and respiratory infections",
+    "id": "42037591",
+    "title": "Vitamin D for preventing acute respiratory infections in children up to five years of age.",
+    "source": "Cochrane Database Syst Rev",
+    "pubdate": "2026 Apr 27",
+    "authors": [
+      "van Arragon M",
+      "Grant CC",
+      "Scragg RK",
+      "Jordan VM"
+    ],
+    "lastauthor": "Jordan VM",
+    "sortfirstauthor": "van Arragon M",
+    "journal": "The Cochrane database of systematic reviews",
+    "issn": "1361-6137",
+    "essn": "1469-493X",
+    "doi": "doi: 10.1002/14651858.CD015111.pub2",
+    "sortpubdate": "2026/04/27 00:00",
+    "epubdate": "2026 Apr 27"
+  },
+  {
+    "name": "Vitamin D and respiratory infections",
+    "id": "41811424",
+    "title": "The Nutrition Subspecialty Chapter of the Indian Academy of Pediatrics: The Pediatric and Adolescent Nutrition (PAN) Society-Past, Present, and Future.",
+    "source": "Indian Pediatr",
+    "pubdate": "2026 May",
+    "authors": [
+      "Kumar P",
+      "Gaur A",
+      "Chandra J"
+    ],
+    "lastauthor": "Chandra J",
+    "sortfirstauthor": "Kumar P",
+    "journal": "Indian pediatrics",
+    "issn": "0019-6061",
+    "essn": "0974-7559",
+    "doi": "doi: 10.1007/s13312-026-00305-8",
+    "sortpubdate": "2026/05/01 00:00",
+    "epubdate": "2026 Mar 11"
   }
 ]
