@@ -4076,6 +4076,7 @@
   {
     "source": "Arch Osteoporos",
     "journal": "Archives of osteoporosis",
+    "issn": "1862-3522",
     "essn": "1862-3514"
   },
   {
@@ -13681,5 +13682,38 @@
     "journal": "Addiction (Abingdon, England)",
     "issn": "0965-2140",
     "essn": "1360-0443"
+  },
+  {
+    "source": "JNCI Cancer Spectr",
+    "journal": "JNCI cancer spectrum",
+    "essn": "2515-5091"
+  },
+  {
+    "source": "Biomed Tech (Berl)",
+    "journal": "Biomedizinische Technik. Biomedical engineering",
+    "issn": "0013-5585",
+    "essn": "1862-278X"
+  },
+  {
+    "source": "Vasa",
+    "journal": "VASA. Zeitschrift fur Gefasskrankheiten",
+    "issn": "0301-1526"
+  },
+  {
+    "source": "Ann Occup Environ Med",
+    "journal": "Annals of occupational and environmental medicine",
+    "issn": "2052-4374"
+  },
+  {
+    "source": "Am J Otolaryngol",
+    "journal": "American journal of otolaryngology",
+    "issn": "0196-0709",
+    "essn": "1532-818X"
+  },
+  {
+    "source": "CMAJ",
+    "journal": "CMAJ : Canadian Medical Association journal = journal de l'Association medicale canadienne",
+    "issn": "0820-3946",
+    "essn": "1488-2329"
   }
 ]

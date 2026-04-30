@@ -67745,7 +67745,7 @@
     "sortfirstauthor": "Chen H",
     "journal": "Nan fang yi ke da xue xue bao = Journal of Southern Medical University",
     "issn": "1673-4254",
-    "essn": "",
+    "essn": "2663-0842",
     "doi": "doi: 10.12122/j.issn.1673-4254.2026.04.06",
     "sortpubdate": "2026/04/20 00:00",
     "epubdate": ""
@@ -67780,5 +67780,203 @@
     "doi": "doi: 10.3390/jcdd13040155",
     "sortpubdate": "2026/03/30 00:00",
     "epubdate": "2026 Mar 30"
+  },
+  {
+    "name": "GBD database",
+    "id": "42054340",
+    "title": "Quality of care index and gender disparity ratio for stroke and its subtypes from the Global Burden of Disease Study 2021.",
+    "source": "PLoS One",
+    "pubdate": "2026",
+    "authors": [
+      "Yu A",
+      "An J"
+    ],
+    "lastauthor": "An J",
+    "sortfirstauthor": "Yu A",
+    "journal": "PloS one",
+    "issn": "",
+    "essn": "1932-6203",
+    "doi": "doi: 10.1371/journal.pone.0345938",
+    "sortpubdate": "2026/04/29 00:00",
+    "epubdate": "2026 Apr 29"
+  },
+  {
+    "name": "GBD database",
+    "id": "42054267",
+    "title": "Modified Mansoor's self-report tool for cardiovascular risk assessment predicts major adverse cardiovascular and cerebrovascular events and amputations in peripheral artery disease.",
+    "source": "Vasa",
+    "pubdate": "2026 Apr 28",
+    "authors": [
+      "Vosseler M",
+      "Hobohm L",
+      "Schmitt VH",
+      "Hahad O",
+      "Münzel T",
+      "Lurz P",
+      "Espinola-Klein C",
+      "Keller K"
+    ],
+    "lastauthor": "Keller K",
+    "sortfirstauthor": "Vosseler M",
+    "journal": "VASA. Zeitschrift fur Gefasskrankheiten",
+    "issn": "0301-1526",
+    "essn": "",
+    "doi": "doi: 10.1024/0301-1526/a001281",
+    "sortpubdate": "2026/04/28 00:00",
+    "epubdate": "2026 Apr 28"
+  },
+  {
+    "name": "GBD database",
+    "id": "42053909",
+    "title": "Unequal healthy ageing trajectories across Europe: socioeconomic development and age-related disease burden in the European Union and South-Eastern European countries.",
+    "source": "Geroscience",
+    "pubdate": "2026 Apr 29",
+    "authors": [
+      "Kovacs N",
+      "Piko P",
+      "Major D",
+      "Fazekas-Pongor V",
+      "Ungvari Z",
+      "Adany R"
+    ],
+    "lastauthor": "Adany R",
+    "sortfirstauthor": "Kovacs N",
+    "journal": "GeroScience",
+    "issn": "",
+    "essn": "2509-2723",
+    "doi": "doi: 10.1007/s11357-026-02273-0",
+    "sortpubdate": "2026/04/29 00:00",
+    "epubdate": "2026 Apr 29"
+  },
+  {
+    "name": "GBD database",
+    "id": "42053907",
+    "title": "The burden of smoking-related gastrointestinal cancers from 1990 to 2021 and projections to 2050: findings from the global burden of disease study 2021.",
+    "source": "Intern Emerg Med",
+    "pubdate": "2026 Apr 29",
+    "authors": [
+      "Xu Z",
+      "Song Y",
+      "Wang B",
+      "Liu J"
+    ],
+    "lastauthor": "Liu J",
+    "sortfirstauthor": "Xu Z",
+    "journal": "Internal and emergency medicine",
+    "issn": "1828-0447",
+    "essn": "1970-9366",
+    "doi": "doi: 10.1007/s11739-026-04304-2",
+    "sortpubdate": "2026/04/29 00:00",
+    "epubdate": "2026 Apr 29"
+  },
+  {
+    "name": "GBD database",
+    "id": "42053419",
+    "title": "Risk Factors, Preventive Strategies, and Long-Term Effects of Lower Respiratory Tract Infections in Early Childhood: A Comprehensive Review.",
+    "source": "J Asthma",
+    "pubdate": "2026 Apr 29",
+    "authors": [
+      "N M AK",
+      "T MM",
+      "P MN"
+    ],
+    "lastauthor": "P MN",
+    "sortfirstauthor": "N M AK",
+    "journal": "The Journal of asthma : official journal of the Association for the Care of Asthma",
+    "issn": "0277-0903",
+    "essn": "1532-4303",
+    "doi": "doi: 10.1080/02770903.2026.2666102",
+    "sortpubdate": "2026/04/29 00:00",
+    "epubdate": "2026 Apr 29"
+  },
+  {
+    "name": "GBD database",
+    "id": "42052359",
+    "title": "Identifying Potential Drivers of the Polycystic Ovary Syndrome Burden in the European Union: GBD 2023 SEV Exposure Profiling and Mendelian Randomization.",
+    "source": "Int J Womens Health",
+    "pubdate": "2026",
+    "authors": [
+      "Lu S",
+      "Ye S",
+      "Luo X",
+      "Zhang B"
+    ],
+    "lastauthor": "Zhang B",
+    "sortfirstauthor": "Lu S",
+    "journal": "International journal of women's health",
+    "issn": "1179-1411",
+    "essn": "1179-1411",
+    "doi": "doi: 10.2147/IJWH.S593314",
+    "sortpubdate": "2026/04/23 00:00",
+    "epubdate": "2026 Apr 23"
+  },
+  {
+    "name": "GBD database",
+    "id": "42051025",
+    "title": "Comparison of the Burden of Acne Vulgaris in China vs Globally: Insights from the Global Burden of Disease Study (2021) and Projections to 2050.",
+    "source": "Acta Derm Venereol",
+    "pubdate": "2026 Apr 28",
+    "authors": [
+      "Yuan R",
+      "Long H",
+      "Li T",
+      "Chen A"
+    ],
+    "lastauthor": "Chen A",
+    "sortfirstauthor": "Yuan R",
+    "journal": "Acta dermato-venereologica",
+    "issn": "0001-5555",
+    "essn": "1651-2057",
+    "doi": "doi: 10.2340/actadv.v106.adv-2025-0131",
+    "sortpubdate": "2026/04/28 00:00",
+    "epubdate": "2026 Apr 28"
+  },
+  {
+    "name": "GBD database",
+    "id": "42050695",
+    "title": "Global, regional, and national burden of dementia attributable to depression among people living with diabetes: a comparative risk assessment study.",
+    "source": "Diabetol Metab Syndr",
+    "pubdate": "2026 Apr 28",
+    "authors": [
+      "Shan S",
+      "Wu J",
+      "Zhou J",
+      "Zhang C",
+      "Xu C",
+      "Zha J",
+      "Ying J",
+      "Zhu Y",
+      "Hu S",
+      "Song P",
+      "Rudan I"
+    ],
+    "lastauthor": "Rudan I",
+    "sortfirstauthor": "Shan S",
+    "journal": "Diabetology & metabolic syndrome",
+    "issn": "1758-5996",
+    "essn": "",
+    "doi": "doi: 10.1186/s13098-026-02167-3",
+    "sortpubdate": "2026/04/28 00:00",
+    "epubdate": "2026 Apr 28"
+  },
+  {
+    "name": "GBD database",
+    "id": "42050683",
+    "title": "Equity in the distribution of general practitioners and specialists in Iran: a health needs-adjusted analysis using the Robin Hood index (2006-2019).",
+    "source": "Hum Resour Health",
+    "pubdate": "2026 Apr 28",
+    "authors": [
+      "Jahanmehr N",
+      "Damiri S",
+      "Meshkani Z"
+    ],
+    "lastauthor": "Meshkani Z",
+    "sortfirstauthor": "Jahanmehr N",
+    "journal": "Human resources for health",
+    "issn": "",
+    "essn": "1478-4491",
+    "doi": "doi: 10.1186/s12960-026-01057-z",
+    "sortpubdate": "2026/04/28 00:00",
+    "epubdate": "2026 Apr 28"
   }
 ]
