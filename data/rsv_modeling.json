@@ -6617,5 +6617,83 @@
     "doi": "doi: 10.1503/cmaj.251369",
     "sortpubdate": "2026/04/26 00:00",
     "epubdate": "2026 Apr 26"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "42060341",
+    "title": "Impact and cost-effectiveness of two interventions to prevent paediatric respiratory syncytial virus disease in Cameroon: a modelling approach.",
+    "source": "J Glob Health",
+    "pubdate": "2026 Apr 30",
+    "authors": [
+      "Shaaban FL",
+      "Fuhngwa N",
+      "Mandi H",
+      "Clark A",
+      "Rave N",
+      "Pecenka C",
+      "Bont LJ",
+      "Debellut F",
+      "RSV GOLD III – Health Economics Study Group"
+    ],
+    "lastauthor": "Debellut F",
+    "sortfirstauthor": "Shaaban FL",
+    "journal": "Journal of global health",
+    "issn": "2047-2978",
+    "essn": "2047-2986",
+    "doi": "doi: 10.7189/jogh.16.04051",
+    "sortpubdate": "2026/04/30 00:00",
+    "epubdate": "2026 Apr 30"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "42059501",
+    "title": "Mice on a high-fat diet have reduced immunopathology and an altered immune response during respiratory syncytial virus infection.",
+    "source": "mBio",
+    "pubdate": "2026 Apr 30",
+    "authors": [
+      "Whitt KT",
+      "Morris DR",
+      "Brigleb PH",
+      "Rowland L",
+      "Sheppard H",
+      "Schultz-Cherry S"
+    ],
+    "lastauthor": "Schultz-Cherry S",
+    "sortfirstauthor": "Whitt KT",
+    "journal": "mBio",
+    "issn": "",
+    "essn": "2150-7511",
+    "doi": "doi: 10.1128/mbio.00689-26",
+    "sortpubdate": "2026/04/30 00:00",
+    "epubdate": "2026 Apr 30"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "42054911",
+    "title": "Foundation models for time series forecasting and policy evaluation in infectious disease epidemics.",
+    "source": "Epidemics",
+    "pubdate": "2026 Apr 26",
+    "authors": [
+      "Kalahasti S",
+      "Faucher B",
+      "Wang B",
+      "Ascione C",
+      "Carbajal R",
+      "Enault M",
+      "Cassis CV",
+      "Launay T",
+      "Guerrisi C",
+      "Boëlle PY",
+      "Baldo F",
+      "Valdano E"
+    ],
+    "lastauthor": "Valdano E",
+    "sortfirstauthor": "Kalahasti S",
+    "journal": "Epidemics",
+    "issn": "",
+    "essn": "1878-0067",
+    "doi": "doi: 10.1016/j.epidem.2026.100916",
+    "sortpubdate": "2026/04/26 00:00",
+    "epubdate": "2026 Apr 26"
   }
 ]

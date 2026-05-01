@@ -4518,7 +4518,7 @@
     "id": "41857462",
     "title": "Impact of Nirsevimab on Pediatric RSV-Related Lower Respiratory Tract Infections: A Retrospective Pre-Post Observational Study in Tuscany, Italy.",
     "source": "Infect Dis Ther",
-    "pubdate": "2026 Mar 19",
+    "pubdate": "2026 May",
     "authors": [
       "Nieddu F",
       "Verzieri M",
@@ -4542,7 +4542,7 @@
     "issn": "2193-8229",
     "essn": "2193-6382",
     "doi": "doi: 10.1007/s40121-026-01333-4",
-    "sortpubdate": "2026/03/19 00:00",
+    "sortpubdate": "2026/05/01 00:00",
     "epubdate": "2026 Mar 19"
   },
   {
@@ -4947,7 +4947,7 @@
       "Giné-Vázquez I",
       "Jin J",
       "Santiago-Pérez MI",
-      "Pérez-Mart��nez O",
+      "Pérez-Martínez O",
       "Otero-Barrós MT",
       "Suárez-Gaiche N",
       "Kramer R",
@@ -4976,5 +4976,59 @@
     "doi": "doi: 10.1016/S1473-3099(25)00742-X",
     "sortpubdate": "2026/05/01 00:00",
     "epubdate": "2026 Jan 12"
+  },
+  {
+    "name": "Nirsevimab effectiveness",
+    "id": "42060341",
+    "title": "Impact and cost-effectiveness of two interventions to prevent paediatric respiratory syncytial virus disease in Cameroon: a modelling approach.",
+    "source": "J Glob Health",
+    "pubdate": "2026 Apr 30",
+    "authors": [
+      "Shaaban FL",
+      "Fuhngwa N",
+      "Mandi H",
+      "Clark A",
+      "Rave N",
+      "Pecenka C",
+      "Bont LJ",
+      "Debellut F",
+      "RSV GOLD III – Health Economics Study Group"
+    ],
+    "lastauthor": "Debellut F",
+    "sortfirstauthor": "Shaaban FL",
+    "journal": "Journal of global health",
+    "issn": "2047-2978",
+    "essn": "2047-2986",
+    "doi": "doi: 10.7189/jogh.16.04051",
+    "sortpubdate": "2026/04/30 00:00",
+    "epubdate": "2026 Apr 30"
+  },
+  {
+    "name": "Nirsevimab effectiveness",
+    "id": "42058447",
+    "title": "Health care utilization and cost implications of Chile's 2024 nirsevimab strategy for RSV prevention: a counterfactual analysis.",
+    "source": "Lancet Reg Health Am",
+    "pubdate": "2026 Jul",
+    "authors": [
+      "Sauré D",
+      "Zgheib A",
+      "Torres JP",
+      "Goic M",
+      "Thraves C",
+      "Pacheco J",
+      "Burgos J",
+      "Del Solar F",
+      "Neira I",
+      "O'Ryan M",
+      "Basso LJ"
+    ],
+    "lastauthor": "Basso LJ",
+    "sortfirstauthor": "Sauré D",
+    "journal": "Lancet regional health. Americas",
+    "issn": "",
+    "essn": "2667-193X",
+    "doi": "doi: 10.1016/j.lana.2026.101475",
+    "sortpubdate": "2026/04/20 00:00",
+    "epubdate": "2026 Apr 20"
   }
 ]
