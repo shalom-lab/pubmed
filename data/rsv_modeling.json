@@ -6695,5 +6695,61 @@
     "doi": "doi: 10.1016/j.epidem.2026.100916",
     "sortpubdate": "2026/04/26 00:00",
     "epubdate": "2026 Apr 26"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "42061498",
+    "title": "RSV as an independent driver of a subsequent influenza epidemic in Berlin before and after the COVID-19 pandemic.",
+    "source": "Int J Infect Dis",
+    "pubdate": "2026 Apr 28",
+    "authors": [
+      "Terliesner N",
+      "Lesniowski D",
+      "Unterwalder N",
+      "von Bernuth H",
+      "Grieser M",
+      "Gratopp A",
+      "Mall MA",
+      "Kallinich T"
+    ],
+    "lastauthor": "Kallinich T",
+    "sortfirstauthor": "Terliesner N",
+    "journal": "International journal of infectious diseases : IJID : official publication of the International Society for Infectious Diseases",
+    "issn": "1201-9712",
+    "essn": "1878-3511",
+    "doi": "doi: 10.1016/j.ijid.2026.108741",
+    "sortpubdate": "2026/04/28 00:00",
+    "epubdate": "2026 Apr 28"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "41832342",
+    "title": "Interactions of SARS-CoV-2, influenza and respiratory syncytial virus influence epidemic timing and risk.",
+    "source": "Commun Med (Lond)",
+    "pubdate": "2026 Mar 14",
+    "authors": [
+      "Liu Y",
+      "Wang X",
+      "Li M",
+      "Cleary E",
+      "Cheng Z",
+      "Zhang W",
+      "Shen Y",
+      "Yao H",
+      "Han J",
+      "Ruktanonchai NW",
+      "Tatem AJ",
+      "Lai S",
+      "Wang Q",
+      "Yang P"
+    ],
+    "lastauthor": "Yang P",
+    "sortfirstauthor": "Liu Y",
+    "journal": "Communications medicine",
+    "issn": "",
+    "essn": "2730-664X",
+    "doi": "pii: 259. doi: 10.1038/s43856-026-01504-x",
+    "sortpubdate": "2026/03/14 00:00",
+    "epubdate": "2026 Mar 14"
   }
 ]

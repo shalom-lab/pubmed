@@ -68083,5 +68083,119 @@
     "doi": "doi: 10.1016/j.identj.2026.109594",
     "sortpubdate": "2026/04/28 00:00",
     "epubdate": "2026 Apr 28"
+  },
+  {
+    "name": "GBD database",
+    "id": "42064357",
+    "title": "Maternal Mortality Transition and Subnational Inequities in China, 1990-2023: Comparative Analysis of GBD 2023 and National Surveillance Data.",
+    "source": "Int J Womens Health",
+    "pubdate": "2026",
+    "authors": [
+      "Wei JB",
+      "Huang H",
+      "Zhang J",
+      "Li XF",
+      "Xu Y",
+      "Lv M",
+      "Fan LS"
+    ],
+    "lastauthor": "Fan LS",
+    "sortfirstauthor": "Wei JB",
+    "journal": "International journal of women's health",
+    "issn": "1179-1411",
+    "essn": "1179-1411",
+    "doi": "doi: 10.2147/IJWH.S600634",
+    "sortpubdate": "2026/04/25 00:00",
+    "epubdate": "2026 Apr 25"
+  },
+  {
+    "name": "GBD database",
+    "id": "42063450",
+    "title": "Temporal trends in the incidence, mortality, and prevalence of gallbladder and biliary diseases in high-income countries compared to the USA, 1990 to 2021.",
+    "source": "Proc (Bayl Univ Med Cent)",
+    "pubdate": "2026",
+    "authors": [
+      "Nadeem MA",
+      "Willingham AJ",
+      "Nisar M",
+      "Awan AR",
+      "Ashfaq F",
+      "Ashraf H",
+      "Javed R",
+      "Quazi MA",
+      "Ikram J",
+      "Ullah A",
+      "Sheikh AB",
+      "Sohail AH"
+    ],
+    "lastauthor": "Sohail AH",
+    "sortfirstauthor": "Nadeem MA",
+    "journal": "Proceedings (Baylor University. Medical Center)",
+    "issn": "0899-8280",
+    "essn": "1525-3252",
+    "doi": "doi: 10.1080/08998280.2026.2641397",
+    "sortpubdate": "2026/03/16 00:00",
+    "epubdate": "2026 Mar 16"
+  },
+  {
+    "name": "GBD database",
+    "id": "42061972",
+    "title": "Economic costs of TB and HIV in high-TB-burden countries.",
+    "source": "BMJ Glob Health",
+    "pubdate": "2026 Apr 30",
+    "authors": [
+      "Barron M",
+      "Bertozzi S",
+      "Gertler P"
+    ],
+    "lastauthor": "Gertler P",
+    "sortfirstauthor": "Barron M",
+    "journal": "BMJ global health",
+    "issn": "2059-7908",
+    "essn": "",
+    "doi": "pii: e020483. doi: 10.1136/bmjgh-2025-020483",
+    "sortpubdate": "2026/04/30 00:00",
+    "epubdate": "2026 Apr 30"
+  },
+  {
+    "name": "GBD database",
+    "id": "42035758",
+    "title": "Burden of 292 causes of death and life expectancy decomposition in Iran, 1990-2023: a systematic analysis for the Global Burden of Disease Study 2023.",
+    "source": "Lancet Glob Health",
+    "pubdate": "2026 May",
+    "authors": [
+      "GBD 2023 Iran Collaborators"
+    ],
+    "lastauthor": "GBD 2023 Iran Collaborators",
+    "sortfirstauthor": "GBD 2023 Iran Collaborators",
+    "journal": "The Lancet. Global health",
+    "issn": "",
+    "essn": "2214-109X",
+    "doi": "doi: 10.1016/S2214-109X(26)00031-8",
+    "sortpubdate": "2026/05/01 00:00",
+    "epubdate": ""
+  },
+  {
+    "name": "GBD database",
+    "id": "42033412",
+    "title": "Epidemiological Features and Temporal Trends of Five Common Sexually Transmitted Infections Excluding HIV, 1990-2021: Findings From the Global Burden of Disease Study.",
+    "source": "J Med Virol",
+    "pubdate": "2026 May",
+    "authors": [
+      "Feng B",
+      "Liu L",
+      "Li M",
+      "Zhang J",
+      "Lian Y",
+      "Du X"
+    ],
+    "lastauthor": "Du X",
+    "sortfirstauthor": "Feng B",
+    "journal": "Journal of medical virology",
+    "issn": "0146-6615",
+    "essn": "1096-9071",
+    "doi": "doi: 10.1002/jmv.70937",
+    "sortpubdate": "2026/05/01 00:00",
+    "epubdate": ""
   }
 ]
