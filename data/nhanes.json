@@ -98128,9 +98128,9 @@
   {
     "name": "NHANES",
     "id": "42061475",
-    "title": "Insulin Resistance Surrogates and Their Associations with Preserved Ratio Impaired Spirometry in United States Adults.",
+    "title": "Insulin resistance surrogates and their associations with preserved ratio impaired spirometry in United States adults.",
     "source": "Respir Med",
-    "pubdate": "2026 Apr 28",
+    "pubdate": "2026 Apr 29",
     "authors": [
       "Zhu Q",
       "He R",
@@ -98144,8 +98144,8 @@
     "issn": "0954-6111",
     "essn": "1532-3064",
     "doi": "doi: 10.1016/j.rmed.2026.108860",
-    "sortpubdate": "2026/04/28 00:00",
-    "epubdate": "2026 Apr 28"
+    "sortpubdate": "2026/04/29 00:00",
+    "epubdate": "2026 Apr 29"
   },
   {
     "name": "NHANES",
@@ -98207,5 +98207,76 @@
     "doi": "doi: 10.1111/jch.70264",
     "sortpubdate": "2026/05/01 00:00",
     "epubdate": ""
+  },
+  {
+    "name": "NHANES",
+    "id": "42067820",
+    "title": "Individual and combined associations of modifiable metabolic health and lifestyle with low back pain, neck pain, and functional limitation: evidence from a nationally cross-sectional study.",
+    "source": "BMC Public Health",
+    "pubdate": "2026 May 1",
+    "authors": [
+      "Xie C",
+      "Li Q",
+      "Xin J",
+      "Jiang X",
+      "He Q",
+      "Bian W",
+      "Yu D",
+      "Lin Y",
+      "Yao Z"
+    ],
+    "lastauthor": "Yao Z",
+    "sortfirstauthor": "Xie C",
+    "journal": "BMC public health",
+    "issn": "",
+    "essn": "1471-2458",
+    "doi": "doi: 10.1186/s12889-026-27651-3",
+    "sortpubdate": "2026/05/01 00:00",
+    "epubdate": "2026 May 1"
+  },
+  {
+    "name": "NHANES",
+    "id": "42067066",
+    "title": "Trends in \"Healthy\" Food Consumption Overall and by Nova Food Processing Categories among US Adults from 2003 - March 2020.",
+    "source": "J Nutr",
+    "pubdate": "2026 Apr 29",
+    "authors": [
+      "Tucker AC",
+      "Martínez-Steele E",
+      "Caulfield LE",
+      "Rebholz CM",
+      "Wolfson JA"
+    ],
+    "lastauthor": "Wolfson JA",
+    "sortfirstauthor": "Tucker AC",
+    "journal": "The Journal of nutrition",
+    "issn": "0022-3166",
+    "essn": "1541-6100",
+    "doi": "doi: 10.1016/j.tjnut.2026.101561",
+    "sortpubdate": "2026/04/29 00:00",
+    "epubdate": "2026 Apr 29"
+  },
+  {
+    "name": "NHANES",
+    "id": "42066461",
+    "title": "Multi-scale evidence chain: Linking environmental BPA exposure to ovarian cancer through integrated omics and experimental models.",
+    "source": "Transl Oncol",
+    "pubdate": "2026 Apr 30",
+    "authors": [
+      "Luo Y",
+      "Mo S",
+      "Song P",
+      "Meng K",
+      "Zhou J",
+      "Zou Y"
+    ],
+    "lastauthor": "Zou Y",
+    "sortfirstauthor": "Luo Y",
+    "journal": "Translational oncology",
+    "issn": "1936-5233",
+    "essn": "",
+    "doi": "doi: 10.1016/j.tranon.2026.102791",
+    "sortpubdate": "2026/04/30 00:00",
+    "epubdate": "2026 Apr 30"
   }
 ]

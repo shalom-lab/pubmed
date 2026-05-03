@@ -68197,5 +68197,71 @@
     "doi": "doi: 10.1002/jmv.70937",
     "sortpubdate": "2026/05/01 00:00",
     "epubdate": ""
+  },
+  {
+    "name": "GBD database",
+    "id": "42066500",
+    "title": "Global, regional, and national burden of subarachnoid hemorrhage among older adults, 1990-2021: a systematic analysis of prevalence, incidence, mortality, and DALYs with projections to 2050.",
+    "source": "J Clin Neurosci",
+    "pubdate": "2026 Apr 30",
+    "authors": [
+      "Zhou S",
+      "Long Q",
+      "Xu Y",
+      "Yang G",
+      "Wang X"
+    ],
+    "lastauthor": "Wang X",
+    "sortfirstauthor": "Zhou S",
+    "journal": "Journal of clinical neuroscience : official journal of the Neurosurgical Society of Australasia",
+    "issn": "0967-5868",
+    "essn": "1532-2653",
+    "doi": "doi: 10.1016/j.jocn.2026.112061",
+    "sortpubdate": "2026/04/30 00:00",
+    "epubdate": "2026 Apr 30"
+  },
+  {
+    "name": "GBD database",
+    "id": "42066494",
+    "title": "Reframing Periodontitis: A Concise Review of Shifting Paradigms and Contemporary Clinical Practice.",
+    "source": "Int Dent J",
+    "pubdate": "2026 Apr 30",
+    "authors": [
+      "Padmakumari KMC",
+      "Koppolu P",
+      "Tilakaratne A"
+    ],
+    "lastauthor": "Tilakaratne A",
+    "sortfirstauthor": "Padmakumari KMC",
+    "journal": "International dental journal",
+    "issn": "0020-6539",
+    "essn": "1875-595X",
+    "doi": "doi: 10.1016/j.identj.2026.109598",
+    "sortpubdate": "2026/04/30 00:00",
+    "epubdate": "2026 Apr 30"
+  },
+  {
+    "name": "GBD database",
+    "id": "42066480",
+    "title": "The global burden of autism spectrum disorders in children aged 0-14 years from 1990 to 2021: A population-based study.",
+    "source": "Psychiatry Res",
+    "pubdate": "2026 Apr 27",
+    "authors": [
+      "Guo J",
+      "Chen M",
+      "Zhou Y",
+      "Wang J",
+      "Huang Q",
+      "Ding J",
+      "Li M"
+    ],
+    "lastauthor": "Li M",
+    "sortfirstauthor": "Guo J",
+    "journal": "Psychiatry research",
+    "issn": "0165-1781",
+    "essn": "1872-7123",
+    "doi": "doi: 10.1016/j.psychres.2026.117181",
+    "sortpubdate": "2026/04/27 00:00",
+    "epubdate": "2026 Apr 27"
   }
 ]
