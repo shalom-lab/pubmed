@@ -3568,5 +3568,33 @@
     "doi": "doi: 10.1002/ohn.70182",
     "sortpubdate": "2026/05/01 00:00",
     "epubdate": "2026 Mar 3"
+  },
+  {
+    "name": "Vitamin D and respiratory infections",
+    "id": "41980287",
+    "title": "Impact of pre-vaccination active vitamin D levels on COVID-19 mRNA vaccine-induced immunity in a Japanese cohort.",
+    "source": "Vaccine",
+    "pubdate": "2026 May 10",
+    "authors": [
+      "Hirakawa T",
+      "Yamada G",
+      "Tokiya M",
+      "Furukawa T",
+      "Iwasaka C",
+      "Sawada T",
+      "Tsujita T",
+      "Kido MA",
+      "Hirota Y",
+      "Hara M",
+      "Matsumoto A"
+    ],
+    "lastauthor": "Matsumoto A",
+    "sortfirstauthor": "Hirakawa T",
+    "journal": "Vaccine",
+    "issn": "0264-410X",
+    "essn": "1873-2518",
+    "doi": "doi: 10.1016/j.vaccine.2026.128576",
+    "sortpubdate": "2026/05/10 00:00",
+    "epubdate": "2026 Apr 13"
   }
 ]

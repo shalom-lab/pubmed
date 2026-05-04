@@ -6751,5 +6751,36 @@
     "doi": "pii: 259. doi: 10.1038/s43856-026-01504-x",
     "sortpubdate": "2026/03/14 00:00",
     "epubdate": "2026 Mar 14"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "42068597",
+    "title": "Therapeutic targeting of Respiratory Syncytial Virus: Current pharmacological options and future directions in antiviral development.",
+    "source": "Microbiol Res",
+    "pubdate": "2026 Apr 28",
+    "authors": [
+      "Ontiveros-Zúñiga LF",
+      "Sosa-Mondragon SI",
+      "Osuna-Ramos JF",
+      "Llanas-Vázquez RS",
+      "Cañedo-Figueroa DM",
+      "Velázquez-Cervantes MA",
+      "Miranda-Lizárraga KP",
+      "Laredo-Cabrera A",
+      "Flores-Padilla LE",
+      "Barrera-Aveleida GB",
+      "Santos-Mena AO",
+      "Álvarez-Orozco R",
+      "Hernández-Castillo J",
+      "De Jesús-González LA"
+    ],
+    "lastauthor": "De Jesús-González LA",
+    "sortfirstauthor": "Ontiveros-Zúñiga LF",
+    "journal": "Microbiological research",
+    "issn": "0944-5013",
+    "essn": "1618-0623",
+    "doi": "doi: 10.1016/j.micres.2026.128536",
+    "sortpubdate": "2026/04/28 00:00",
+    "epubdate": "2026 Apr 28"
   }
 ]

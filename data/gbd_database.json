@@ -68263,5 +68263,74 @@
     "doi": "doi: 10.1016/j.psychres.2026.117181",
     "sortpubdate": "2026/04/27 00:00",
     "epubdate": "2026 Apr 27"
+  },
+  {
+    "name": "GBD database",
+    "id": "42068562",
+    "title": "Global Trends, Inequities, and Emerging Risks of Early-Onset Ischemic Stroke.",
+    "source": "Neuroepidemiology",
+    "pubdate": "2026 May 2",
+    "authors": [
+      "Zhao C",
+      "Han X",
+      "Wang H",
+      "Lv Z",
+      "Xie G",
+      "Han L"
+    ],
+    "lastauthor": "Han L",
+    "sortfirstauthor": "Zhao C",
+    "journal": "Neuroepidemiology",
+    "issn": "0251-5350",
+    "essn": "1423-0208",
+    "doi": "doi: 10.1159/000552067",
+    "sortpubdate": "2026/05/02 00:00",
+    "epubdate": "2026 May 2"
+  },
+  {
+    "name": "GBD database",
+    "id": "42068560",
+    "title": "National burden of motor neuron disease in China from 1990 to 2023: Findings from the Global Burden of Disease Study 2023.",
+    "source": "Neuroepidemiology",
+    "pubdate": "2026 May 2",
+    "authors": [
+      "Wei X",
+      "Long Z",
+      "Liu C",
+      "He X",
+      "Chen H"
+    ],
+    "lastauthor": "Chen H",
+    "sortfirstauthor": "Wei X",
+    "journal": "Neuroepidemiology",
+    "issn": "0251-5350",
+    "essn": "1423-0208",
+    "doi": "doi: 10.1159/000552312",
+    "sortpubdate": "2026/05/02 00:00",
+    "epubdate": "2026 May 2"
+  },
+  {
+    "name": "GBD database",
+    "id": "42068217",
+    "title": "Global, regional and national burden of tracheal, bronchus and lung cancer attributable to occupational carcinogens from 1990 to 2021 and projections to 2050: A finding from the global burden of disease study 2021 and Mendelian randomization.",
+    "source": "Sci Prog",
+    "pubdate": "2026 Apr-Jun",
+    "authors": [
+      "Ma S",
+      "Lin C",
+      "Guo F",
+      "Ning Y",
+      "Tang J",
+      "He H",
+      "Qiang G"
+    ],
+    "lastauthor": "Qiang G",
+    "sortfirstauthor": "Ma S",
+    "journal": "Science progress",
+    "issn": "0036-8504",
+    "essn": "2047-7163",
+    "doi": "doi: 10.1177/00368504261448305",
+    "sortpubdate": "2026/04/01 00:00",
+    "epubdate": "2026 May 2"
   }
 ]
