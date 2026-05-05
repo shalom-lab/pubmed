@@ -4412,7 +4412,7 @@
       "Casado Cobo S",
       "Domínguez Padilla M",
       "Castrillejo D",
-      "Míguez Santiyán A",
+      "M��guez Santiyán A",
       "Basile L",
       "Rafael de la Cruz López MÁ",
       "Sanabria Curbelo D",
@@ -5030,5 +5030,33 @@
     "doi": "doi: 10.1016/j.lana.2026.101475",
     "sortpubdate": "2026/04/20 00:00",
     "epubdate": "2026 Apr 20"
+  },
+  {
+    "name": "Nirsevimab effectiveness",
+    "id": "42071832",
+    "title": "Palivizumab prophylaxis and risk of RSV infection among moderate-to-late preterm infants: A nationwide Korean cohort study from 2018 to 2022.",
+    "source": "Medicine (Baltimore)",
+    "pubdate": "2026 Apr 24",
+    "authors": [
+      "So H",
+      "Kim Y",
+      "Yoon Y",
+      "Lee H",
+      "Kwon Y",
+      "Min J",
+      "Kim M",
+      "Kim EH",
+      "Kim G",
+      "Kim YM",
+      "Lee B"
+    ],
+    "lastauthor": "Lee B",
+    "sortfirstauthor": "So H",
+    "journal": "Medicine",
+    "issn": "0025-7974",
+    "essn": "1536-5964",
+    "doi": "doi: 10.1097/MD.0000000000048498",
+    "sortpubdate": "2026/04/24 00:00",
+    "epubdate": ""
   }
 ]
