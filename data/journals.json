@@ -13804,7 +13804,8 @@
   {
     "source": "Antioxidants (Basel)",
     "journal": "Antioxidants (Basel, Switzerland)",
-    "issn": "2076-3921"
+    "issn": "2076-3921",
+    "essn": "2076-3921"
   },
   {
     "source": "Sex Transm Dis",
@@ -13828,5 +13829,21 @@
     "journal": "Journal of psoriasis and psoriatic arthritis",
     "issn": "2475-5303",
     "essn": "2475-5311"
+  },
+  {
+    "source": "Dent Mater",
+    "journal": "Dental materials : official publication of the Academy of Dental Materials",
+    "issn": "0109-5641",
+    "essn": "1879-0097"
+  },
+  {
+    "source": "Dialogues Health",
+    "journal": "Dialogues in health",
+    "essn": "2772-6533"
+  },
+  {
+    "source": "Adv Ophthalmol Pract Res",
+    "journal": "Advances in ophthalmology practice and research",
+    "essn": "2667-3762"
   }
 ]

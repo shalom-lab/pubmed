@@ -6902,5 +6902,73 @@
     "doi": "doi: 10.1016/j.vaccine.2026.128644",
     "sortpubdate": "2026/05/02 00:00",
     "epubdate": "2026 May 2"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "42075018",
+    "title": "Synergistic Virus Neutralizing Activities of European Black Elderberry Fruit Extract and Iota-Carrageenan Against SARS-CoV-2, Influenza A Virus and Respiratory Syncytial Virus.",
+    "source": "Nutrients",
+    "pubdate": "2026 Apr 10",
+    "authors": [
+      "Setz C",
+      "Setz M",
+      "Rauch P",
+      "Schleicher O",
+      "Plattner S",
+      "Grassauer A",
+      "Schubert U"
+    ],
+    "lastauthor": "Schubert U",
+    "sortfirstauthor": "Setz C",
+    "journal": "Nutrients",
+    "issn": "",
+    "essn": "2072-6643",
+    "doi": "doi: 10.3390/nu18081205",
+    "sortpubdate": "2026/04/10 00:00",
+    "epubdate": "2026 Apr 10"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "42074092",
+    "title": "Identification of a Potential Dual-Target Candidate Against RSV F Protein and 15-LOX from TCMSP: Integrating Virtual Screening, Molecular Dynamics, and Experimental Evaluation.",
+    "source": "Int J Mol Sci",
+    "pubdate": "2026 Apr 12",
+    "authors": [
+      "Zhou X",
+      "Du H",
+      "Wang C",
+      "Zhang M",
+      "Ding X",
+      "Wang Y",
+      "Fan Z",
+      "Wang P"
+    ],
+    "lastauthor": "Wang P",
+    "sortfirstauthor": "Zhou X",
+    "journal": "International journal of molecular sciences",
+    "issn": "",
+    "essn": "1422-0067",
+    "doi": "doi: 10.3390/ijms27083448",
+    "sortpubdate": "2026/04/12 00:00",
+    "epubdate": "2026 Apr 12"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "42072151",
+    "title": "Resveratrol and Redox Regulation in Cardiovascular Disease Across the Life Course: Mechanistic and Translational Perspectives.",
+    "source": "Antioxidants (Basel)",
+    "pubdate": "2026 Apr 20",
+    "authors": [
+      "Hsu CN",
+      "Tain YL"
+    ],
+    "lastauthor": "Tain YL",
+    "sortfirstauthor": "Hsu CN",
+    "journal": "Antioxidants (Basel, Switzerland)",
+    "issn": "2076-3921",
+    "essn": "2076-3921",
+    "doi": "doi: 10.3390/antiox15040509",
+    "sortpubdate": "2026/04/20 00:00",
+    "epubdate": "2026 Apr 20"
   }
 ]
