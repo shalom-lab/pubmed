@@ -7742,5 +7742,24 @@
     "doi": "doi: 10.3390/microorganisms14040887",
     "sortpubdate": "2026/04/16 00:00",
     "epubdate": "2026 Apr 16"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "41896788",
+    "title": "Epidemiological dynamics of respiratory tract infections in a major northern coastal city (Dalian), China, following the COVID-19 pandemic.",
+    "source": "BMC Infect Dis",
+    "pubdate": "2026 Mar 27",
+    "authors": [
+      "Wang C",
+      "Lin L"
+    ],
+    "lastauthor": "Lin L",
+    "sortfirstauthor": "Wang C",
+    "journal": "BMC infectious diseases",
+    "issn": "",
+    "essn": "1471-2334",
+    "doi": "doi: 10.1186/s12879-026-13103-1",
+    "sortpubdate": "2026/03/27 00:00",
+    "epubdate": "2026 Mar 27"
   }
 ]
