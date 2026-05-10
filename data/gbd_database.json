@@ -69800,5 +69800,97 @@
     "doi": "doi: 10.1016/j.clinme.2026.100593",
     "sortpubdate": "2026/05/05 00:00",
     "epubdate": "2026 May 5"
+  },
+  {
+    "name": "GBD database",
+    "id": "42104664",
+    "title": "The Global, Regional, and National Burden of Cardiovascular Diseases Attributable to Household Air Pollution from 1990 to 2021: Findings from the Global Burden of Disease Study 2021.",
+    "source": "Biomed Environ Sci",
+    "pubdate": "2026 Apr 20",
+    "authors": [
+      "Zhao ZH",
+      "Zeng Y"
+    ],
+    "lastauthor": "Zeng Y",
+    "sortfirstauthor": "Zhao ZH",
+    "journal": "Biomedical and environmental sciences : BES",
+    "issn": "0895-3988",
+    "essn": "2214-0190",
+    "doi": "doi: 10.3967/bes2025.141",
+    "sortpubdate": "2026/04/20 00:00",
+    "epubdate": ""
+  },
+  {
+    "name": "GBD database",
+    "id": "42104116",
+    "title": "Spatial concordance metrics and related risk factors of brain-peripheral barrier axes: unveiling distinct concordance patterns for mental and neurological axes.",
+    "source": "Mol Psychiatry",
+    "pubdate": "2026 May 8",
+    "authors": [
+      "Cui Z"
+    ],
+    "lastauthor": "Cui Z",
+    "sortfirstauthor": "Cui Z",
+    "journal": "Molecular psychiatry",
+    "issn": "1359-4184",
+    "essn": "1476-5578",
+    "doi": "doi: 10.1038/s41380-026-03643-y",
+    "sortpubdate": "2026/05/08 00:00",
+    "epubdate": "2026 May 8"
+  },
+  {
+    "name": "GBD database",
+    "id": "42103393",
+    "title": "Global Burden of Disease Study based analysis on hypertension-attributable chronic kidney disease: Disease burden and Quality of Care Index across countries, regions, and globally, 1990-2021.",
+    "source": "Nefrologia (Engl Ed)",
+    "pubdate": "2026 May",
+    "authors": [
+      "Shi W",
+      "Zhou Y",
+      "Wei Q",
+      "Wu J",
+      "Zhu C"
+    ],
+    "lastauthor": "Zhu C",
+    "sortfirstauthor": "Shi W",
+    "journal": "Nefrologia",
+    "issn": "",
+    "essn": "2013-2514",
+    "doi": "doi: 10.1016/j.nefroe.2026.501493",
+    "sortpubdate": "2026/05/01 00:00",
+    "epubdate": ""
+  },
+  {
+    "name": "GBD database",
+    "id": "42095836",
+    "title": "Gender inequalities and the burden of anorexia and bulimia in Europe, 1990-2023: findings from the global burden of disease study 2023.",
+    "source": "Eur J Public Health",
+    "pubdate": "2026 Apr 11",
+    "authors": [
+      "Zamagni G",
+      "Fabbro E",
+      "Rapagnani MP",
+      "Beghi M",
+      "Ayuso-Mateos JL",
+      "Armocida B",
+      "Bertuccio P",
+      "de Girolamo G",
+      "Gialluisi A",
+      "Haro JM",
+      "Kissimova-Skarbek K",
+      "Leonardi M",
+      "Maurel E",
+      "Raggi A",
+      "Monasta L",
+      "Castelpietra G"
+    ],
+    "lastauthor": "Castelpietra G",
+    "sortfirstauthor": "Zamagni G",
+    "journal": "European journal of public health",
+    "issn": "1101-1262",
+    "essn": "1464-360X",
+    "doi": "doi: 10.1093/eurpub/ckag069",
+    "sortpubdate": "2026/04/11 00:00",
+    "epubdate": ""
   }
 ]

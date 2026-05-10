@@ -13855,7 +13855,8 @@
   {
     "source": "Mol Cell Pediatr",
     "journal": "Molecular and cellular pediatrics",
-    "issn": "2194-7791"
+    "issn": "2194-7791",
+    "essn": "2194-7791"
   },
   {
     "source": "JMIR Serious Games",
@@ -13895,5 +13896,34 @@
     "journal": "Leukemia research",
     "issn": "0145-2126",
     "essn": "1873-5835"
+  },
+  {
+    "source": "Mol Imaging Biol",
+    "journal": "Molecular imaging and biology",
+    "issn": "1536-1632",
+    "essn": "1860-2002"
+  },
+  {
+    "source": "Br J Anaesth",
+    "journal": "British journal of anaesthesia",
+    "issn": "0007-0912",
+    "essn": "1471-6771"
+  },
+  {
+    "source": "Pract Radiat Oncol",
+    "journal": "Practical radiation oncology",
+    "issn": "1879-8500",
+    "essn": "1879-8519"
+  },
+  {
+    "source": "Aten Primaria",
+    "journal": "Atencion primaria",
+    "issn": "0212-6567",
+    "essn": "1578-1275"
+  },
+  {
+    "source": "Trop Dis Travel Med Vaccines",
+    "journal": "Tropical diseases, travel medicine and vaccines",
+    "issn": "2055-0936"
   }
 ]

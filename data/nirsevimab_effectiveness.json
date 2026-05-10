@@ -4400,7 +4400,7 @@
       "Martinez-Marcos M",
       "Muñoz Platón E",
       "Rivas Wagner E",
-      "Santiago-P��rez MI",
+      "Santiago-Pérez MI",
       "Álvarez Río V",
       "Zornoza Moreno M",
       "Fernández Ibáñez A",
@@ -4958,7 +4958,7 @@
       "Mirás-Carballal S",
       "Piñeiro-Sotelo M",
       "González-Pérez JM",
-      "Rodr��guez-Tenreiro-Sánchez C",
+      "Rodríguez-Tenreiro-Sánchez C",
       "Manzanares-Casteleiro Á",
       "Dacosta-Urbieta A",
       "Álvarez-Smith C",
@@ -5115,6 +5115,28 @@
     "issn": "2194-7791",
     "essn": "",
     "doi": "pii: 25. doi: 10.1186/s40348-026-00232-5",
+    "sortpubdate": "2026/05/07 00:00",
+    "epubdate": "2026 May 7"
+  },
+  {
+    "name": "Nirsevimab effectiveness",
+    "id": "42096044",
+    "title": "Real-world impact of nirsevimab on RSV hospitalizations in children under 2 years of age: retrospective monocentric study in a large German tertiary pedatric center.",
+    "source": "Mol Cell Pediatr",
+    "pubdate": "2026 May 7",
+    "authors": [
+      "Bauer M",
+      "Wendt A",
+      "Mall MA",
+      "Bernuth HV",
+      "Thee S"
+    ],
+    "lastauthor": "Thee S",
+    "sortfirstauthor": "Bauer M",
+    "journal": "Molecular and cellular pediatrics",
+    "issn": "2194-7791",
+    "essn": "2194-7791",
+    "doi": "doi: 10.1186/s40348-026-00232-5",
     "sortpubdate": "2026/05/07 00:00",
     "epubdate": "2026 May 7"
   }
