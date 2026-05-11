@@ -69892,5 +69892,98 @@
     "doi": "doi: 10.1093/eurpub/ckag069",
     "sortpubdate": "2026/04/11 00:00",
     "epubdate": ""
+  },
+  {
+    "name": "GBD database",
+    "id": "42106869",
+    "title": "Epidemiology of Rheumatoid Arthritis in the Asia-Pacific Region: A Systematic Analysis of the Global Burden of Disease Study 1990-2023 and Forecasts to 2025.",
+    "source": "Int J Rheum Dis",
+    "pubdate": "2026 May",
+    "authors": [
+      "Song S",
+      "Zhang L",
+      "Wang J"
+    ],
+    "lastauthor": "Wang J",
+    "sortfirstauthor": "Song S",
+    "journal": "International journal of rheumatic diseases",
+    "issn": "1756-1841",
+    "essn": "1756-185X",
+    "doi": "doi: 10.1111/1756-185x.70674",
+    "sortpubdate": "2026/05/01 00:00",
+    "epubdate": ""
+  },
+  {
+    "name": "GBD database",
+    "id": "42106351",
+    "title": "Global patterns of pertussis incidence and vaccination strategies: implications of divergent surveillance data.",
+    "source": "NPJ Vaccines",
+    "pubdate": "2026 May 9",
+    "authors": [
+      "Li K",
+      "Xie Y",
+      "Wu J",
+      "Zenghuang Y",
+      "Chen T",
+      "Li J",
+      "Chen S",
+      "Liu Z",
+      "Liu H",
+      "Rui J",
+      "Zhao Z",
+      "Wang M",
+      "Luo K",
+      "Su Y",
+      "Chen T"
+    ],
+    "lastauthor": "Chen T",
+    "sortfirstauthor": "Li K",
+    "journal": "NPJ vaccines",
+    "issn": "",
+    "essn": "2059-0105",
+    "doi": "doi: 10.1038/s41541-026-01479-9",
+    "sortpubdate": "2026/05/09 00:00",
+    "epubdate": "2026 May 9"
+  },
+  {
+    "name": "GBD database",
+    "id": "42106280",
+    "title": "The World's Burden of Chronic Respiratory Disease: An Epidemiological Review of Asthma, COPD, Interstitial Lung Disease, and Smoking in the 21st Century.",
+    "source": "Arch Bronconeumol",
+    "pubdate": "2026 Apr 23",
+    "authors": [
+      "Soriano JB",
+      "Lopez-Campos JL"
+    ],
+    "lastauthor": "Lopez-Campos JL",
+    "sortfirstauthor": "Soriano JB",
+    "journal": "Archivos de bronconeumologia",
+    "issn": "0300-2896",
+    "essn": "1579-2129",
+    "doi": "pii: S0300-2896(26)00151-1. doi: 10.1016/j.arbres.2026.03.013",
+    "sortpubdate": "2026/04/23 00:00",
+    "epubdate": "2026 Apr 23"
+  },
+  {
+    "name": "GBD database",
+    "id": "42104967",
+    "title": "Economic Impact of Periodontitis: Global, Regional and National Estimates of Periodontal Expenditure, With Forecasts to 2050.",
+    "source": "J Periodontal Res",
+    "pubdate": "2026 May 9",
+    "authors": [
+      "Chow DY",
+      "Blythe RD",
+      "Tay JRH",
+      "Nascimento GG",
+      "Romandini M"
+    ],
+    "lastauthor": "Romandini M",
+    "sortfirstauthor": "Chow DY",
+    "journal": "Journal of periodontal research",
+    "issn": "0022-3484",
+    "essn": "1600-0765",
+    "doi": "doi: 10.1111/jre.70104",
+    "sortpubdate": "2026/05/09 00:00",
+    "epubdate": "2026 May 9"
   }
 ]
