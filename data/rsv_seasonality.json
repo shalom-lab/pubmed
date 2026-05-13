@@ -7806,5 +7806,63 @@
     "doi": "doi: 10.1016/j.diagmicrobio.2026.117445",
     "sortpubdate": "2026/04/29 00:00",
     "epubdate": "2026 Apr 29"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "42116720",
+    "title": "Expanded Genomic Surveillance and Seasonal Comparisons of Human Respiratory Syncytial Virus Infections in Minnesota, USA, 2023-2025.",
+    "source": "Influenza Other Respir Viruses",
+    "pubdate": "2026 May",
+    "authors": [
+      "Evans D",
+      "Kunerth H",
+      "Mumm E",
+      "Plumb M",
+      "Bohnker-Voels L",
+      "Bistodeau S",
+      "Cunningham SA",
+      "Davis J",
+      "Martin K",
+      "Como-Sabetti K",
+      "Namugenyi S",
+      "Wang X",
+      "Lynfield R",
+      "Strain A",
+      "Vetter S"
+    ],
+    "lastauthor": "Vetter S",
+    "sortfirstauthor": "Evans D",
+    "journal": "Influenza and other respiratory viruses",
+    "issn": "1750-2640",
+    "essn": "1750-2659",
+    "doi": "doi: 10.1111/irv.70257",
+    "sortpubdate": "2026/05/01 00:00",
+    "epubdate": ""
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "42104506",
+    "title": "Viral-bacterial codetection and clinical and laboratory characteristics in children hospitalized with lower respiratory tract infections in a private hospital in Lima, Peru: a cross-sectional study.",
+    "source": "Trop Dis Travel Med Vaccines",
+    "pubdate": "2026 May 8",
+    "authors": [
+      "Rojas-Cosi AF",
+      "Soriano-Moreno DR",
+      "Soriano-Moreno AN",
+      "Díaz N",
+      "Bobadilla F",
+      "Quinto J",
+      "Dutra A",
+      "Oliveira G",
+      "Alave J"
+    ],
+    "lastauthor": "Alave J",
+    "sortfirstauthor": "Rojas-Cosi AF",
+    "journal": "Tropical diseases, travel medicine and vaccines",
+    "issn": "2055-0936",
+    "essn": "",
+    "doi": "pii: 19. doi: 10.1186/s40794-026-00303-5",
+    "sortpubdate": "2026/05/08 00:00",
+    "epubdate": "2026 May 8"
   }
 ]
