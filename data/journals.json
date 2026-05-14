@@ -13924,7 +13924,8 @@
   {
     "source": "Trop Dis Travel Med Vaccines",
     "journal": "Tropical diseases, travel medicine and vaccines",
-    "issn": "2055-0936"
+    "issn": "2055-0936",
+    "essn": "2055-0936"
   },
   {
     "source": "Arch Bronconeumol",
@@ -13966,5 +13967,38 @@
     "source": "Curr Pain Headache Rep",
     "journal": "Current pain and headache reports",
     "essn": "1534-3081"
+  },
+  {
+    "source": "J Nurs Res",
+    "journal": "The journal of nursing research : JNR",
+    "issn": "1682-3141",
+    "essn": "1948-965X"
+  },
+  {
+    "source": "Bone Joint Res",
+    "journal": "Bone & joint research",
+    "issn": "2046-3758"
+  },
+  {
+    "source": "J Pediatr Soc North Am",
+    "journal": "Journal of the Pediatric Orthopaedic Society of North America",
+    "essn": "2768-2765"
+  },
+  {
+    "source": "Arq Neuropsiquiatr",
+    "journal": "Arquivos de neuro-psiquiatria",
+    "issn": "0004-282X",
+    "essn": "1678-4227"
+  },
+  {
+    "source": "Int J Food Sci Nutr",
+    "journal": "International journal of food sciences and nutrition",
+    "issn": "0963-7486",
+    "essn": "1465-3478"
+  },
+  {
+    "source": "Lancet Healthy Longev",
+    "journal": "The lancet. Healthy longevity",
+    "essn": "2666-7568"
   }
 ]
