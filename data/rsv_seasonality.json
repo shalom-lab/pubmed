@@ -7864,5 +7864,58 @@
     "doi": "pii: 19. doi: 10.1186/s40794-026-00303-5",
     "sortpubdate": "2026/05/08 00:00",
     "epubdate": "2026 May 8"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "42131892",
+    "title": "Incidence of Respiratory Syncytial Virus Infection Among Patients Aged Less Than 2 Years: A Retrospective Study From an Italian Southern Region in Years 2018-2023.",
+    "source": "Influenza Other Respir Viruses",
+    "pubdate": "2026 May",
+    "authors": [
+      "Di Martino G",
+      "Di Giovanni P",
+      "Vaccaro F",
+      "Cascavilla FR",
+      "Di Marzio C",
+      "Tognaccini L",
+      "Trebbi E",
+      "Aita T",
+      "Romano F",
+      "Staniscia T"
+    ],
+    "lastauthor": "Staniscia T",
+    "sortfirstauthor": "Di Martino G",
+    "journal": "Influenza and other respiratory viruses",
+    "issn": "1750-2640",
+    "essn": "1750-2659",
+    "doi": "doi: 10.1111/irv.70224",
+    "sortpubdate": "2026/05/01 00:00",
+    "epubdate": ""
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "42128160",
+    "title": "A Comprehensive Overview of Upper and Lower Respiratory Infections in Turkey.",
+    "source": "Int J Infect Dis",
+    "pubdate": "2026 May 12",
+    "authors": [
+      "Eren ZB",
+      "Ayaz ÇM",
+      "Can İN",
+      "Şanlıalp AY",
+      "Usta O",
+      "Belge S",
+      "Beşli Y",
+      "Ergönül Ö",
+      "Keske Ş"
+    ],
+    "lastauthor": "Keske Ş",
+    "sortfirstauthor": "Eren ZB",
+    "journal": "International journal of infectious diseases : IJID : official publication of the International Society for Infectious Diseases",
+    "issn": "1201-9712",
+    "essn": "1878-3511",
+    "doi": "doi: 10.1016/j.ijid.2026.108791",
+    "sortpubdate": "2026/05/12 00:00",
+    "epubdate": "2026 May 12"
   }
 ]
