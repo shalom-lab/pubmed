@@ -7917,5 +7917,96 @@
     "doi": "doi: 10.1016/j.ijid.2026.108791",
     "sortpubdate": "2026/05/12 00:00",
     "epubdate": "2026 May 12"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "42138300",
+    "title": "Near-Source Wastewater Surveillance of SARS-CoV-2, Influenza A, and Respiratory Syncytial Virus With Spatiotemporal Evaluation of Pepper Mild Mottle Virus as a Fecal Indicator.",
+    "source": "Water Environ Res",
+    "pubdate": "2026",
+    "authors": [
+      "Mao Y",
+      "Liu C",
+      "Abayagunawardena R",
+      "Desilva K",
+      "Arcellana P",
+      "Kjellerup BV"
+    ],
+    "lastauthor": "Kjellerup BV",
+    "sortfirstauthor": "Mao Y",
+    "journal": "Water environment research : a research publication of the Water Environment Federation",
+    "issn": "1061-4303",
+    "essn": "1554-7531",
+    "doi": "doi: 10.1002/wer.70414",
+    "sortpubdate": "2026/01/01 00:00",
+    "epubdate": ""
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "42137556",
+    "title": "Epidemiological analysis of six common respiratory pathogen infections in children in Chengdu from 2022 to 2024.",
+    "source": "Front Pediatr",
+    "pubdate": "2026",
+    "authors": [
+      "Wang C",
+      "Luo M",
+      "Yang S"
+    ],
+    "lastauthor": "Yang S",
+    "sortfirstauthor": "Wang C",
+    "journal": "Frontiers in pediatrics",
+    "issn": "2296-2360",
+    "essn": "2296-2360",
+    "doi": "doi: 10.3389/fped.2026.1762543",
+    "sortpubdate": "2026/04/29 00:00",
+    "epubdate": "2026 Apr 29"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "42136584",
+    "title": "Epidemiology of respiratory infectious diseases after the relaxation of COVID-19 policies: a retrospective study in Xiamen, China.",
+    "source": "Front Public Health",
+    "pubdate": "2026",
+    "authors": [
+      "Qu L",
+      "Jing X",
+      "Wang R",
+      "Zhang K",
+      "Su M",
+      "Lian L",
+      "Yang C",
+      "Wang H"
+    ],
+    "lastauthor": "Wang H",
+    "sortfirstauthor": "Qu L",
+    "journal": "Frontiers in public health",
+    "issn": "",
+    "essn": "2296-2565",
+    "doi": "doi: 10.3389/fpubh.2026.1759146",
+    "sortpubdate": "2026/04/29 00:00",
+    "epubdate": "2026 Apr 29"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "42135813",
+    "title": "Epidemiological trends and seasonality of respiratory syncytial virus infection in children based on sentinel hospital surveillance data.",
+    "source": "Trop Med Health",
+    "pubdate": "2026 May 14",
+    "authors": [
+      "Hu Z",
+      "Liu J",
+      "Zhou C",
+      "Li W",
+      "Sun Y",
+      "Chen S"
+    ],
+    "lastauthor": "Chen S",
+    "sortfirstauthor": "Hu Z",
+    "journal": "Tropical medicine and health",
+    "issn": "1348-8945",
+    "essn": "",
+    "doi": "doi: 10.1186/s41182-026-00972-0",
+    "sortpubdate": "2026/05/14 00:00",
+    "epubdate": "2026 May 14"
   }
 ]
