@@ -70953,7 +70953,7 @@
     "pubdate": "2026 May 13",
     "authors": [
       "Rico-Alba I",
-      "Retana-Guzmán A",
+      "Retana-Guzm��n A",
       "Agudelo-Botero M",
       "Dávila-Cervantes CA"
     ],
@@ -71027,6 +71027,68 @@
     "essn": "2396-9881",
     "doi": "doi: 10.1093/esj/aakag026",
     "sortpubdate": "2026/05/06 00:00",
+    "epubdate": ""
+  },
+  {
+    "name": "GBD database",
+    "id": "42141737",
+    "title": "Global Burden of Respiratory Tract Cancers From 1990 to 2021: Systematic Analysis of the Global Burden of Disease Study 2021.",
+    "source": "Thorac Cancer",
+    "pubdate": "2026 May",
+    "authors": [
+      "Wang Y",
+      "Yao Y",
+      "Sun X",
+      "Yu D",
+      "Zhang C"
+    ],
+    "lastauthor": "Zhang C",
+    "sortfirstauthor": "Wang Y",
+    "journal": "Thoracic cancer",
+    "issn": "1759-7706",
+    "essn": "1759-7714",
+    "doi": "doi: 10.1111/1759-7714.70302",
+    "sortpubdate": "2026/05/01 00:00",
+    "epubdate": ""
+  },
+  {
+    "name": "GBD database",
+    "id": "42134351",
+    "title": "The plight of the Monaco microstate in the GBD 2023 study - Authors' reply.",
+    "source": "Lancet",
+    "pubdate": "2026 May 16",
+    "authors": [
+      "Hay SI",
+      "Bisignano C",
+      "Murray CJL"
+    ],
+    "lastauthor": "Murray CJL",
+    "sortfirstauthor": "Hay SI",
+    "journal": "Lancet (London, England)",
+    "issn": "0140-6736",
+    "essn": "1474-547X",
+    "doi": "doi: 10.1016/S0140-6736(26)00550-7",
+    "sortpubdate": "2026/05/16 00:00",
+    "epubdate": ""
+  },
+  {
+    "name": "GBD database",
+    "id": "42134348",
+    "title": "The plight of the Monaco microstate in the GBD 2023 study.",
+    "source": "Lancet",
+    "pubdate": "2026 May 16",
+    "authors": [
+      "Wyper GMA",
+      "Cuschieri S",
+      "Devleesschauwer B"
+    ],
+    "lastauthor": "Devleesschauwer B",
+    "sortfirstauthor": "Wyper GMA",
+    "journal": "Lancet (London, England)",
+    "issn": "0140-6736",
+    "essn": "1474-547X",
+    "doi": "doi: 10.1016/S0140-6736(26)00042-5",
+    "sortpubdate": "2026/05/16 00:00",
     "epubdate": ""
   }
 ]

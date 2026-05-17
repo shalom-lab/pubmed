@@ -6094,7 +6094,7 @@
     "authors": [
       "Tejero A",
       "Benito-Patón V",
-      "Griñ��n-Ferré C",
+      "Griñán-Ferré C",
       "Pallás M",
       "León-Navarro D",
       "Martín M"
@@ -6883,7 +6883,7 @@
     "id": "42070372",
     "title": "Respiratory syncytial virus (RSV) vaccination program for older Australians reduces health inequalities: a distributional cost-effectiveness analysis.",
     "source": "Vaccine",
-    "pubdate": "2026 May 2",
+    "pubdate": "2026 Jun 11",
     "authors": [
       "Paul KK",
       "Torres M",
@@ -6900,7 +6900,7 @@
     "issn": "0264-410X",
     "essn": "1873-2518",
     "doi": "doi: 10.1016/j.vaccine.2026.128644",
-    "sortpubdate": "2026/05/02 00:00",
+    "sortpubdate": "2026/06/11 00:00",
     "epubdate": "2026 May 2"
   },
   {
@@ -6970,5 +6970,36 @@
     "doi": "doi: 10.3390/antiox15040509",
     "sortpubdate": "2026/04/20 00:00",
     "epubdate": "2026 Apr 20"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "42140385",
+    "title": "Age-related pharyngeal microbiome and host transcriptomic signatures underlying fever responses in RSV bronchiolitis.",
+    "source": "Virol Sin",
+    "pubdate": "2026 May 14",
+    "authors": [
+      "Li Y",
+      "Zhang J",
+      "Liu H",
+      "Noman M",
+      "Rizwan MA",
+      "Isiaka ID",
+      "Chen H",
+      "Li W",
+      "Zhao N",
+      "Li Y",
+      "Sun Y",
+      "Lu X",
+      "Liu D",
+      "Yan Y"
+    ],
+    "lastauthor": "Yan Y",
+    "sortfirstauthor": "Li Y",
+    "journal": "Virologica Sinica",
+    "issn": "",
+    "essn": "1995-820X",
+    "doi": "pii: S1995-820X(26)00077-5. doi: 10.1016/j.virs.2026.05.002",
+    "sortpubdate": "2026/05/14 00:00",
+    "epubdate": "2026 May 14"
   }
 ]
