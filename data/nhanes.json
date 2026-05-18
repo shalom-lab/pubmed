@@ -102723,7 +102723,7 @@
     "sortfirstauthor": "Shin S",
     "journal": "Clinical nutrition research",
     "issn": "2287-3732",
-    "essn": "",
+    "essn": "2287-3740",
     "doi": "doi: 10.7762/cnr.2026.0013",
     "sortpubdate": "2026/04/01 00:00",
     "epubdate": "2026 Apr 30"
@@ -102742,7 +102742,7 @@
     "sortfirstauthor": "Park S",
     "journal": "Clinical nutrition research",
     "issn": "2287-3732",
-    "essn": "",
+    "essn": "2287-3740",
     "doi": "doi: 10.7762/cnr.2026.0007",
     "sortpubdate": "2026/04/01 00:00",
     "epubdate": "2026 Apr 30"
@@ -102998,5 +102998,74 @@
     "doi": "doi: 10.1016/j.fct.2026.116150",
     "sortpubdate": "2026/05/14 00:00",
     "epubdate": "2026 May 14"
+  },
+  {
+    "name": "NHANES",
+    "id": "42142261",
+    "title": "Adherence to 24-hour movement guidelines and mortality risks in US cancer survivors: a national cohort study.",
+    "source": "Support Care Cancer",
+    "pubdate": "2026 May 16",
+    "authors": [
+      "Yang M",
+      "Chen Y",
+      "Fan T",
+      "Zhu D",
+      "Ji M",
+      "Ding Y",
+      "Ren L",
+      "Xu J"
+    ],
+    "lastauthor": "Xu J",
+    "sortfirstauthor": "Yang M",
+    "journal": "Supportive care in cancer : official journal of the Multinational Association of Supportive Care in Cancer",
+    "issn": "0941-4355",
+    "essn": "1433-7339",
+    "doi": "pii: 545. doi: 10.1007/s00520-026-10753-4",
+    "sortpubdate": "2026/05/16 00:00",
+    "epubdate": "2026 May 16"
+  },
+  {
+    "name": "NHANES",
+    "id": "42142249",
+    "title": "Association of hepatitis A virus with periodontitis: a cross-sectional and genetic analysis.",
+    "source": "Eur J Clin Microbiol Infect Dis",
+    "pubdate": "2026 May 16",
+    "authors": [
+      "Zheng Z",
+      "Wu J"
+    ],
+    "lastauthor": "Wu J",
+    "sortfirstauthor": "Zheng Z",
+    "journal": "European journal of clinical microbiology & infectious diseases : official publication of the European Society of Clinical Microbiology",
+    "issn": "0934-9723",
+    "essn": "1435-4373",
+    "doi": "doi: 10.1007/s10096-026-05531-3",
+    "sortpubdate": "2026/05/16 00:00",
+    "epubdate": "2026 May 16"
+  },
+  {
+    "name": "NHANES",
+    "id": "42142247",
+    "title": "Associations of 24-h movement behaviors with depressive symptoms among cancer survivors: findings from the NHANES 2011-2014.",
+    "source": "J Cancer Surviv",
+    "pubdate": "2026 May 16",
+    "authors": [
+      "de O Tavares VD",
+      "Teychenne M",
+      "Barreira TV",
+      "Schuch FB",
+      "Skinner G",
+      "Galvão-Coelho NL",
+      "Costa EC",
+      "Browne RAV"
+    ],
+    "lastauthor": "Browne RAV",
+    "sortfirstauthor": "de O Tavares VD",
+    "journal": "Journal of cancer survivorship : research and practice",
+    "issn": "1932-2259",
+    "essn": "1932-2267",
+    "doi": "doi: 10.1007/s11764-026-02034-0",
+    "sortpubdate": "2026/05/16 00:00",
+    "epubdate": "2026 May 16"
   }
 ]

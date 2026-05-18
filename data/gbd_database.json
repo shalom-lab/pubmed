@@ -70953,7 +70953,7 @@
     "pubdate": "2026 May 13",
     "authors": [
       "Rico-Alba I",
-      "Retana-Guzm��n A",
+      "Retana-Guzmán A",
       "Agudelo-Botero M",
       "Dávila-Cervantes CA"
     ],
@@ -71090,5 +71090,51 @@
     "doi": "doi: 10.1016/S0140-6736(26)00042-5",
     "sortpubdate": "2026/05/16 00:00",
     "epubdate": ""
+  },
+  {
+    "name": "GBD database",
+    "id": "42143225",
+    "title": "Global burden and forecast of acute viral hepatitis B among women of childbearing age: a systematic analysis of the global burden of disease study 2021.",
+    "source": "BMC Infect Dis",
+    "pubdate": "2026 May 16",
+    "authors": [
+      "Wu WD",
+      "Li RX",
+      "Shi DQ",
+      "Chiragkumar SD",
+      "Gao YY",
+      "Liu JX",
+      "Xiao Y",
+      "Si L"
+    ],
+    "lastauthor": "Si L",
+    "sortfirstauthor": "Wu WD",
+    "journal": "BMC infectious diseases",
+    "issn": "",
+    "essn": "1471-2334",
+    "doi": "doi: 10.1186/s12879-026-13302-w",
+    "sortpubdate": "2026/05/16 00:00",
+    "epubdate": "2026 May 16"
+  },
+  {
+    "name": "GBD database",
+    "id": "42142593",
+    "title": "Trends and projections of the melanoma burden in G20 countries: A comprehensive analysis from the Global Burden of Disease Study, 1990-2023.",
+    "source": "J Am Acad Dermatol",
+    "pubdate": "2026 May 15",
+    "authors": [
+      "Yu H",
+      "Ma J",
+      "Lin P",
+      "Li H"
+    ],
+    "lastauthor": "Li H",
+    "sortfirstauthor": "Yu H",
+    "journal": "Journal of the American Academy of Dermatology",
+    "issn": "0190-9622",
+    "essn": "1097-6787",
+    "doi": "pii: S0190-9622(26)02659-9. doi: 10.1016/j.jaad.2026.05.024",
+    "sortpubdate": "2026/05/15 00:00",
+    "epubdate": "2026 May 15"
   }
 ]
