@@ -5179,5 +5179,56 @@
     "doi": "pii: S2352-4642(26)00075-1. doi: 10.1016/S2352-4642(26)00075-1",
     "sortpubdate": "2026/05/07 00:00",
     "epubdate": "2026 May 7"
+  },
+  {
+    "name": "Nirsevimab effectiveness",
+    "id": "42149973",
+    "title": "Impact of nirsevimab implementation on the mid-term burden of bronchiolitis in the outpatient setting: results from the prospective OURSYN study.",
+    "source": "J Pediatric Infect Dis Soc",
+    "pubdate": "2026 May 18",
+    "authors": [
+      "Lenglart L",
+      "Levy C",
+      "Cahn-Sellem F",
+      "Zouari M",
+      "Frederic H",
+      "Béchet S",
+      "Boulhol M",
+      "Kramer R",
+      "Rybak A",
+      "Ouldali N",
+      "Cohen R"
+    ],
+    "lastauthor": "Cohen R",
+    "sortfirstauthor": "Lenglart L",
+    "journal": "Journal of the Pediatric Infectious Diseases Society",
+    "issn": "2048-7193",
+    "essn": "2048-7207",
+    "doi": "pii: piag035. doi: 10.1093/jpids/piag035",
+    "sortpubdate": "2026/05/18 00:00",
+    "epubdate": "2026 May 18"
+  },
+  {
+    "name": "Nirsevimab effectiveness",
+    "id": "42148106",
+    "title": "Determinants of success and failure of antibody-based strategies against respiratory viruses: insights from RSV and SARS-CoV-2.",
+    "source": "Front Immunol",
+    "pubdate": "2026",
+    "authors": [
+      "Guo H",
+      "Wang H",
+      "Wu S",
+      "Lin H",
+      "Wang G",
+      "Pu Q"
+    ],
+    "lastauthor": "Pu Q",
+    "sortfirstauthor": "Guo H",
+    "journal": "Frontiers in immunology",
+    "issn": "",
+    "essn": "1664-3224",
+    "doi": "doi: 10.3389/fimmu.2026.1818721",
+    "sortpubdate": "2026/05/01 00:00",
+    "epubdate": "2026 May 1"
   }
 ]

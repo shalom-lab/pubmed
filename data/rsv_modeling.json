@@ -7001,5 +7001,25 @@
     "doi": "pii: S1995-820X(26)00077-5. doi: 10.1016/j.virs.2026.05.002",
     "sortpubdate": "2026/05/14 00:00",
     "epubdate": "2026 May 14"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "42145635",
+    "title": "Beyond influenza-like-illness: data-driven syndromic surveillance for fine-scale monitoring of seasonal respiratory viruses.",
+    "source": "medRxiv",
+    "pubdate": "2026 May 5",
+    "authors": [
+      "Corgel R",
+      "Tiu A",
+      "Bansal S"
+    ],
+    "lastauthor": "Bansal S",
+    "sortfirstauthor": "Corgel R",
+    "journal": "medRxiv : the preprint server for health sciences",
+    "issn": "",
+    "essn": "",
+    "doi": "pii: 2025.12.03.25341530. doi: 10.64898/2025.12.03.25341530",
+    "sortpubdate": "2026/05/05 00:00",
+    "epubdate": "2026 May 5"
   }
 ]
