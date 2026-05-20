@@ -6381,7 +6381,7 @@
     "id": "42012186",
     "title": "The oral nucleoside analogue inhibitor VV251 effectively inhibits coinfection by respiratory syncytial virus and influenza A virus.",
     "source": "J Virol",
-    "pubdate": "2026 Apr 21",
+    "pubdate": "2026 May 19",
     "authors": [
       "Zhang R",
       "Jian X",
@@ -6402,7 +6402,7 @@
     "issn": "0022-538X",
     "essn": "1098-5514",
     "doi": "doi: 10.1128/jvi.00006-26",
-    "sortpubdate": "2026/04/21 00:00",
+    "sortpubdate": "2026/05/19 00:00",
     "epubdate": "2026 Apr 21"
   },
   {
@@ -7021,5 +7021,28 @@
     "doi": "pii: 2025.12.03.25341530. doi: 10.64898/2025.12.03.25341530",
     "sortpubdate": "2026/05/05 00:00",
     "epubdate": "2026 May 5"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "41922595",
+    "title": "An evaluation of a Bayesian method to track outbreaks of known and novel influenza-like illnesses.",
+    "source": "Sci Rep",
+    "pubdate": "2026 Apr 1",
+    "authors": [
+      "Aronis JM",
+      "Ye Y",
+      "Espino J",
+      "Michaels MG",
+      "Hochheiser H",
+      "Cooper GF"
+    ],
+    "lastauthor": "Cooper GF",
+    "sortfirstauthor": "Aronis JM",
+    "journal": "Scientific reports",
+    "issn": "",
+    "essn": "2045-2322",
+    "doi": "doi: 10.1038/s41598-026-45934-y",
+    "sortpubdate": "2026/04/01 00:00",
+    "epubdate": "2026 Apr 1"
   }
 ]

@@ -8071,5 +8071,33 @@
     "doi": "pii: 2025.12.03.25341530. doi: 10.64898/2025.12.03.25341530",
     "sortpubdate": "2026/05/05 00:00",
     "epubdate": "2026 May 5"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "42151312",
+    "title": "Clinical and epidemiological changes in severe viral respiratory infections in pediatric patients after the COVID-19 pandemic in Spain.",
+    "source": "Sci Rep",
+    "pubdate": "2026 May 18",
+    "authors": [
+      "García-García ML",
+      "Alonso-López P",
+      "Alcolea S",
+      "María A",
+      "Iglesias-Caballero M",
+      "Sánchez-León R",
+      "Hurtado-Gallego J",
+      "Mas V",
+      "Pozo F",
+      "Casas I",
+      "Calvo C"
+    ],
+    "lastauthor": "Calvo C",
+    "sortfirstauthor": "García-García ML",
+    "journal": "Scientific reports",
+    "issn": "",
+    "essn": "2045-2322",
+    "doi": "doi: 10.1038/s41598-026-52362-5",
+    "sortpubdate": "2026/05/18 00:00",
+    "epubdate": "2026 May 18"
   }
 ]
