@@ -8099,5 +8099,69 @@
     "doi": "doi: 10.1038/s41598-026-52362-5",
     "sortpubdate": "2026/05/18 00:00",
     "epubdate": "2026 May 18"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "42158377",
+    "title": "Epidemiology of respiratory syncytial virus in a German hospital before, during and after the COVID-19 pandemic - a real world monocentric analysis over ten years.",
+    "source": "Front Pediatr",
+    "pubdate": "2026",
+    "authors": [
+      "Loerch S",
+      "Erdnüß F",
+      "Frerich B",
+      "Reineke T",
+      "Kamin W"
+    ],
+    "lastauthor": "Kamin W",
+    "sortfirstauthor": "Loerch S",
+    "journal": "Frontiers in pediatrics",
+    "issn": "2296-2360",
+    "essn": "2296-2360",
+    "doi": "doi: 10.3389/fped.2026.1771759",
+    "sortpubdate": "2026/05/04 00:00",
+    "epubdate": "2026 May 4"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "42158356",
+    "title": "Molecular Epidemiology of Pediatric Respiratory Infections in Xinjiang, China: A Cross-Sectional Study of Six Pathogens.",
+    "source": "Infect Drug Resist",
+    "pubdate": "2026",
+    "authors": [
+      "Chen Y",
+      "Zeng Y"
+    ],
+    "lastauthor": "Zeng Y",
+    "sortfirstauthor": "Chen Y",
+    "journal": "Infection and drug resistance",
+    "issn": "1178-6973",
+    "essn": "1178-6973",
+    "doi": "doi: 10.2147/IDR.S601040",
+    "sortpubdate": "2026/05/13 00:00",
+    "epubdate": "2026 May 13"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "42156378",
+    "title": "A real-time early warning system to anticipate respiratory disease outbreaks using transfer learning.",
+    "source": "Nat Commun",
+    "pubdate": "2026 May 19",
+    "authors": [
+      "Garrido-Garcia R",
+      "Clemente L",
+      "Meyer AG",
+      "Dewey G",
+      "Yang S",
+      "Santillana M"
+    ],
+    "lastauthor": "Santillana M",
+    "sortfirstauthor": "Garrido-Garcia R",
+    "journal": "Nature communications",
+    "issn": "",
+    "essn": "2041-1723",
+    "doi": "doi: 10.1038/s41467-026-72655-7",
+    "sortpubdate": "2026/05/19 00:00",
+    "epubdate": "2026 May 19"
   }
 ]
