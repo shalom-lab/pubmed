@@ -70948,9 +70948,9 @@
   {
     "name": "GBD database",
     "id": "42134649",
-    "title": "Trends of metabolic dysfunction-associated steatotic liver disease in Mexico, 1990-2023: insights from the Global Burden of Disease Study.",
+    "title": "Trends of metabolic dysfunction-associated steatotic liver disease in Mexico, 1990-2023: insights from the Global Burden of disease study.",
     "source": "Ann Hepatol",
-    "pubdate": "2026 May 13",
+    "pubdate": "2026 May 14",
     "authors": [
       "Rico-Alba I",
       "Retana-Guzmán A",
@@ -70963,8 +70963,8 @@
     "issn": "1665-2681",
     "essn": "",
     "doi": "doi: 10.1016/j.aohep.2026.102224",
-    "sortpubdate": "2026/05/13 00:00",
-    "epubdate": "2026 May 13"
+    "sortpubdate": "2026/05/14 00:00",
+    "epubdate": "2026 May 14"
   },
   {
     "name": "GBD database",
@@ -71897,5 +71897,189 @@
     "doi": "doi: 10.1016/j.jaim.2026.101326",
     "sortpubdate": "2026/05/20 00:00",
     "epubdate": "2026 May 20"
+  },
+  {
+    "name": "GBD database",
+    "id": "42170608",
+    "title": "Sleep Disorders: A Blind Spot in Disease Burden Research.",
+    "source": "Int J Public Health",
+    "pubdate": "2026",
+    "authors": [
+      "Welter LS",
+      "Nissen C",
+      "Rasch B",
+      "Heinzer R",
+      "Datta AN",
+      "Piovesana E",
+      "Bouvier Gallacchi M",
+      "Sterpenich V",
+      "Bassetti CLA"
+    ],
+    "lastauthor": "Bassetti CLA",
+    "sortfirstauthor": "Welter LS",
+    "journal": "International journal of public health",
+    "issn": "1661-8556",
+    "essn": "1661-8564",
+    "doi": "doi: 10.3389/ijph.2026.1609757",
+    "sortpubdate": "2026/05/06 00:00",
+    "epubdate": "2026 May 6"
+  },
+  {
+    "name": "GBD database",
+    "id": "42170457",
+    "title": "The divergent effects of population aging: comparative analysis of the burden of Alzheimer's disease and other dementias in China and G20 countries, 1990-2050.",
+    "source": "Am J Transl Res",
+    "pubdate": "2026",
+    "authors": [
+      "Qiu G",
+      "Huang Y",
+      "Wang Q",
+      "Si K",
+      "Xu S",
+      "Yu Y",
+      "Hu P"
+    ],
+    "lastauthor": "Hu P",
+    "sortfirstauthor": "Qiu G",
+    "journal": "American journal of translational research",
+    "issn": "1943-8141",
+    "essn": "1943-8141",
+    "doi": "doi: 10.62347/TRUN6708",
+    "sortpubdate": "2026/04/25 00:00",
+    "epubdate": "2026 Apr 25"
+  },
+  {
+    "name": "GBD database",
+    "id": "42170102",
+    "title": "Regional and national burden of six major digestive cancers in Asia, 1990-2023: An analysis of the GBD Study 2023.",
+    "source": "iScience",
+    "pubdate": "2026 May 15",
+    "authors": [
+      "Zhang L",
+      "Li F",
+      "Zhang J"
+    ],
+    "lastauthor": "Zhang J",
+    "sortfirstauthor": "Zhang L",
+    "journal": "iScience",
+    "issn": "",
+    "essn": "2589-0042",
+    "doi": "doi: 10.1016/j.isci.2026.115728",
+    "sortpubdate": "2026/04/15 00:00",
+    "epubdate": "2026 Apr 15"
+  },
+  {
+    "name": "GBD database",
+    "id": "42169696",
+    "title": "Global, Regional, and National Burdens of Refraction Disorders in Children and Adolescents From 2010 to 2021.",
+    "source": "J Ophthalmol",
+    "pubdate": "2026",
+    "authors": [
+      "Zhao J",
+      "Sun L",
+      "Guo X",
+      "Zhang L"
+    ],
+    "lastauthor": "Zhang L",
+    "sortfirstauthor": "Zhao J",
+    "journal": "Journal of ophthalmology",
+    "issn": "2090-004X",
+    "essn": "2090-0058",
+    "doi": "doi: 10.1155/joph/5159332",
+    "sortpubdate": "2026/05/20 00:00",
+    "epubdate": "2026 May 20"
+  },
+  {
+    "name": "GBD database",
+    "id": "42169038",
+    "title": "The three-decade trajectory of hepatitis C burden among women of reproductive age in China: a retrospective and predictive study.",
+    "source": "Virol J",
+    "pubdate": "2026 May 21",
+    "authors": [
+      "Zhang Y",
+      "Yan J",
+      "Li M",
+      "Yue C"
+    ],
+    "lastauthor": "Yue C",
+    "sortfirstauthor": "Zhang Y",
+    "journal": "Virology journal",
+    "issn": "",
+    "essn": "1743-422X",
+    "doi": "pii: 127. doi: 10.1186/s12985-026-03079-4",
+    "sortpubdate": "2026/05/21 00:00",
+    "epubdate": "2026 May 21"
+  },
+  {
+    "name": "GBD database",
+    "id": "42168898",
+    "title": "Global burden of antimicrobial-resistant Staphylococcus aureus lower respiratory tract infections in older adults: a secondary analysis of the MICROBE database (1990-2021).",
+    "source": "BMC Infect Dis",
+    "pubdate": "2026 May 21",
+    "authors": [
+      "Wei K",
+      "Liu Q"
+    ],
+    "lastauthor": "Liu Q",
+    "sortfirstauthor": "Wei K",
+    "journal": "BMC infectious diseases",
+    "issn": "",
+    "essn": "1471-2334",
+    "doi": "doi: 10.1186/s12879-026-13649-0",
+    "sortpubdate": "2026/05/21 00:00",
+    "epubdate": "2026 May 21"
+  },
+  {
+    "name": "GBD database",
+    "id": "42168648",
+    "title": "MASLD prevalence, incidence and global aspects.",
+    "source": "Diabetologia",
+    "pubdate": "2026 May 21",
+    "authors": [
+      "Wild SH",
+      "Lazarus JV",
+      "Spearman CW",
+      "Ocama P",
+      "Bilson J",
+      "Zhou XD",
+      "Zheng MH",
+      "Byrne CD"
+    ],
+    "lastauthor": "Byrne CD",
+    "sortfirstauthor": "Wild SH",
+    "journal": "Diabetologia",
+    "issn": "0012-186X",
+    "essn": "1432-0428",
+    "doi": "doi: 10.1007/s00125-026-06726-1",
+    "sortpubdate": "2026/05/21 00:00",
+    "epubdate": "2026 May 21"
+  },
+  {
+    "name": "GBD database",
+    "id": "42167898",
+    "title": "Global and regional insights: unravelling the epidemiological factors and burden of autism spectrum disorders with a focus on China from 1990 to 2021.",
+    "source": "BMJ Paediatr Open",
+    "pubdate": "2026 May 21",
+    "authors": [
+      "Hai Y",
+      "Yang Y",
+      "Zou M",
+      "Ye P",
+      "Wang J",
+      "Feng L",
+      "Gong X",
+      "Zhang T",
+      "Tian M",
+      "Sun C",
+      "Wu L"
+    ],
+    "lastauthor": "Wu L",
+    "sortfirstauthor": "Hai Y",
+    "journal": "BMJ paediatrics open",
+    "issn": "",
+    "essn": "2399-9772",
+    "doi": "pii: e004048. doi: 10.1136/bmjpo-2025-004048",
+    "sortpubdate": "2026/05/21 00:00",
+    "epubdate": "2026 May 21"
   }
 ]

@@ -7104,5 +7104,37 @@
     "doi": "doi: 10.1371/journal.pone.0344869",
     "sortpubdate": "2026/05/21 00:00",
     "epubdate": "2026 May 21"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "42167899",
+    "title": "Enhancing respiratory virus surveillance among hospitalised children: a machine learning-based predictive model.",
+    "source": "BMJ Paediatr Open",
+    "pubdate": "2026 May 21",
+    "authors": [
+      "Kant T",
+      "Datta RR",
+      "Farrar DS",
+      "Mtaweh H",
+      "Kaziev CL",
+      "Chen Y",
+      "Mahant S",
+      "Seaton C",
+      "Han M",
+      "Freire G",
+      "Campigotto A",
+      "Buchanan F",
+      "Morris SK",
+      "Gill PJ",
+      "READAPT-Kids Study"
+    ],
+    "lastauthor": "Gill PJ",
+    "sortfirstauthor": "Kant T",
+    "journal": "BMJ paediatrics open",
+    "issn": "",
+    "essn": "2399-9772",
+    "doi": "pii: e004505. doi: 10.1136/bmjpo-2026-004505",
+    "sortpubdate": "2026/05/21 00:00",
+    "epubdate": "2026 May 21"
   }
 ]
