@@ -4401,7 +4401,7 @@
       "Muñoz Platón E",
       "Rivas Wagner E",
       "Santiago-Pérez MI",
-      "Álvarez R��o V",
+      "Álvarez Río V",
       "Zornoza Moreno M",
       "Fernández Ibáñez A",
       "Perez Suarez G",
@@ -5309,5 +5309,24 @@
     "doi": "doi: 10.1186/s12879-026-13419-y",
     "sortpubdate": "2026/05/20 00:00",
     "epubdate": "2026 May 20"
+  },
+  {
+    "name": "Nirsevimab effectiveness",
+    "id": "42174815",
+    "title": "Integrating ARIMA and Deep Learning Models for Counterfactual Evaluation of Nirsevimab's Early Impact on RSV Infant Admissions.",
+    "source": "Stud Health Technol Inform",
+    "pubdate": "2026 May 21",
+    "authors": [
+      "Cohen G",
+      "Fallot M"
+    ],
+    "lastauthor": "Fallot M",
+    "sortfirstauthor": "Cohen G",
+    "journal": "Studies in health technology and informatics",
+    "issn": "0926-9630",
+    "essn": "1879-8365",
+    "doi": "doi: 10.3233/SHTI260138",
+    "sortpubdate": "2026/05/21 00:00",
+    "epubdate": ""
   }
 ]
