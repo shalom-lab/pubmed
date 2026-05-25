@@ -7155,5 +7155,28 @@
     "doi": "doi: 10.3233/SHTI260138",
     "sortpubdate": "2026/05/21 00:00",
     "epubdate": ""
+  },
+  {
+    "name": "RSV modeling",
+    "id": "42176437",
+    "title": "Modelling the impact of long-acting monoclonal antibody, maternal vaccine and hybrid programs of RSV immunisation in temperate Western Australia.",
+    "source": "Vaccine",
+    "pubdate": "2026 May 23",
+    "authors": [
+      "Giannini F",
+      "Hogan AB",
+      "Blyth CC",
+      "Glass K",
+      "Moore HC",
+      "STAMP RSV investigator team"
+    ],
+    "lastauthor": "Moore HC",
+    "sortfirstauthor": "Giannini F",
+    "journal": "Vaccine",
+    "issn": "0264-410X",
+    "essn": "1873-2518",
+    "doi": "doi: 10.1016/j.vaccine.2026.128731",
+    "sortpubdate": "2026/05/23 00:00",
+    "epubdate": "2026 May 23"
   }
 ]

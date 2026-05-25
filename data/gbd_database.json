@@ -72139,5 +72139,46 @@
     "doi": "doi: 10.1016/S0140-6736(26)00519-2",
     "sortpubdate": "2026/05/23 00:00",
     "epubdate": ""
+  },
+  {
+    "name": "GBD database",
+    "id": "42177696",
+    "title": "The burden of nasopharyngeal carcinoma in countries of the Association of Southeast Asian Nations (ASEAN), 1990-2023: findings from the Global Burden of Disease Study 2023.",
+    "source": "J Cancer Res Clin Oncol",
+    "pubdate": "2026 May 24",
+    "authors": [
+      "Cheng L",
+      "Dong J",
+      "Li J"
+    ],
+    "lastauthor": "Li J",
+    "sortfirstauthor": "Cheng L",
+    "journal": "Journal of cancer research and clinical oncology",
+    "issn": "0171-5216",
+    "essn": "1432-1335",
+    "doi": "doi: 10.1007/s00432-026-06514-9",
+    "sortpubdate": "2026/05/24 00:00",
+    "epubdate": "2026 May 24"
+  },
+  {
+    "name": "GBD database",
+    "id": "42169038",
+    "title": "The three-decade trajectory of hepatitis C burden among women of reproductive age in China: a retrospective and predictive study.",
+    "source": "Virol J",
+    "pubdate": "2026 May 21",
+    "authors": [
+      "Zhang Y",
+      "Yan J",
+      "Li M",
+      "Yue C"
+    ],
+    "lastauthor": "Yue C",
+    "sortfirstauthor": "Zhang Y",
+    "journal": "Virology journal",
+    "issn": "",
+    "essn": "1743-422X",
+    "doi": "doi: 10.1186/s12985-026-03079-4",
+    "sortpubdate": "2026/05/21 00:00",
+    "epubdate": "2026 May 21"
   }
 ]

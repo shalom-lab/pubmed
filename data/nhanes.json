@@ -105441,5 +105441,69 @@
     "doi": "doi: 10.1186/s40842-026-00299-z",
     "sortpubdate": "2026/05/22 00:00",
     "epubdate": "2026 May 22"
+  },
+  {
+    "name": "NHANES",
+    "id": "42177312",
+    "title": "Association between METS-VF and hypertension in U.S.: a cross-sectional analysis of NHANES data.",
+    "source": "Sci Rep",
+    "pubdate": "2026 May 23",
+    "authors": [
+      "Guo Z",
+      "Zhang Z",
+      "Tian Y",
+      "Guo X",
+      "Xu H",
+      "Chu H",
+      "Wang S",
+      "Gao L",
+      "Wang Y"
+    ],
+    "lastauthor": "Wang Y",
+    "sortfirstauthor": "Guo Z",
+    "journal": "Scientific reports",
+    "issn": "",
+    "essn": "2045-2322",
+    "doi": "doi: 10.1038/s41598-026-54530-z",
+    "sortpubdate": "2026/05/23 00:00",
+    "epubdate": "2026 May 23"
+  },
+  {
+    "name": "NHANES",
+    "id": "42177274",
+    "title": "Nutrient-wide associations of asthma, atopic dermatitis, and allergic rhinitis in Korean adults: a cross-sectional analysis of KNHANES 2016-2023.",
+    "source": "Sci Rep",
+    "pubdate": "2026 May 23",
+    "authors": [
+      "Hwang YK",
+      "Min HJ"
+    ],
+    "lastauthor": "Min HJ",
+    "sortfirstauthor": "Hwang YK",
+    "journal": "Scientific reports",
+    "issn": "",
+    "essn": "2045-2322",
+    "doi": "doi: 10.1038/s41598-026-54259-9",
+    "sortpubdate": "2026/05/23 00:00",
+    "epubdate": "2026 May 23"
+  },
+  {
+    "name": "NHANES",
+    "id": "42176295",
+    "title": "Association of Physical Activity with Abdominal Aortic Calcification in Chronic Kidney Disease: A Cross-Sectional Study.",
+    "source": "Kidney Blood Press Res",
+    "pubdate": "2026 May 23",
+    "authors": [
+      "Kong Y",
+      "Zhang A"
+    ],
+    "lastauthor": "Zhang A",
+    "sortfirstauthor": "Kong Y",
+    "journal": "Kidney & blood pressure research",
+    "issn": "1420-4096",
+    "essn": "1423-0143",
+    "doi": "doi: 10.1159/000552553",
+    "sortpubdate": "2026/05/23 00:00",
+    "epubdate": "2026 May 23"
   }
 ]
