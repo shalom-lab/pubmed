@@ -7178,5 +7178,30 @@
     "doi": "doi: 10.1016/j.vaccine.2026.128731",
     "sortpubdate": "2026/05/23 00:00",
     "epubdate": "2026 May 23"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "42188782",
+    "title": "Cost-Effectiveness Analysis of Clesrovimab for Respiratory Syncytial Virus in Infants in the United States.",
+    "source": "Vaccines (Basel)",
+    "pubdate": "2026 May 1",
+    "authors": [
+      "Kura K",
+      "Lang JC",
+      "Wang D",
+      "Choi Y",
+      "Goveia MG",
+      "Sinha A",
+      "Chen YH",
+      "Elbasha EH"
+    ],
+    "lastauthor": "Elbasha EH",
+    "sortfirstauthor": "Kura K",
+    "journal": "Vaccines",
+    "issn": "2076-393X",
+    "essn": "",
+    "doi": "pii: 411. doi: 10.3390/vaccines14050411",
+    "sortpubdate": "2026/05/01 00:00",
+    "epubdate": "2026 May 1"
   }
 ]

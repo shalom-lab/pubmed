@@ -5328,5 +5328,63 @@
     "doi": "doi: 10.3233/SHTI260138",
     "sortpubdate": "2026/05/21 00:00",
     "epubdate": ""
+  },
+  {
+    "name": "Nirsevimab effectiveness",
+    "id": "42188782",
+    "title": "Cost-Effectiveness Analysis of Clesrovimab for Respiratory Syncytial Virus in Infants in the United States.",
+    "source": "Vaccines (Basel)",
+    "pubdate": "2026 May 1",
+    "authors": [
+      "Kura K",
+      "Lang JC",
+      "Wang D",
+      "Choi Y",
+      "Goveia MG",
+      "Sinha A",
+      "Chen YH",
+      "Elbasha EH"
+    ],
+    "lastauthor": "Elbasha EH",
+    "sortfirstauthor": "Kura K",
+    "journal": "Vaccines",
+    "issn": "2076-393X",
+    "essn": "",
+    "doi": "pii: 411. doi: 10.3390/vaccines14050411",
+    "sortpubdate": "2026/05/01 00:00",
+    "epubdate": "2026 May 1"
+  },
+  {
+    "name": "Nirsevimab effectiveness",
+    "id": "42184441",
+    "title": "ATAGI Targeted Review 2024: Immunisation strategies for prevention and control of respiratory syncytial virus disease in Australia.",
+    "source": "Commun Dis Intell (2018)",
+    "pubdate": "2026 May 26",
+    "authors": [
+      "Imai-Boulter C",
+      "Li-Kim-Moy J",
+      "McRae J",
+      "Chiu C",
+      "Jayasinghe S",
+      "Macartney K",
+      "Gibney K",
+      "Bellamy K",
+      "Cooper K",
+      "Flanagan K",
+      "Giles M",
+      "Marshall J",
+      "Silberstein N",
+      "Teh B",
+      "Webby R",
+      "Crawford N"
+    ],
+    "lastauthor": "Crawford N",
+    "sortfirstauthor": "Imai-Boulter C",
+    "journal": "Communicable diseases intelligence (2018)",
+    "issn": "",
+    "essn": "2209-6051",
+    "doi": "doi: 10.33321/cdi.2026.50.034",
+    "sortpubdate": "2026/05/26 00:00",
+    "epubdate": "2026 May 26"
   }
 ]
