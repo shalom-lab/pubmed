@@ -5386,5 +5386,30 @@
     "doi": "doi: 10.33321/cdi.2026.50.034",
     "sortpubdate": "2026/05/26 00:00",
     "epubdate": "2026 May 26"
+  },
+  {
+    "name": "Nirsevimab effectiveness",
+    "id": "42188782",
+    "title": "Cost-Effectiveness Analysis of Clesrovimab for Respiratory Syncytial Virus in Infants in the United States.",
+    "source": "Vaccines (Basel)",
+    "pubdate": "2026 May 1",
+    "authors": [
+      "Kura K",
+      "Lang JC",
+      "Wang D",
+      "Choi Y",
+      "Goveia MG",
+      "Sinha A",
+      "Chen YH",
+      "Elbasha EH"
+    ],
+    "lastauthor": "Elbasha EH",
+    "sortfirstauthor": "Kura K",
+    "journal": "Vaccines",
+    "issn": "2076-393X",
+    "essn": "2076-393X",
+    "doi": "doi: 10.3390/vaccines14050411",
+    "sortpubdate": "2026/05/01 00:00",
+    "epubdate": "2026 May 1"
   }
 ]

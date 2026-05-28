@@ -7203,5 +7203,62 @@
     "doi": "pii: 411. doi: 10.3390/vaccines14050411",
     "sortpubdate": "2026/05/01 00:00",
     "epubdate": "2026 May 1"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "42188782",
+    "title": "Cost-Effectiveness Analysis of Clesrovimab for Respiratory Syncytial Virus in Infants in the United States.",
+    "source": "Vaccines (Basel)",
+    "pubdate": "2026 May 1",
+    "authors": [
+      "Kura K",
+      "Lang JC",
+      "Wang D",
+      "Choi Y",
+      "Goveia MG",
+      "Sinha A",
+      "Chen YH",
+      "Elbasha EH"
+    ],
+    "lastauthor": "Elbasha EH",
+    "sortfirstauthor": "Kura K",
+    "journal": "Vaccines",
+    "issn": "2076-393X",
+    "essn": "2076-393X",
+    "doi": "doi: 10.3390/vaccines14050411",
+    "sortpubdate": "2026/05/01 00:00",
+    "epubdate": "2026 May 1"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "42167899",
+    "title": "Enhancing respiratory virus surveillance among hospitalised children: a machine learning-based predictive model.",
+    "source": "BMJ Paediatr Open",
+    "pubdate": "2026 May 21",
+    "authors": [
+      "Kant T",
+      "Datta RR",
+      "Farrar DS",
+      "Mtaweh H",
+      "Kaziev CL",
+      "Chen Y",
+      "Mahant S",
+      "Seaton C",
+      "Han M",
+      "Freire G",
+      "Campigotto A",
+      "Buchanan F",
+      "Morris SK",
+      "Gill PJ",
+      "READAPT-Kids Study"
+    ],
+    "lastauthor": "Gill PJ",
+    "sortfirstauthor": "Kant T",
+    "journal": "BMJ paediatrics open",
+    "issn": "",
+    "essn": "2399-9772",
+    "doi": "doi: 10.1136/bmjpo-2026-004505",
+    "sortpubdate": "2026/05/21 00:00",
+    "epubdate": "2026 May 21"
   }
 ]
