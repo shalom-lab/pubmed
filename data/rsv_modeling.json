@@ -5882,7 +5882,7 @@
     "id": "41914371",
     "title": "The Effectiveness of the Palivizumab Programme in Reducing the Risk of Paediatric Asthma: A Population-Based Study in Ontario, Canada.",
     "source": "Paediatr Perinat Epidemiol",
-    "pubdate": "2026 Mar 31",
+    "pubdate": "2026 May",
     "authors": [
       "Foley KA",
       "Buchan SA",
@@ -5901,7 +5901,7 @@
     "issn": "0269-5022",
     "essn": "1365-3016",
     "doi": "doi: 10.1111/ppe.70141",
-    "sortpubdate": "2026/03/31 00:00",
+    "sortpubdate": "2026/05/01 00:00",
     "epubdate": "2026 Mar 31"
   },
   {
@@ -7260,5 +7260,30 @@
     "doi": "doi: 10.1136/bmjpo-2026-004505",
     "sortpubdate": "2026/05/21 00:00",
     "epubdate": "2026 May 21"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "42083930",
+    "title": "Post-pandemic immunity debt for paediatric infectious diseases in Japan between 2014 and 2024.",
+    "source": "Epidemiol Infect",
+    "pubdate": "2026 May 5",
+    "authors": [
+      "Kitamura N",
+      "Kondo N",
+      "Ith S",
+      "Okuyama M",
+      "Kamigaki T",
+      "Yoneoka D",
+      "Tsukakoshi T",
+      "Suzuki M"
+    ],
+    "lastauthor": "Suzuki M",
+    "sortfirstauthor": "Kitamura N",
+    "journal": "Epidemiology and infection",
+    "issn": "0950-2688",
+    "essn": "1469-4409",
+    "doi": "doi: 10.1017/S0950268826101587",
+    "sortpubdate": "2026/05/05 00:00",
+    "epubdate": "2026 May 5"
   }
 ]
