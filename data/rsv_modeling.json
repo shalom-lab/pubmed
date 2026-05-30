@@ -7285,5 +7285,27 @@
     "doi": "doi: 10.1017/S0950268826101587",
     "sortpubdate": "2026/05/05 00:00",
     "epubdate": "2026 May 5"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "42210054",
+    "title": "Integrated analysis of human-mouse gut microbiota in RSV infection based on machine learning.",
+    "source": "BMC Microbiol",
+    "pubdate": "2026 May 28",
+    "authors": [
+      "Duan Y",
+      "Guo C",
+      "Xie L",
+      "Liu H",
+      "Liu Y"
+    ],
+    "lastauthor": "Liu Y",
+    "sortfirstauthor": "Duan Y",
+    "journal": "BMC microbiology",
+    "issn": "",
+    "essn": "1471-2180",
+    "doi": "doi: 10.1186/s12866-026-05228-9",
+    "sortpubdate": "2026/05/28 00:00",
+    "epubdate": "2026 May 28"
   }
 ]

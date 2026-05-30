@@ -73625,5 +73625,77 @@
     "doi": "doi: 10.3390/cancers18101572",
     "sortpubdate": "2026/05/12 00:00",
     "epubdate": "2026 May 12"
+  },
+  {
+    "name": "GBD database",
+    "id": "42213479",
+    "title": "Temporal trends in mortality and disability from occupational asbestos exposure in Southeast Asia, 1990-2023.",
+    "source": "J Occup Environ Med",
+    "pubdate": "2026 May 29",
+    "authors": [
+      "Liu XL",
+      "Zhang QW",
+      "Wei L",
+      "Shi DL",
+      "Wang Z"
+    ],
+    "lastauthor": "Wang Z",
+    "sortfirstauthor": "Liu XL",
+    "journal": "Journal of occupational and environmental medicine",
+    "issn": "1076-2752",
+    "essn": "1536-5948",
+    "doi": "doi: 10.1097/JOM.0000000000003768",
+    "sortpubdate": "2026/05/29 00:00",
+    "epubdate": "2026 May 29"
+  },
+  {
+    "name": "GBD database",
+    "id": "42212592",
+    "title": "Global, regional, and national trends in blindness and vision loss, 1990-2021: a secondary ecological trend analysis based on modelled population estimates.",
+    "source": "J Glob Health",
+    "pubdate": "2026 May 29",
+    "authors": [
+      "Wu SN",
+      "Jiang Y",
+      "Guan W",
+      "Xu C",
+      "Zeng DX",
+      "Yan B",
+      "Lv J",
+      "Huang C",
+      "Hu J",
+      "Han Y",
+      "Liu Z"
+    ],
+    "lastauthor": "Liu Z",
+    "sortfirstauthor": "Wu SN",
+    "journal": "Journal of global health",
+    "issn": "2047-2978",
+    "essn": "2047-2986",
+    "doi": "doi: 10.7189/jogh.16.04176",
+    "sortpubdate": "2026/05/29 00:00",
+    "epubdate": "2026 May 29"
+  },
+  {
+    "name": "GBD database",
+    "id": "42211528",
+    "title": "Disease burden of cervical cancer in China from 1990 to 2023 and prediction of future trends.",
+    "source": "Front Oncol",
+    "pubdate": "2026",
+    "authors": [
+      "Yan T",
+      "Ma Q",
+      "Shi H",
+      "Qi D",
+      "Liu L"
+    ],
+    "lastauthor": "Liu L",
+    "sortfirstauthor": "Yan T",
+    "journal": "Frontiers in oncology",
+    "issn": "2234-943X",
+    "essn": "",
+    "doi": "doi: 10.3389/fonc.2026.1802330",
+    "sortpubdate": "2026/05/13 00:00",
+    "epubdate": "2026 May 13"
   }
 ]
