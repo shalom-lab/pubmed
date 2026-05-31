@@ -3731,5 +3731,28 @@
     "doi": "doi: 10.3390/ijms27104393",
     "sortpubdate": "2026/05/14 00:00",
     "epubdate": "2026 May 14"
+  },
+  {
+    "name": "Vitamin D and respiratory infections",
+    "id": "42215147",
+    "title": "Hormonal, metabolic and metabolomic biomarkers in long COVID.",
+    "source": "Adv Clin Chem",
+    "pubdate": "2026",
+    "authors": [
+      "Petropoulou D",
+      "Karampela I",
+      "Christodoulatos GS",
+      "Kounatidis D",
+      "Vallianou NG",
+      "Dalamaga M"
+    ],
+    "lastauthor": "Dalamaga M",
+    "sortfirstauthor": "Petropoulou D",
+    "journal": "Advances in clinical chemistry",
+    "issn": "0065-2423",
+    "essn": "2162-9471",
+    "doi": "doi: 10.1016/bs.acc.2026.01.002",
+    "sortpubdate": "2026/01/01 00:00",
+    "epubdate": "2026 Feb 24"
   }
 ]

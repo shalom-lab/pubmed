@@ -6701,7 +6701,7 @@
     "id": "42061498",
     "title": "Respiratory syncytial virus as an independent driver of a subsequent influenza epidemic in Berlin before and after the COVID-19 pandemic.",
     "source": "Int J Infect Dis",
-    "pubdate": "2026 Apr 28",
+    "pubdate": "2026 Jul",
     "authors": [
       "Terliesner N",
       "Lesniowski D",
@@ -6718,7 +6718,7 @@
     "issn": "1201-9712",
     "essn": "1878-3511",
     "doi": "doi: 10.1016/j.ijid.2026.108741",
-    "sortpubdate": "2026/04/28 00:00",
+    "sortpubdate": "2026/07/01 00:00",
     "epubdate": "2026 Apr 28"
   },
   {
@@ -7307,5 +7307,41 @@
     "doi": "doi: 10.1186/s12866-026-05228-9",
     "sortpubdate": "2026/05/28 00:00",
     "epubdate": "2026 May 28"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "42215780",
+    "title": "Polymerase-inhibitor drug synergy and mutational signatures in different epithelial cell models of RSVA and hPIV3 infection.",
+    "source": "NPJ Antimicrob Resist",
+    "pubdate": "2026 May 29",
+    "authors": [
+      "Ellis S",
+      "Jacobs AI",
+      "Zhang S",
+      "Buggiotti L",
+      "Woodall M",
+      "Ajeian J",
+      "Tutill H",
+      "Miller C",
+      "Palor M",
+      "Kopec A",
+      "Haughey EK",
+      "Ma H",
+      "Sharma A",
+      "Tomlinson M",
+      "Williams R",
+      "O'Callaghan C",
+      "Standing JF",
+      "Smith CM",
+      "Breuer J"
+    ],
+    "lastauthor": "Breuer J",
+    "sortfirstauthor": "Ellis S",
+    "journal": "npj antimicrobials and resistance",
+    "issn": "",
+    "essn": "2731-8745",
+    "doi": "doi: 10.1038/s44259-026-00222-7",
+    "sortpubdate": "2026/05/29 00:00",
+    "epubdate": "2026 May 29"
   }
 ]
