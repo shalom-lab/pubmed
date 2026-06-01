@@ -3754,5 +3754,24 @@
     "doi": "doi: 10.1016/bs.acc.2026.01.002",
     "sortpubdate": "2026/01/01 00:00",
     "epubdate": "2026 Feb 24"
+  },
+  {
+    "name": "Vitamin D and respiratory infections",
+    "id": "41962688",
+    "title": "Hypervitaminosis: The deleterious effects of vitamins on the skin.",
+    "source": "Clin Dermatol",
+    "pubdate": "2026 May-Jun",
+    "authors": [
+      "Chen M",
+      "Driscoll MS"
+    ],
+    "lastauthor": "Driscoll MS",
+    "sortfirstauthor": "Chen M",
+    "journal": "Clinics in dermatology",
+    "issn": "0738-081X",
+    "essn": "1879-1131",
+    "doi": "doi: 10.1016/j.clindermatol.2026.04.011",
+    "sortpubdate": "2026/05/01 00:00",
+    "epubdate": "2026 Apr 8"
   }
 ]

@@ -73132,7 +73132,7 @@
   {
     "name": "GBD database",
     "id": "42191030",
-    "title": "Global Disability-Adjusted Life Years Burden of Lower Respiratory Infections Caused by Streptococcus pneumoniae, Staphylococcus aureus, and Klebsiella pneumoniae, 1990-2021: A Systematic Analysis of the Global Burden of Disease Study 2021.",
+    "title": "Global disability-adjusted life years burden of lower respiratory infections caused by Streptococcus pneumoniae, Staphylococcus aureus, and Klebsiella pneumoniae, 1990-2021: A systematic analysis of the global burden of disease study 2021.",
     "source": "J Infect",
     "pubdate": "2026 May 25",
     "authors": [
@@ -73961,5 +73961,55 @@
     "doi": "doi: 10.1016/j.identj.2026.109655",
     "sortpubdate": "2026/05/29 00:00",
     "epubdate": "2026 May 29"
+  },
+  {
+    "name": "GBD database",
+    "id": "42218442",
+    "title": "Social inequalities in cause-specific premature mortality in rural and urban France: a pre-pandemic population attributable fraction analysis.",
+    "source": "Popul Health Metr",
+    "pubdate": "2026 May 30",
+    "authors": [
+      "Mahrouseh N",
+      "Bonnet F",
+      "Varga O",
+      "Scohy A",
+      "Bruyère O",
+      "Delpierre C",
+      "Devleesschauwer B",
+      "Wyper GMA",
+      "Haneef R"
+    ],
+    "lastauthor": "Haneef R",
+    "sortfirstauthor": "Mahrouseh N",
+    "journal": "Population health metrics",
+    "issn": "",
+    "essn": "1478-7954",
+    "doi": "doi: 10.1186/s12963-026-00486-1",
+    "sortpubdate": "2026/05/30 00:00",
+    "epubdate": "2026 May 30"
+  },
+  {
+    "name": "GBD database",
+    "id": "42216934",
+    "title": "Lead-Attributable Cardiovascular Disease Burden in North Africa and the Middle East: GBD 2023 Study.",
+    "source": "JACC Asia",
+    "pubdate": "2026 May 20",
+    "authors": [
+      "Nasrollahizadeh A",
+      "Dastjerdi P",
+      "Rahmati S",
+      "Taebi M",
+      "Shahmohammadi A",
+      "Javankiani S",
+      "Soleimani H"
+    ],
+    "lastauthor": "Soleimani H",
+    "sortfirstauthor": "Nasrollahizadeh A",
+    "journal": "JACC. Asia",
+    "issn": "",
+    "essn": "2772-3747",
+    "doi": "pii: S2772-3747(26)00260-7. doi: 10.1016/j.jacasi.2026.03.039",
+    "sortpubdate": "2026/05/20 00:00",
+    "epubdate": "2026 May 20"
   }
 ]
