@@ -72692,7 +72692,7 @@
     "id": "42202376",
     "title": "Modifiable Risk Factors for Atrial Fibrillation/Flutter in the Association of Southeast Asian Nations: Global Burden of Disease 2021.",
     "source": "JACC Adv",
-    "pubdate": "2026 Apr 28",
+    "pubdate": "2026 May",
     "authors": [
       "Baig MMA",
       "Umar M",
@@ -72720,7 +72720,7 @@
     "issn": "",
     "essn": "2772-963X",
     "doi": "doi: 10.1016/j.jacadv.2026.102775",
-    "sortpubdate": "2026/04/28 00:00",
+    "sortpubdate": "2026/05/01 00:00",
     "epubdate": "2026 Apr 28"
   },
   {
@@ -74011,5 +74011,126 @@
     "doi": "pii: S2772-3747(26)00260-7. doi: 10.1016/j.jacasi.2026.03.039",
     "sortpubdate": "2026/05/20 00:00",
     "epubdate": "2026 May 20"
+  },
+  {
+    "name": "GBD database",
+    "id": "42224392",
+    "title": "Rising lung cancer burden attributable to high fasting plasma glucose in women aged ≥50 years: age-, SDI-, and BRICS-specific patterns from GBD 1990-2021.",
+    "source": "Oncology",
+    "pubdate": "2026 Jun 1",
+    "authors": [
+      "Lin L",
+      "Huang X",
+      "Li B",
+      "Li J",
+      "Chen H"
+    ],
+    "lastauthor": "Chen H",
+    "sortfirstauthor": "Lin L",
+    "journal": "Oncology",
+    "issn": "0030-2414",
+    "essn": "1423-0232",
+    "doi": "doi: 10.1159/000552661",
+    "sortpubdate": "2026/06/01 00:00",
+    "epubdate": "2026 Jun 1"
+  },
+  {
+    "name": "GBD database",
+    "id": "42223810",
+    "title": "Exploring the global, regional, and Chinese disease burden of acute glomerulonephritis from 1990 to 2021 and future trends up to 2039 based on the 2021 Global Burden of Disease Database.",
+    "source": "Int Urol Nephrol",
+    "pubdate": "2026 May 31",
+    "authors": [
+      "Li X",
+      "Ma H",
+      "Xu H"
+    ],
+    "lastauthor": "Xu H",
+    "sortfirstauthor": "Li X",
+    "journal": "International urology and nephrology",
+    "issn": "0301-1623",
+    "essn": "1573-2584",
+    "doi": "doi: 10.1007/s11255-026-05226-w",
+    "sortpubdate": "2026/05/31 00:00",
+    "epubdate": "2026 May 31"
+  },
+  {
+    "name": "GBD database",
+    "id": "42222893",
+    "title": "Proteins as Mediators of the Association Between Dietary Pattern and Premature Coronary Heart Disease: A Prospective Cohort Study.",
+    "source": "Mol Nutr Food Res",
+    "pubdate": "2026 Jun",
+    "authors": [
+      "Wang L",
+      "Yang J",
+      "Ye B",
+      "Liu Y",
+      "Xia M"
+    ],
+    "lastauthor": "Xia M",
+    "sortfirstauthor": "Wang L",
+    "journal": "Molecular nutrition & food research",
+    "issn": "1613-4125",
+    "essn": "1613-4133",
+    "doi": "doi: 10.1002/mnfr.70518",
+    "sortpubdate": "2026/06/01 00:00",
+    "epubdate": ""
+  },
+  {
+    "name": "GBD database",
+    "id": "42219229",
+    "title": "Unveiling the BMI Risk Threshold for Osteoarthritis: Multi-Database Causal and Nonlinear Evidence.",
+    "source": "Diabetes Obes Metab",
+    "pubdate": "2026 May 31",
+    "authors": [
+      "Yu S",
+      "Zeng L",
+      "Yang L",
+      "Ou Y",
+      "Yang C",
+      "Lin X",
+      "Shao J",
+      "Guan Q",
+      "Li G",
+      "Lin X"
+    ],
+    "lastauthor": "Lin X",
+    "sortfirstauthor": "Yu S",
+    "journal": "Diabetes, obesity & metabolism",
+    "issn": "1462-8902",
+    "essn": "1463-1326",
+    "doi": "doi: 10.1111/dom.70892",
+    "sortpubdate": "2026/05/31 00:00",
+    "epubdate": "2026 May 31"
+  },
+  {
+    "name": "GBD database",
+    "id": "42218877",
+    "title": "Global inequities in hepatitis B and C genomic surveillance revealed through an interactive data integration dashboard.",
+    "source": "Public Health",
+    "pubdate": "2026 May 31",
+    "authors": [
+      "Tshiabuila D",
+      "Fonseca V",
+      "de Castro Silva D",
+      "Maponga TG",
+      "Mohammed KS",
+      "Delphin M",
+      "Matthews PC",
+      "Wilkinson E",
+      "Dor G",
+      "Baxter C",
+      "James SE",
+      "Martin DP",
+      "de Oliveira T"
+    ],
+    "lastauthor": "de Oliveira T",
+    "sortfirstauthor": "Tshiabuila D",
+    "journal": "Public health",
+    "issn": "0033-3506",
+    "essn": "1476-5616",
+    "doi": "doi: 10.1016/j.puhe.2026.106338",
+    "sortpubdate": "2026/05/31 00:00",
+    "epubdate": "2026 May 31"
   }
 ]

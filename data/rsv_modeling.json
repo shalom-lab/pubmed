@@ -7361,5 +7361,57 @@
     "doi": "doi: 10.1186/s12931-026-03751-x",
     "sortpubdate": "2026/05/30 00:00",
     "epubdate": "2026 May 30"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "42223840",
+    "title": "Respiratory syncytial virus in adults aged ≥ 50 years in France: a database and time-series modelling analysis (2014-2020).",
+    "source": "Infection",
+    "pubdate": "2026 Jun 1",
+    "authors": [
+      "Reeves RM",
+      "Hagenaars S",
+      "Ammoun R",
+      "Borsik B",
+      "Colin X",
+      "Fonseca MJ",
+      "Pliakas T",
+      "Amodio E",
+      "Russell CA",
+      "Osei-Yeboah R",
+      "Marijam A",
+      "Loubet P"
+    ],
+    "lastauthor": "Loubet P",
+    "sortfirstauthor": "Reeves RM",
+    "journal": "Infection",
+    "issn": "0300-8126",
+    "essn": "1439-0973",
+    "doi": "doi: 10.1007/s15010-026-02799-7",
+    "sortpubdate": "2026/06/01 00:00",
+    "epubdate": "2026 Jun 1"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "42221582",
+    "title": "Development and internal validation of a clinical prediction model for septic shock in pediatric respiratory syncytial virus bronchiolitis based on routine blood biomarkers and concomitant fungal infection.",
+    "source": "Front Cell Infect Microbiol",
+    "pubdate": "2026",
+    "authors": [
+      "Dong J",
+      "Ouyang Y",
+      "Ni J",
+      "Zhao M",
+      "Du Z",
+      "Fang K"
+    ],
+    "lastauthor": "Fang K",
+    "sortfirstauthor": "Dong J",
+    "journal": "Frontiers in cellular and infection microbiology",
+    "issn": "",
+    "essn": "2235-2988",
+    "doi": "doi: 10.3389/fcimb.2026.1743976",
+    "sortpubdate": "2026/05/15 00:00",
+    "epubdate": "2026 May 15"
   }
 ]
