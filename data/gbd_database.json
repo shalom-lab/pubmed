@@ -72728,7 +72728,7 @@
     "id": "42201989",
     "title": "Global burden, projections, and causal factors of maternal sepsis and other maternal infections: A comprehensive epidemiological and mendelian randomization study.",
     "source": "PLoS Negl Trop Dis",
-    "pubdate": "2026 May 27",
+    "pubdate": "2026 May",
     "authors": [
       "Jiang A",
       "Duan S",
@@ -74132,5 +74132,49 @@
     "doi": "doi: 10.1016/j.puhe.2026.106338",
     "sortpubdate": "2026/05/31 00:00",
     "epubdate": "2026 May 31"
+  },
+  {
+    "name": "GBD database",
+    "id": "42228724",
+    "title": "Burden of acute lymphoblastic leukemia in children and adolescents in low- and middle-income countries from 1990 to 2023 and projections to 2050: A systematic analysis from the global burden of disease study 2023.",
+    "source": "PLoS One",
+    "pubdate": "2026",
+    "authors": [
+      "Liu P",
+      "Xu Z",
+      "Song W",
+      "Yang J",
+      "Li J"
+    ],
+    "lastauthor": "Li J",
+    "sortfirstauthor": "Liu P",
+    "journal": "PloS one",
+    "issn": "",
+    "essn": "1932-6203",
+    "doi": "doi: 10.1371/journal.pone.0350223",
+    "sortpubdate": "2026/06/02 00:00",
+    "epubdate": "2026 Jun 2"
+  },
+  {
+    "name": "GBD database",
+    "id": "42226940",
+    "title": "Divergent Burden Profiles of HIV/AIDS and Other Sexually Transmitted Infections Among Women of Child-Bearing Age, 1990-2021.",
+    "source": "Int J Womens Health",
+    "pubdate": "2026",
+    "authors": [
+      "Li Z",
+      "Li S",
+      "Lin G",
+      "Zou Y",
+      "You C"
+    ],
+    "lastauthor": "You C",
+    "sortfirstauthor": "Li Z",
+    "journal": "International journal of women's health",
+    "issn": "1179-1411",
+    "essn": "1179-1411",
+    "doi": "doi: 10.2147/IJWH.S608337",
+    "sortpubdate": "2026/05/26 00:00",
+    "epubdate": "2026 May 26"
   }
 ]
