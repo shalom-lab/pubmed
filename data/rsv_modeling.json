@@ -7413,5 +7413,31 @@
     "doi": "doi: 10.3389/fcimb.2026.1743976",
     "sortpubdate": "2026/05/15 00:00",
     "epubdate": "2026 May 15"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "42239540",
+    "title": "Epidemiological trends and climate-driven dynamics of children respiratory infections in Lanzhou, China: a multi-pathogen time-series analysis.",
+    "source": "Front Cell Infect Microbiol",
+    "pubdate": "2026",
+    "authors": [
+      "Wang B",
+      "Zhang H",
+      "Liang S",
+      "Wei H",
+      "Zhang L",
+      "Wang M",
+      "Zhang H",
+      "Zhang X",
+      "Dong M"
+    ],
+    "lastauthor": "Dong M",
+    "sortfirstauthor": "Wang B",
+    "journal": "Frontiers in cellular and infection microbiology",
+    "issn": "",
+    "essn": "2235-2988",
+    "doi": "doi: 10.3389/fcimb.2026.1777468",
+    "sortpubdate": "2026/05/19 00:00",
+    "epubdate": "2026 May 19"
   }
 ]
