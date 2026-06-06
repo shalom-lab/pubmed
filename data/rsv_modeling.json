@@ -7439,5 +7439,61 @@
     "doi": "doi: 10.3389/fcimb.2026.1777468",
     "sortpubdate": "2026/05/19 00:00",
     "epubdate": "2026 May 19"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "42246372",
+    "title": "A strategic blueprint for strengthening respiratory syncytial virus prevention among under-five children in low- and middle-income countries: Bangladesh as a model for new immunisation approaches.",
+    "source": "J Glob Health",
+    "pubdate": "2026 Jun 5",
+    "authors": [
+      "Bhuiya S",
+      "Chowdhury F",
+      "Islam MA",
+      "Shuvo TA",
+      "Aleem MA",
+      "Basher AK",
+      "Shoshi HR",
+      "Pyash AS",
+      "Hussain M",
+      "Shirin T",
+      "Rahman M",
+      "Homaira N",
+      "Hassan MZ"
+    ],
+    "lastauthor": "Hassan MZ",
+    "sortfirstauthor": "Bhuiya S",
+    "journal": "Journal of global health",
+    "issn": "2047-2978",
+    "essn": "2047-2986",
+    "doi": "doi: 10.7189/jogh.16.03013",
+    "sortpubdate": "2026/06/05 00:00",
+    "epubdate": "2026 Jun 5"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "42241813",
+    "title": "Molecular and clinical characterization of respiratory syncytial virus genotypes in a medical centre in Central Taiwan across the COVID-19 era.",
+    "source": "J Infect Public Health",
+    "pubdate": "2026 Jun 2",
+    "authors": [
+      "Lee WH",
+      "Su HC",
+      "Chen LL",
+      "Wu PC",
+      "Su MC",
+      "Lin HH",
+      "Ho MW",
+      "Lin CW",
+      "Hsueh PR"
+    ],
+    "lastauthor": "Hsueh PR",
+    "sortfirstauthor": "Lee WH",
+    "journal": "Journal of infection and public health",
+    "issn": "1876-0341",
+    "essn": "1876-035X",
+    "doi": "doi: 10.1016/j.jiph.2026.103278",
+    "sortpubdate": "2026/06/02 00:00",
+    "epubdate": "2026 Jun 2"
   }
 ]
