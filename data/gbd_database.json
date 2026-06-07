@@ -74538,7 +74538,7 @@
     "sortfirstauthor": "Li X",
     "journal": "Future science OA",
     "issn": "2056-5623",
-    "essn": "",
+    "essn": "2056-5623",
     "doi": "doi: 10.1080/20565623.2026.2677580",
     "sortpubdate": "2026/12/01 00:00",
     "epubdate": "2026 Jun 4"
@@ -75041,5 +75041,73 @@
     "doi": "doi: 10.1016/j.ijfoodmicro.2026.111883",
     "sortpubdate": "2026/06/01 00:00",
     "epubdate": "2026 Jun 1"
+  },
+  {
+    "name": "GBD database",
+    "id": "42249971",
+    "title": "Trends in mortality and disability-adjusted life years (DALYs) attributable to subarachnoid hemorrhage in South Asia (2000-2023).",
+    "source": "Neurosurg Rev",
+    "pubdate": "2026 Jun 6",
+    "authors": [
+      "Raheem A",
+      "Waheed S",
+      "Muneer K",
+      "Khan MW",
+      "Shamim MS",
+      "Janjua TK",
+      "Khan NU"
+    ],
+    "lastauthor": "Khan NU",
+    "sortfirstauthor": "Raheem A",
+    "journal": "Neurosurgical review",
+    "issn": "0344-5607",
+    "essn": "1437-2320",
+    "doi": "pii: 435. doi: 10.1007/s10143-026-04357-z",
+    "sortpubdate": "2026/06/06 00:00",
+    "epubdate": "2026 Jun 6"
+  },
+  {
+    "name": "GBD database",
+    "id": "42249503",
+    "title": "Appendicitis burden in Africa, 2010-2023: temporal trends, pandemic-era deviations, and projections to 2030.",
+    "source": "Trop Med Health",
+    "pubdate": "2026 Jun 5",
+    "authors": [
+      "Li H",
+      "Wang D",
+      "Peng Y",
+      "Cai R",
+      "Gao Y",
+      "Zhou B",
+      "Chen G"
+    ],
+    "lastauthor": "Chen G",
+    "sortfirstauthor": "Li H",
+    "journal": "Tropical medicine and health",
+    "issn": "1348-8945",
+    "essn": "",
+    "doi": "doi: 10.1186/s41182-026-00990-y",
+    "sortpubdate": "2026/06/05 00:00",
+    "epubdate": "2026 Jun 5"
+  },
+  {
+    "name": "GBD database",
+    "id": "42247844",
+    "title": "The growing burden of dementia in Asia: Comparative insights from Japan, China, and India.",
+    "source": "J Prev Alzheimers Dis",
+    "pubdate": "2026 Jun 5",
+    "authors": [
+      "Zhang C",
+      "Chen X",
+      "Sun Y"
+    ],
+    "lastauthor": "Sun Y",
+    "sortfirstauthor": "Zhang C",
+    "journal": "The journal of prevention of Alzheimer's disease",
+    "issn": "2274-5807",
+    "essn": "2426-0266",
+    "doi": "doi: 10.1016/j.tjpad.2026.100614",
+    "sortpubdate": "2026/06/05 00:00",
+    "epubdate": "2026 Jun 5"
   }
 ]

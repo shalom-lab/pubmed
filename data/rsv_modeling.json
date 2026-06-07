@@ -5996,7 +5996,7 @@
     "id": "41935586",
     "title": "Targeting the human protein disulfide isomerase A3 as a broad-spectrum antiviral approach against human respiratory viruses.",
     "source": "Int J Antimicrob Agents",
-    "pubdate": "2026 Apr 2",
+    "pubdate": "2026 Jul",
     "authors": [
       "Sibille G",
       "Maggiora A",
@@ -6010,7 +6010,7 @@
     "issn": "0924-8579",
     "essn": "1872-7913",
     "doi": "doi: 10.1016/j.ijantimicag.2026.107802",
-    "sortpubdate": "2026/04/02 00:00",
+    "sortpubdate": "2026/07/01 00:00",
     "epubdate": "2026 Apr 2"
   },
   {
@@ -7495,5 +7495,30 @@
     "doi": "doi: 10.1016/j.jiph.2026.103278",
     "sortpubdate": "2026/06/02 00:00",
     "epubdate": "2026 Jun 2"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "42250002",
+    "title": "Kinetic Modelling of the Decay of Respiratory Syncytial Viruses (RSV) Facilitated a Robust Wastewater-Based Surveillance for RSV.",
+    "source": "Food Environ Virol",
+    "pubdate": "2026 Jun 6",
+    "authors": [
+      "Long Y",
+      "Liu J",
+      "Shi X",
+      "Yang X",
+      "Long Y",
+      "Xiao J",
+      "Han X",
+      "Fu S"
+    ],
+    "lastauthor": "Fu S",
+    "sortfirstauthor": "Long Y",
+    "journal": "Food and environmental virology",
+    "issn": "1867-0334",
+    "essn": "1867-0342",
+    "doi": "pii: 27. doi: 10.1007/s12560-026-09701-6",
+    "sortpubdate": "2026/06/06 00:00",
+    "epubdate": "2026 Jun 6"
   }
 ]

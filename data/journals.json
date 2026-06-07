@@ -9269,7 +9269,8 @@
   {
     "source": "Future Sci OA",
     "journal": "Future science OA",
-    "issn": "2056-5623"
+    "issn": "2056-5623",
+    "essn": "2056-5623"
   },
   {
     "source": "J Am Dent Assoc",
@@ -14513,5 +14514,27 @@
     "journal": "Annals of allergy, asthma & immunology : official publication of the American College of Allergy, Asthma, & Immunology",
     "issn": "1081-1206",
     "essn": "1534-4436"
+  },
+  {
+    "source": "Transplant Cell Ther",
+    "journal": "Transplantation and cellular therapy",
+    "essn": "2666-6367"
+  },
+  {
+    "source": "Microvasc Res",
+    "journal": "Microvascular research",
+    "issn": "0026-2862",
+    "essn": "1095-9319"
+  },
+  {
+    "source": "Scott Med J",
+    "journal": "Scottish medical journal",
+    "issn": "0036-9330",
+    "essn": "2045-6441"
+  },
+  {
+    "source": "Ideggyogy Sz",
+    "journal": "Ideggyogyaszati szemle",
+    "issn": "0019-1442"
   }
 ]
