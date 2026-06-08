@@ -110120,5 +110120,95 @@
     "doi": "doi: 10.1016/j.identj.2026.109651",
     "sortpubdate": "2026/06/05 00:00",
     "epubdate": "2026 Jun 5"
+  },
+  {
+    "name": "NHANES",
+    "id": "42251434",
+    "title": "Association between generalized anxiety disorder and health-related quality of life.",
+    "source": "Ann Gen Psychiatry",
+    "pubdate": "2026 Jun 6",
+    "authors": [
+      "Kim J",
+      "Lee Y",
+      "Park S"
+    ],
+    "lastauthor": "Park S",
+    "sortfirstauthor": "Kim J",
+    "journal": "Annals of general psychiatry",
+    "issn": "1744-859X",
+    "essn": "",
+    "doi": "doi: 10.1186/s12991-026-00682-1",
+    "sortpubdate": "2026/06/06 00:00",
+    "epubdate": "2026 Jun 6"
+  },
+  {
+    "name": "NHANES",
+    "id": "42251267",
+    "title": "Cross-population validation of the TyG-ABSI index as a novel predictor for chronic obstructive pulmonary disease: an integrated analysis using logistic regression and explainable machine learning.",
+    "source": "BMC Pulm Med",
+    "pubdate": "2026 Jun 6",
+    "authors": [
+      "Zhang J",
+      "Li H"
+    ],
+    "lastauthor": "Li H",
+    "sortfirstauthor": "Zhang J",
+    "journal": "BMC pulmonary medicine",
+    "issn": "",
+    "essn": "1471-2466",
+    "doi": "doi: 10.1186/s12890-026-04387-9",
+    "sortpubdate": "2026/06/06 00:00",
+    "epubdate": "2026 Jun 6"
+  },
+  {
+    "name": "NHANES",
+    "id": "42251168",
+    "title": "Effect of relative handgrip strength and back muscle strength on the incidence of hypertension: 18-year follow-up in a population-based cohort study.",
+    "source": "J Hum Hypertens",
+    "pubdate": "2026 Jun 6",
+    "authors": [
+      "Lee SK",
+      "Siddiquee AT",
+      "Kim S",
+      "Hwang YH",
+      "Koo JH",
+      "Jang YC",
+      "Kim SH",
+      "Kim NH",
+      "Jeon YJ",
+      "Shin C"
+    ],
+    "lastauthor": "Shin C",
+    "sortfirstauthor": "Lee SK",
+    "journal": "Journal of human hypertension",
+    "issn": "0950-9240",
+    "essn": "1476-5527",
+    "doi": "doi: 10.1038/s41371-026-01165-2",
+    "sortpubdate": "2026/06/06 00:00",
+    "epubdate": "2026 Jun 6"
+  },
+  {
+    "name": "NHANES",
+    "id": "42250655",
+    "title": "Differential associations of objective hearing loss and subjective hearing difficulty with depressive symptom profiles: A nationwide population-based study in Korea.",
+    "source": "Prev Med",
+    "pubdate": "2026 Jun 5",
+    "authors": [
+      "Park EJ",
+      "Ahn JH",
+      "Kim L",
+      "Noh J",
+      "Hwang C",
+      "Lee W",
+      "Jung SJ"
+    ],
+    "lastauthor": "Jung SJ",
+    "sortfirstauthor": "Park EJ",
+    "journal": "Preventive medicine",
+    "issn": "0091-7435",
+    "essn": "1096-0260",
+    "doi": "doi: 10.1016/j.ypmed.2026.108620",
+    "sortpubdate": "2026/06/05 00:00",
+    "epubdate": "2026 Jun 5"
   }
 ]
