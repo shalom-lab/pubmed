@@ -7734,7 +7734,7 @@
       "Rakić D",
       "Jurčev Savičević A"
     ],
-    "lastauthor": "Jur��ev Savičević A",
+    "lastauthor": "Jurčev Savičević A",
     "sortfirstauthor": "Kaliterna V",
     "journal": "Microorganisms",
     "issn": "2076-2607",
@@ -8841,5 +8841,61 @@
     "doi": "doi: 10.1186/s12879-026-13421-4",
     "sortpubdate": "2026/06/06 00:00",
     "epubdate": "2026 Jun 6"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "42262751",
+    "title": "Acute Respiratory Tract Infections and Severe Disease Among Hospitalized Children.",
+    "source": "JAMA Netw Open",
+    "pubdate": "2026 Jun 1",
+    "authors": [
+      "Mtaweh H",
+      "Kaziev CL",
+      "Feinstein CA",
+      "Seaton C",
+      "Farrar DS",
+      "Datta RR",
+      "Mahant S",
+      "Campigotto A",
+      "Freire G",
+      "Yeung RSM",
+      "Bone JN",
+      "Buchanan F",
+      "Morris SK",
+      "Gill PJ",
+      "READAPT-Kids Study Group"
+    ],
+    "lastauthor": "Gill PJ",
+    "sortfirstauthor": "Mtaweh H",
+    "journal": "JAMA network open",
+    "issn": "",
+    "essn": "2574-3805",
+    "doi": "doi: 10.1001/jamanetworkopen.2026.17575",
+    "sortpubdate": "2026/06/01 00:00",
+    "epubdate": "2026 Jun 1"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "42021237",
+    "title": "Impact of immune status on respiratory virus prevalence and co-detection patterns: a retrospective analysis (2019-2024).",
+    "source": "BMC Pulm Med",
+    "pubdate": "2026 Apr 22",
+    "authors": [
+      "Sahin EA",
+      "Caliskan E",
+      "Guzel Tunccan O",
+      "Tezer H",
+      "Fidan I",
+      "Caglar K",
+      "Bozdayi G"
+    ],
+    "lastauthor": "Bozdayi G",
+    "sortfirstauthor": "Sahin EA",
+    "journal": "BMC pulmonary medicine",
+    "issn": "",
+    "essn": "1471-2466",
+    "doi": "doi: 10.1186/s12890-026-04310-2",
+    "sortpubdate": "2026/04/22 00:00",
+    "epubdate": "2026 Apr 22"
   }
 ]
