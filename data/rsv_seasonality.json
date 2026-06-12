@@ -7895,7 +7895,7 @@
   {
     "name": "RSV seasonality",
     "id": "42128160",
-    "title": "A Comprehensive Overview of Upper and Lower Respiratory Infections in Turkey.",
+    "title": "A comprehensive overview of upper and lower respiratory infections in Türkiye.",
     "source": "Int J Infect Dis",
     "pubdate": "2026 May 12",
     "authors": [
@@ -8014,7 +8014,7 @@
     "id": "42140068",
     "title": "Wastewater-based surveillance for seasonal respiratory viruses provides a one-week lead to clinical cases and hospital admissions.",
     "source": "Sci Total Environ",
-    "pubdate": "2026 May 15",
+    "pubdate": "2026 Jun 25",
     "authors": [
       "Acosta N",
       "Dai X",
@@ -8049,7 +8049,7 @@
     "issn": "0048-9697",
     "essn": "1879-1026",
     "doi": "doi: 10.1016/j.scitotenv.2026.181862",
-    "sortpubdate": "2026/05/15 00:00",
+    "sortpubdate": "2026/06/25 00:00",
     "epubdate": "2026 May 15"
   },
   {
@@ -8897,5 +8897,54 @@
     "doi": "doi: 10.1186/s12890-026-04310-2",
     "sortpubdate": "2026/04/22 00:00",
     "epubdate": "2026 Apr 22"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "42266526",
+    "title": "Burden of Human Metapneumovirus in India: Epidemiological Trends and Clinical Impact.",
+    "source": "Indian J Community Med",
+    "pubdate": "2026 Apr",
+    "authors": [
+      "Mathew G",
+      "Varghese AD",
+      "Selvam P"
+    ],
+    "lastauthor": "Selvam P",
+    "sortfirstauthor": "Mathew G",
+    "journal": "Indian journal of community medicine : official publication of Indian Association of Preventive & Social Medicine",
+    "issn": "0970-0218",
+    "essn": "1998-3581",
+    "doi": "doi: 10.4103/ijcm.ijcm_550_25",
+    "sortpubdate": "2026/04/01 00:00",
+    "epubdate": "2026 May 6"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "42263484",
+    "title": "Advancing genomic surveillance of respiratory syncytial virus in Portugal through an adapted amplicon-based whole-genome sequencing workflow.",
+    "source": "Int J Med Microbiol",
+    "pubdate": "2026 Jun 6",
+    "authors": [
+      "Lança M",
+      "Borges V",
+      "Gaio V",
+      "Rodrigues AP",
+      "Santos D",
+      "Duarte S",
+      "Henriques C",
+      "Gomes L",
+      "Dias D",
+      "Chasqueira MJ",
+      "Guiomar R",
+      "Melo A"
+    ],
+    "lastauthor": "Melo A",
+    "sortfirstauthor": "Lança M",
+    "journal": "International journal of medical microbiology : IJMM",
+    "issn": "1438-4221",
+    "essn": "1618-0607",
+    "doi": "doi: 10.1016/j.ijmm.2026.151724",
+    "sortpubdate": "2026/06/06 00:00",
+    "epubdate": "2026 Jun 6"
   }
 ]
