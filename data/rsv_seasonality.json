@@ -8946,5 +8946,50 @@
     "doi": "doi: 10.1016/j.ijmm.2026.151724",
     "sortpubdate": "2026/06/06 00:00",
     "epubdate": "2026 Jun 6"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "42282163",
+    "title": "Spatiotemporal Dynamics of Human Metapneumovirus and Potential Impact of Respiratory Syncytial Virus Interventions in the United States.",
+    "source": "medRxiv",
+    "pubdate": "2026 Jun 4",
+    "authors": [
+      "Li K",
+      "Perniciaro S",
+      "Kwon J",
+      "Grubaugh ND",
+      "Weinberger DM",
+      "Pitzer VE"
+    ],
+    "lastauthor": "Pitzer VE",
+    "sortfirstauthor": "Li K",
+    "journal": "medRxiv : the preprint server for health sciences",
+    "issn": "",
+    "essn": "",
+    "doi": "pii: 2026.06.01.26354616. doi: 10.64898/2026.06.01.26354616",
+    "sortpubdate": "2026/06/04 00:00",
+    "epubdate": "2026 Jun 4"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "42281894",
+    "title": "Comparison of Human Metapneumovirus- and Respiratory Syncytial Virus-Associated Health Burden in Adults With Chronic Underlying Health Conditions: A Global Systematic Review and Meta-analysis.",
+    "source": "Open Forum Infect Dis",
+    "pubdate": "2026 Jun",
+    "authors": [
+      "Kulkarni D",
+      "Lee B",
+      "Kerry A",
+      "Templeton K",
+      "Nair H"
+    ],
+    "lastauthor": "Nair H",
+    "sortfirstauthor": "Kulkarni D",
+    "journal": "Open forum infectious diseases",
+    "issn": "2328-8957",
+    "essn": "2328-8957",
+    "doi": "doi: 10.1093/ofid/ofag343",
+    "sortpubdate": "2026/06/08 00:00",
+    "epubdate": "2026 Jun 8"
   }
 ]

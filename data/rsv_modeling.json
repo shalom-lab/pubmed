@@ -7543,5 +7543,83 @@
     "doi": "doi: 10.1080/13696998.2026.2682692",
     "sortpubdate": "2026/12/01 00:00",
     "epubdate": "2026 Jun 8"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "42284362",
+    "title": "Evaluating respiratory syncytial virus immunization strategies for infants in Canada: A cost-utility analysis.",
+    "source": "PLoS One",
+    "pubdate": "2026",
+    "authors": [
+      "Gebretekle GB",
+      "Lan M",
+      "Xi M",
+      "Ximenes R",
+      "Buchan SA",
+      "Abrams EM",
+      "Andrew MK",
+      "Brousseau N",
+      "Killikelly A",
+      "Money D",
+      "Papenburg J",
+      "Rafferty E",
+      "Robinson JL",
+      "Siu W",
+      "Tunis M",
+      "Tuite AR"
+    ],
+    "lastauthor": "Tuite AR",
+    "sortfirstauthor": "Gebretekle GB",
+    "journal": "PloS one",
+    "issn": "",
+    "essn": "1932-6203",
+    "doi": "doi: 10.1371/journal.pone.0351183",
+    "sortpubdate": "2026/06/12 00:00",
+    "epubdate": "2026 Jun 12"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "42282163",
+    "title": "Spatiotemporal Dynamics of Human Metapneumovirus and Potential Impact of Respiratory Syncytial Virus Interventions in the United States.",
+    "source": "medRxiv",
+    "pubdate": "2026 Jun 4",
+    "authors": [
+      "Li K",
+      "Perniciaro S",
+      "Kwon J",
+      "Grubaugh ND",
+      "Weinberger DM",
+      "Pitzer VE"
+    ],
+    "lastauthor": "Pitzer VE",
+    "sortfirstauthor": "Li K",
+    "journal": "medRxiv : the preprint server for health sciences",
+    "issn": "",
+    "essn": "",
+    "doi": "pii: 2026.06.01.26354616. doi: 10.64898/2026.06.01.26354616",
+    "sortpubdate": "2026/06/04 00:00",
+    "epubdate": "2026 Jun 4"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "42281894",
+    "title": "Comparison of Human Metapneumovirus- and Respiratory Syncytial Virus-Associated Health Burden in Adults With Chronic Underlying Health Conditions: A Global Systematic Review and Meta-analysis.",
+    "source": "Open Forum Infect Dis",
+    "pubdate": "2026 Jun",
+    "authors": [
+      "Kulkarni D",
+      "Lee B",
+      "Kerry A",
+      "Templeton K",
+      "Nair H"
+    ],
+    "lastauthor": "Nair H",
+    "sortfirstauthor": "Kulkarni D",
+    "journal": "Open forum infectious diseases",
+    "issn": "2328-8957",
+    "essn": "2328-8957",
+    "doi": "doi: 10.1093/ofid/ofag343",
+    "sortpubdate": "2026/06/08 00:00",
+    "epubdate": "2026 Jun 8"
   }
 ]
