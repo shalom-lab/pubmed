@@ -7621,5 +7621,38 @@
     "doi": "doi: 10.1093/ofid/ofag343",
     "sortpubdate": "2026/06/08 00:00",
     "epubdate": "2026 Jun 8"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "42286185",
+    "title": "ZFP91 restricts RSV replication by driving K48-linked ubiquitination and proteasomal degradation of M2-1.",
+    "source": "Cell Mol Life Sci",
+    "pubdate": "2026 Jun 13",
+    "authors": [
+      "Wang Y",
+      "Zhu P",
+      "Xu F",
+      "Li J",
+      "Li X",
+      "Wu M",
+      "Zhou J",
+      "Ye Y",
+      "Huang J",
+      "Shen W",
+      "Shao Y",
+      "Cai J",
+      "Qiao G",
+      "Yang Y",
+      "Zhang J",
+      "Hao C"
+    ],
+    "lastauthor": "Hao C",
+    "sortfirstauthor": "Wang Y",
+    "journal": "Cellular and molecular life sciences : CMLS",
+    "issn": "1420-682X",
+    "essn": "1420-9071",
+    "doi": "doi: 10.1007/s00018-026-06265-3",
+    "sortpubdate": "2026/06/13 00:00",
+    "epubdate": "2026 Jun 13"
   }
 ]

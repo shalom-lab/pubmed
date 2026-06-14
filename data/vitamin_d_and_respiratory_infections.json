@@ -3812,12 +3812,55 @@
       "Oláh CZ"
     ],
     "lastauthor": "Oláh CZ",
-    "sortfirstauthor": "Székely ��",
+    "sortfirstauthor": "Székely Á",
     "journal": "Ideggyogyaszati szemle",
     "issn": "0019-1442",
     "essn": "",
     "doi": "doi: 10.18071/isz.79.0197",
     "sortpubdate": "2026/05/30 00:00",
     "epubdate": ""
+  },
+  {
+    "name": "Vitamin D and respiratory infections",
+    "id": "42270958",
+    "title": "Impact of chronic cholecalciferol supplementation and vitamin D status on risk of post-vaccination SARS-CoV-2 breakthrough infection.",
+    "source": "Endocrine",
+    "pubdate": "2026 Jun 10",
+    "authors": [
+      "di Filippo L",
+      "Bolamperti S",
+      "Campaniolo M",
+      "Gifuni L",
+      "Giustina A"
+    ],
+    "lastauthor": "Giustina A",
+    "sortfirstauthor": "di Filippo L",
+    "journal": "Endocrine",
+    "issn": "1355-008X",
+    "essn": "1559-0100",
+    "doi": "doi: 10.1007/s12020-026-04677-6",
+    "sortpubdate": "2026/06/10 00:00",
+    "epubdate": "2026 Jun 10"
+  },
+  {
+    "name": "Vitamin D and respiratory infections",
+    "id": "42190517",
+    "title": "Association of vitamin D status with the immune response in active pulmonary tuberculosis patients with chronic pulmonary aspergillosis.",
+    "source": "Tuberculosis (Edinb)",
+    "pubdate": "2026 Jul",
+    "authors": [
+      "Toychiev A",
+      "Gafner N",
+      "Belotserkovets V",
+      "Osipova S"
+    ],
+    "lastauthor": "Osipova S",
+    "sortfirstauthor": "Toychiev A",
+    "journal": "Tuberculosis (Edinburgh, Scotland)",
+    "issn": "1472-9792",
+    "essn": "1873-281X",
+    "doi": "doi: 10.1016/j.tube.2026.102785",
+    "sortpubdate": "2026/07/01 00:00",
+    "epubdate": "2026 May 22"
   }
 ]
