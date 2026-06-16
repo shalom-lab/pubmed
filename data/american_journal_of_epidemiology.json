@@ -9656,5 +9656,82 @@
     "doi": "pii: kwag132. doi: 10.1093/aje/kwag132",
     "sortpubdate": "2026/06/12 00:00",
     "epubdate": "2026 Jun 12"
+  },
+  {
+    "name": "American Journal of Epidemiology",
+    "id": "42294618",
+    "title": "Postpartum depression in fathers: prevalence and evaluation of selection bias in the HOPE cohort.",
+    "source": "Am J Epidemiol",
+    "pubdate": "2026 Jun 15",
+    "authors": [
+      "Bæk CT",
+      "Munk-Olsen T",
+      "Mægbæk ML",
+      "Madsen KB",
+      "Egsgaard S",
+      "Kjeldsen MZ"
+    ],
+    "lastauthor": "Kjeldsen MZ",
+    "sortfirstauthor": "Bæk CT",
+    "journal": "American journal of epidemiology",
+    "issn": "0002-9262",
+    "essn": "1476-6256",
+    "doi": "pii: kwag133. doi: 10.1093/aje/kwag133",
+    "sortpubdate": "2026/06/15 00:00",
+    "epubdate": "2026 Jun 15"
+  },
+  {
+    "name": "American Journal of Epidemiology",
+    "id": "42294596",
+    "title": "Evaluating statistical models for overdispersed multi-omics data: a multiplex immunofluorescence case study.",
+    "source": "Am J Epidemiol",
+    "pubdate": "2026 Jun 15",
+    "authors": [
+      "Thomas CE",
+      "Wesselink E",
+      "Takashima Y",
+      "Huyghe JR",
+      "Buchanan DD",
+      "Grant RC",
+      "Costa AD",
+      "Ugai T",
+      "Ogino S",
+      "Nowak JA",
+      "Peters U",
+      "Phipps AI",
+      "Hsu L"
+    ],
+    "lastauthor": "Hsu L",
+    "sortfirstauthor": "Thomas CE",
+    "journal": "American journal of epidemiology",
+    "issn": "0002-9262",
+    "essn": "1476-6256",
+    "doi": "pii: kwag127. doi: 10.1093/aje/kwag127",
+    "sortpubdate": "2026/06/15 00:00",
+    "epubdate": "2026 Jun 15"
+  },
+  {
+    "name": "American Journal of Epidemiology",
+    "id": "42294593",
+    "title": "Authors Respond to \"Racial and ethnic variation in socioeconomic differentials in young adult cardiovascular health\".",
+    "source": "Am J Epidemiol",
+    "pubdate": "2026 Jun 15",
+    "authors": [
+      "Goldman N",
+      "Allen NB",
+      "Pratt B",
+      "Ning H",
+      "Schneper L",
+      "Lloyd-Jones D",
+      "Notterman D"
+    ],
+    "lastauthor": "Notterman D",
+    "sortfirstauthor": "Goldman N",
+    "journal": "American journal of epidemiology",
+    "issn": "0002-9262",
+    "essn": "1476-6256",
+    "doi": "pii: kwag136. doi: 10.1093/aje/kwag136",
+    "sortpubdate": "2026/06/15 00:00",
+    "epubdate": "2026 Jun 15"
   }
 ]

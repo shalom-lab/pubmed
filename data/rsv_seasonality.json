@@ -7897,7 +7897,7 @@
     "id": "42128160",
     "title": "A comprehensive overview of upper and lower respiratory infections in Türkiye.",
     "source": "Int J Infect Dis",
-    "pubdate": "2026 May 12",
+    "pubdate": "2026 Aug",
     "authors": [
       "Eren ZB",
       "Ayaz ÇM",
@@ -7915,7 +7915,7 @@
     "issn": "1201-9712",
     "essn": "1878-3511",
     "doi": "doi: 10.1016/j.ijid.2026.108791",
-    "sortpubdate": "2026/05/12 00:00",
+    "sortpubdate": "2026/08/01 00:00",
     "epubdate": "2026 May 12"
   },
   {
@@ -8796,7 +8796,7 @@
     "id": "42241813",
     "title": "Molecular and clinical characterization of respiratory syncytial virus genotypes in a medical centre in Central Taiwan across the COVID-19 era.",
     "source": "J Infect Public Health",
-    "pubdate": "2026 Jun 2",
+    "pubdate": "2026 Jul",
     "authors": [
       "Lee WH",
       "Su HC",
@@ -8814,7 +8814,7 @@
     "issn": "1876-0341",
     "essn": "1876-035X",
     "doi": "doi: 10.1016/j.jiph.2026.103278",
-    "sortpubdate": "2026/06/02 00:00",
+    "sortpubdate": "2026/07/01 00:00",
     "epubdate": "2026 Jun 2"
   },
   {
@@ -8923,7 +8923,7 @@
     "id": "42263484",
     "title": "Advancing genomic surveillance of respiratory syncytial virus in Portugal through an adapted amplicon-based whole-genome sequencing workflow.",
     "source": "Int J Med Microbiol",
-    "pubdate": "2026 Jun 6",
+    "pubdate": "2026 Jun",
     "authors": [
       "Lança M",
       "Borges V",
@@ -8944,7 +8944,7 @@
     "issn": "1438-4221",
     "essn": "1618-0607",
     "doi": "doi: 10.1016/j.ijmm.2026.151724",
-    "sortpubdate": "2026/06/06 00:00",
+    "sortpubdate": "2026/06/01 00:00",
     "epubdate": "2026 Jun 6"
   },
   {
@@ -8991,5 +8991,52 @@
     "doi": "doi: 10.1093/ofid/ofag343",
     "sortpubdate": "2026/06/08 00:00",
     "epubdate": "2026 Jun 8"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "42293985",
+    "title": "Etiology and Epidemiology of Acute Lower Respiratory Infections Among Hospitalized Pediatric Patients in Northeastern China: A Retrospective Study from 2023 to 2025.",
+    "source": "Infect Drug Resist",
+    "pubdate": "2026",
+    "authors": [
+      "Zhao HY",
+      "Zhang SY",
+      "Wang R",
+      "Zhang XY",
+      "Wang XF"
+    ],
+    "lastauthor": "Wang XF",
+    "sortfirstauthor": "Zhao HY",
+    "journal": "Infection and drug resistance",
+    "issn": "1178-6973",
+    "essn": "1178-6973",
+    "doi": "doi: 10.2147/IDR.S591898",
+    "sortpubdate": "2026/06/08 00:00",
+    "epubdate": "2026 Jun 8"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "42290747",
+    "title": "Insights into epidemiological and clinical burden of bronchiolitis among hospitalized children: a call for preventive interventions.",
+    "source": "Front Pediatr",
+    "pubdate": "2026",
+    "authors": [
+      "Abughosh R",
+      "Almesmari F",
+      "Alattar N",
+      "Mohammad B",
+      "Tharayil B",
+      "Uddin M",
+      "Weber S",
+      "AlRemeithi S"
+    ],
+    "lastauthor": "AlRemeithi S",
+    "sortfirstauthor": "Abughosh R",
+    "journal": "Frontiers in pediatrics",
+    "issn": "2296-2360",
+    "essn": "2296-2360",
+    "doi": "doi: 10.3389/fped.2026.1803101",
+    "sortpubdate": "2026/05/28 00:00",
+    "epubdate": "2026 May 28"
   }
 ]
