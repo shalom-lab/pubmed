@@ -112395,9 +112395,9 @@
   {
     "name": "NHANES",
     "id": "42296085",
-    "title": "Neuro-axonal injury biomarker serum neurofilament light chain is associated with osteoarthritis: a dual-cohort study from NHANES and UK biobank.",
+    "title": "Neuro-axonal injury biomarker serum neurofilament light chain is associated with osteoarthritis: a dual-cohort study from NHANES and UK Biobank.",
     "source": "Expert Rev Mol Diagn",
-    "pubdate": "2026 Jun 15",
+    "pubdate": "2026 Jun 17",
     "authors": [
       "Liu M",
       "Ma H",
@@ -112415,8 +112415,8 @@
     "issn": "1473-7159",
     "essn": "1744-8352",
     "doi": "doi: 10.1080/14737159.2026.2690188",
-    "sortpubdate": "2026/06/15 00:00",
-    "epubdate": "2026 Jun 15"
+    "sortpubdate": "2026/06/17 00:00",
+    "epubdate": "2026 Jun 17"
   },
   {
     "name": "NHANES",
@@ -113987,5 +113987,274 @@
     "doi": "doi: 10.1016/j.envint.2026.110364",
     "sortpubdate": "2026/06/13 00:00",
     "epubdate": "2026 Jun 13"
+  },
+  {
+    "name": "NHANES",
+    "id": "42307495",
+    "title": "Treatment of Cardiometabolic Risk Factors Among U.S. Adults With Cardiovascular-Kidney-Metabolic Syndrome.",
+    "source": "J Am Coll Cardiol",
+    "pubdate": "2026 Jun 17",
+    "authors": [
+      "Gong J",
+      "Chiu N",
+      "Clinch KA",
+      "Qian Y",
+      "Ho JE",
+      "Wadhera RK"
+    ],
+    "lastauthor": "Wadhera RK",
+    "sortfirstauthor": "Gong J",
+    "journal": "Journal of the American College of Cardiology",
+    "issn": "0735-1097",
+    "essn": "1558-3597",
+    "doi": "pii: S0735-1097(26)06350-3. doi: 10.1016/j.jacc.2026.04.031",
+    "sortpubdate": "2026/06/17 00:00",
+    "epubdate": "2026 Jun 17"
+  },
+  {
+    "name": "NHANES",
+    "id": "42306895",
+    "title": "Hypertension in young adults: Joint Associations of sleep duration and physical activity.",
+    "source": "J Health Psychol",
+    "pubdate": "2026 Jun 17",
+    "authors": [
+      "Huo M",
+      "Liu F",
+      "Gao H"
+    ],
+    "lastauthor": "Gao H",
+    "sortfirstauthor": "Huo M",
+    "journal": "Journal of health psychology",
+    "issn": "1359-1053",
+    "essn": "1461-7277",
+    "doi": "doi: 10.1177/13591053261458537",
+    "sortpubdate": "2026/06/17 00:00",
+    "epubdate": "2026 Jun 17"
+  },
+  {
+    "name": "NHANES",
+    "id": "42306875",
+    "title": "The Reciprocal Risk Relationship of Dental Caries with NAFLD and Liver Fibrosis: Combined Evidence from the NHANES Study and Mendelian Randomization Analysis.",
+    "source": "Oral Health Prev Dent",
+    "pubdate": "2026 Jun 17",
+    "authors": [
+      "Xu L",
+      "Wang X",
+      "Meng X",
+      "Wang W",
+      "Liu H",
+      "Xiao H",
+      "Zhang C"
+    ],
+    "lastauthor": "Zhang C",
+    "sortfirstauthor": "Xu L",
+    "journal": "Oral health & preventive dentistry",
+    "issn": "1602-1622",
+    "essn": "1757-9996",
+    "doi": "doi: 10.3290/j.ohpd.c_2714",
+    "sortpubdate": "2026/06/17 00:00",
+    "epubdate": "2026 Jun 17"
+  },
+  {
+    "name": "NHANES",
+    "id": "42306821",
+    "title": "INTACT: a method for integration of longitudinal physical activity data from multiple sources.",
+    "source": "Biometrics",
+    "pubdate": "2026 Jun 17",
+    "authors": [
+      "Zhang J",
+      "Cui E",
+      "Li H",
+      "Shou H"
+    ],
+    "lastauthor": "Shou H",
+    "sortfirstauthor": "Zhang J",
+    "journal": "Biometrics",
+    "issn": "0006-341X",
+    "essn": "1541-0420",
+    "doi": "pii: ujag112. doi: 10.1093/biomtc/ujag112",
+    "sortpubdate": "2026/06/17 00:00",
+    "epubdate": "2026 Jun 17"
+  },
+  {
+    "name": "NHANES",
+    "id": "42306379",
+    "title": "Association Between Prescription Pain Medication Use and Cardiovascular Risk Factors in US Adults: A Cross-Sectional Study Using the National Health and Nutrition Examination Survey (2017-2020).",
+    "source": "Cureus",
+    "pubdate": "2026 May",
+    "authors": [
+      "Odoeke MC",
+      "Irorere O",
+      "Omotunde O",
+      "Osias K",
+      "Bonhomme MR",
+      "Okwuokei E",
+      "Madubuike IC",
+      "Nwaokobia EC",
+      "Akinboboye AC"
+    ],
+    "lastauthor": "Akinboboye AC",
+    "sortfirstauthor": "Odoeke MC",
+    "journal": "Cureus",
+    "issn": "2168-8184",
+    "essn": "2168-8184",
+    "doi": "doi: 10.7759/cureus.108951",
+    "sortpubdate": "2026/05/16 00:00",
+    "epubdate": "2026 May 16"
+  },
+  {
+    "name": "NHANES",
+    "id": "42306364",
+    "title": "Health Care Access and Glycemic Control Among U.S. Adults With Diabetes: Analysis of National Health and Nutrition Examination Survey, 2011-2018.",
+    "source": "Cureus",
+    "pubdate": "2026 May",
+    "authors": [
+      "Muoghalu N",
+      "Oladimeji A",
+      "Okwuokei E",
+      "Okoronkwo P",
+      "Nwaokobia EC",
+      "Mambu TM",
+      "Okobi OE"
+    ],
+    "lastauthor": "Okobi OE",
+    "sortfirstauthor": "Muoghalu N",
+    "journal": "Cureus",
+    "issn": "2168-8184",
+    "essn": "2168-8184",
+    "doi": "doi: 10.7759/cureus.108950",
+    "sortpubdate": "2026/05/16 00:00",
+    "epubdate": "2026 May 16"
+  },
+  {
+    "name": "NHANES",
+    "id": "42305524",
+    "title": "Association of serum vitamins and carotenoids with breast cancer status among adult women in NHANES 2017-2018: a cross-sectional study.",
+    "source": "Transl Cancer Res",
+    "pubdate": "2026 May 30",
+    "authors": [
+      "Hu B",
+      "Liang J"
+    ],
+    "lastauthor": "Liang J",
+    "sortfirstauthor": "Hu B",
+    "journal": "Translational cancer research",
+    "issn": "2218-676X",
+    "essn": "2219-6803",
+    "doi": "doi: 10.21037/tcr-2025-aw-2276",
+    "sortpubdate": "2026/05/30 00:00",
+    "epubdate": "2026 May 27"
+  },
+  {
+    "name": "NHANES",
+    "id": "42305345",
+    "title": "Machine learning predicts diabetes risk in high-risk populations: analysis of National Health and Nutrition Examination Survey data.",
+    "source": "Arch Med Sci",
+    "pubdate": "2026",
+    "authors": [
+      "Yang X",
+      "Yao M",
+      "Huang J",
+      "Cheng Z",
+      "Sun T"
+    ],
+    "lastauthor": "Sun T",
+    "sortfirstauthor": "Yang X",
+    "journal": "Archives of medical science : AMS",
+    "issn": "1734-1922",
+    "essn": "1896-9151",
+    "doi": "doi: 10.5114/aoms/209547",
+    "sortpubdate": "2025/09/08 00:00",
+    "epubdate": "2025 Sep 8"
+  },
+  {
+    "name": "NHANES",
+    "id": "42305293",
+    "title": "Remnant cholesterol inflammatory index and mortality in cardiovascular-kidney-metabolic syndrome: a national study.",
+    "source": "Arch Med Sci",
+    "pubdate": "2026",
+    "authors": [
+      "Wang L",
+      "Li H",
+      "Wang L",
+      "Hao J",
+      "Zhang Q",
+      "Zhou Q",
+      "Wang J",
+      "Qi C"
+    ],
+    "lastauthor": "Qi C",
+    "sortfirstauthor": "Wang L",
+    "journal": "Archives of medical science : AMS",
+    "issn": "1734-1922",
+    "essn": "1896-9151",
+    "doi": "doi: 10.5114/aoms/218809",
+    "sortpubdate": "2026/04/08 00:00",
+    "epubdate": "2026 Apr 8"
+  },
+  {
+    "name": "NHANES",
+    "id": "42304179",
+    "title": "The association of early-onset diabetes mellitus with early-onset hypertension and premature all-cause mortality: a study based on NHANES.",
+    "source": "Diabetol Metab Syndr",
+    "pubdate": "2026 Jun 16",
+    "authors": [
+      "Shen H",
+      "Zhang B"
+    ],
+    "lastauthor": "Zhang B",
+    "sortfirstauthor": "Shen H",
+    "journal": "Diabetology & metabolic syndrome",
+    "issn": "1758-5996",
+    "essn": "",
+    "doi": "doi: 10.1186/s13098-026-02210-3",
+    "sortpubdate": "2026/06/16 00:00",
+    "epubdate": "2026 Jun 16"
+  },
+  {
+    "name": "NHANES",
+    "id": "42303324",
+    "title": "Accuracy of the FIB-4 and LiverRisk score for use in primary risk assessment for liver fibrosis, and variation by age.",
+    "source": "Dig Liver Dis",
+    "pubdate": "2026 Jul",
+    "authors": [
+      "Rinella ME",
+      "Charlton MR",
+      "Kim Y",
+      "Hosmane S",
+      "Woolley JJ",
+      "O'Connell T"
+    ],
+    "lastauthor": "O'Connell T",
+    "sortfirstauthor": "Rinella ME",
+    "journal": "Digestive and liver disease : official journal of the Italian Society of Gastroenterology and the Italian Association for the Study of the Liver",
+    "issn": "1590-8658",
+    "essn": "1878-3562",
+    "doi": "doi: 10.1016/j.dld.2026.04.011",
+    "sortpubdate": "2026/07/01 00:00",
+    "epubdate": "2026 Jun 11"
+  },
+  {
+    "name": "NHANES",
+    "id": "42303192",
+    "title": "Associations Between n-3 and n-6 Polyunsaturated Fatty Acids and Stroke Risk, Mediated by the Dietary Inflammatory Index: Evidence from NHANES 2007-2018.",
+    "source": "J Stroke Cerebrovasc Dis",
+    "pubdate": "2026 Jun 16",
+    "authors": [
+      "Liu G",
+      "Zhang D",
+      "Fu Y",
+      "Song Z",
+      "Jiang Y",
+      "He J"
+    ],
+    "lastauthor": "He J",
+    "sortfirstauthor": "Liu G",
+    "journal": "Journal of stroke and cerebrovascular diseases : the official journal of National Stroke Association",
+    "issn": "1052-3057",
+    "essn": "1532-8511",
+    "doi": "doi: 10.1016/j.jstrokecerebrovasdis.2026.108679",
+    "sortpubdate": "2026/06/16 00:00",
+    "epubdate": "2026 Jun 16"
   }
 ]

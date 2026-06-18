@@ -9643,7 +9643,7 @@
       "Tskhay A",
       "Blanchard AC",
       "Forget A",
-      "Métras MÉ",
+      "M��tras MÉ",
       "Schuster T",
       "Blais L",
       "Longo C"
@@ -9807,5 +9807,64 @@
     "doi": "pii: kwag134. doi: 10.1093/aje/kwag134",
     "sortpubdate": "2026/06/16 00:00",
     "epubdate": "2026 Jun 16"
+  },
+  {
+    "name": "American Journal of Epidemiology",
+    "id": "42307648",
+    "title": "Ultra-processed foods and incident type 2 diabetes: Analysis of the Hispanic Community Health Study/Study of Latinos (HCHS/SOL).",
+    "source": "Am J Epidemiol",
+    "pubdate": "2026 Jun 17",
+    "authors": [
+      "Mendoza K",
+      "Marrero A",
+      "Tamez M",
+      "Espinosa A",
+      "Sotres-Alvarez D",
+      "McClain AC",
+      "Cordero C",
+      "Elfassy T",
+      "Perreira KM",
+      "Mossavar-Rahmani Y",
+      "Qi Q",
+      "Daviglus M",
+      "Van Horn L",
+      "Hu FB",
+      "Willett WC",
+      "Kaplan RC",
+      "Mattei J"
+    ],
+    "lastauthor": "Mattei J",
+    "sortfirstauthor": "Mendoza K",
+    "journal": "American journal of epidemiology",
+    "issn": "0002-9262",
+    "essn": "1476-6256",
+    "doi": "pii: kwag139. doi: 10.1093/aje/kwag139",
+    "sortpubdate": "2026/06/17 00:00",
+    "epubdate": "2026 Jun 17"
+  },
+  {
+    "name": "American Journal of Epidemiology",
+    "id": "42307403",
+    "title": "Identifiability and Model Misspecification for Modelling Recurrent Infections Using Routine Health Care Data.",
+    "source": "Am J Epidemiol",
+    "pubdate": "2026 Jun 17",
+    "authors": [
+      "Yan AWC",
+      "Flegg JA",
+      "Poespoprodjo JR",
+      "Douglas NM",
+      "Price RN",
+      "Devine A",
+      "Price DJ",
+      "Chisholm RH"
+    ],
+    "lastauthor": "Chisholm RH",
+    "sortfirstauthor": "Yan AWC",
+    "journal": "American journal of epidemiology",
+    "issn": "0002-9262",
+    "essn": "1476-6256",
+    "doi": "pii: kwag138. doi: 10.1093/aje/kwag138",
+    "sortpubdate": "2026/06/17 00:00",
+    "epubdate": "2026 Jun 17"
   }
 ]
