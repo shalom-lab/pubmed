@@ -114237,7 +114237,7 @@
   {
     "name": "NHANES",
     "id": "42303192",
-    "title": "Associations Between n-3 and n-6 Polyunsaturated Fatty Acids and Stroke Risk, Mediated by the Dietary Inflammatory Index: Evidence from NHANES 2007-2018.",
+    "title": "Associations between n-3 and n-6 polyunsaturated fatty acids and stroke risk, mediated by the dietary inflammatory index: Evidence from NHANES 2007-2018.",
     "source": "J Stroke Cerebrovasc Dis",
     "pubdate": "2026 Jun 16",
     "authors": [
@@ -114912,5 +114912,73 @@
     "doi": "doi: 10.3350/cmh.2026.0589",
     "sortpubdate": "2026/06/18 00:00",
     "epubdate": "2026 Jun 18"
+  },
+  {
+    "name": "NHANES",
+    "id": "42321831",
+    "title": "Inverse association between body mass index and abdominal aortic calcification based on NHANES.",
+    "source": "J Cardiothorac Surg",
+    "pubdate": "2026 Jun 19",
+    "authors": [
+      "Wang Y",
+      "Meng J",
+      "Wang L",
+      "Zhang J"
+    ],
+    "lastauthor": "Zhang J",
+    "sortfirstauthor": "Wang Y",
+    "journal": "Journal of cardiothoracic surgery",
+    "issn": "",
+    "essn": "1749-8090",
+    "doi": "doi: 10.1186/s13019-026-04416-y",
+    "sortpubdate": "2026/06/19 00:00",
+    "epubdate": "2026 Jun 19"
+  },
+  {
+    "name": "NHANES",
+    "id": "42321795",
+    "title": "Serum uric acid is associated with advanced stages in patients with cardiovascular-kidney-metabolic syndrome.",
+    "source": "J Cardiothorac Surg",
+    "pubdate": "2026 Jun 19",
+    "authors": [
+      "Tu D",
+      "Li Y",
+      "Wang Y",
+      "Wang J"
+    ],
+    "lastauthor": "Wang J",
+    "sortfirstauthor": "Tu D",
+    "journal": "Journal of cardiothoracic surgery",
+    "issn": "",
+    "essn": "1749-8090",
+    "doi": "doi: 10.1186/s13019-026-04437-7",
+    "sortpubdate": "2026/06/19 00:00",
+    "epubdate": "2026 Jun 19"
+  },
+  {
+    "name": "NHANES",
+    "id": "42321039",
+    "title": "Interpretable machine learning and incremental prognostic model for all-cause and cardiovascular mortality in obesity with MASLD population: Comorbidity insights from triglyceride-glucose and its obesity-related derivatives.",
+    "source": "Obes Res Clin Pract",
+    "pubdate": "2026 Jun 19",
+    "authors": [
+      "Nie L",
+      "Li Y",
+      "Wang Q",
+      "Luo Y",
+      "Zhou J",
+      "Zhang Y",
+      "Du R",
+      "Liu L",
+      "Li B"
+    ],
+    "lastauthor": "Li B",
+    "sortfirstauthor": "Nie L",
+    "journal": "Obesity research & clinical practice",
+    "issn": "1871-403X",
+    "essn": "",
+    "doi": "pii: S1871-403X(26)00065-7. doi: 10.1016/j.orcp.2026.06.005",
+    "sortpubdate": "2026/06/19 00:00",
+    "epubdate": "2026 Jun 19"
   }
 ]

@@ -78293,5 +78293,38 @@
     "doi": "doi: 10.1016/j.archger.2026.106339",
     "sortpubdate": "2026/06/15 00:00",
     "epubdate": "2026 Jun 15"
+  },
+  {
+    "name": "GBD database",
+    "id": "42309801",
+    "title": "Interpersonal violence injuries among children and adolescents in the European Union from 1990 to 2023, a Global Burden of Disease study.",
+    "source": "Eur J Public Health",
+    "pubdate": "2026 Jun 10",
+    "authors": [
+      "GBD 2023 Italy Interpersonal Violence Collaborators",
+      "Capodici A",
+      "Zamagni G",
+      "Armocida B",
+      "Castelpietra G",
+      "Corso B",
+      "Damiani G",
+      "Golinelli D",
+      "La Vecchia C",
+      "Ronfani L",
+      "Sanmarchi F",
+      "Tedesco D",
+      "Traini E",
+      "Trisolino G",
+      "Violante F",
+      "Monasta L"
+    ],
+    "lastauthor": "Monasta L",
+    "sortfirstauthor": "Capodici A",
+    "journal": "European journal of public health",
+    "issn": "1101-1262",
+    "essn": "1464-360X",
+    "doi": "doi: 10.1093/eurpub/ckag078",
+    "sortpubdate": "2026/06/10 00:00",
+    "epubdate": ""
   }
 ]
