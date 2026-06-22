@@ -14816,7 +14816,8 @@
   {
     "source": "J Egypt Public Health Assoc",
     "journal": "The Journal of the Egyptian Public Health Association",
-    "issn": "0013-2446"
+    "issn": "0013-2446",
+    "essn": "2090-262X"
   },
   {
     "source": "Ann Afr Med",
@@ -14827,5 +14828,16 @@
     "source": "Epigenetics Chromatin",
     "journal": "Epigenetics & chromatin",
     "essn": "1756-8935"
+  },
+  {
+    "source": "J Cheminform",
+    "journal": "Journal of cheminformatics",
+    "issn": "1758-2946"
+  },
+  {
+    "source": "Arch Clin Neuropsychol",
+    "journal": "Archives of clinical neuropsychology : the official journal of the National Academy of Neuropsychologists",
+    "issn": "0887-6177",
+    "essn": "1873-5843"
   }
 ]
