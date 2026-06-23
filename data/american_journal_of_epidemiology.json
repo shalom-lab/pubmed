@@ -9913,5 +9913,62 @@
     "doi": "pii: kwag146. doi: 10.1093/aje/kwag146",
     "sortpubdate": "2026/06/19 00:00",
     "epubdate": "2026 Jun 19"
+  },
+  {
+    "name": "American Journal of Epidemiology",
+    "id": "42324118",
+    "title": "A measurement comparability study to support instrument harmonization in the Canadian longitudinal study on aging.",
+    "source": "Am J Epidemiol",
+    "pubdate": "2026 Jun 22",
+    "authors": [
+      "Rafiq T",
+      "Griffith LE",
+      "Raina P",
+      "Wolfson C",
+      "Kirkland SA",
+      "Balion C",
+      "Costa AP",
+      "Chaudhary V",
+      "Duong ML",
+      "Glista D",
+      "Joseph P",
+      "MacDonald MJ",
+      "Scott J",
+      "Hogan DB",
+      "Heuvel E"
+    ],
+    "lastauthor": "Heuvel E",
+    "sortfirstauthor": "Rafiq T",
+    "journal": "American journal of epidemiology",
+    "issn": "0002-9262",
+    "essn": "1476-6256",
+    "doi": "pii: kwag137. doi: 10.1093/aje/kwag137",
+    "sortpubdate": "2026/06/22 00:00",
+    "epubdate": "2026 Jun 22"
+  },
+  {
+    "name": "American Journal of Epidemiology",
+    "id": "42272141",
+    "title": "PEPRVision: a visualization framework for Pharmacoepidemiology research.",
+    "source": "Am J Epidemiol",
+    "pubdate": "2026 Jun 11",
+    "authors": [
+      "Wang Y",
+      "Chen HK",
+      "Wen W",
+      "Cole DV",
+      "Maro JC",
+      "Rosales AN",
+      "Rasmussen SA",
+      "Winterstein AG"
+    ],
+    "lastauthor": "Winterstein AG",
+    "sortfirstauthor": "Wang Y",
+    "journal": "American journal of epidemiology",
+    "issn": "0002-9262",
+    "essn": "1476-6256",
+    "doi": "doi: 10.1093/aje/kwag121",
+    "sortpubdate": "2026/06/11 00:00",
+    "epubdate": "2026 Jun 11"
   }
 ]
