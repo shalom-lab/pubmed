@@ -14866,12 +14866,24 @@
   {
     "source": "Online J Public Health Inform",
     "journal": "Online journal of public health informatics",
-    "issn": "1947-2579"
+    "issn": "1947-2579",
+    "essn": "1947-2579"
   },
   {
     "source": "J Respir Biol Transl Med",
     "journal": "Journal of respiratory biology and translational medicine",
     "issn": "3006-6506",
     "essn": "3006-6514"
+  },
+  {
+    "source": "Curr Pharm Biotechnol",
+    "journal": "Current pharmaceutical biotechnology",
+    "issn": "1389-2010",
+    "essn": "1873-4316"
+  },
+  {
+    "source": "Osong Public Health Res Perspect",
+    "journal": "Osong public health and research perspectives",
+    "issn": "2210-9099"
   }
 ]

@@ -4709,7 +4709,7 @@
       "Morrone F",
       "Costantino C",
       "Nobili C",
-      "Giuffrè M"
+      "Giuffr�� M"
     ],
     "lastauthor": "Giuffrè M",
     "sortfirstauthor": "Manzoni P",
@@ -5782,5 +5782,29 @@
     "doi": "doi: 10.1016/j.vaccine.2026.128823",
     "sortpubdate": "2026/06/12 00:00",
     "epubdate": "2026 Jun 12"
+  },
+  {
+    "name": "Nirsevimab effectiveness",
+    "id": "42334170",
+    "title": "Cost-effectiveness and public health impact of RSV immunization for all infants in Japan: a mixed strategy with nirsevimab and RSVpreF.",
+    "source": "Expert Rev Vaccines",
+    "pubdate": "2026 Jun 23",
+    "authors": [
+      "Ishiwada N",
+      "Wang X",
+      "Arashiro T",
+      "Reygrobellet C",
+      "Yarnoff B",
+      "Musci R",
+      "Ghemmouri M"
+    ],
+    "lastauthor": "Ghemmouri M",
+    "sortfirstauthor": "Ishiwada N",
+    "journal": "Expert review of vaccines",
+    "issn": "1476-0584",
+    "essn": "1744-8395",
+    "doi": "doi: 10.1080/14760584.2026.2694387",
+    "sortpubdate": "2026/06/23 00:00",
+    "epubdate": "2026 Jun 23"
   }
 ]

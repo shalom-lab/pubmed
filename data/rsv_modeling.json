@@ -7755,5 +7755,28 @@
     "doi": "doi: 10.1093/ofid/ofag341",
     "sortpubdate": "2026/06/03 00:00",
     "epubdate": "2026 Jun 3"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "42014708",
+    "title": "Development of in vitro airway epithelial model to assess immune response and safety of mucosal adjuvants.",
+    "source": "NPJ Vaccines",
+    "pubdate": "2026 Apr 22",
+    "authors": [
+      "Acosta D",
+      "Rubel Hoq M",
+      "Takeda K",
+      "Costley CD",
+      "Golding H",
+      "Zaitseva M"
+    ],
+    "lastauthor": "Zaitseva M",
+    "sortfirstauthor": "Acosta D",
+    "journal": "NPJ vaccines",
+    "issn": "",
+    "essn": "2059-0105",
+    "doi": "pii: 124. doi: 10.1038/s41541-026-01459-z",
+    "sortpubdate": "2026/04/22 00:00",
+    "epubdate": "2026 Apr 22"
   }
 ]
