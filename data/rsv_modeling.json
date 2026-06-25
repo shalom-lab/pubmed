@@ -7778,5 +7778,32 @@
     "doi": "pii: 124. doi: 10.1038/s41541-026-01459-z",
     "sortpubdate": "2026/04/22 00:00",
     "epubdate": "2026 Apr 22"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "42335758",
+    "title": "Burden of infection and hospitalization from respiratory syncytial virus-associated acute lower respiratory tract infections in Chinese children: Modeling of national, regional, and provincial estimates.",
+    "source": "Vaccine",
+    "pubdate": "2026 Jun 23",
+    "authors": [
+      "Liu Z",
+      "Wang X",
+      "Hu Y",
+      "Duan X",
+      "Xu S",
+      "Ge Q",
+      "Zhu W",
+      "Zhao J",
+      "Yao Y",
+      "Wang W"
+    ],
+    "lastauthor": "Wang W",
+    "sortfirstauthor": "Liu Z",
+    "journal": "Vaccine",
+    "issn": "0264-410X",
+    "essn": "1873-2518",
+    "doi": "doi: 10.1016/j.vaccine.2026.128875",
+    "sortpubdate": "2026/06/23 00:00",
+    "epubdate": "2026 Jun 23"
   }
 ]

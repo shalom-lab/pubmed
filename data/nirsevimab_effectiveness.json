@@ -4709,7 +4709,7 @@
       "Morrone F",
       "Costantino C",
       "Nobili C",
-      "Giuffr�� M"
+      "Giuffrè M"
     ],
     "lastauthor": "Giuffrè M",
     "sortfirstauthor": "Manzoni P",
@@ -5804,6 +5804,54 @@
     "issn": "1476-0584",
     "essn": "1744-8395",
     "doi": "doi: 10.1080/14760584.2026.2694387",
+    "sortpubdate": "2026/06/23 00:00",
+    "epubdate": "2026 Jun 23"
+  },
+  {
+    "name": "Nirsevimab effectiveness",
+    "id": "42339311",
+    "title": "Efficacy and effectiveness of long-acting monoclonal antibodies and vaccines against RSV: a systematic review and meta-analysis of studies from 2018 to 2025.",
+    "source": "EClinicalMedicine",
+    "pubdate": "2026 Jun",
+    "authors": [
+      "Du J",
+      "Li S",
+      "Hung IFN",
+      "Wu JT",
+      "Leung K"
+    ],
+    "lastauthor": "Leung K",
+    "sortfirstauthor": "Du J",
+    "journal": "EClinicalMedicine",
+    "issn": "",
+    "essn": "2589-5370",
+    "doi": "doi: 10.1016/j.eclinm.2026.104017",
+    "sortpubdate": "2026/06/16 00:00",
+    "epubdate": "2026 Jun 16"
+  },
+  {
+    "name": "Nirsevimab effectiveness",
+    "id": "42336142",
+    "title": "Respiratory syncytial virus outcomes and duration of protection following nirsevimab administration in high-risk infants: a real-world study under year-round epidemic circulation in Japan.",
+    "source": "J Infect Chemother",
+    "pubdate": "2026 Jun 23",
+    "authors": [
+      "Kimoto Y",
+      "Nozaki M",
+      "Yoshida M",
+      "Hirata K",
+      "Mochizuki N",
+      "Hirano S",
+      "Aoki H",
+      "Nishi E",
+      "Wada K"
+    ],
+    "lastauthor": "Wada K",
+    "sortfirstauthor": "Kimoto Y",
+    "journal": "Journal of infection and chemotherapy : official journal of the Japan Society of Chemotherapy",
+    "issn": "1341-321X",
+    "essn": "1437-7780",
+    "doi": "doi: 10.1016/j.jiac.2026.103021",
     "sortpubdate": "2026/06/23 00:00",
     "epubdate": "2026 Jun 23"
   }
