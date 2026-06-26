@@ -9205,5 +9205,60 @@
     "doi": "doi: 10.1016/j.vaccine.2026.128875",
     "sortpubdate": "2026/06/23 00:00",
     "epubdate": "2026 Jun 23"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "42347072",
+    "title": "Epidemiological and Clinical Characteristics of Bronchiolitis and the Impact of RSV Infection: A Five-Year Study in a Tertiary Pediatric Center in Central Romania.",
+    "source": "Pediatr Rep",
+    "pubdate": "2026 Jun 2",
+    "authors": [
+      "Obaciu AA",
+      "Purdel V",
+      "Bleotu L",
+      "Monescu V",
+      "Grecu MA",
+      "Arbanas I",
+      "Falup-Pecurariu O"
+    ],
+    "lastauthor": "Falup-Pecurariu O",
+    "sortfirstauthor": "Obaciu AA",
+    "journal": "Pediatric reports",
+    "issn": "2036-749X",
+    "essn": "",
+    "doi": "pii: 75. doi: 10.3390/pediatric18030075",
+    "sortpubdate": "2026/06/02 00:00",
+    "epubdate": "2026 Jun 2"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "42341905",
+    "title": "Epidemiological and Genomic Surveillance of Influenza virus A, RSV B and SARS-CoV-2 in Bangladesh (2022-2024).",
+    "source": "Int J Infect Dis",
+    "pubdate": "2026 Jun 24",
+    "authors": [
+      "Jubair M",
+      "Begum MN",
+      "Samia NSN",
+      "Alam MS",
+      "Karim Y",
+      "Ahmed T",
+      "Cella E",
+      "Rahman S",
+      "Habib MT",
+      "Khan MH",
+      "Shirin T",
+      "Chowdhury F",
+      "Qadri F",
+      "Rahman M"
+    ],
+    "lastauthor": "Rahman M",
+    "sortfirstauthor": "Jubair M",
+    "journal": "International journal of infectious diseases : IJID : official publication of the International Society for Infectious Diseases",
+    "issn": "1201-9712",
+    "essn": "1878-3511",
+    "doi": "doi: 10.1016/j.ijid.2026.108910",
+    "sortpubdate": "2026/06/24 00:00",
+    "epubdate": "2026 Jun 24"
   }
 ]

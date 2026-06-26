@@ -7805,5 +7805,52 @@
     "doi": "doi: 10.1016/j.vaccine.2026.128875",
     "sortpubdate": "2026/06/23 00:00",
     "epubdate": "2026 Jun 23"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "42346341",
+    "title": "Integrating Metabolomics and Gut Microbiota to Reveal the Therapeutic Effect of Lonicerae japonicae Flos Against Respiratory Syncytial Virus.",
+    "source": "Metabolites",
+    "pubdate": "2026 May 27",
+    "authors": [
+      "Wang Y",
+      "Gao Y",
+      "Liang Y",
+      "Zhao B",
+      "Liu L"
+    ],
+    "lastauthor": "Liu L",
+    "sortfirstauthor": "Wang Y",
+    "journal": "Metabolites",
+    "issn": "2218-1989",
+    "essn": "",
+    "doi": "pii: 360. doi: 10.3390/metabo16060360",
+    "sortpubdate": "2026/05/27 00:00",
+    "epubdate": "2026 May 27"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "42345580",
+    "title": "RSV can infect the human nasal epithelium via the basolateral route and shows distinct subgroup infectivity and basal cell tropism.",
+    "source": "J Virol",
+    "pubdate": "2026 Jun 25",
+    "authors": [
+      "Murray A",
+      "Nagaraj D",
+      "Schultz EM",
+      "Aloisio G",
+      "Nicholson E",
+      "Blutt SE",
+      "Avadhanula V",
+      "Piedra PA"
+    ],
+    "lastauthor": "Piedra PA",
+    "sortfirstauthor": "Murray A",
+    "journal": "Journal of virology",
+    "issn": "0022-538X",
+    "essn": "1098-5514",
+    "doi": "doi: 10.1128/jvi.00374-26",
+    "sortpubdate": "2026/06/25 00:00",
+    "epubdate": "2026 Jun 25"
   }
 ]
