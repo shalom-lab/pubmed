@@ -9260,5 +9260,53 @@
     "doi": "doi: 10.1016/j.ijid.2026.108910",
     "sortpubdate": "2026/06/24 00:00",
     "epubdate": "2026 Jun 24"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "42353999",
+    "title": "Epidemiological Characteristics of Respiratory Syncytial Virus in Pediatric Acute Lower Respiratory Tract Infections in Baoding, Hebei Province of China, from 2017 to 2024.",
+    "source": "Children (Basel)",
+    "pubdate": "2026 Jun 18",
+    "authors": [
+      "Yin J",
+      "He S",
+      "Zhang X",
+      "Liu X",
+      "Xu B",
+      "Song Y"
+    ],
+    "lastauthor": "Song Y",
+    "sortfirstauthor": "Yin J",
+    "journal": "Children (Basel, Switzerland)",
+    "issn": "2227-9067",
+    "essn": "",
+    "doi": "pii: 829. doi: 10.3390/children13060829",
+    "sortpubdate": "2026/06/18 00:00",
+    "epubdate": "2026 Jun 18"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "42349237",
+    "title": "Absenteeism due to COVID-19, influenza and RSV among hospital-based healthcare personnel in Greece during the 2024-2025 season: A cohort study.",
+    "source": "Infect Dis Health",
+    "pubdate": "2026 Jun 25",
+    "authors": [
+      "Maltezou HC",
+      "Giannouchos TV",
+      "Koukou DM",
+      "Sourri F",
+      "Lemonakis N",
+      "Botsa E",
+      "Hatzigeorgiou D",
+      "Panagopoulos P"
+    ],
+    "lastauthor": "Panagopoulos P",
+    "sortfirstauthor": "Maltezou HC",
+    "journal": "Infection, disease & health",
+    "issn": "2468-0451",
+    "essn": "2468-0869",
+    "doi": "doi: 10.1016/j.idh.2026.100448",
+    "sortpubdate": "2026/06/25 00:00",
+    "epubdate": "2026 Jun 25"
   }
 ]

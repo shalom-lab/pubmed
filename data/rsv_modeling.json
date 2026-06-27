@@ -7852,5 +7852,54 @@
     "doi": "doi: 10.1128/jvi.00374-26",
     "sortpubdate": "2026/06/25 00:00",
     "epubdate": "2026 Jun 25"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "42349237",
+    "title": "Absenteeism due to COVID-19, influenza and RSV among hospital-based healthcare personnel in Greece during the 2024-2025 season: A cohort study.",
+    "source": "Infect Dis Health",
+    "pubdate": "2026 Jun 25",
+    "authors": [
+      "Maltezou HC",
+      "Giannouchos TV",
+      "Koukou DM",
+      "Sourri F",
+      "Lemonakis N",
+      "Botsa E",
+      "Hatzigeorgiou D",
+      "Panagopoulos P"
+    ],
+    "lastauthor": "Panagopoulos P",
+    "sortfirstauthor": "Maltezou HC",
+    "journal": "Infection, disease & health",
+    "issn": "2468-0451",
+    "essn": "2468-0869",
+    "doi": "doi: 10.1016/j.idh.2026.100448",
+    "sortpubdate": "2026/06/25 00:00",
+    "epubdate": "2026 Jun 25"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "42349134",
+    "title": "Public health impact and cost-effectiveness of adjuvanted RSVPreF3 vaccination among US adults aged 18-49 years at increased risk for severe RSV disease.",
+    "source": "Vaccine",
+    "pubdate": "2026 Jun 25",
+    "authors": [
+      "Singer D",
+      "La EM",
+      "Dubois de Gennes C",
+      "Graham J",
+      "Grace M",
+      "Biundo E",
+      "Verelst F"
+    ],
+    "lastauthor": "Verelst F",
+    "sortfirstauthor": "Singer D",
+    "journal": "Vaccine",
+    "issn": "0264-410X",
+    "essn": "1873-2518",
+    "doi": "doi: 10.1016/j.vaccine.2026.128770",
+    "sortpubdate": "2026/06/25 00:00",
+    "epubdate": "2026 Jun 25"
   }
 ]
