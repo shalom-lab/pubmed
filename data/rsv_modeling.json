@@ -7901,5 +7901,27 @@
     "doi": "doi: 10.1016/j.vaccine.2026.128770",
     "sortpubdate": "2026/06/25 00:00",
     "epubdate": "2026 Jun 25"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "42346341",
+    "title": "Integrating Metabolomics and Gut Microbiota to Reveal the Therapeutic Effect of Lonicerae japonicae Flos Against Respiratory Syncytial Virus.",
+    "source": "Metabolites",
+    "pubdate": "2026 May 27",
+    "authors": [
+      "Wang Y",
+      "Gao Y",
+      "Liang Y",
+      "Zhao B",
+      "Liu L"
+    ],
+    "lastauthor": "Liu L",
+    "sortfirstauthor": "Wang Y",
+    "journal": "Metabolites",
+    "issn": "2218-1989",
+    "essn": "2218-1989",
+    "doi": "doi: 10.3390/metabo16060360",
+    "sortpubdate": "2026/05/27 00:00",
+    "epubdate": "2026 May 27"
   }
 ]

@@ -14936,7 +14936,8 @@
   {
     "source": "Pediatr Rep",
     "journal": "Pediatric reports",
-    "issn": "2036-749X"
+    "issn": "2036-749X",
+    "essn": "2036-7503"
   },
   {
     "source": "EJHaem",
@@ -14965,5 +14966,15 @@
     "journal": "Infection, disease & health",
     "issn": "2468-0451",
     "essn": "2468-0869"
+  },
+  {
+    "source": "Wiad Lek",
+    "journal": "Wiadomosci lekarskie (Warsaw, Poland : 1960)",
+    "issn": "0043-5147"
+  },
+  {
+    "source": "Curr Nutr Rep",
+    "journal": "Current nutrition reports",
+    "essn": "2161-3311"
   }
 ]
