@@ -4085,5 +4085,53 @@
     "doi": "doi: 10.1186/s12887-025-06361-6",
     "sortpubdate": "2025/12/12 00:00",
     "epubdate": "2025 Dec 12"
+  },
+  {
+    "name": "Vitamin D and respiratory infections",
+    "id": "42356192",
+    "title": "Clinical and Inflammatory Predictors of Neurocognitive Decline in Long COVID: A Two-Year Longitudinal Study with Propensity Score Matching.",
+    "source": "Medicina (Kaunas)",
+    "pubdate": "2026 Jun 18",
+    "authors": [
+      "Diaconu IE",
+      "Onofrei MI",
+      "Vâță A",
+      "Roșu FM",
+      "Ignat EB",
+      "Cuciureanu ID",
+      "Hurmuzache ME",
+      "Luca MC"
+    ],
+    "lastauthor": "Luca MC",
+    "sortfirstauthor": "Diaconu IE",
+    "journal": "Medicina (Kaunas, Lithuania)",
+    "issn": "1010-660X",
+    "essn": "1648-9144",
+    "doi": "doi: 10.3390/medicina62061180",
+    "sortpubdate": "2026/06/18 00:00",
+    "epubdate": "2026 Jun 18"
+  },
+  {
+    "name": "Vitamin D and respiratory infections",
+    "id": "42021229",
+    "title": "Efficacy and safety of vitamin D supplementation in treating pulmonary tuberculosis: a systematic review and meta-analysis.",
+    "source": "BMC Infect Dis",
+    "pubdate": "2026 Apr 22",
+    "authors": [
+      "Fan C",
+      "Ye X",
+      "Wang C",
+      "Wu Y",
+      "Tong B",
+      "Han L"
+    ],
+    "lastauthor": "Han L",
+    "sortfirstauthor": "Fan C",
+    "journal": "BMC infectious diseases",
+    "issn": "",
+    "essn": "1471-2334",
+    "doi": "doi: 10.1186/s12879-026-13321-7",
+    "sortpubdate": "2026/04/22 00:00",
+    "epubdate": "2026 Apr 22"
   }
 ]
