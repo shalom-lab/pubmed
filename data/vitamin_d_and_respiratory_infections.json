@@ -4133,5 +4133,29 @@
     "doi": "doi: 10.1186/s12879-026-13321-7",
     "sortpubdate": "2026/04/22 00:00",
     "epubdate": "2026 Apr 22"
+  },
+  {
+    "name": "Vitamin D and respiratory infections",
+    "id": "42285845",
+    "title": "Pediatric post-acute sequelae of SARS-CoV-2 infection in Taiwan: Insights from the DISCOVER cohort.",
+    "source": "Pediatr Neonatol",
+    "pubdate": "2026 Jul",
+    "authors": [
+      "Chen PC",
+      "Hsu YL",
+      "Wu LS",
+      "Liu XL",
+      "Tsai HJ",
+      "Wang JY",
+      "DISCOVER Study Group"
+    ],
+    "lastauthor": "Wang JY",
+    "sortfirstauthor": "Chen PC",
+    "journal": "Pediatrics and neonatology",
+    "issn": "1875-9572",
+    "essn": "2212-1692",
+    "doi": "doi: 10.1016/j.pedneo.2026.03.007",
+    "sortpubdate": "2026/07/01 00:00",
+    "epubdate": "2026 May 29"
   }
 ]

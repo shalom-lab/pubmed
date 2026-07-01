@@ -9436,5 +9436,49 @@
     "doi": "pii: 2025.08.06.668939. doi: 10.1101/2025.08.06.668939",
     "sortpubdate": "2026/06/17 00:00",
     "epubdate": "2026 Jun 17"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "42376562",
+    "title": "Molecular and histopathological detection of bovine respiratory syncytial virus in Wasit Province, Iraq.",
+    "source": "Open Vet J",
+    "pubdate": "2025 Dec",
+    "authors": [
+      "Atabi ACA",
+      "Salih HA",
+      "Al-Mialy AJ",
+      "Abbas M"
+    ],
+    "lastauthor": "Abbas M",
+    "sortfirstauthor": "Atabi ACA",
+    "journal": "Open veterinary journal",
+    "issn": "2226-4485",
+    "essn": "2218-6050",
+    "doi": "doi: 10.5455/OVJ.2025.v15.i12.19",
+    "sortpubdate": "2025/12/01 00:00",
+    "epubdate": "2025 Dec 31"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "42299918",
+    "title": "A Cross-Country Evaluation of Respiratory Syncytial Virus and Human Metapneumovirus Surveillance Systems: Identifying Gaps and Best Practices for Improved Disease Monitoring.",
+    "source": "Rev Med Virol",
+    "pubdate": "2026 Jul",
+    "authors": [
+      "Martyn O",
+      "Devos J",
+      "Bourron P",
+      "AbouElwafa D",
+      "Vitoux O",
+      "Fougerolles TR"
+    ],
+    "lastauthor": "Fougerolles TR",
+    "sortfirstauthor": "Martyn O",
+    "journal": "Reviews in medical virology",
+    "issn": "1052-9276",
+    "essn": "1099-1654",
+    "doi": "doi: 10.1002/rmv.70175",
+    "sortpubdate": "2026/07/01 00:00",
+    "epubdate": ""
   }
 ]
