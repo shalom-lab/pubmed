@@ -118788,5 +118788,176 @@
     "doi": "doi: 10.1111/scd.70200",
     "sortpubdate": "2026/07/01 00:00",
     "epubdate": ""
+  },
+  {
+    "name": "NHANES",
+    "id": "42384012",
+    "title": "Heavy Metal Mixture Exposure and Insulin Resistance in U.S. Adults: The Mediating Role of Systemic Inflammation.",
+    "source": "J Clin Lab Anal",
+    "pubdate": "2026 Jul 1",
+    "authors": [
+      "Zhang C",
+      "Lin S",
+      "Lin Y"
+    ],
+    "lastauthor": "Lin Y",
+    "sortfirstauthor": "Zhang C",
+    "journal": "Journal of clinical laboratory analysis",
+    "issn": "0887-8013",
+    "essn": "1098-2825",
+    "doi": "doi: 10.1002/jcla.70300",
+    "sortpubdate": "2026/07/01 00:00",
+    "epubdate": "2026 Jul 1"
+  },
+  {
+    "name": "NHANES",
+    "id": "42383754",
+    "title": "The inflammation-nutrition axis and survival outcomes: Role of the neutrophil percentage-to-albumin ratio in patients with sleep disorders.",
+    "source": "J Int Med Res",
+    "pubdate": "2026 Jun",
+    "authors": [
+      "Wu L",
+      "Zhang X",
+      "Zhang L",
+      "Chen S"
+    ],
+    "lastauthor": "Chen S",
+    "sortfirstauthor": "Wu L",
+    "journal": "The Journal of international medical research",
+    "issn": "0300-0605",
+    "essn": "1473-2300",
+    "doi": "doi: 10.1177/03000605261464298",
+    "sortpubdate": "2026/06/01 00:00",
+    "epubdate": "2026 Jul 1"
+  },
+  {
+    "name": "NHANES",
+    "id": "42383178",
+    "title": "Impact of federal housing assistance on children's blood Lead Levels, NHANES 1999-2016.",
+    "source": "Environ Epidemiol",
+    "pubdate": "2026 Aug",
+    "authors": [
+      "Chu MT",
+      "Fenelon A",
+      "Adamkiewicz G",
+      "Zota AR"
+    ],
+    "lastauthor": "Zota AR",
+    "sortfirstauthor": "Chu MT",
+    "journal": "Environmental epidemiology (Philadelphia, Pa.)",
+    "issn": "",
+    "essn": "2474-7882",
+    "doi": "doi: 10.1097/EE9.0000000000000503",
+    "sortpubdate": "2026/06/30 00:00",
+    "epubdate": "2026 Jun 30"
+  },
+  {
+    "name": "NHANES",
+    "id": "42382711",
+    "title": "The association between high-sensitivity C-reactive protein and depression symptom severity among U.S. adults: A multivariable analysis of NHANES data.",
+    "source": "Brain Behav Immun Health",
+    "pubdate": "2026 Aug",
+    "authors": [
+      "Arellano JG",
+      "Lim E",
+      "Siriwardhana C",
+      "Chen JJ"
+    ],
+    "lastauthor": "Chen JJ",
+    "sortfirstauthor": "Arellano JG",
+    "journal": "Brain, behavior, & immunity - health",
+    "issn": "",
+    "essn": "2666-3546",
+    "doi": "doi: 10.1016/j.bbih.2026.101290",
+    "sortpubdate": "2026/06/20 00:00",
+    "epubdate": "2026 Jun 20"
+  },
+  {
+    "name": "NHANES",
+    "id": "42381893",
+    "title": "Sex-specific differences in diabetes prevalence between normal-weight obesity and obesity among middle-aged adults in South Korea: a propensity score-matched study.",
+    "source": "Prev Med Rep",
+    "pubdate": "2026 Aug",
+    "authors": [
+      "Lee YS",
+      "Park ASI",
+      "Youn BY"
+    ],
+    "lastauthor": "Youn BY",
+    "sortfirstauthor": "Lee YS",
+    "journal": "Preventive medicine reports",
+    "issn": "2211-3355",
+    "essn": "2211-3355",
+    "doi": "doi: 10.1016/j.pmedr.2026.103550",
+    "sortpubdate": "2026/06/22 00:00",
+    "epubdate": "2026 Jun 22"
+  },
+  {
+    "name": "NHANES",
+    "id": "42381074",
+    "title": "C-reactive protein-albumin-lymphocyte (CALLY) index and all-cause and cardiovascular mortality in the general population: a national health and nutrition examination survey analysis.",
+    "source": "J Cardiothorac Surg",
+    "pubdate": "2026 Jun 30",
+    "authors": [
+      "Xu XY",
+      "Li DH",
+      "Li YC",
+      "Ou Q",
+      "Wei HY",
+      "Shi XY",
+      "Xie JY",
+      "Yan DD",
+      "Zhao ZW"
+    ],
+    "lastauthor": "Zhao ZW",
+    "sortfirstauthor": "Xu XY",
+    "journal": "Journal of cardiothoracic surgery",
+    "issn": "",
+    "essn": "1749-8090",
+    "doi": "doi: 10.1186/s13019-026-04479-x",
+    "sortpubdate": "2026/06/30 00:00",
+    "epubdate": "2026 Jun 30"
+  },
+  {
+    "name": "NHANES",
+    "id": "42379108",
+    "title": "High-quality dietary patterns reduce risk of advanced cardiovascular-kidney-metabolic syndrome: A cross-sectional NHANES study in US adults.",
+    "source": "Nutr Res",
+    "pubdate": "2026 Jun 1",
+    "authors": [
+      "Yan Z",
+      "Du X"
+    ],
+    "lastauthor": "Du X",
+    "sortfirstauthor": "Yan Z",
+    "journal": "Nutrition research (New York, N.Y.)",
+    "issn": "0271-5317",
+    "essn": "1879-0739",
+    "doi": "doi: 10.1016/j.nutres.2026.05.010",
+    "sortpubdate": "2026/06/01 00:00",
+    "epubdate": "2026 Jun 1"
+  },
+  {
+    "name": "NHANES",
+    "id": "42378910",
+    "title": "Association of TyG-RFM with depressive symptoms: a nationally representative study enhanced by interpretable machine learning.",
+    "source": "Psychiatry Res",
+    "pubdate": "2026 Jun 24",
+    "authors": [
+      "Chen Y",
+      "Xiao N",
+      "Kong X",
+      "Zhou Q",
+      "Xie K",
+      "Zhao X"
+    ],
+    "lastauthor": "Zhao X",
+    "sortfirstauthor": "Chen Y",
+    "journal": "Psychiatry research",
+    "issn": "0165-1781",
+    "essn": "1872-7123",
+    "doi": "doi: 10.1016/j.psychres.2026.117307",
+    "sortpubdate": "2026/06/24 00:00",
+    "epubdate": "2026 Jun 24"
   }
 ]
