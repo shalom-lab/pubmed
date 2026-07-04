@@ -7953,7 +7953,7 @@
     "id": "42384480",
     "title": "Evaluating the socioeconomic value of adult respiratory immunization in Spain: a benefit-cost analysis.",
     "source": "Expert Rev Vaccines",
-    "pubdate": "2026 Jul 1",
+    "pubdate": "2026 Dec",
     "authors": [
       "Napier M",
       "López-Ibánez de Aldecoa A",
@@ -7974,8 +7974,8 @@
     "issn": "1476-0584",
     "essn": "1744-8395",
     "doi": "doi: 10.1080/14760584.2026.2695495",
-    "sortpubdate": "2026/07/01 00:00",
-    "epubdate": "2026 Jul 1"
+    "sortpubdate": "2026/12/01 00:00",
+    "epubdate": "2026 Jul 3"
   },
   {
     "name": "RSV modeling",
@@ -8006,5 +8006,30 @@
     "doi": "doi: 10.1002/mco2.70811",
     "sortpubdate": "2026/07/01 00:00",
     "epubdate": "2026 Jul 1"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "42393113",
+    "title": "Public knowledge and attitudes toward respiratory syncytial virus vaccination in Hong Kong: a territory-wide population-based study.",
+    "source": "Sci Rep",
+    "pubdate": "2026 Jul 2",
+    "authors": [
+      "Zhong CC",
+      "Yang Z",
+      "Keung VMW",
+      "Chen Y",
+      "Lo A",
+      "Cheung C",
+      "Huang J",
+      "Wong MCS"
+    ],
+    "lastauthor": "Wong MCS",
+    "sortfirstauthor": "Zhong CC",
+    "journal": "Scientific reports",
+    "issn": "",
+    "essn": "2045-2322",
+    "doi": "doi: 10.1038/s41598-026-55277-3",
+    "sortpubdate": "2026/07/02 00:00",
+    "epubdate": "2026 Jul 2"
   }
 ]
