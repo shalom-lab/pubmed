@@ -119581,5 +119581,72 @@
     "doi": "doi: 10.1097/JCN.0000000000001336",
     "sortpubdate": "2026/07/03 00:00",
     "epubdate": "2026 Jul 3"
+  },
+  {
+    "name": "NHANES",
+    "id": "42400320",
+    "title": "Association of C-Reactive Protein-Triglyceride Glucose Index With Chronic Obstructive Pulmonary Disease: Results From the NHANES and CHARLS Cohorts.",
+    "source": "Mediators Inflamm",
+    "pubdate": "2026",
+    "authors": [
+      "Gan J",
+      "Chen L",
+      "Zhu Y"
+    ],
+    "lastauthor": "Zhu Y",
+    "sortfirstauthor": "Gan J",
+    "journal": "Mediators of inflammation",
+    "issn": "0962-9351",
+    "essn": "1466-1861",
+    "doi": "doi: 10.1155/mi/9592487",
+    "sortpubdate": "2026/01/01 00:00",
+    "epubdate": ""
+  },
+  {
+    "name": "NHANES",
+    "id": "42398862",
+    "title": "Urinary Volatile Organic Compound Metabolites and Depressive Symptoms Among U.S. Adults With Cardiovascular-Kidney-Metabolic Syndrome Stages 0-3: NHANES-Based Associations and In Silico Multi-Omics Insights.",
+    "source": "Neurotoxicology",
+    "pubdate": "2026 Jul 3",
+    "authors": [
+      "Tian Y",
+      "Wang Y",
+      "Cui H",
+      "Wang H",
+      "Yang Y",
+      "Chang Y"
+    ],
+    "lastauthor": "Chang Y",
+    "sortfirstauthor": "Tian Y",
+    "journal": "Neurotoxicology",
+    "issn": "0161-813X",
+    "essn": "1872-9711",
+    "doi": "doi: 10.1016/j.neuro.2026.103508",
+    "sortpubdate": "2026/07/03 00:00",
+    "epubdate": "2026 Jul 3"
+  },
+  {
+    "name": "NHANES",
+    "id": "42398646",
+    "title": "Daily Steps and Life Expectancy: A Life Table Analysis of a Population-Representative Sample.",
+    "source": "J Phys Act Health",
+    "pubdate": "2026 Jul 3",
+    "authors": [
+      "Zhuang J",
+      "Liu T",
+      "Holzapfel S",
+      "Ma T",
+      "Lei J",
+      "Li G",
+      "Pang MYC"
+    ],
+    "lastauthor": "Pang MYC",
+    "sortfirstauthor": "Zhuang J",
+    "journal": "Journal of physical activity & health",
+    "issn": "1543-3080",
+    "essn": "1543-5474",
+    "doi": "doi: 10.1123/jpah.2025-0892",
+    "sortpubdate": "2026/07/03 00:00",
+    "epubdate": "2026 Jul 3"
   }
 ]

@@ -81412,5 +81412,98 @@
     "doi": "doi: 10.1016/j.clinre.2026.102882",
     "sortpubdate": "2026/07/02 00:00",
     "epubdate": "2026 Jul 2"
+  },
+  {
+    "name": "GBD database",
+    "id": "42400040",
+    "title": "The burden of ovarian cancer attributable to occupational asbestos exposure in Asia from 1990 to 2021: an analysis of the global burden of disease study 2021.",
+    "source": "Trop Med Health",
+    "pubdate": "2026 Jul 3",
+    "authors": [
+      "Yu Y",
+      "Zhang W",
+      "Deng T",
+      "Li N",
+      "Wu J"
+    ],
+    "lastauthor": "Wu J",
+    "sortfirstauthor": "Yu Y",
+    "journal": "Tropical medicine and health",
+    "issn": "1348-8945",
+    "essn": "",
+    "doi": "doi: 10.1186/s41182-026-00998-4",
+    "sortpubdate": "2026/07/03 00:00",
+    "epubdate": "2026 Jul 3"
+  },
+  {
+    "name": "GBD database",
+    "id": "42399401",
+    "title": "Global burden of environmental heat and cold exposure 1990-2021 projected to 2035 reveals temporal trends and socio-demographic inequalities.",
+    "source": "Sci Rep",
+    "pubdate": "2026 Jul 3",
+    "authors": [
+      "Jin X",
+      "Wang R",
+      "Pan D",
+      "Wu R",
+      "Wang N",
+      "Xia J",
+      "Wang S",
+      "Sun G"
+    ],
+    "lastauthor": "Sun G",
+    "sortfirstauthor": "Jin X",
+    "journal": "Scientific reports",
+    "issn": "",
+    "essn": "2045-2322",
+    "doi": "doi: 10.1038/s41598-026-59453-3",
+    "sortpubdate": "2026/07/03 00:00",
+    "epubdate": "2026 Jul 3"
+  },
+  {
+    "name": "GBD database",
+    "id": "42398932",
+    "title": "Identifying Behavior Change Techniques for Digital Interventions Addressing Alcohol and Tobacco Co-Use: Findings From a Delphi Consensus Study.",
+    "source": "JMIR Form Res",
+    "pubdate": "2026 Jul 3",
+    "authors": [
+      "Chandran A",
+      "Veldhuizen S",
+      "Mehra K",
+      "Zawertailo L",
+      "Rehm J",
+      "Hendershot CS",
+      "Selby P",
+      "Minian N"
+    ],
+    "lastauthor": "Minian N",
+    "sortfirstauthor": "Chandran A",
+    "journal": "JMIR formative research",
+    "issn": "",
+    "essn": "2561-326X",
+    "doi": "doi: 10.2196/88996",
+    "sortpubdate": "2026/07/03 00:00",
+    "epubdate": "2026 Jul 3"
+  },
+  {
+    "name": "GBD database",
+    "id": "42398276",
+    "title": "Rising burden and future projections of multiple sclerosis in East Asia: Findings from the global burden of disease study 2021.",
+    "source": "Mult Scler Relat Disord",
+    "pubdate": "2026 Jun 22",
+    "authors": [
+      "Liu W",
+      "Liu P",
+      "Wang Q",
+      "Li X"
+    ],
+    "lastauthor": "Li X",
+    "sortfirstauthor": "Liu W",
+    "journal": "Multiple sclerosis and related disorders",
+    "issn": "2211-0348",
+    "essn": "2211-0356",
+    "doi": "doi: 10.1016/j.msard.2026.107338",
+    "sortpubdate": "2026/06/22 00:00",
+    "epubdate": "2026 Jun 22"
   }
 ]
