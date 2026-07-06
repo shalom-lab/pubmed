@@ -81505,5 +81505,33 @@
     "doi": "doi: 10.1016/j.msard.2026.107338",
     "sortpubdate": "2026/06/22 00:00",
     "epubdate": "2026 Jun 22"
+  },
+  {
+    "name": "GBD database",
+    "id": "42397618",
+    "title": "Trends in the global burden of appendicitis in children at global, regional, and national levels: An analysis using GBD 2021 data.",
+    "source": "J Egypt Public Health Assoc",
+    "pubdate": "2026 Jul 3",
+    "authors": [
+      "Zhou J",
+      "Feng Y",
+      "Zhang K",
+      "Zhang L",
+      "Wang J",
+      "Du W",
+      "Wang Z",
+      "Yang G",
+      "Sun Y",
+      "Zhang W",
+      "Li X"
+    ],
+    "lastauthor": "Li X",
+    "sortfirstauthor": "Zhou J",
+    "journal": "The Journal of the Egyptian Public Health Association",
+    "issn": "0013-2446",
+    "essn": "2090-262X",
+    "doi": "doi: 10.1186/s42506-026-00229-y",
+    "sortpubdate": "2026/07/03 00:00",
+    "epubdate": "2026 Jul 3"
   }
 ]
