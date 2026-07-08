@@ -81393,7 +81393,7 @@
   {
     "name": "GBD database",
     "id": "42392310",
-    "title": "The Disease Burden of Gastric Cancer in China, 1990-2023: A Comprehensive Analysis and Projections to 2035.",
+    "title": "The disease burden of gastric cancer in China, 1990-2023: A comprehensive analysis and projections to 2035.",
     "source": "Clin Res Hepatol Gastroenterol",
     "pubdate": "2026 Jul 2",
     "authors": [
@@ -81823,5 +81823,167 @@
     "doi": "doi: 10.1007/s00405-026-10391-w",
     "sortpubdate": "2026/07/05 00:00",
     "epubdate": "2026 Jul 5"
+  },
+  {
+    "name": "GBD database",
+    "id": "42411767",
+    "title": "Global Burden and Temporal Prediction of Intestinal Obstruction (1990-2021) and the Relationship with Blood Metabolites: An Integrated Analysis of GBD and Mendelian Randomization.",
+    "source": "J Gerontol A Biol Sci Med Sci",
+    "pubdate": "2026 Jul 7",
+    "authors": [
+      "Dai Z",
+      "Zhang X",
+      "Hua Z",
+      "Wang Y",
+      "Zhang H",
+      "Hu X",
+      "Du P",
+      "Xu W"
+    ],
+    "lastauthor": "Xu W",
+    "sortfirstauthor": "Dai Z",
+    "journal": "The journals of gerontology. Series A, Biological sciences and medical sciences",
+    "issn": "1079-5006",
+    "essn": "1758-535X",
+    "doi": "pii: glag171. doi: 10.1093/gerona/glag171",
+    "sortpubdate": "2026/07/07 00:00",
+    "epubdate": "2026 Jul 7"
+  },
+  {
+    "name": "GBD database",
+    "id": "42410828",
+    "title": "Global burden and trends of appendicitis among adolescents and young adults: A systematic analysis for the Global Burden of Disease study 2021 and predictions to 2040.",
+    "source": "Medicine (Baltimore)",
+    "pubdate": "2026 Jul 3",
+    "authors": [
+      "Sun Q",
+      "Yan M",
+      "Wang H",
+      "Hu T",
+      "Chen X",
+      "Xu S"
+    ],
+    "lastauthor": "Xu S",
+    "sortfirstauthor": "Sun Q",
+    "journal": "Medicine",
+    "issn": "0025-7974",
+    "essn": "1536-5964",
+    "doi": "doi: 10.1097/MD.0000000000049625",
+    "sortpubdate": "2026/07/03 00:00",
+    "epubdate": ""
+  },
+  {
+    "name": "GBD database",
+    "id": "42410821",
+    "title": "Trends and health inequalities in the global burden of kidney cancer from 1990 to 2021, with projections to 2040.",
+    "source": "Medicine (Baltimore)",
+    "pubdate": "2026 Jul 3",
+    "authors": [
+      "Qi D",
+      "Xia R",
+      "Xiong F",
+      "Wang C"
+    ],
+    "lastauthor": "Wang C",
+    "sortfirstauthor": "Qi D",
+    "journal": "Medicine",
+    "issn": "0025-7974",
+    "essn": "1536-5964",
+    "doi": "doi: 10.1097/MD.0000000000049500",
+    "sortpubdate": "2026/07/03 00:00",
+    "epubdate": ""
+  },
+  {
+    "name": "GBD database",
+    "id": "42410801",
+    "title": "Global, regional and national burden of skin cancer from 1990 to 2021: Analysis of risk factors and prediction of trends in 2035.",
+    "source": "Medicine (Baltimore)",
+    "pubdate": "2026 Jul 3",
+    "authors": [
+      "Sun H",
+      "Fu J",
+      "Li J",
+      "Yuan W",
+      "Xin J"
+    ],
+    "lastauthor": "Xin J",
+    "sortfirstauthor": "Sun H",
+    "journal": "Medicine",
+    "issn": "0025-7974",
+    "essn": "1536-5964",
+    "doi": "doi: 10.1097/MD.0000000000049407",
+    "sortpubdate": "2026/07/03 00:00",
+    "epubdate": ""
+  },
+  {
+    "name": "GBD database",
+    "id": "42410798",
+    "title": "Global, regional, and national burden of lower-limb fractures, 1990 to 2021, with health inequalities and projections to 2040: An observational analysis of Global Burden of Disease Study 2021 data.",
+    "source": "Medicine (Baltimore)",
+    "pubdate": "2026 Jul 3",
+    "authors": [
+      "Azhati S",
+      "Liu S",
+      "Hu Z",
+      "Zhao K",
+      "Zou D",
+      "Wei Y",
+      "Wu Y",
+      "Dou Y",
+      "Jiang W",
+      "Liu C"
+    ],
+    "lastauthor": "Liu C",
+    "sortfirstauthor": "Azhati S",
+    "journal": "Medicine",
+    "issn": "0025-7974",
+    "essn": "1536-5964",
+    "doi": "doi: 10.1097/MD.0000000000049506",
+    "sortpubdate": "2026/07/03 00:00",
+    "epubdate": ""
+  },
+  {
+    "name": "GBD database",
+    "id": "42410797",
+    "title": "The association between neutrophil-to-lymphocyte ratio and Parkinson disease, integrating data from global burden of disease study and NHANES databases.",
+    "source": "Medicine (Baltimore)",
+    "pubdate": "2026 Jul 3",
+    "authors": [
+      "Gao H",
+      "Nie G",
+      "Yu K"
+    ],
+    "lastauthor": "Yu K",
+    "sortfirstauthor": "Gao H",
+    "journal": "Medicine",
+    "issn": "0025-7974",
+    "essn": "1536-5964",
+    "doi": "doi: 10.1097/MD.0000000000049574",
+    "sortpubdate": "2026/07/03 00:00",
+    "epubdate": ""
+  },
+  {
+    "name": "GBD database",
+    "id": "42410762",
+    "title": "Global, regional, and national burdens of musculoskeletal disorders in postmenopausal women from 1990 to 2021 and projections to 2050: A population-based observational study using GBD 2021 data.",
+    "source": "Medicine (Baltimore)",
+    "pubdate": "2026 Jul 3",
+    "authors": [
+      "Tian Z",
+      "Di J",
+      "Mu C",
+      "Guo Z",
+      "Qin Y",
+      "Yan Z",
+      "Xiang C"
+    ],
+    "lastauthor": "Xiang C",
+    "sortfirstauthor": "Tian Z",
+    "journal": "Medicine",
+    "issn": "0025-7974",
+    "essn": "1536-5964",
+    "doi": "doi: 10.1097/MD.0000000000049611",
+    "sortpubdate": "2026/07/03 00:00",
+    "epubdate": ""
   }
 ]
