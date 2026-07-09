@@ -10165,5 +10165,52 @@
     "doi": "pii: kwag155. doi: 10.1093/aje/kwag155",
     "sortpubdate": "2026/07/07 00:00",
     "epubdate": "2026 Jul 7"
+  },
+  {
+    "name": "American Journal of Epidemiology",
+    "id": "42415523",
+    "title": "A decision-theoretic framework for uncertainty quantification in epidemiological modelling.",
+    "source": "Am J Epidemiol",
+    "pubdate": "2026 Jul 8",
+    "authors": [
+      "Steyn N",
+      "Mills C",
+      "Shirvaikar V",
+      "Smith FB",
+      "Donnelly CA",
+      "Parag KV"
+    ],
+    "lastauthor": "Parag KV",
+    "sortfirstauthor": "Steyn N",
+    "journal": "American journal of epidemiology",
+    "issn": "0002-9262",
+    "essn": "1476-6256",
+    "doi": "pii: kwag154. doi: 10.1093/aje/kwag154",
+    "sortpubdate": "2026/07/08 00:00",
+    "epubdate": "2026 Jul 8"
+  },
+  {
+    "name": "American Journal of Epidemiology",
+    "id": "42415521",
+    "title": "U.S. cardiovascular mortality before and during COVID-19: CDC WONDER vs GBD comparison.",
+    "source": "Am J Epidemiol",
+    "pubdate": "2026 Jul 8",
+    "authors": [
+      "Baig MMA",
+      "Umar M",
+      "Becker CW",
+      "Virani SS",
+      "Abramov D",
+      "Jia X",
+      "Minhas AMK"
+    ],
+    "lastauthor": "Minhas AMK",
+    "sortfirstauthor": "Baig MMA",
+    "journal": "American journal of epidemiology",
+    "issn": "0002-9262",
+    "essn": "1476-6256",
+    "doi": "pii: kwag153. doi: 10.1093/aje/kwag153",
+    "sortpubdate": "2026/07/08 00:00",
+    "epubdate": "2026 Jul 8"
   }
 ]
