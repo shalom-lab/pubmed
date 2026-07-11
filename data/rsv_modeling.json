@@ -8103,5 +8103,58 @@
     "doi": "doi: 10.1007/s40121-026-01382-9",
     "sortpubdate": "2026/07/08 00:00",
     "epubdate": "2026 Jul 8"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "42425892",
+    "title": "Country-Level RSV-Related Hospitalisation Rates Among Adults in High-Income Countries From an Ensemble Model Based on Direct Viral Testing Incidence Data.",
+    "source": "Influenza Other Respir Viruses",
+    "pubdate": "2026 Jul",
+    "authors": [
+      "Deng S",
+      "Zhang T",
+      "Xu Y",
+      "Begier E",
+      "Liang C",
+      "Sato R",
+      "Kenmoe S",
+      "Gessner BD",
+      "Nair H",
+      "Li Y"
+    ],
+    "lastauthor": "Li Y",
+    "sortfirstauthor": "Deng S",
+    "journal": "Influenza and other respiratory viruses",
+    "issn": "1750-2640",
+    "essn": "1750-2659",
+    "doi": "doi: 10.1111/irv.70291",
+    "sortpubdate": "2026/07/01 00:00",
+    "epubdate": ""
+  },
+  {
+    "name": "RSV modeling",
+    "id": "42424885",
+    "title": "Label-free surface-enhanced Raman spectroscopy and machine learning for rapid classification and quantification of bovine respiratory disease complex viruses.",
+    "source": "Talanta",
+    "pubdate": "2026 Jul 6",
+    "authors": [
+      "Kumar A",
+      "Van Den Hurk SS",
+      "Ma F",
+      "Yang Y",
+      "Chen X",
+      "Velayudhan BT",
+      "Naikare HK",
+      "Tripp RA",
+      "Zhao Y"
+    ],
+    "lastauthor": "Zhao Y",
+    "sortfirstauthor": "Kumar A",
+    "journal": "Talanta",
+    "issn": "0039-9140",
+    "essn": "1873-3573",
+    "doi": "doi: 10.1016/j.talanta.2026.130265",
+    "sortpubdate": "2026/07/06 00:00",
+    "epubdate": "2026 Jul 6"
   }
 ]
