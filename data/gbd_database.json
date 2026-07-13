@@ -82701,7 +82701,7 @@
     "sortfirstauthor": "Chen P",
     "journal": "Journal of gastrointestinal oncology",
     "issn": "2078-6891",
-    "essn": "",
+    "essn": "2219-679X",
     "doi": "doi: 10.21037/jgo-2025-aw-915",
     "sortpubdate": "2026/06/30 00:00",
     "epubdate": "2026 Apr 26"
@@ -82748,7 +82748,7 @@
     "sortfirstauthor": "Zhang W",
     "journal": "Translational pediatrics",
     "issn": "2224-4344",
-    "essn": "2224-4336",
+    "essn": "2224-4344",
     "doi": "doi: 10.21037/tp-2026-0191",
     "sortpubdate": "2026/06/30 00:00",
     "epubdate": "2026 May 14"
@@ -82769,7 +82769,7 @@
     "sortfirstauthor": "Zhou Z",
     "journal": "The World Allergy Organization journal",
     "issn": "1939-4551",
-    "essn": "",
+    "essn": "1939-4551",
     "doi": "doi: 10.1016/j.waojou.2026.101422",
     "sortpubdate": "2026/07/02 00:00",
     "epubdate": "2026 Jul 2"
@@ -82953,5 +82953,71 @@
     "doi": "doi: 10.29262/ram.v73i2.1597",
     "sortpubdate": "2026/06/30 00:00",
     "epubdate": "2026 Jun 30"
+  },
+  {
+    "name": "GBD database",
+    "id": "42436481",
+    "title": "Gender inequities in the economic burden of anxiety disorders, depressive disorders, migraine, and rheumatoid arthritis in Mexico, 2005-2021.",
+    "source": "Int J Equity Health",
+    "pubdate": "2026 Jul 11",
+    "authors": [
+      "Guerrero-López CM",
+      "Serván-Mori E",
+      "Godínez-Alejandre J",
+      "Jan S",
+      "Downey L",
+      "Gómez-Dantés H",
+      "Norton R"
+    ],
+    "lastauthor": "Norton R",
+    "sortfirstauthor": "Guerrero-López CM",
+    "journal": "International journal for equity in health",
+    "issn": "",
+    "essn": "1475-9276",
+    "doi": "doi: 10.1186/s12939-026-02873-4",
+    "sortpubdate": "2026/07/11 00:00",
+    "epubdate": "2026 Jul 11"
+  },
+  {
+    "name": "GBD database",
+    "id": "42436194",
+    "title": "Surface induced investigation of the chemical composition of end-of-life magnets with GD-OES for the development of efficient recycling strategies.",
+    "source": "Sci Rep",
+    "pubdate": "2026 Jul 11",
+    "authors": [
+      "Lindenmann F",
+      "Fleissner P",
+      "Grau L",
+      "Böhm S",
+      "Burkhardt C"
+    ],
+    "lastauthor": "Burkhardt C",
+    "sortfirstauthor": "Lindenmann F",
+    "journal": "Scientific reports",
+    "issn": "",
+    "essn": "2045-2322",
+    "doi": "doi: 10.1038/s41598-026-60938-4",
+    "sortpubdate": "2026/07/11 00:00",
+    "epubdate": "2026 Jul 11"
+  },
+  {
+    "name": "GBD database",
+    "id": "42435942",
+    "title": "Herpes simplex keratitis: an epidemiological and public health review.",
+    "source": "Surv Ophthalmol",
+    "pubdate": "2026 Jul 11",
+    "authors": [
+      "Pappas CP",
+      "Cabrera-Aguas M",
+      "Watson SL"
+    ],
+    "lastauthor": "Watson SL",
+    "sortfirstauthor": "Pappas CP",
+    "journal": "Survey of ophthalmology",
+    "issn": "0039-6257",
+    "essn": "1879-3304",
+    "doi": "pii: S0039-6257(26)00094-9. doi: 10.1016/j.survophthal.2026.07.003",
+    "sortpubdate": "2026/07/11 00:00",
+    "epubdate": "2026 Jul 11"
   }
 ]

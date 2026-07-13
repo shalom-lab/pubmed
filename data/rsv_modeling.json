@@ -8156,5 +8156,52 @@
     "doi": "doi: 10.1016/j.talanta.2026.130265",
     "sortpubdate": "2026/07/06 00:00",
     "epubdate": "2026 Jul 6"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "42436148",
+    "title": "Real-time estimation of pathogen transmission dynamics from wastewater.",
+    "source": "Nat Commun",
+    "pubdate": "2026 Jul 11",
+    "authors": [
+      "Lison A",
+      "McLeod RE",
+      "Huisman JS",
+      "Munday JD",
+      "Ort C",
+      "Julian TR",
+      "Stadler T"
+    ],
+    "lastauthor": "Stadler T",
+    "sortfirstauthor": "Lison A",
+    "journal": "Nature communications",
+    "issn": "",
+    "essn": "2041-1723",
+    "doi": "doi: 10.1038/s41467-026-75380-3",
+    "sortpubdate": "2026/07/11 00:00",
+    "epubdate": "2026 Jul 11"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "42435861",
+    "title": "Hospitalizations and deaths from major respiratory viruses in the US: An ensemble time series modeling study, 2016-2025.",
+    "source": "J Infect",
+    "pubdate": "2026 Jul 11",
+    "authors": [
+      "Hansen CL",
+      "Shaikh N",
+      "Naeger S",
+      "Torcel-Pagnon L",
+      "Chaves SS",
+      "Viboud C"
+    ],
+    "lastauthor": "Viboud C",
+    "sortfirstauthor": "Hansen CL",
+    "journal": "The Journal of infection",
+    "issn": "0163-4453",
+    "essn": "1532-2742",
+    "doi": "doi: 10.1016/j.jinf.2026.106811",
+    "sortpubdate": "2026/07/11 00:00",
+    "epubdate": "2026 Jul 11"
   }
 ]
