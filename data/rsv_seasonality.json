@@ -9860,5 +9860,37 @@
     "doi": "doi: 10.1111/irv.70284",
     "sortpubdate": "2026/07/01 00:00",
     "epubdate": ""
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "42438688",
+    "title": "Respiratory virus genomic epidemiology during post-pandemic re-emergence of influenza in Australia.",
+    "source": "Virus Evol",
+    "pubdate": "2026",
+    "authors": [
+      "Rockett RJ",
+      "Agius JE",
+      "Chandra S",
+      "Fong W",
+      "Aziz A",
+      "Suster CJE",
+      "Basile K",
+      "Lam C",
+      "Chen SC",
+      "Dwyer DE",
+      "Kok J",
+      "Sullivan SG",
+      "Barr IG",
+      "Sintchenko V",
+      "Golubchik T"
+    ],
+    "lastauthor": "Golubchik T",
+    "sortfirstauthor": "Rockett RJ",
+    "journal": "Virus evolution",
+    "issn": "2057-1577",
+    "essn": "2057-1577",
+    "doi": "doi: 10.1093/ve/veag036",
+    "sortpubdate": "2026/06/22 00:00",
+    "epubdate": "2026 Jun 22"
   }
 ]

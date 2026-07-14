@@ -8203,5 +8203,34 @@
     "doi": "doi: 10.1016/j.jinf.2026.106811",
     "sortpubdate": "2026/07/11 00:00",
     "epubdate": "2026 Jul 11"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "42439550",
+    "title": "iPSC-based macrophage models reveal interferon-dependent control of RSV permissiveness and syncytia formation.",
+    "source": "Microbiol Spectr",
+    "pubdate": "2026 Jul 13",
+    "authors": [
+      "Agac A",
+      "Queiros D",
+      "Nikolouli E",
+      "Knittler M-C",
+      "Nguyen AHH",
+      "Nägler T",
+      "Ludlow M",
+      "Osterhaus ADME",
+      "Hansen G",
+      "Lachmann N",
+      "Rimmelzwaan GF",
+      "Meineke R"
+    ],
+    "lastauthor": "Meineke R",
+    "sortfirstauthor": "Agac A",
+    "journal": "Microbiology spectrum",
+    "issn": "",
+    "essn": "2165-0497",
+    "doi": "doi: 10.1128/spectrum.00845-26",
+    "sortpubdate": "2026/07/13 00:00",
+    "epubdate": "2026 Jul 13"
   }
 ]
