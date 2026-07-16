@@ -9554,7 +9554,7 @@
     "id": "42392483",
     "title": "Longitudinal epidemiology of respiratory viruses in hospitalized patients in Oman (2017-2025).",
     "source": "Acta Trop",
-    "pubdate": "2026 Jul 2",
+    "pubdate": "2026 Aug",
     "authors": [
       "Ba-Alawi F",
       "Maamari KA",
@@ -9574,7 +9574,7 @@
     "issn": "0001-706X",
     "essn": "1873-6254",
     "doi": "doi: 10.1016/j.actatropica.2026.108211",
-    "sortpubdate": "2026/07/02 00:00",
+    "sortpubdate": "2026/08/01 00:00",
     "epubdate": "2026 Jul 2"
   },
   {
@@ -9635,7 +9635,7 @@
     "id": "42398739",
     "title": "Epidemiological characteristics of respiratory syncytial virus in children during 2021-2024.",
     "source": "J Virol Methods",
-    "pubdate": "2026 Jul 3",
+    "pubdate": "2026 Jul 14",
     "authors": [
       "Wang B",
       "Wang J",
@@ -9653,8 +9653,8 @@
     "issn": "0166-0934",
     "essn": "1879-0984",
     "doi": "doi: 10.1016/j.jviromet.2026.115433",
-    "sortpubdate": "2026/07/03 00:00",
-    "epubdate": "2026 Jul 3"
+    "sortpubdate": "2026/07/14 00:00",
+    "epubdate": "2026 Jul 14"
   },
   {
     "name": "RSV seasonality",
@@ -9892,5 +9892,24 @@
     "doi": "doi: 10.1093/ve/veag036",
     "sortpubdate": "2026/06/22 00:00",
     "epubdate": "2026 Jun 22"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "42455802",
+    "title": "Shifts in seasonal timing of respiratory diseases and causes of death following a natural pandemic event.",
+    "source": "PLOS Glob Public Health",
+    "pubdate": "2026",
+    "authors": [
+      "Sieber M",
+      "Traulsen A"
+    ],
+    "lastauthor": "Traulsen A",
+    "sortfirstauthor": "Sieber M",
+    "journal": "PLOS global public health",
+    "issn": "",
+    "essn": "2767-3375",
+    "doi": "doi: 10.1371/journal.pgph.0006376",
+    "sortpubdate": "2026/07/15 00:00",
+    "epubdate": "2026 Jul 15"
   }
 ]

@@ -8232,5 +8232,43 @@
     "doi": "doi: 10.1128/spectrum.00845-26",
     "sortpubdate": "2026/07/13 00:00",
     "epubdate": "2026 Jul 13"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "42455802",
+    "title": "Shifts in seasonal timing of respiratory diseases and causes of death following a natural pandemic event.",
+    "source": "PLOS Glob Public Health",
+    "pubdate": "2026",
+    "authors": [
+      "Sieber M",
+      "Traulsen A"
+    ],
+    "lastauthor": "Traulsen A",
+    "sortfirstauthor": "Sieber M",
+    "journal": "PLOS global public health",
+    "issn": "",
+    "essn": "2767-3375",
+    "doi": "doi: 10.1371/journal.pgph.0006376",
+    "sortpubdate": "2026/07/15 00:00",
+    "epubdate": "2026 Jul 15"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "42447736",
+    "title": "The cost of respiratory syncytial virus (RSV) across all ages to the Australian healthcare system.",
+    "source": "Vaccine",
+    "pubdate": "2026 Jul 14",
+    "authors": [
+      "Paul KK",
+      "Newall AT"
+    ],
+    "lastauthor": "Newall AT",
+    "sortfirstauthor": "Paul KK",
+    "journal": "Vaccine",
+    "issn": "0264-410X",
+    "essn": "1873-2518",
+    "doi": "doi: 10.1016/j.vaccine.2026.128922",
+    "sortpubdate": "2026/07/14 00:00",
+    "epubdate": "2026 Jul 14"
   }
 ]
