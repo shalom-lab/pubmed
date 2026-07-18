@@ -10471,5 +10471,70 @@
     "doi": "pii: kwag158. doi: 10.1093/aje/kwag158",
     "sortpubdate": "2026/07/15 00:00",
     "epubdate": "2026 Jul 15"
+  },
+  {
+    "name": "American Journal of Epidemiology",
+    "id": "42467412",
+    "title": "Correction to: Obtaining a probability sample of a pregnancy cohort of births: a review of the problem and a practical solution.",
+    "source": "Am J Epidemiol",
+    "pubdate": "2026 Jul 17",
+    "authors": [],
+    "lastauthor": "",
+    "sortfirstauthor": "",
+    "journal": "American journal of epidemiology",
+    "issn": "0002-9262",
+    "essn": "1476-6256",
+    "doi": "pii: kwag163. doi: 10.1093/aje/kwag163",
+    "sortpubdate": "2026/07/17 00:00",
+    "epubdate": "2026 Jul 17"
+  },
+  {
+    "name": "American Journal of Epidemiology",
+    "id": "42463233",
+    "title": "Roadmap for systematic identification and analysis of multiple biases in causal inference.",
+    "source": "Am J Epidemiol",
+    "pubdate": "2026 Jul 16",
+    "authors": [
+      "Wijesuriya R",
+      "Hughes R",
+      "Carlin J",
+      "Peters RL",
+      "Koplin JJ",
+      "Moreno-Betancur M"
+    ],
+    "lastauthor": "Moreno-Betancur M",
+    "sortfirstauthor": "Wijesuriya R",
+    "journal": "American journal of epidemiology",
+    "issn": "0002-9262",
+    "essn": "1476-6256",
+    "doi": "pii: kwag166. doi: 10.1093/aje/kwag166",
+    "sortpubdate": "2026/07/16 00:00",
+    "epubdate": "2026 Jul 16"
+  },
+  {
+    "name": "American Journal of Epidemiology",
+    "id": "42463231",
+    "title": "Time Trends in Susceptibility to Scams in Community-Dwelling Older Adults.",
+    "source": "Am J Epidemiol",
+    "pubdate": "2026 Jul 16",
+    "authors": [
+      "Yu L",
+      "Du L",
+      "Wang T",
+      "Mottola G",
+      "Stewart CC",
+      "Lichtenberg PA",
+      "Grodstein F",
+      "Bennett DA",
+      "Boyle PA"
+    ],
+    "lastauthor": "Boyle PA",
+    "sortfirstauthor": "Yu L",
+    "journal": "American journal of epidemiology",
+    "issn": "0002-9262",
+    "essn": "1476-6256",
+    "doi": "pii: kwag168. doi: 10.1093/aje/kwag168",
+    "sortpubdate": "2026/07/16 00:00",
+    "epubdate": "2026 Jul 16"
   }
 ]

@@ -5834,7 +5834,7 @@
     "id": "42336142",
     "title": "Respiratory syncytial virus outcomes and duration of protection following nirsevimab administration in high-risk infants: a real-world study under year-round epidemic circulation in Japan.",
     "source": "J Infect Chemother",
-    "pubdate": "2026 Jun 23",
+    "pubdate": "2026 Aug",
     "authors": [
       "Kimoto Y",
       "Nozaki M",
@@ -5852,7 +5852,7 @@
     "issn": "1341-321X",
     "essn": "1437-7780",
     "doi": "doi: 10.1016/j.jiac.2026.103021",
-    "sortpubdate": "2026/06/23 00:00",
+    "sortpubdate": "2026/08/01 00:00",
     "epubdate": "2026 Jun 23"
   },
   {
@@ -6062,5 +6062,29 @@
     "doi": "doi: 10.1701/4743.47597",
     "sortpubdate": "2026/07/01 00:00",
     "epubdate": ""
+  },
+  {
+    "name": "Nirsevimab effectiveness",
+    "id": "42465211",
+    "title": "Efficacy and safety of monoclonal antibodies against respiratory syncytial virus disease in premature infants: a systematic review and network meta-analysis.",
+    "source": "Front Pediatr",
+    "pubdate": "2026",
+    "authors": [
+      "Liu S",
+      "Wang Y",
+      "Cao Y",
+      "Song H",
+      "Tian Z",
+      "Li X",
+      "Huang L"
+    ],
+    "lastauthor": "Huang L",
+    "sortfirstauthor": "Liu S",
+    "journal": "Frontiers in pediatrics",
+    "issn": "2296-2360",
+    "essn": "2296-2360",
+    "doi": "doi: 10.3389/fped.2026.1775795",
+    "sortpubdate": "2026/07/02 00:00",
+    "epubdate": "2026 Jul 2"
   }
 ]
