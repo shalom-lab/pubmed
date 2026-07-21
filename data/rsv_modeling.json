@@ -8270,5 +8270,28 @@
     "doi": "doi: 10.1016/j.vaccine.2026.128922",
     "sortpubdate": "2026/07/14 00:00",
     "epubdate": "2026 Jul 14"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "42156378",
+    "title": "A real-time early warning system to anticipate respiratory disease outbreaks using transfer learning.",
+    "source": "Nat Commun",
+    "pubdate": "2026 May 19",
+    "authors": [
+      "Garrido-Garcia R",
+      "Clemente L",
+      "Meyer AG",
+      "Dewey G",
+      "Yang S",
+      "Santillana M"
+    ],
+    "lastauthor": "Santillana M",
+    "sortfirstauthor": "Garrido-Garcia R",
+    "journal": "Nature communications",
+    "issn": "",
+    "essn": "2041-1723",
+    "doi": "pii: 6599. doi: 10.1038/s41467-026-72655-7",
+    "sortpubdate": "2026/05/19 00:00",
+    "epubdate": "2026 May 19"
   }
 ]
