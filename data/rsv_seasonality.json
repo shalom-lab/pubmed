@@ -10013,5 +10013,39 @@
     "doi": "doi: 10.1186/s12879-026-13958-4",
     "sortpubdate": "2026/07/15 00:00",
     "epubdate": "2026 Jul 15"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "42479737",
+    "title": "Artificial intelligence risk prediction model for common respiratory pathogens in China based on heterogeneous multi-source clinical and geographic data: A modeling study.",
+    "source": "PLOS Digit Health",
+    "pubdate": "2026 Jul",
+    "authors": [
+      "Wang H",
+      "Zhang Q",
+      "Sun B",
+      "Shen D",
+      "Lu L",
+      "Li H",
+      "Fang K",
+      "Li H",
+      "Yan H",
+      "Chen F",
+      "Zhao T",
+      "Chen L",
+      "Rong M",
+      "Liu W",
+      "Hu Z",
+      "Ai J",
+      "Zhang W"
+    ],
+    "lastauthor": "Zhang W",
+    "sortfirstauthor": "Wang H",
+    "journal": "PLOS digital health",
+    "issn": "",
+    "essn": "2767-3170",
+    "doi": "doi: 10.1371/journal.pdig.0001553",
+    "sortpubdate": "2026/07/21 00:00",
+    "epubdate": "2026 Jul 21"
   }
 ]

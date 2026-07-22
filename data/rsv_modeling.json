@@ -7833,7 +7833,7 @@
     "id": "42345580",
     "title": "RSV can infect the human nasal epithelium via the basolateral route and shows distinct subgroup infectivity and basal cell tropism.",
     "source": "J Virol",
-    "pubdate": "2026 Jun 25",
+    "pubdate": "2026 Jul 21",
     "authors": [
       "Murray A",
       "Nagaraj D",
@@ -7850,7 +7850,7 @@
     "issn": "0022-538X",
     "essn": "1098-5514",
     "doi": "doi: 10.1128/jvi.00374-26",
-    "sortpubdate": "2026/06/25 00:00",
+    "sortpubdate": "2026/07/21 00:00",
     "epubdate": "2026 Jun 25"
   },
   {
@@ -8293,5 +8293,39 @@
     "doi": "pii: 6599. doi: 10.1038/s41467-026-72655-7",
     "sortpubdate": "2026/05/19 00:00",
     "epubdate": "2026 May 19"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "42479737",
+    "title": "Artificial intelligence risk prediction model for common respiratory pathogens in China based on heterogeneous multi-source clinical and geographic data: A modeling study.",
+    "source": "PLOS Digit Health",
+    "pubdate": "2026 Jul",
+    "authors": [
+      "Wang H",
+      "Zhang Q",
+      "Sun B",
+      "Shen D",
+      "Lu L",
+      "Li H",
+      "Fang K",
+      "Li H",
+      "Yan H",
+      "Chen F",
+      "Zhao T",
+      "Chen L",
+      "Rong M",
+      "Liu W",
+      "Hu Z",
+      "Ai J",
+      "Zhang W"
+    ],
+    "lastauthor": "Zhang W",
+    "sortfirstauthor": "Wang H",
+    "journal": "PLOS digital health",
+    "issn": "",
+    "essn": "2767-3170",
+    "doi": "doi: 10.1371/journal.pdig.0001553",
+    "sortpubdate": "2026/07/21 00:00",
+    "epubdate": "2026 Jul 21"
   }
 ]
