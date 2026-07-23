@@ -8327,5 +8327,60 @@
     "doi": "doi: 10.1371/journal.pdig.0001553",
     "sortpubdate": "2026/07/21 00:00",
     "epubdate": "2026 Jul 21"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "42484014",
+    "title": "Quantifying the societal benefits of adult immunization against respiratory diseases in France: a benefit cost analysis.",
+    "source": "Expert Rev Vaccines",
+    "pubdate": "2026 Dec",
+    "authors": [
+      "Napier M",
+      "Brassel S",
+      "Tunnicliffe E",
+      "Theakston C",
+      "Fievez S",
+      "Fahfouhi Y",
+      "Boukhlal A",
+      "Botelho-Nevers E",
+      "Guerin O",
+      "Vietri J",
+      "Mendes D",
+      "Yang J",
+      "Hu T",
+      "Steuten L"
+    ],
+    "lastauthor": "Steuten L",
+    "sortfirstauthor": "Napier M",
+    "journal": "Expert review of vaccines",
+    "issn": "1476-0584",
+    "essn": "1744-8395",
+    "doi": "doi: 10.1080/14760584.2026.2704173",
+    "sortpubdate": "2026/12/01 00:00",
+    "epubdate": "2026 Jul 22"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "42483036",
+    "title": "Respiratory Syncytial Virus Seasonality and Disease Severity Among Children Under 5 in Atlanta, Georgia, United States, 2018-2023.",
+    "source": "Open Forum Infect Dis",
+    "pubdate": "2026 Jul",
+    "authors": [
+      "Valice E",
+      "Openo KP",
+      "Rostad CA",
+      "Surell C",
+      "Bacon E",
+      "Hendrick S",
+      "Chamberlain AT"
+    ],
+    "lastauthor": "Chamberlain AT",
+    "sortfirstauthor": "Valice E",
+    "journal": "Open forum infectious diseases",
+    "issn": "2328-8957",
+    "essn": "2328-8957",
+    "doi": "doi: 10.1093/ofid/ofag215",
+    "sortpubdate": "2026/05/11 00:00",
+    "epubdate": "2026 May 11"
   }
 ]

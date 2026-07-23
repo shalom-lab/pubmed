@@ -9635,7 +9635,7 @@
     "id": "42398739",
     "title": "Epidemiological characteristics of respiratory syncytial virus in children during 2021-2024.",
     "source": "J Virol Methods",
-    "pubdate": "2026 Jul 14",
+    "pubdate": "2026 Sep",
     "authors": [
       "Wang B",
       "Wang J",
@@ -9653,7 +9653,7 @@
     "issn": "0166-0934",
     "essn": "1879-0984",
     "doi": "doi: 10.1016/j.jviromet.2026.115433",
-    "sortpubdate": "2026/07/14 00:00",
+    "sortpubdate": "2026/09/01 00:00",
     "epubdate": "2026 Jul 14"
   },
   {
@@ -10047,5 +10047,29 @@
     "doi": "doi: 10.1371/journal.pdig.0001553",
     "sortpubdate": "2026/07/21 00:00",
     "epubdate": "2026 Jul 21"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "42483036",
+    "title": "Respiratory Syncytial Virus Seasonality and Disease Severity Among Children Under 5 in Atlanta, Georgia, United States, 2018-2023.",
+    "source": "Open Forum Infect Dis",
+    "pubdate": "2026 Jul",
+    "authors": [
+      "Valice E",
+      "Openo KP",
+      "Rostad CA",
+      "Surell C",
+      "Bacon E",
+      "Hendrick S",
+      "Chamberlain AT"
+    ],
+    "lastauthor": "Chamberlain AT",
+    "sortfirstauthor": "Valice E",
+    "journal": "Open forum infectious diseases",
+    "issn": "2328-8957",
+    "essn": "2328-8957",
+    "doi": "doi: 10.1093/ofid/ofag215",
+    "sortpubdate": "2026/05/11 00:00",
+    "epubdate": "2026 May 11"
   }
 ]
