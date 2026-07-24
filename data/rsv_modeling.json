@@ -8382,5 +8382,52 @@
     "doi": "doi: 10.1093/ofid/ofag215",
     "sortpubdate": "2026/05/11 00:00",
     "epubdate": "2026 May 11"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "42487963",
+    "title": "Risk prediction of pediatric intensive care unit admission in children with respiratory syncytial virus infection using interpretable machine learning.",
+    "source": "Front Med (Lausanne)",
+    "pubdate": "2026",
+    "authors": [
+      "Dong J",
+      "Ni J",
+      "Zhao M",
+      "Du Z",
+      "Fang K"
+    ],
+    "lastauthor": "Fang K",
+    "sortfirstauthor": "Dong J",
+    "journal": "Frontiers in medicine",
+    "issn": "2296-858X",
+    "essn": "2296-858X",
+    "doi": "doi: 10.3389/fmed.2026.1856930",
+    "sortpubdate": "2026/07/08 00:00",
+    "epubdate": "2026 Jul 8"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "42487676",
+    "title": "Seasonal patterns in nine notifiable communicable diseases and the epidemic dynamics of COVID-19 at Johns Hopkins Aramco Healthcare: a six-year review (2019-2024).",
+    "source": "J Med Life",
+    "pubdate": "2026 May",
+    "authors": [
+      "Kheir O",
+      "Dhalaan M",
+      "Almuqrin M",
+      "Garwan R",
+      "Alhajri F",
+      "Alghamdi H",
+      "Al Tawfiq A",
+      "AlOtaibi A"
+    ],
+    "lastauthor": "AlOtaibi A",
+    "sortfirstauthor": "Kheir O",
+    "journal": "Journal of medicine and life",
+    "issn": "1844-122X",
+    "essn": "1844-3117",
+    "doi": "doi: 10.25122/jml-2025-0183",
+    "sortpubdate": "2026/05/01 00:00",
+    "epubdate": ""
   }
 ]
