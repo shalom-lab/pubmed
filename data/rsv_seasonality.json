@@ -10088,7 +10088,7 @@
     "sortfirstauthor": "Hua L",
     "journal": "Frontiers in pediatrics",
     "issn": "2296-2360",
-    "essn": "",
+    "essn": "2296-2360",
     "doi": "doi: 10.3389/fped.2026.1755382",
     "sortpubdate": "2026/07/03 00:00",
     "epubdate": "2026 Jul 3"
@@ -10117,5 +10117,30 @@
     "doi": "doi: 10.25122/jml-2025-0183",
     "sortpubdate": "2026/05/01 00:00",
     "epubdate": ""
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "42492780",
+    "title": "Standardization of a quantitative multiplex real-time PCR system for the detection of bovine respiratory disease pathogens in clinical samples of dairy cattle from southern Brazil.",
+    "source": "J Microbiol Methods",
+    "pubdate": "2026 Jul 23",
+    "authors": [
+      "Rodriguez MC",
+      "Silva IV",
+      "Perotta JH",
+      "Buczinski S",
+      "Silva FHP",
+      "Fenta MD",
+      "de Barros Filho IR",
+      "Headley SA"
+    ],
+    "lastauthor": "Headley SA",
+    "sortfirstauthor": "Rodriguez MC",
+    "journal": "Journal of microbiological methods",
+    "issn": "0167-7012",
+    "essn": "1872-8359",
+    "doi": "doi: 10.1016/j.mimet.2026.107639",
+    "sortpubdate": "2026/07/23 00:00",
+    "epubdate": "2026 Jul 23"
   }
 ]

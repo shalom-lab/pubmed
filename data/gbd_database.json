@@ -85588,5 +85588,98 @@
     "doi": "doi: 10.1038/s41586-026-10739-6",
     "sortpubdate": "2026/07/22 00:00",
     "epubdate": "2026 Jul 22"
+  },
+  {
+    "name": "GBD database",
+    "id": "42495527",
+    "title": "Rheumatoid arthritis burden in 129 low- and middle-income countries from 1990 to 2023.",
+    "source": "iScience",
+    "pubdate": "2026 Aug 21",
+    "authors": [
+      "Wang H",
+      "Zhang M",
+      "Ke X",
+      "Wang Z",
+      "Wu L"
+    ],
+    "lastauthor": "Wu L",
+    "sortfirstauthor": "Wang H",
+    "journal": "iScience",
+    "issn": "",
+    "essn": "2589-0042",
+    "doi": "doi: 10.1016/j.isci.2026.116881",
+    "sortpubdate": "2026/07/21 00:00",
+    "epubdate": "2026 Jul 21"
+  },
+  {
+    "name": "GBD database",
+    "id": "42495266",
+    "title": "The burden of noncommunicable and injury-related nervous system disorders in the Americas, 1990-2023: an analysis of the Global Burden of Disease Study 2023.",
+    "source": "Lancet Reg Health Am",
+    "pubdate": "2026 Oct",
+    "authors": [
+      "Martinez R",
+      "Thakur KT",
+      "Alviz LF",
+      "Gardner WM",
+      "Varela FJ",
+      "Hennis AJM",
+      "Oliveira E Souza R"
+    ],
+    "lastauthor": "Oliveira E Souza R",
+    "sortfirstauthor": "Martinez R",
+    "journal": "Lancet regional health. Americas",
+    "issn": "",
+    "essn": "2667-193X",
+    "doi": "doi: 10.1016/j.lana.2026.101581",
+    "sortpubdate": "2026/07/20 00:00",
+    "epubdate": "2026 Jul 20"
+  },
+  {
+    "name": "GBD database",
+    "id": "42495263",
+    "title": "Global burden and temporal trends of kidney cancer among children from 1990 to 2021: an analysis with projections to 2036.",
+    "source": "Front Pediatr",
+    "pubdate": "2026",
+    "authors": [
+      "Liu K",
+      "Yang C",
+      "Chen F",
+      "Qiao X",
+      "Geng Y",
+      "Ji C"
+    ],
+    "lastauthor": "Ji C",
+    "sortfirstauthor": "Liu K",
+    "journal": "Frontiers in pediatrics",
+    "issn": "2296-2360",
+    "essn": "2296-2360",
+    "doi": "doi: 10.3389/fped.2026.1882218",
+    "sortpubdate": "2026/07/09 00:00",
+    "epubdate": "2026 Jul 9"
+  },
+  {
+    "name": "GBD database",
+    "id": "42495167",
+    "title": "Endoscopic Ultrasound-Guided Gallbladder Drainage for Acute Cholecystitis in Billroth II Anatomy via Afferent Limb.",
+    "source": "ACG Case Rep J",
+    "pubdate": "2026 Jul",
+    "authors": [
+      "Narayan N",
+      "Wilson O",
+      "Abu S",
+      "Reichenbach ZW",
+      "Lichtenstein D",
+      "Simons M",
+      "McDonald N"
+    ],
+    "lastauthor": "McDonald N",
+    "sortfirstauthor": "Narayan N",
+    "journal": "ACG case reports journal",
+    "issn": "2326-3253",
+    "essn": "2326-3253",
+    "doi": "doi: 10.14309/crj.0000000000002250",
+    "sortpubdate": "2026/07/23 00:00",
+    "epubdate": "2026 Jul 23"
   }
 ]

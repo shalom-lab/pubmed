@@ -8429,5 +8429,30 @@
     "doi": "doi: 10.25122/jml-2025-0183",
     "sortpubdate": "2026/05/01 00:00",
     "epubdate": ""
+  },
+  {
+    "name": "RSV modeling",
+    "id": "42496785",
+    "title": "Cost-Effectiveness of Bivalent Respiratory Syncytial Virus Prefusion F Vaccine for Older Adults in the Netherlands.",
+    "source": "Infect Dis Ther",
+    "pubdate": "2026 Jul 24",
+    "authors": [
+      "Langedijk AC",
+      "van den Dungen F",
+      "Franssen FME",
+      "Goeijenbier M",
+      "Averin A",
+      "Quinn E",
+      "Atwood M",
+      "Mendes D"
+    ],
+    "lastauthor": "Mendes D",
+    "sortfirstauthor": "Langedijk AC",
+    "journal": "Infectious diseases and therapy",
+    "issn": "2193-8229",
+    "essn": "2193-6382",
+    "doi": "doi: 10.1007/s40121-026-01400-w",
+    "sortpubdate": "2026/07/24 00:00",
+    "epubdate": "2026 Jul 24"
   }
 ]
