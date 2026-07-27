@@ -126181,7 +126181,7 @@
   {
     "name": "NHANES",
     "id": "42487772",
-    "title": "Association between dental caries and self-reported COPD prevalence in U.S. adults ages ≥��60-year: a cross-sectional analysis of NHANES 2015-2020.",
+    "title": "Association between dental caries and self-reported COPD prevalence in U.S. adults ages ≥ 60-year: a cross-sectional analysis of NHANES 2015-2020.",
     "source": "J Oral Microbiol",
     "pubdate": "2026",
     "authors": [
@@ -126399,7 +126399,7 @@
     "sortfirstauthor": "Zhang R",
     "journal": "Frontiers in nutrition",
     "issn": "2296-861X",
-    "essn": "",
+    "essn": "2296-861X",
     "doi": "doi: 10.3389/fnut.2026.1823930",
     "sortpubdate": "2026/07/10 00:00",
     "epubdate": "2026 Jul 10"
@@ -126858,5 +126858,154 @@
     "doi": "doi: 10.1016/j.ijheh.2026.114877",
     "sortpubdate": "2026/07/24 00:00",
     "epubdate": "2026 Jul 24"
+  },
+  {
+    "name": "NHANES",
+    "id": "42502813",
+    "title": "Factors Associated With Physiological Dysregulation Among US Adults Aged 45 Years and Older: A Nationally Representative Study.",
+    "source": "J Aging Res",
+    "pubdate": "2026",
+    "authors": [
+      "Vennu V"
+    ],
+    "lastauthor": "Vennu V",
+    "sortfirstauthor": "Vennu V",
+    "journal": "Journal of aging research",
+    "issn": "2090-2204",
+    "essn": "2090-2212",
+    "doi": "doi: 10.1155/jare/3289222",
+    "sortpubdate": "2026/07/24 00:00",
+    "epubdate": "2026 Jul 24"
+  },
+  {
+    "name": "NHANES",
+    "id": "42502685",
+    "title": "Development and validation of an interpretable machine learning model for predicting hypertension risk in patients with psoriasis.",
+    "source": "Digit Health",
+    "pubdate": "2026 Jan-Dec",
+    "authors": [
+      "Xue GH",
+      "Guo XY",
+      "Chen JQ",
+      "Xu HN",
+      "Zhou DM"
+    ],
+    "lastauthor": "Zhou DM",
+    "sortfirstauthor": "Xue GH",
+    "journal": "Digital health",
+    "issn": "2055-2076",
+    "essn": "2055-2076",
+    "doi": "doi: 10.1177/20552076261460172",
+    "sortpubdate": "2026/07/24 00:00",
+    "epubdate": "2026 Jul 24"
+  },
+  {
+    "name": "NHANES",
+    "id": "42502421",
+    "title": "An interpretable ensemble learning framework for COPD classification using population-based clinical and laboratory data from NHANES.",
+    "source": "Tob Induc Dis",
+    "pubdate": "2026",
+    "authors": [
+      "Tong H",
+      "Huang J",
+      "Zhang B",
+      "Fu X"
+    ],
+    "lastauthor": "Fu X",
+    "sortfirstauthor": "Tong H",
+    "journal": "Tobacco induced diseases",
+    "issn": "2070-7266",
+    "essn": "1617-9625",
+    "doi": "doi: 10.18332/tid/225230",
+    "sortpubdate": "2026/07/23 00:00",
+    "epubdate": "2026 Jul 23"
+  },
+  {
+    "name": "NHANES",
+    "id": "42502325",
+    "title": "Association Between Dietary Cholesterol Intake and Prediabetes: A Population-Based Study.",
+    "source": "Int J Endocrinol",
+    "pubdate": "2026",
+    "authors": [
+      "Peng YF",
+      "Shi Z",
+      "Yin R",
+      "Xia T",
+      "Zhou Q",
+      "Yang J",
+      "Wu C"
+    ],
+    "lastauthor": "Wu C",
+    "sortfirstauthor": "Peng YF",
+    "journal": "International journal of endocrinology",
+    "issn": "1687-8337",
+    "essn": "1687-8345",
+    "doi": "doi: 10.1155/ije/8722312",
+    "sortpubdate": "2026/07/24 00:00",
+    "epubdate": "2026 Jul 24"
+  },
+  {
+    "name": "NHANES",
+    "id": "42501889",
+    "title": "β2-microglobulin, not muscle mass, mediates the association between eGFR discordance and mortality in CKD.",
+    "source": "Clin Biochem",
+    "pubdate": "2026 Jul 25",
+    "authors": [
+      "Cheng YJ",
+      "Zuo L",
+      "Wang M"
+    ],
+    "lastauthor": "Wang M",
+    "sortfirstauthor": "Cheng YJ",
+    "journal": "Clinical biochemistry",
+    "issn": "0009-9120",
+    "essn": "1873-2933",
+    "doi": "doi: 10.1016/j.clinbiochem.2026.111177",
+    "sortpubdate": "2026/07/25 00:00",
+    "epubdate": "2026 Jul 25"
+  },
+  {
+    "name": "NHANES",
+    "id": "42501472",
+    "title": "Associations between food processing levels and depressive symptoms: A cross-sectional study using the Korea National Health and Nutrition Examination Survey (KNHANES) 2014-2020.",
+    "source": "Psychiatry Res",
+    "pubdate": "2026 Jul 22",
+    "authors": [
+      "Kim L",
+      "Noh J",
+      "Park EJ",
+      "Hwang C",
+      "Lee W",
+      "Yang JS",
+      "Kim H",
+      "Jung SJ"
+    ],
+    "lastauthor": "Jung SJ",
+    "sortfirstauthor": "Kim L",
+    "journal": "Psychiatry research",
+    "issn": "0165-1781",
+    "essn": "1872-7123",
+    "doi": "doi: 10.1016/j.psychres.2026.117336",
+    "sortpubdate": "2026/07/22 00:00",
+    "epubdate": "2026 Jul 22"
+  },
+  {
+    "name": "NHANES",
+    "id": "42496316",
+    "title": "Combined Effects of Metals and PFAS Exposure on Prevalent Diabetes.",
+    "source": "J Xenobiot",
+    "pubdate": "2026 Jul 10",
+    "authors": [
+      "Tasnia R",
+      "Obeng-Gyasi E"
+    ],
+    "lastauthor": "Obeng-Gyasi E",
+    "sortfirstauthor": "Tasnia R",
+    "journal": "Journal of xenobiotics",
+    "issn": "2039-4705",
+    "essn": "2039-4713",
+    "doi": "doi: 10.3390/jox16040128",
+    "sortpubdate": "2026/07/10 00:00",
+    "epubdate": "2026 Jul 10"
   }
 ]

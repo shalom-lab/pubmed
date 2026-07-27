@@ -85907,5 +85907,69 @@
     "doi": "doi: 10.3760/cma.j.cn112141-20260305-00120",
     "sortpubdate": "2026/07/25 00:00",
     "epubdate": ""
+  },
+  {
+    "name": "GBD database",
+    "id": "42502795",
+    "title": "Global skin cancer burden and United States mortality trends in younger adults (Aged 20-44 Years): An analysis of the Global Burden of Disease Study 2021 and CDC WONDER Databases.",
+    "source": "JID Innov",
+    "pubdate": "2026 Sep",
+    "authors": [
+      "Ma Z",
+      "An P",
+      "Wu S",
+      "van Doorn R",
+      "Vermeer MH",
+      "El Ghalbzouri A"
+    ],
+    "lastauthor": "El Ghalbzouri A",
+    "sortfirstauthor": "Ma Z",
+    "journal": "JID innovations : skin science from molecules to population health",
+    "issn": "",
+    "essn": "2667-0267",
+    "doi": "doi: 10.1016/j.xjidi.2026.100498",
+    "sortpubdate": "2026/06/04 00:00",
+    "epubdate": "2026 Jun 4"
+  },
+  {
+    "name": "GBD database",
+    "id": "42502417",
+    "title": "Global, regional, and national burden of acute myeloid leukemia attributable to tobacco from 1990 to 2021, with future forecasts to 2050: A secondary dataset analysis of the Global Burden of Disease 2021 study.",
+    "source": "Tob Induc Dis",
+    "pubdate": "2026",
+    "authors": [
+      "Zhang J",
+      "Zhao L",
+      "Chao Y",
+      "Zhang Z",
+      "Guo J"
+    ],
+    "lastauthor": "Guo J",
+    "sortfirstauthor": "Zhang J",
+    "journal": "Tobacco induced diseases",
+    "issn": "2070-7266",
+    "essn": "1617-9625",
+    "doi": "doi: 10.18332/tid/218783",
+    "sortpubdate": "2026/07/20 00:00",
+    "epubdate": "2026 Jul 20"
+  },
+  {
+    "name": "GBD database",
+    "id": "42502416",
+    "title": "Tuberculosis burden attributable to smoking in China 1990-2021 and projections to 2040: A secondary analysis of GBD 2021 data.",
+    "source": "Tob Induc Dis",
+    "pubdate": "2026",
+    "authors": [
+      "Zhao F",
+      "Yan T"
+    ],
+    "lastauthor": "Yan T",
+    "sortfirstauthor": "Zhao F",
+    "journal": "Tobacco induced diseases",
+    "issn": "2070-7266",
+    "essn": "1617-9625",
+    "doi": "doi: 10.18332/tid/215180",
+    "sortpubdate": "2026/07/20 00:00",
+    "epubdate": "2026 Jul 20"
   }
 ]
