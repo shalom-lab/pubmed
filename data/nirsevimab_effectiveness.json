@@ -6150,5 +6150,56 @@
     "doi": "doi: 10.3389/fped.2026.1841732",
     "sortpubdate": "2026/07/08 00:00",
     "epubdate": "2026 Jul 8"
+  },
+  {
+    "name": "Nirsevimab effectiveness",
+    "id": "42506661",
+    "title": "Maternal Immunization Against Respiratory Syncytial Virus: An Integrative Review of Efficacy, Safety, and Implementation.",
+    "source": "Vaccines (Basel)",
+    "pubdate": "2026 Jul 16",
+    "authors": [
+      "Almeida IR",
+      "de Vita Silva MF",
+      "de Brito Cavalcante T",
+      "Alves de Britto G",
+      "Amaral Dos Reis MC",
+      "Bueno LFL",
+      "Dos Santos Ribeiro L",
+      "Callado GY",
+      "Fialho SCAV",
+      "Braga A",
+      "Calagna G",
+      "Araujo Júnior E"
+    ],
+    "lastauthor": "Araujo Júnior E",
+    "sortfirstauthor": "Almeida IR",
+    "journal": "Vaccines",
+    "issn": "2076-393X",
+    "essn": "",
+    "doi": "pii: 624. doi: 10.3390/vaccines14070624",
+    "sortpubdate": "2026/07/16 00:00",
+    "epubdate": "2026 Jul 16"
+  },
+  {
+    "name": "Nirsevimab effectiveness",
+    "id": "42506593",
+    "title": "RSV Immunoprophylaxis in Infants and Children: Old Standards, New Agents and the Complexities Therein.",
+    "source": "Vaccines (Basel)",
+    "pubdate": "2026 Jun 25",
+    "authors": [
+      "Paes BA",
+      "Manzoni P",
+      "Fullarton JR",
+      "Rodgers-Gray BS",
+      "Carbonell-Estrany X"
+    ],
+    "lastauthor": "Carbonell-Estrany X",
+    "sortfirstauthor": "Paes BA",
+    "journal": "Vaccines",
+    "issn": "2076-393X",
+    "essn": "",
+    "doi": "pii: 556. doi: 10.3390/vaccines14070556",
+    "sortpubdate": "2026/06/25 00:00",
+    "epubdate": "2026 Jun 25"
   }
 ]
