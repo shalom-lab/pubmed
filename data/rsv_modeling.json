@@ -8476,5 +8476,50 @@
     "doi": "pii: 672. doi: 10.1186/s12866-026-05228-9",
     "sortpubdate": "2026/05/28 00:00",
     "epubdate": "2026 May 28"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "42520176",
+    "title": "Budget impact analysis of bivalent respiratory syncytial virus prefusion F (RSVpreF) maternal vaccination for preventing respiratory syncytial virus in Egyptian infants.",
+    "source": "Hum Vaccin Immunother",
+    "pubdate": "2026 Dec",
+    "authors": [
+      "El Hag A",
+      "Nabil N",
+      "El Masry R",
+      "Awad EE",
+      "Mahmoud Fouda E",
+      "Bashir Hamed M",
+      "Abou Talib Y",
+      "Law A",
+      "Mendes D",
+      "Aladdin M"
+    ],
+    "lastauthor": "Aladdin M",
+    "sortfirstauthor": "El Hag A",
+    "journal": "Human vaccines & immunotherapeutics",
+    "issn": "2164-5515",
+    "essn": "2164-554X",
+    "doi": "doi: 10.1080/21645515.2026.2704277",
+    "sortpubdate": "2026/12/01 00:00",
+    "epubdate": "2026 Jul 28"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "42518853",
+    "title": "A utility of air-liquid interface cultured airway epithelium for the development of antiviral agents: translation beyond biology.",
+    "source": "Front Cell Infect Microbiol",
+    "pubdate": "2026",
+    "authors": [
+      "Ito K"
+    ],
+    "lastauthor": "Ito K",
+    "sortfirstauthor": "Ito K",
+    "journal": "Frontiers in cellular and infection microbiology",
+    "issn": "",
+    "essn": "2235-2988",
+    "doi": "doi: 10.3389/fcimb.2026.1892573",
+    "sortpubdate": "2026/07/06 00:00",
+    "epubdate": "2026 Jul 6"
   }
 ]
