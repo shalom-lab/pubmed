@@ -10163,7 +10163,7 @@
     "sortfirstauthor": "Suntronwong N",
     "journal": "Journal of tropical medicine",
     "issn": "1687-9686",
-    "essn": "",
+    "essn": "1687-9694",
     "doi": "doi: 10.1155/jotm/8908857",
     "sortpubdate": "2026/07/19 00:00",
     "epubdate": "2026 Jul 19"
@@ -10197,5 +10197,27 @@
     "doi": "pii: 1450. doi: 10.3390/microorganisms14071450",
     "sortpubdate": "2026/06/30 00:00",
     "epubdate": "2026 Jun 30"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "42525970",
+    "title": "Respiratory syncytial virus disease burden in adults aged ≥50 years old: A retrospective national surveillance database analysis in Mexico (2015-2023).",
+    "source": "Hum Vaccin Immunother",
+    "pubdate": "2026 Dec",
+    "authors": [
+      "López Ortíz E",
+      "Díaz-Quiñonez JA",
+      "Román Pedroza JF",
+      "Pacheco Montes S",
+      "Guzmán-Holst A"
+    ],
+    "lastauthor": "Guzmán-Holst A",
+    "sortfirstauthor": "López Ortíz E",
+    "journal": "Human vaccines & immunotherapeutics",
+    "issn": "2164-5515",
+    "essn": "2164-554X",
+    "doi": "doi: 10.1080/21645515.2026.2702188",
+    "sortpubdate": "2026/12/01 00:00",
+    "epubdate": "2026 Jul 29"
   }
 ]

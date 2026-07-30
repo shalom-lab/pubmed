@@ -15531,6 +15531,24 @@
   {
     "source": "J Trop Med",
     "journal": "Journal of tropical medicine",
-    "issn": "1687-9686"
+    "issn": "1687-9686",
+    "essn": "1687-9694"
+  },
+  {
+    "source": "Tissue Cell",
+    "journal": "Tissue & cell",
+    "issn": "0040-8166",
+    "essn": "1532-3072"
+  },
+  {
+    "source": "NEJM AI",
+    "journal": "NEJM AI",
+    "essn": "2836-9386"
+  },
+  {
+    "source": "Infect Dis Immun",
+    "journal": "Infectious diseases & immunity",
+    "issn": "2096-9511",
+    "essn": "2693-8839"
   }
 ]
