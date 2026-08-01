@@ -10304,5 +10304,28 @@
     "doi": "doi: 10.3390/microorganisms14071450",
     "sortpubdate": "2026/06/30 00:00",
     "epubdate": "2026 Jun 30"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "42535288",
+    "title": "Evaluation of the Automated and Early Detection of Seasonal Epidemic Onset and Burden Levels (AEDSEO) method for respiratory surveillance using data from 21 European countries.",
+    "source": "Euro Surveill",
+    "pubdate": "2026 Jul",
+    "authors": [
+      "Otero SM",
+      "Emborg HD",
+      "Telkamp KS",
+      "Moustsen-Helms IR",
+      "Søborg B",
+      "Christiansen LE"
+    ],
+    "lastauthor": "Christiansen LE",
+    "sortfirstauthor": "Otero SM",
+    "journal": "Euro surveillance : bulletin Europeen sur les maladies transmissibles = European communicable disease bulletin",
+    "issn": "1025-496X",
+    "essn": "1560-7917",
+    "doi": "doi: 10.2807/1560-7917.ES.2026.31.30.2500896",
+    "sortpubdate": "2026/07/01 00:00",
+    "epubdate": ""
   }
 ]
