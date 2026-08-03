@@ -88920,5 +88920,130 @@
     "doi": "pii: svn-2026-005565. doi: 10.1136/svn-2026-005565",
     "sortpubdate": "2026/07/31 00:00",
     "epubdate": "2026 Jul 31"
+  },
+  {
+    "name": "GBD database",
+    "id": "42542692",
+    "title": "Burden of Gastric Cancer in China from 1990 to 2023.",
+    "source": "Public Health Pract (Oxf)",
+    "pubdate": "2026 Dec",
+    "authors": [
+      "Liu X",
+      "Cheng S",
+      "Yang H",
+      "Cui M"
+    ],
+    "lastauthor": "Cui M",
+    "sortfirstauthor": "Liu X",
+    "journal": "Public health in practice (Oxford, England)",
+    "issn": "",
+    "essn": "2666-5352",
+    "doi": "doi: 10.1016/j.puhip.2026.100830",
+    "sortpubdate": "2026/07/21 00:00",
+    "epubdate": "2026 Jul 21"
+  },
+  {
+    "name": "GBD database",
+    "id": "42542384",
+    "title": "The changing epidemiology of primary liver cancer in the 21(st) century.",
+    "source": "J Hepatol",
+    "pubdate": "2026 Jul 2",
+    "authors": [
+      "Khan SA",
+      "Vithayathil M",
+      "Yip TCF",
+      "El-Serag HB"
+    ],
+    "lastauthor": "El-Serag HB",
+    "sortfirstauthor": "Khan SA",
+    "journal": "Journal of hepatology",
+    "issn": "0168-8278",
+    "essn": "1600-0641",
+    "doi": "pii: S0168-8278(26)00058-9. doi: 10.1016/j.jhep.2026.01.018",
+    "sortpubdate": "2026/07/02 00:00",
+    "epubdate": "2026 Jul 2"
+  },
+  {
+    "name": "GBD database",
+    "id": "42541262",
+    "title": "Forecasting the prevalence of epilepsy in low- and middle-income countries to 2050 using a hybrid deep neural network-transformer modeling framework: insights from the Global Burden of Disease Study 2023.",
+    "source": "Mil Med Res",
+    "pubdate": "2026",
+    "authors": [
+      "Zhang ZJ",
+      "Wang HF",
+      "Cui YS",
+      "Lin SN",
+      "Jiao H",
+      "Meng FG",
+      "Feng T"
+    ],
+    "lastauthor": "Feng T",
+    "sortfirstauthor": "Zhang ZJ",
+    "journal": "Military Medical Research",
+    "issn": "2095-7467",
+    "essn": "2054-9369",
+    "doi": "doi: 10.1016/j.mmr.2026.100055",
+    "sortpubdate": "2026/01/01 00:00",
+    "epubdate": "2026 Jul 23"
+  },
+  {
+    "name": "GBD database",
+    "id": "42541255",
+    "title": "Atopic, seborrheic, and contact dermatitis burden in G20 countries, 1990-2023, with projections to 2050.",
+    "source": "JAAD Int",
+    "pubdate": "2026 Oct",
+    "authors": [
+      "Wang Y",
+      "Wang Z"
+    ],
+    "lastauthor": "Wang Z",
+    "sortfirstauthor": "Wang Y",
+    "journal": "JAAD international",
+    "issn": "",
+    "essn": "2666-3287",
+    "doi": "doi: 10.1016/j.jdin.2026.06.016",
+    "sortpubdate": "2026/07/01 00:00",
+    "epubdate": "2026 Jul 1"
+  },
+  {
+    "name": "GBD database",
+    "id": "42540531",
+    "title": "Global burden of aortic aneurysm from high body mass index and systolic blood pressure in older adults: 1990-2021 and projections to 2050.",
+    "source": "Arch Med Sci",
+    "pubdate": "2026",
+    "authors": [
+      "Zhang C",
+      "Ying W",
+      "Xiao Y"
+    ],
+    "lastauthor": "Xiao Y",
+    "sortfirstauthor": "Zhang C",
+    "journal": "Archives of medical science : AMS",
+    "issn": "1734-1922",
+    "essn": "1896-9151",
+    "doi": "doi: 10.5114/aoms/220767",
+    "sortpubdate": "2026/05/28 00:00",
+    "epubdate": "2026 May 28"
+  },
+  {
+    "name": "GBD database",
+    "id": "42540525",
+    "title": "The association between frailty and headache in middle-aged and older individuals: a data analysis based on the GBD2021, the CHARLS and Mendelian randomization.",
+    "source": "Arch Med Sci",
+    "pubdate": "2026",
+    "authors": [
+      "Qin Z",
+      "Ting Li T",
+      "Qiao Y"
+    ],
+    "lastauthor": "Qiao Y",
+    "sortfirstauthor": "Qin Z",
+    "journal": "Archives of medical science : AMS",
+    "issn": "1734-1922",
+    "essn": "1896-9151",
+    "doi": "doi: 10.5114/aoms/216957",
+    "sortpubdate": "2026/04/12 00:00",
+    "epubdate": "2026 Apr 12"
   }
 ]

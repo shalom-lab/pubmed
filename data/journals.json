@@ -8465,6 +8465,7 @@
   {
     "source": "Geriatr Gerontol Int",
     "journal": "Geriatrics & gerontology international",
+    "issn": "1444-1586",
     "essn": "1447-0594"
   },
   {
@@ -15609,5 +15610,16 @@
     "journal": "Military medicine",
     "issn": "0026-4075",
     "essn": "1930-613X"
+  },
+  {
+    "source": "Proc Inst Mech Eng H",
+    "journal": "Proceedings of the Institution of Mechanical Engineers. Part H, Journal of engineering in medicine",
+    "issn": "0954-4119",
+    "essn": "2041-3033"
+  },
+  {
+    "source": "Int J Popul Data Sci",
+    "journal": "International journal of population data science",
+    "essn": "2399-4908"
   }
 ]
