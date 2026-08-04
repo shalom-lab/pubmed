@@ -87111,7 +87111,7 @@
       "Gupta S",
       "Gurgoglione FL",
       "Guzman-Esquivel J",
-      "Guzmán-Muñoz E",
+      "Guzm��n-Muñoz E",
       "Haghtalab A",
       "Nam NH",
       "Hailu KT",
@@ -89045,5 +89045,111 @@
     "doi": "doi: 10.5114/aoms/216957",
     "sortpubdate": "2026/04/12 00:00",
     "epubdate": "2026 Apr 12"
+  },
+  {
+    "name": "GBD database",
+    "id": "42546364",
+    "title": "Comment on \"Global, regional and national burden of Parkinson's disease, 1990-2021: Update from the GBD 2021 study\".",
+    "source": "J Neurol Sci",
+    "pubdate": "2026 Jul 28",
+    "authors": [
+      "Mahendran C",
+      "Pandiyan KR",
+      "Ramnath V",
+      "Dhanraj FM"
+    ],
+    "lastauthor": "Dhanraj FM",
+    "sortfirstauthor": "Mahendran C",
+    "journal": "Journal of the neurological sciences",
+    "issn": "0022-510X",
+    "essn": "1878-5883",
+    "doi": "doi: 10.1016/j.jns.2026.126116",
+    "sortpubdate": "2026/07/28 00:00",
+    "epubdate": "2026 Jul 28"
+  },
+  {
+    "name": "GBD database",
+    "id": "42543933",
+    "title": "Burden Trends and Future Projections of Acute Glomerulonephritis in India till 2040: An Analysis from the Global Burden of Disease Study.",
+    "source": "J Assoc Physicians India",
+    "pubdate": "2026 Jun",
+    "authors": [
+      "Meshram HS",
+      "Chauhan S",
+      "Puri S",
+      "Sharma S",
+      "Singh NP"
+    ],
+    "lastauthor": "Singh NP",
+    "sortfirstauthor": "Meshram HS",
+    "journal": "The Journal of the Association of Physicians of India",
+    "issn": "0004-5772",
+    "essn": "",
+    "doi": "doi: 10.59556/japi.74.1550",
+    "sortpubdate": "2026/06/01 00:00",
+    "epubdate": ""
+  },
+  {
+    "name": "GBD database",
+    "id": "42543829",
+    "title": "Global,Regional,and National Burden Changes of Rheumatic Heart Disease From 1990 to 2021.",
+    "source": "Zhongguo Yi Xue Ke Xue Yuan Xue Bao",
+    "pubdate": "2026 Jun",
+    "authors": [
+      "Zhao DN",
+      "Zhuo Y",
+      "Luo MY",
+      "Zhou Z"
+    ],
+    "lastauthor": "Zhou Z",
+    "sortfirstauthor": "Zhao DN",
+    "journal": "Zhongguo yi xue ke xue yuan xue bao. Acta Academiae Medicinae Sinicae",
+    "issn": "1000-503X",
+    "essn": "",
+    "doi": "doi: 10.3881/j.issn.1000-503X.16757",
+    "sortpubdate": "2026/06/01 00:00",
+    "epubdate": ""
+  },
+  {
+    "name": "GBD database",
+    "id": "42543802",
+    "title": "Country-Level Burden Profiles for Fall-Related Nursing Service Planning in Older Adults.",
+    "source": "J Nurs Manag",
+    "pubdate": "2026",
+    "authors": [
+      "Xie L",
+      "Pu H",
+      "Jiang W",
+      "Chen Q",
+      "Yang M"
+    ],
+    "lastauthor": "Yang M",
+    "sortfirstauthor": "Xie L",
+    "journal": "Journal of nursing management",
+    "issn": "0966-0429",
+    "essn": "1365-2834",
+    "doi": "doi: 10.1155/jonm/4990192",
+    "sortpubdate": "2026/01/01 00:00",
+    "epubdate": ""
+  },
+  {
+    "name": "GBD database",
+    "id": "42543121",
+    "title": "Conditional neuroprotection: Blood selenium attenuates the cognitive toxicity of DEHP metabolites in older adults.",
+    "source": "Neurotoxicology",
+    "pubdate": "2026 Aug 2",
+    "authors": [
+      "Shenzhi L",
+      "Nan Z",
+      "Rongqiang Z"
+    ],
+    "lastauthor": "Rongqiang Z",
+    "sortfirstauthor": "Shenzhi L",
+    "journal": "Neurotoxicology",
+    "issn": "0161-813X",
+    "essn": "1872-9711",
+    "doi": "doi: 10.1016/j.neuro.2026.103537",
+    "sortpubdate": "2026/08/02 00:00",
+    "epubdate": "2026 Aug 2"
   }
 ]
