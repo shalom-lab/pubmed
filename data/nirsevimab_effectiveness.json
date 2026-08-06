@@ -6337,5 +6337,36 @@
     "doi": "pii: e2026076089. doi: 10.1542/peds.2026-076089",
     "sortpubdate": "2026/08/04 00:00",
     "epubdate": "2026 Aug 4"
+  },
+  {
+    "name": "Nirsevimab effectiveness",
+    "id": "42385756",
+    "title": "A national programme of bivalent prefusion F vaccination in pregnancy and protection against respiratory syncytial virus hospitalisation in infants until age 6 months in the UK: a multicentre, prospective, test-negative, case-control study.",
+    "source": "Lancet Child Adolesc Health",
+    "pubdate": "2026 Sep",
+    "authors": [
+      "O'Hagan S",
+      "Cunningham S",
+      "Drysdale SB",
+      "Groves HE",
+      "Hunt S",
+      "Iskander D",
+      "Liu X",
+      "Lyttle MD",
+      "Mpamhanga CD",
+      "Waterfield T",
+      "Williams TC",
+      "Marlow R",
+      "Roland D",
+      "Paediatric Emergency Research UK and Ireland (PERUKI) and BronchStart Collaboration"
+    ],
+    "lastauthor": "Roland D",
+    "sortfirstauthor": "O'Hagan S",
+    "journal": "The Lancet. Child & adolescent health",
+    "issn": "2352-4642",
+    "essn": "2352-4650",
+    "doi": "doi: 10.1016/S2352-4642(26)00134-3",
+    "sortpubdate": "2026/09/01 00:00",
+    "epubdate": "2026 Jul 1"
   }
 ]

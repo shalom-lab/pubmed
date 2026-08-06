@@ -8578,5 +8578,26 @@
     "doi": "doi: 10.1002/psp4.70308",
     "sortpubdate": "2026/08/01 00:00",
     "epubdate": ""
+  },
+  {
+    "name": "RSV modeling",
+    "id": "42553088",
+    "title": "Molecular insights into lower respiratory tract microbiota reveal disease-specific biomarkers and shared microbial networks in asthma and COPD.",
+    "source": "Front Cell Infect Microbiol",
+    "pubdate": "2026",
+    "authors": [
+      "Huang Y",
+      "Zhao Y",
+      "Xin X",
+      "Lin S"
+    ],
+    "lastauthor": "Lin S",
+    "sortfirstauthor": "Huang Y",
+    "journal": "Frontiers in cellular and infection microbiology",
+    "issn": "",
+    "essn": "2235-2988",
+    "doi": "doi: 10.3389/fcimb.2026.1840378",
+    "sortpubdate": "2026/07/21 00:00",
+    "epubdate": "2026 Jul 21"
   }
 ]

@@ -9235,7 +9235,7 @@
     "id": "42341905",
     "title": "Epidemiological and genomic surveillance of influenza virus A, RSV B and SARS-CoV-2 in Bangladesh (2022-2024).",
     "source": "Int J Infect Dis",
-    "pubdate": "2026 Jun 24",
+    "pubdate": "2026 Sep",
     "authors": [
       "Jubair M",
       "Begum MN",
@@ -9258,7 +9258,7 @@
     "issn": "1201-9712",
     "essn": "1878-3511",
     "doi": "doi: 10.1016/j.ijid.2026.108910",
-    "sortpubdate": "2026/06/24 00:00",
+    "sortpubdate": "2026/09/01 00:00",
     "epubdate": "2026 Jun 24"
   },
   {
@@ -10366,5 +10366,27 @@
     "doi": "doi: 10.1002/hsr2.72900",
     "sortpubdate": "2026/08/02 00:00",
     "epubdate": "2026 Aug 2"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "42553884",
+    "title": "Nonpharmaceutical interventions and postpandemic resurgence: the shifting epidemiology of influenza, respiratory syncytial virus, and adenovirus in Hangzhou, Zhejiang Province (2020-2024).",
+    "source": "FEMS Microbes",
+    "pubdate": "2026",
+    "authors": [
+      "Zhang S",
+      "Dong S",
+      "Qi Y",
+      "Shen Y",
+      "Sun Y"
+    ],
+    "lastauthor": "Sun Y",
+    "sortfirstauthor": "Zhang S",
+    "journal": "FEMS microbes",
+    "issn": "",
+    "essn": "2633-6685",
+    "doi": "doi: 10.1093/femsmc/xtag040",
+    "sortpubdate": "2026/07/17 00:00",
+    "epubdate": "2026 Jul 17"
   }
 ]
