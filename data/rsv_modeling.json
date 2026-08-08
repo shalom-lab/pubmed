@@ -8209,7 +8209,7 @@
     "id": "42439550",
     "title": "iPSC-based macrophage models reveal interferon-dependent control of RSV permissiveness and syncytia formation.",
     "source": "Microbiol Spectr",
-    "pubdate": "2026 Jul 13",
+    "pubdate": "2026 Aug 4",
     "authors": [
       "Agac A",
       "Queiros D",
@@ -8230,7 +8230,7 @@
     "issn": "",
     "essn": "2165-0497",
     "doi": "doi: 10.1128/spectrum.00845-26",
-    "sortpubdate": "2026/07/13 00:00",
+    "sortpubdate": "2026/08/04 00:00",
     "epubdate": "2026 Jul 13"
   },
   {
@@ -8618,5 +8618,27 @@
     "doi": "doi: 10.3389/fped.2026.1854804",
     "sortpubdate": "2026/07/22 00:00",
     "epubdate": "2026 Jul 22"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "42565962",
+    "title": "Cost-effectiveness of a single dose of the adjuvanted respiratory syncytial virus preFusion protein 3 vaccine over 5 years and its potential public health impact among older adults in Italy.",
+    "source": "Eur J Health Econ",
+    "pubdate": "2026 Aug 7",
+    "authors": [
+      "Puggina A",
+      "Zarkadoulas E",
+      "Rumi F",
+      "Marijam A",
+      "Calabrò GE"
+    ],
+    "lastauthor": "Calabrò GE",
+    "sortfirstauthor": "Puggina A",
+    "journal": "The European journal of health economics : HEPAC : health economics in prevention and care",
+    "issn": "1618-7598",
+    "essn": "1618-7601",
+    "doi": "doi: 10.1007/s10198-026-01968-7",
+    "sortpubdate": "2026/08/07 00:00",
+    "epubdate": "2026 Aug 7"
   }
 ]
