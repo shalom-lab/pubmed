@@ -89671,7 +89671,7 @@
   {
     "name": "GBD database",
     "id": "42556748",
-    "title": "The Disease Burden of ILD at the Global, Regional, and National Levels from 1990 to 2021, and Projections Until 2035: Findings from the 2021 Global Burden of Disease Study with Focus on China.",
+    "title": "The disease burden of ILD at the global, regional, and national levels from 1990 to 2021, and projections until 2035: Findings from the 2021 global burden of disease study with focus on China.",
     "source": "Respir Med",
     "pubdate": "2026 Aug 5",
     "authors": [
@@ -90081,5 +90081,129 @@
     "doi": "doi: 10.1016/j.identj.2026.109789",
     "sortpubdate": "2026/08/06 00:00",
     "epubdate": "2026 Aug 6"
+  },
+  {
+    "name": "GBD database",
+    "id": "42568605",
+    "title": "COVID-19 vaccination rates as a proxy for health system resilience: implications of development disparities for cervical cancer control during the pandemic.",
+    "source": "Front Med (Lausanne)",
+    "pubdate": "2026",
+    "authors": [
+      "Guo Q",
+      "Xu C",
+      "Li J",
+      "Qi C"
+    ],
+    "lastauthor": "Qi C",
+    "sortfirstauthor": "Guo Q",
+    "journal": "Frontiers in medicine",
+    "issn": "2296-858X",
+    "essn": "",
+    "doi": "doi: 10.3389/fmed.2026.1858206",
+    "sortpubdate": "2026/07/24 00:00",
+    "epubdate": "2026 Jul 24"
+  },
+  {
+    "name": "GBD database",
+    "id": "42567412",
+    "title": "Data-source choice in diabetes mortality surveillance and equity monitoring in the United States, 1999-2023.",
+    "source": "Diabetes Res Clin Pract",
+    "pubdate": "2026 Aug 7",
+    "authors": [
+      "Li WJ",
+      "Tao SS",
+      "Wang P",
+      "Cheng XE",
+      "Wang MH",
+      "Chen Z",
+      "Pan HF"
+    ],
+    "lastauthor": "Pan HF",
+    "sortfirstauthor": "Li WJ",
+    "journal": "Diabetes research and clinical practice",
+    "issn": "0168-8227",
+    "essn": "1872-8227",
+    "doi": "doi: 10.1016/j.diabres.2026.113489",
+    "sortpubdate": "2026/08/07 00:00",
+    "epubdate": "2026 Aug 7"
+  },
+  {
+    "name": "GBD database",
+    "id": "42561976",
+    "title": "Critical perspectives on GBD 2023 estimates - Authors' reply.",
+    "source": "Lancet",
+    "pubdate": "2026 Aug 8",
+    "authors": [
+      "Hay SI",
+      "Bisignano C",
+      "McLaughlin SA",
+      "Murray CJL"
+    ],
+    "lastauthor": "Murray CJL",
+    "sortfirstauthor": "Hay SI",
+    "journal": "Lancet (London, England)",
+    "issn": "0140-6736",
+    "essn": "1474-547X",
+    "doi": "doi: 10.1016/S0140-6736(26)00869-X",
+    "sortpubdate": "2026/08/08 00:00",
+    "epubdate": ""
+  },
+  {
+    "name": "GBD database",
+    "id": "42561975",
+    "title": "Critical perspectives on GBD 2023 estimates.",
+    "source": "Lancet",
+    "pubdate": "2026 Aug 8",
+    "authors": [
+      "Mazingisa AV",
+      "Wiysonge CS"
+    ],
+    "lastauthor": "Wiysonge CS",
+    "sortfirstauthor": "Mazingisa AV",
+    "journal": "Lancet (London, England)",
+    "issn": "0140-6736",
+    "essn": "1474-547X",
+    "doi": "doi: 10.1016/S0140-6736(26)00045-0",
+    "sortpubdate": "2026/08/08 00:00",
+    "epubdate": ""
+  },
+  {
+    "name": "GBD database",
+    "id": "42561974",
+    "title": "Critical perspectives on GBD 2023 estimates.",
+    "source": "Lancet",
+    "pubdate": "2026 Aug 8",
+    "authors": [
+      "Hallal PC",
+      "Ding D",
+      "Salvo D",
+      "Bauman A"
+    ],
+    "lastauthor": "Bauman A",
+    "sortfirstauthor": "Hallal PC",
+    "journal": "Lancet (London, England)",
+    "issn": "0140-6736",
+    "essn": "1474-547X",
+    "doi": "doi: 10.1016/S0140-6736(26)00044-9",
+    "sortpubdate": "2026/08/08 00:00",
+    "epubdate": ""
+  },
+  {
+    "name": "GBD database",
+    "id": "42561973",
+    "title": "Critical perspectives on GBD 2023 estimates.",
+    "source": "Lancet",
+    "pubdate": "2026 Aug 8",
+    "authors": [
+      "Bibas M"
+    ],
+    "lastauthor": "Bibas M",
+    "sortfirstauthor": "Bibas M",
+    "journal": "Lancet (London, England)",
+    "issn": "0140-6736",
+    "essn": "1474-547X",
+    "doi": "doi: 10.1016/S0140-6736(26)00043-7",
+    "sortpubdate": "2026/08/08 00:00",
+    "epubdate": ""
   }
 ]

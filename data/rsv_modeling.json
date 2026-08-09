@@ -7709,7 +7709,7 @@
     "id": "42323074",
     "title": "Long-term exposure to ambient air pollution and incidence of type 2 diabetes in an industrial contaminated area in Central Italy.",
     "source": "Environ Pollut",
-    "pubdate": "2026 Jun 20",
+    "pubdate": "2026 Oct 1",
     "authors": [
       "Bottini I",
       "Renzi M",
@@ -7725,7 +7725,7 @@
     "issn": "0269-7491",
     "essn": "1873-6424",
     "doi": "doi: 10.1016/j.envpol.2026.128614",
-    "sortpubdate": "2026/06/20 00:00",
+    "sortpubdate": "2026/10/01 00:00",
     "epubdate": "2026 Jun 20"
   },
   {
@@ -8640,5 +8640,32 @@
     "doi": "doi: 10.1007/s10198-026-01968-7",
     "sortpubdate": "2026/08/07 00:00",
     "epubdate": "2026 Aug 7"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "42568561",
+    "title": "Prevalence and genetic diversity of respiratory syncytial viruses circulating in Bulgaria, 2023-2025.",
+    "source": "Front Cell Infect Microbiol",
+    "pubdate": "2026",
+    "authors": [
+      "Korsun N",
+      "Trifonova I",
+      "Uzunova Y",
+      "Velikov P",
+      "Pavlova D",
+      "Grigorova I",
+      "Ivanov I",
+      "Ivanov D",
+      "Voleva S",
+      "Christova I"
+    ],
+    "lastauthor": "Christova I",
+    "sortfirstauthor": "Korsun N",
+    "journal": "Frontiers in cellular and infection microbiology",
+    "issn": "",
+    "essn": "2235-2988",
+    "doi": "doi: 10.3389/fcimb.2026.1844212",
+    "sortpubdate": "2026/07/24 00:00",
+    "epubdate": "2026 Jul 24"
   }
 ]
