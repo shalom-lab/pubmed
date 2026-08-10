@@ -89051,7 +89051,7 @@
     "id": "42546364",
     "title": "Comment on \"Global, regional and national burden of Parkinson's disease, 1990-2021: Update from the GBD 2021 study\".",
     "source": "J Neurol Sci",
-    "pubdate": "2026 Jul 28",
+    "pubdate": "2026 Oct 15",
     "authors": [
       "Mahendran C",
       "Pandiyan KR",
@@ -89064,7 +89064,7 @@
     "issn": "0022-510X",
     "essn": "1878-5883",
     "doi": "doi: 10.1016/j.jns.2026.126116",
-    "sortpubdate": "2026/07/28 00:00",
+    "sortpubdate": "2026/10/15 00:00",
     "epubdate": "2026 Jul 28"
   },
   {
@@ -90098,7 +90098,7 @@
     "sortfirstauthor": "Guo Q",
     "journal": "Frontiers in medicine",
     "issn": "2296-858X",
-    "essn": "",
+    "essn": "2296-858X",
     "doi": "doi: 10.3389/fmed.2026.1858206",
     "sortpubdate": "2026/07/24 00:00",
     "epubdate": "2026 Jul 24"
@@ -90205,5 +90205,71 @@
     "doi": "doi: 10.1016/S0140-6736(26)00043-7",
     "sortpubdate": "2026/08/08 00:00",
     "epubdate": ""
+  },
+  {
+    "name": "GBD database",
+    "id": "42571702",
+    "title": "Uneven progress in Alzheimer's disease and other dementias across Mexico, 1990-2023: updated estimates from the Global Burden of Disease Study.",
+    "source": "Aging Ment Health",
+    "pubdate": "2026 Aug 9",
+    "authors": [
+      "Dávila-Cervantes CA",
+      "Agudelo-Botero M"
+    ],
+    "lastauthor": "Agudelo-Botero M",
+    "sortfirstauthor": "Dávila-Cervantes CA",
+    "journal": "Aging & mental health",
+    "issn": "1360-7863",
+    "essn": "1364-6915",
+    "doi": "doi: 10.1080/13607863.2026.2710256",
+    "sortpubdate": "2026/08/09 00:00",
+    "epubdate": "2026 Aug 9"
+  },
+  {
+    "name": "GBD database",
+    "id": "42571406",
+    "title": "Burden of Dementia in Europe, 1990-2023: a systematic analysis from the Global Burden of Disease Study 2023.",
+    "source": "Lancet Reg Health Eur",
+    "pubdate": "2026 Sep",
+    "authors": [
+      "Urso D",
+      "Nichols E",
+      "Giannoni-Luza S",
+      "Brayne C",
+      "Ray N",
+      "Logroscino G"
+    ],
+    "lastauthor": "Logroscino G",
+    "sortfirstauthor": "Urso D",
+    "journal": "The Lancet regional health. Europe",
+    "issn": "",
+    "essn": "2666-7762",
+    "doi": "doi: 10.1016/j.lanepe.2026.101796",
+    "sortpubdate": "2026/07/31 00:00",
+    "epubdate": "2026 Jul 31"
+  },
+  {
+    "name": "GBD database",
+    "id": "42571310",
+    "title": "Diverging Incidence and Mortality of Cutaneous Melanoma in Mainland China, 1990-2023, with Projections to 2030: A Global Burden of Disease 2023 Analysis.",
+    "source": "Clin Cosmet Investig Dermatol",
+    "pubdate": "2026",
+    "authors": [
+      "Song B",
+      "Long S",
+      "Pang Z",
+      "Ning X",
+      "Wang Y",
+      "Yu X",
+      "Hu Q"
+    ],
+    "lastauthor": "Hu Q",
+    "sortfirstauthor": "Song B",
+    "journal": "Clinical, cosmetic and investigational dermatology",
+    "issn": "1178-7015",
+    "essn": "1178-7015",
+    "doi": "doi: 10.2147/CCID.S633192",
+    "sortpubdate": "2026/08/03 00:00",
+    "epubdate": "2026 Aug 3"
   }
 ]

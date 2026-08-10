@@ -15713,7 +15713,8 @@
   {
     "source": "Int J Biomed Imaging",
     "journal": "International journal of biomedical imaging",
-    "issn": "1687-4188"
+    "issn": "1687-4188",
+    "essn": "1687-4196"
   },
   {
     "source": "Neurol Res Pract",
@@ -15725,5 +15726,15 @@
     "journal": "Physiological measurement",
     "issn": "0967-3334",
     "essn": "1361-6579"
+  },
+  {
+    "source": "Kidney Int Rep",
+    "journal": "Kidney international reports",
+    "essn": "2468-0249"
+  },
+  {
+    "source": "Data Sci Sci",
+    "journal": "Data science in science",
+    "essn": "2694-1899"
   }
 ]
