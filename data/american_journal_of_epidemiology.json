@@ -11083,5 +11083,27 @@
     "doi": "doi: 10.1093/aje/kwag142",
     "sortpubdate": "2026/08/05 00:00",
     "epubdate": ""
+  },
+  {
+    "name": "American Journal of Epidemiology",
+    "id": "42573197",
+    "title": "Characterizing spatiotemporal patterns of case reporting backfill: a case study of COVID-19 reporting in Michigan, 2020-24.",
+    "source": "Am J Epidemiol",
+    "pubdate": "2026 Aug 10",
+    "authors": [
+      "Niu Y",
+      "Brouwer AF",
+      "Martin ET",
+      "Coyle JR",
+      "Eisenberg MC"
+    ],
+    "lastauthor": "Eisenberg MC",
+    "sortfirstauthor": "Niu Y",
+    "journal": "American journal of epidemiology",
+    "issn": "0002-9262",
+    "essn": "1476-6256",
+    "doi": "pii: kwag170. doi: 10.1093/aje/kwag170",
+    "sortpubdate": "2026/08/10 00:00",
+    "epubdate": "2026 Aug 10"
   }
 ]

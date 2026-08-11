@@ -131198,5 +131198,69 @@
     "doi": "doi: 10.1080/20002297.2026.2712017",
     "sortpubdate": "2026/08/06 00:00",
     "epubdate": "2026 Aug 6"
+  },
+  {
+    "name": "NHANES",
+    "id": "42573539",
+    "title": "Late Chronotype Is Associated With Dizziness and Postural Instability.",
+    "source": "Laryngoscope",
+    "pubdate": "2026 Aug 10",
+    "authors": [
+      "Han SY",
+      "Seo HW",
+      "Lee SH",
+      "Chung JH"
+    ],
+    "lastauthor": "Chung JH",
+    "sortfirstauthor": "Han SY",
+    "journal": "The Laryngoscope",
+    "issn": "0023-852X",
+    "essn": "1531-4995",
+    "doi": "doi: 10.1002/lary.70789",
+    "sortpubdate": "2026/08/10 00:00",
+    "epubdate": "2026 Aug 10"
+  },
+  {
+    "name": "NHANES",
+    "id": "42572743",
+    "title": "Exploring the Association Between Rheumatoid Arthritis and Parkinson's Disease: Evidence from 2001-2016 NHANES, Real-World Clinical Data and Bioinformatics Analysis.",
+    "source": "J Inflamm Res",
+    "pubdate": "2026",
+    "authors": [
+      "Cheng Y",
+      "Yang Y",
+      "Liu Y",
+      "Zhai H",
+      "Fang B",
+      "Song M"
+    ],
+    "lastauthor": "Song M",
+    "sortfirstauthor": "Cheng Y",
+    "journal": "Journal of inflammation research",
+    "issn": "1178-7031",
+    "essn": "1178-7031",
+    "doi": "doi: 10.2147/JIR.S615989",
+    "sortpubdate": "2026/08/05 00:00",
+    "epubdate": "2026 Aug 5"
+  },
+  {
+    "name": "NHANES",
+    "id": "42572109",
+    "title": "Variable Selection for Fixed and Random Effects in Multilevel Functional Mixed Effects Models.",
+    "source": "Stat Med",
+    "pubdate": "2026 Aug",
+    "authors": [
+      "Ghosal R",
+      "Matabuena M",
+      "Saha E"
+    ],
+    "lastauthor": "Saha E",
+    "sortfirstauthor": "Ghosal R",
+    "journal": "Statistics in medicine",
+    "issn": "0277-6715",
+    "essn": "1097-0258",
+    "doi": "doi: 10.1002/sim.70694",
+    "sortpubdate": "2026/08/01 00:00",
+    "epubdate": ""
   }
 ]

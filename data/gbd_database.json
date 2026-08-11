@@ -90271,5 +90271,136 @@
     "doi": "doi: 10.2147/CCID.S633192",
     "sortpubdate": "2026/08/03 00:00",
     "epubdate": "2026 Aug 3"
+  },
+  {
+    "name": "GBD database",
+    "id": "42574358",
+    "title": "Beyond the 1.5°C planetary boundary: AI-forecast of Global Disease Burden and Health inequities.",
+    "source": "PLoS One",
+    "pubdate": "2026",
+    "authors": [
+      "Abdul Rahman H",
+      "Tun HM"
+    ],
+    "lastauthor": "Tun HM",
+    "sortfirstauthor": "Abdul Rahman H",
+    "journal": "PloS one",
+    "issn": "",
+    "essn": "1932-6203",
+    "doi": "doi: 10.1371/journal.pone.0354159",
+    "sortpubdate": "2026/08/10 00:00",
+    "epubdate": "2026 Aug 10"
+  },
+  {
+    "name": "GBD database",
+    "id": "42574154",
+    "title": "Trends in Health-adjusted Life Expectancy Across Indian States and Union Territories, 1990-2021: An Ecological Analysis Using Data from the 2021 Global Burden of Disease Study.",
+    "source": "Indian J Public Health",
+    "pubdate": "2026 Jul 29",
+    "authors": [
+      "Vennu V"
+    ],
+    "lastauthor": "Vennu V",
+    "sortfirstauthor": "Vennu V",
+    "journal": "Indian journal of public health",
+    "issn": "0019-557X",
+    "essn": "",
+    "doi": "doi: 10.4103/ijph.ijph_607_25",
+    "sortpubdate": "2026/07/29 00:00",
+    "epubdate": "2026 Jul 29"
+  },
+  {
+    "name": "GBD database",
+    "id": "42574152",
+    "title": "Mapping of the Health Research Landscape in Jharkhand, India, in the Past Decade: A Bibliometric Analysis.",
+    "source": "Indian J Public Health",
+    "pubdate": "2026 Jul 29",
+    "authors": [
+      "Rehman T",
+      "Mitra S",
+      "Dubey S",
+      "Kumar D",
+      "Kshatri JS",
+      "Sahoo B",
+      "Pati S"
+    ],
+    "lastauthor": "Pati S",
+    "sortfirstauthor": "Rehman T",
+    "journal": "Indian journal of public health",
+    "issn": "0019-557X",
+    "essn": "",
+    "doi": "doi: 10.4103/ijph.ijph_753_24",
+    "sortpubdate": "2026/07/29 00:00",
+    "epubdate": "2026 Jul 29"
+  },
+  {
+    "name": "GBD database",
+    "id": "42573636",
+    "title": "Type 2 diabetes in BRICS countries from 1990 to 2023: burden, trends and complementary Mendelian randomization evidence.",
+    "source": "Endocrine",
+    "pubdate": "2026 Aug 10",
+    "authors": [
+      "Ren Q",
+      "Zhang Y",
+      "Wang Y",
+      "Zhou Y",
+      "Zhu X",
+      "Zheng X",
+      "Zheng X"
+    ],
+    "lastauthor": "Zheng X",
+    "sortfirstauthor": "Ren Q",
+    "journal": "Endocrine",
+    "issn": "1355-008X",
+    "essn": "1559-0100",
+    "doi": "pii: 270. doi: 10.1007/s12020-026-04753-x",
+    "sortpubdate": "2026/08/10 00:00",
+    "epubdate": "2026 Aug 10"
+  },
+  {
+    "name": "GBD database",
+    "id": "42572781",
+    "title": "Rising Global Burden of Diabetes and Kidney Disease in Women Aged 15-49 Years: A Global Burden of Disease 2021 Analysis.",
+    "source": "Int J Womens Health",
+    "pubdate": "2026",
+    "authors": [
+      "Li L",
+      "Jiang X",
+      "Yu P",
+      "Li J",
+      "Tang M"
+    ],
+    "lastauthor": "Tang M",
+    "sortfirstauthor": "Li L",
+    "journal": "International journal of women's health",
+    "issn": "1179-1411",
+    "essn": "1179-1411",
+    "doi": "doi: 10.2147/IJWH.S620487",
+    "sortpubdate": "2026/08/04 00:00",
+    "epubdate": "2026 Aug 4"
+  },
+  {
+    "name": "GBD database",
+    "id": "42572525",
+    "title": "The Hidden Burden: Global, Regional, and National Trends in Indirect Cause of Maternal Mortality from 1980 to 2021: A Global Analysis Using the Global Burden of Disease 2021 Data.",
+    "source": "Womens Health Rep (New Rochelle)",
+    "pubdate": "2026 Jan-Dec",
+    "authors": [
+      "Alamrew A",
+      "Mulugeta C",
+      "Yetwale A",
+      "Emagneneh T",
+      "Ayele M",
+      "Lake ES",
+      "Mislu E"
+    ],
+    "lastauthor": "Mislu E",
+    "sortfirstauthor": "Alamrew A",
+    "journal": "Women's health reports (New Rochelle, N.Y.)",
+    "issn": "",
+    "essn": "2688-4844",
+    "doi": "doi: 10.1177/26884844261475865",
+    "sortpubdate": "2026/08/08 00:00",
+    "epubdate": "2026 Aug 8"
   }
 ]
