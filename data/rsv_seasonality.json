@@ -10123,7 +10123,7 @@
     "id": "42492780",
     "title": "Standardization of a quantitative multiplex real-time PCR system for the detection of bovine respiratory disease pathogens in clinical samples of dairy cattle from southern Brazil.",
     "source": "J Microbiol Methods",
-    "pubdate": "2026 Jul 23",
+    "pubdate": "2026 Sep",
     "authors": [
       "Rodriguez MC",
       "Silva IV",
@@ -10140,7 +10140,7 @@
     "issn": "0167-7012",
     "essn": "1872-8359",
     "doi": "doi: 10.1016/j.mimet.2026.107639",
-    "sortpubdate": "2026/07/23 00:00",
+    "sortpubdate": "2026/09/01 00:00",
     "epubdate": "2026 Jul 23"
   },
   {
@@ -10552,5 +10552,31 @@
     "doi": "doi: 10.1016/j.ijmmb.2026.101246",
     "sortpubdate": "2026/08/10 00:00",
     "epubdate": "2026 Aug 10"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "42576256",
+    "title": "A comprehensive look at Respiratory Syncytial Virus (RSV): from pathogenesis to prevention.",
+    "source": "Trop Dis Travel Med Vaccines",
+    "pubdate": "2026 Aug 8",
+    "authors": [
+      "Salahi Ardekani O",
+      "Hasannezhad P",
+      "Goudarzi Y",
+      "Letafati A",
+      "Taghiabadi Z",
+      "Bahari M",
+      "Nayerain Jazi N",
+      "Qaraee Najafabadi A",
+      "Shatizadeh Malekshahi S"
+    ],
+    "lastauthor": "Shatizadeh Malekshahi S",
+    "sortfirstauthor": "Salahi Ardekani O",
+    "journal": "Tropical diseases, travel medicine and vaccines",
+    "issn": "2055-0936",
+    "essn": "2055-0936",
+    "doi": "doi: 10.1186/s40794-026-00313-3",
+    "sortpubdate": "2026/08/08 00:00",
+    "epubdate": "2026 Aug 8"
   }
 ]
