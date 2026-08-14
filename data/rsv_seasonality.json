@@ -10578,5 +10578,25 @@
     "doi": "doi: 10.1186/s40794-026-00313-3",
     "sortpubdate": "2026/08/08 00:00",
     "epubdate": "2026 Aug 8"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "42592141",
+    "title": "Summary of the National Advisory Committee on Immunization (NACI) Statement: Updated guidance to protect infants and children from respiratory syncytial virus disease.",
+    "source": "Can Commun Dis Rep",
+    "pubdate": "2026 Jun",
+    "authors": [
+      "Killikelly A",
+      "Siu W",
+      "Brousseau N"
+    ],
+    "lastauthor": "Brousseau N",
+    "sortfirstauthor": "Killikelly A",
+    "journal": "Canada communicable disease report = Releve des maladies transmissibles au Canada",
+    "issn": "1188-4169",
+    "essn": "1481-8531",
+    "doi": "doi: 10.14745/ccdr.v52i06a01",
+    "sortpubdate": "2026/06/30 00:00",
+    "epubdate": "2026 Jun 30"
   }
 ]

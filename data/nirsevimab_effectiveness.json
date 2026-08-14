@@ -6477,5 +6477,83 @@
     "doi": "doi: 10.1001/jamapediatrics.2026.3384",
     "sortpubdate": "2026/08/10 00:00",
     "epubdate": "2026 Aug 10"
+  },
+  {
+    "name": "Nirsevimab effectiveness",
+    "id": "42592280",
+    "title": "Genomic evolution and minority variant dynamics of RSV during the first season of nirsevimab implementation in Italy (2024-5).",
+    "source": "Virus Evol",
+    "pubdate": "2026",
+    "authors": [
+      "Romano G",
+      "Campagna R",
+      "Ferrari G",
+      "Pitrolo AMG",
+      "Turriziani O",
+      "Fracella M",
+      "Coratti E",
+      "Cinti L",
+      "Roberto P",
+      "Petrarca L",
+      "Nenna R",
+      "Midulla F",
+      "Bonetti A",
+      "Licari A",
+      "Piralla A",
+      "Antonelli G",
+      "Baldanti F",
+      "Pierangeli A"
+    ],
+    "lastauthor": "Pierangeli A",
+    "sortfirstauthor": "Romano G",
+    "journal": "Virus evolution",
+    "issn": "2057-1577",
+    "essn": "2057-1577",
+    "doi": "doi: 10.1093/ve/veag045",
+    "sortpubdate": "2026/07/28 00:00",
+    "epubdate": "2026 Jul 28"
+  },
+  {
+    "name": "Nirsevimab effectiveness",
+    "id": "42592141",
+    "title": "Summary of the National Advisory Committee on Immunization (NACI) Statement: Updated guidance to protect infants and children from respiratory syncytial virus disease.",
+    "source": "Can Commun Dis Rep",
+    "pubdate": "2026 Jun",
+    "authors": [
+      "Killikelly A",
+      "Siu W",
+      "Brousseau N"
+    ],
+    "lastauthor": "Brousseau N",
+    "sortfirstauthor": "Killikelly A",
+    "journal": "Canada communicable disease report = Releve des maladies transmissibles au Canada",
+    "issn": "1188-4169",
+    "essn": "1481-8531",
+    "doi": "doi: 10.14745/ccdr.v52i06a01",
+    "sortpubdate": "2026/06/30 00:00",
+    "epubdate": "2026 Jun 30"
+  },
+  {
+    "name": "Nirsevimab effectiveness",
+    "id": "42587205",
+    "title": "Cost-Effectiveness of Maternal RSVpreF Vaccination Compared with Newborn Nirsevimab RSV Prophylaxis or No RSV Prophylaxis in Switzerland.",
+    "source": "Appl Health Econ Health Policy",
+    "pubdate": "2026 Aug 12",
+    "authors": [
+      "Bainbridge J",
+      "Mealing S",
+      "Graham C",
+      "Jenal M",
+      "von Dombrowski N",
+      "Dymond A"
+    ],
+    "lastauthor": "Dymond A",
+    "sortfirstauthor": "Bainbridge J",
+    "journal": "Applied health economics and health policy",
+    "issn": "1175-5652",
+    "essn": "1179-1896",
+    "doi": "doi: 10.1007/s40258-026-01063-1",
+    "sortpubdate": "2026/08/12 00:00",
+    "epubdate": "2026 Aug 12"
   }
 ]
