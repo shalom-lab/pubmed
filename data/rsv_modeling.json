@@ -8667,5 +8667,59 @@
     "doi": "doi: 10.3389/fcimb.2026.1844212",
     "sortpubdate": "2026/07/24 00:00",
     "epubdate": "2026 Jul 24"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "42599129",
+    "title": "A network-driven antiviral discovery pipeline for emerging RNA viruses: a critical perspective from the Red Mexicana de Desarrollo de Antivirales (RMDA).",
+    "source": "Expert Opin Drug Discov",
+    "pubdate": "2026 Aug 14",
+    "authors": [
+      "De Jesús-González LA",
+      "Santos-Mena AO",
+      "Farfán-Morales CN",
+      "León-Juárez M",
+      "Reyes-Ruiz JM",
+      "Osuna-Ramos JF",
+      "Cordero-Rivera CD",
+      "Palacios-Rápalo SN",
+      "Lira-Hernández FI",
+      "Del Ángel RM"
+    ],
+    "lastauthor": "Del Ángel RM",
+    "sortfirstauthor": "De Jesús-González LA",
+    "journal": "Expert opinion on drug discovery",
+    "issn": "1746-0441",
+    "essn": "1746-045X",
+    "doi": "doi: 10.1080/17460441.2026.2716137",
+    "sortpubdate": "2026/08/14 00:00",
+    "epubdate": "2026 Aug 14"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "42595443",
+    "title": "Deficiency in circulating T cells in four core genotypes mice with Sry translocation.",
+    "source": "J Immunol",
+    "pubdate": "2026 Aug 4",
+    "authors": [
+      "McKernan KE",
+      "Cephus JY",
+      "Kuehnle SN",
+      "Henriquez-Pilier E",
+      "Dandy AC",
+      "Bacharier T",
+      "Polosukhin VV",
+      "Cahill KN",
+      "Silveyra P",
+      "Newcomb DC"
+    ],
+    "lastauthor": "Newcomb DC",
+    "sortfirstauthor": "McKernan KE",
+    "journal": "Journal of immunology (Baltimore, Md. : 1950)",
+    "issn": "0022-1767",
+    "essn": "1550-6606",
+    "doi": "doi: 10.1093/jimmun/vkag207",
+    "sortpubdate": "2026/08/04 00:00",
+    "epubdate": ""
   }
 ]

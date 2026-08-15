@@ -131894,7 +131894,7 @@
     "id": "42594230",
     "title": "Burden of high blood pressure and associated risk for all-cause and cardiovascular mortality among US young adults.",
     "source": "Blood Press",
-    "pubdate": "2026 Aug 13",
+    "pubdate": "2026 Dec",
     "authors": [
       "Ying M",
       "Bao K",
@@ -131911,8 +131911,8 @@
     "issn": "0803-7051",
     "essn": "1651-1999",
     "doi": "doi: 10.1080/08037051.2026.2715846",
-    "sortpubdate": "2026/08/13 00:00",
-    "epubdate": "2026 Aug 13"
+    "sortpubdate": "2026/12/01 00:00",
+    "epubdate": "2026 Aug 14"
   },
   {
     "name": "NHANES",
@@ -132269,5 +132269,349 @@
     "doi": "doi: 10.1016/j.annepidem.2026.110261",
     "sortpubdate": "2026/08/12 00:00",
     "epubdate": "2026 Aug 12"
+  },
+  {
+    "name": "NHANES",
+    "id": "42600144",
+    "title": "Detecting and Mitigating AI Bias in Health Care: Development and Validation of a Unified Multistage Framework.",
+    "source": "JMIR AI",
+    "pubdate": "2026 Aug 14",
+    "authors": [
+      "Mateedulsatit R",
+      "Srisa-An C"
+    ],
+    "lastauthor": "Srisa-An C",
+    "sortfirstauthor": "Mateedulsatit R",
+    "journal": "JMIR AI",
+    "issn": "",
+    "essn": "2817-1705",
+    "doi": "doi: 10.2196/102146",
+    "sortpubdate": "2026/08/14 00:00",
+    "epubdate": "2026 Aug 14"
+  },
+  {
+    "name": "NHANES",
+    "id": "42600035",
+    "title": "Association of modifiable behavioral risk factors with premature and all-cause mortality in patients with cardiovascular disease: A retrospective cohort study.",
+    "source": "Sci Prog",
+    "pubdate": "2026 Jul-Sep",
+    "authors": [
+      "Yuan Y",
+      "Niu H",
+      "Cui Y",
+      "Wang D",
+      "Cao X"
+    ],
+    "lastauthor": "Cao X",
+    "sortfirstauthor": "Yuan Y",
+    "journal": "Science progress",
+    "issn": "0036-8504",
+    "essn": "2047-7163",
+    "doi": "doi: 10.1177/00368504261479121",
+    "sortpubdate": "2026/07/01 00:00",
+    "epubdate": "2026 Aug 14"
+  },
+  {
+    "name": "NHANES",
+    "id": "42599050",
+    "title": "Identification of Erectile Dysfunction From Routine Blood Test Data: Development and Validation of a Machine Learning-Based Prediction Model.",
+    "source": "Andrology",
+    "pubdate": "2026 Aug 14",
+    "authors": [
+      "Yang P",
+      "Ma Y",
+      "Cao Z",
+      "Zhang W",
+      "Ge Y",
+      "Zhu T",
+      "Gao P",
+      "Zhang X"
+    ],
+    "lastauthor": "Zhang X",
+    "sortfirstauthor": "Yang P",
+    "journal": "Andrology",
+    "issn": "2047-2919",
+    "essn": "2047-2927",
+    "doi": "doi: 10.1111/andr.70358",
+    "sortpubdate": "2026/08/14 00:00",
+    "epubdate": "2026 Aug 14"
+  },
+  {
+    "name": "NHANES",
+    "id": "42597978",
+    "title": "Letter to the Editor on: 'Association between dental caries and self-reported COPD prevalence in U.S. adults aged ≥60 years: a cross-sectional analysis of NHANES 2015-2020'.",
+    "source": "J Oral Microbiol",
+    "pubdate": "2026",
+    "authors": [
+      "Shan Q"
+    ],
+    "lastauthor": "Shan Q",
+    "sortfirstauthor": "Shan Q",
+    "journal": "Journal of oral microbiology",
+    "issn": "2000-2297",
+    "essn": "2000-2297",
+    "doi": "doi: 10.1080/20002297.2026.2715818",
+    "sortpubdate": "2026/08/12 00:00",
+    "epubdate": "2026 Aug 12"
+  },
+  {
+    "name": "NHANES",
+    "id": "42597398",
+    "title": "Association of the fibrosis-4 index with prevalent diabetes among adults: a cross-sectional analysis of NHANES 2003-2018 and a Chinese hospital-based health examination population.",
+    "source": "Front Endocrinol (Lausanne)",
+    "pubdate": "2026",
+    "authors": [
+      "Chen Z",
+      "Chen X",
+      "Wang J",
+      "Hu S"
+    ],
+    "lastauthor": "Hu S",
+    "sortfirstauthor": "Chen Z",
+    "journal": "Frontiers in endocrinology",
+    "issn": "1664-2392",
+    "essn": "1664-2392",
+    "doi": "doi: 10.3389/fendo.2026.1881759",
+    "sortpubdate": "2026/07/30 00:00",
+    "epubdate": "2026 Jul 30"
+  },
+  {
+    "name": "NHANES",
+    "id": "42597320",
+    "title": "The role of eosinophils and basophils in peripheral blood in liver injury: findings from a cross-sectional study of an external hospital-based dataset and the NHANES (2007-2012).",
+    "source": "Front Physiol",
+    "pubdate": "2026",
+    "authors": [
+      "Gao S",
+      "Du K",
+      "Zhang M",
+      "Ma Y",
+      "He J",
+      "Che T",
+      "Li L",
+      "Zhang S"
+    ],
+    "lastauthor": "Zhang S",
+    "sortfirstauthor": "Gao S",
+    "journal": "Frontiers in physiology",
+    "issn": "1664-042X",
+    "essn": "1664-042X",
+    "doi": "doi: 10.3389/fphys.2026.1900697",
+    "sortpubdate": "2026/07/30 00:00",
+    "epubdate": "2026 Jul 30"
+  },
+  {
+    "name": "NHANES",
+    "id": "42597294",
+    "title": "Diagnostic value of insulin resistance indices for colorectal cancer: a study using the data from NHANES 2009-2018.",
+    "source": "J Diabetes Metab Disord",
+    "pubdate": "2026 Dec",
+    "authors": [
+      "Rezazadeh M",
+      "Mostaghim E",
+      "Kheradpishe A",
+      "Radkhah H",
+      "Shateri Amiri B"
+    ],
+    "lastauthor": "Shateri Amiri B",
+    "sortfirstauthor": "Rezazadeh M",
+    "journal": "Journal of diabetes and metabolic disorders",
+    "issn": "2251-6581",
+    "essn": "2251-6581",
+    "doi": "doi: 10.1007/s40200-026-02047-7",
+    "sortpubdate": "2026/08/12 00:00",
+    "epubdate": "2026 Aug 12"
+  },
+  {
+    "name": "NHANES",
+    "id": "42597063",
+    "title": "Racial/ethnic disparities in stages of cardiovascular-kidney-metabolic syndrome among reproductive-aged women in the United States: NHANES 2011-2020.",
+    "source": "Pregnancy (Hoboken)",
+    "pubdate": "2026 Mar",
+    "authors": [
+      "Broni EK",
+      "Aryee EK",
+      "Lachaud A",
+      "Peprah A",
+      "Lewey J",
+      "Levine LD"
+    ],
+    "lastauthor": "Levine LD",
+    "sortfirstauthor": "Broni EK",
+    "journal": "Pregnancy (Hoboken, N.J.)",
+    "issn": "",
+    "essn": "2997-9684",
+    "doi": "doi: 10.1002/pmf2.70263",
+    "sortpubdate": "2026/02/17 00:00",
+    "epubdate": "2026 Feb 17"
+  },
+  {
+    "name": "NHANES",
+    "id": "42596894",
+    "title": "Associations between physical activity and dietary live microbe intake with non-alcoholic fatty liver disease: findings from the NHANES, 2007-2018.",
+    "source": "J Glob Health",
+    "pubdate": "2026 Aug 14",
+    "authors": [
+      "Ding S",
+      "Hu X",
+      "Liu J"
+    ],
+    "lastauthor": "Liu J",
+    "sortfirstauthor": "Ding S",
+    "journal": "Journal of global health",
+    "issn": "2047-2978",
+    "essn": "2047-2986",
+    "doi": "doi: 10.7189/jogh.16.04119",
+    "sortpubdate": "2026/08/14 00:00",
+    "epubdate": "2026 Aug 14"
+  },
+  {
+    "name": "NHANES",
+    "id": "42596890",
+    "title": "A simplified nomogram for predicting deep vein thrombosis: development in NHANES and retrospective single-center external validation.",
+    "source": "Ann Med",
+    "pubdate": "2026 Dec",
+    "authors": [
+      "Gu Z",
+      "Zhang Y",
+      "Zhu H",
+      "Huang J"
+    ],
+    "lastauthor": "Huang J",
+    "sortfirstauthor": "Gu Z",
+    "journal": "Annals of medicine",
+    "issn": "0785-3890",
+    "essn": "1365-2060",
+    "doi": "doi: 10.1080/07853890.2026.2716932",
+    "sortpubdate": "2026/12/01 00:00",
+    "epubdate": "2026 Aug 14"
+  },
+  {
+    "name": "NHANES",
+    "id": "42595223",
+    "title": "A non-clinical risk model for periodontitis derived from a national health examination survey: development and external validation.",
+    "source": "Epidemiol Health",
+    "pubdate": "2026 Aug 10",
+    "authors": [
+      "Kim SJ",
+      "Shin MJ",
+      "Cho HJ"
+    ],
+    "lastauthor": "Cho HJ",
+    "sortfirstauthor": "Kim SJ",
+    "journal": "Epidemiology and health",
+    "issn": "",
+    "essn": "2092-7193",
+    "doi": "doi: 10.4178/epih.e2026040",
+    "sortpubdate": "2026/08/10 00:00",
+    "epubdate": "2026 Aug 10"
+  },
+  {
+    "name": "NHANES",
+    "id": "42594883",
+    "title": "Body Roundness Index and Prevalent Erectile Dysfunction in Adult Men: A Survey-Weighted Cross-Sectional Analysis of NHANES 2001-2004.",
+    "source": "Am J Mens Health",
+    "pubdate": "2026 Jul-Aug",
+    "authors": [
+      "Chen C",
+      "Li S",
+      "Liu X",
+      "Feng X"
+    ],
+    "lastauthor": "Feng X",
+    "sortfirstauthor": "Chen C",
+    "journal": "American journal of men's health",
+    "issn": "1557-9883",
+    "essn": "1557-9891",
+    "doi": "doi: 10.1177/15579883261479006",
+    "sortpubdate": "2026/07/01 00:00",
+    "epubdate": "2026 Aug 13"
+  },
+  {
+    "name": "NHANES",
+    "id": "42594578",
+    "title": "Association between cumulative social disadvantage, as measured by the social determinants of health score, and epilepsy: a cross-sectional study.",
+    "source": "J Clin Neurosci",
+    "pubdate": "2026 Aug 13",
+    "authors": [
+      "Li Z",
+      "Yang Z"
+    ],
+    "lastauthor": "Yang Z",
+    "sortfirstauthor": "Li Z",
+    "journal": "Journal of clinical neuroscience : official journal of the Neurosurgical Society of Australasia",
+    "issn": "0967-5868",
+    "essn": "1532-2653",
+    "doi": "doi: 10.1016/j.jocn.2026.112247",
+    "sortpubdate": "2026/08/13 00:00",
+    "epubdate": "2026 Aug 13"
+  },
+  {
+    "name": "NHANES",
+    "id": "42589966",
+    "title": "The Relationship Between Reduced Glomerular Filtration Rate and Hearing Impairment: A Study Based on Western and Eastern Population.",
+    "source": "J Clin Med",
+    "pubdate": "2026 Jul 27",
+    "authors": [
+      "Wang M",
+      "Cui J",
+      "Zhang Y",
+      "Quan Y",
+      "Xie Y",
+      "Chen L",
+      "Jin Y",
+      "Bai X",
+      "Liu Y",
+      "Ma X",
+      "Chen D",
+      "Liu D",
+      "Ping H"
+    ],
+    "lastauthor": "Ping H",
+    "sortfirstauthor": "Wang M",
+    "journal": "Journal of clinical medicine",
+    "issn": "2077-0383",
+    "essn": "2077-0383",
+    "doi": "doi: 10.3390/jcm15155859",
+    "sortpubdate": "2026/07/27 00:00",
+    "epubdate": "2026 Jul 27"
+  },
+  {
+    "name": "NHANES",
+    "id": "42589882",
+    "title": "Establishing Thyroid Reference Intervals Through Hierarchical Cluster Analysis: A Comparative Evaluation of Limit Estimation and Partitioning Methods.",
+    "source": "J Clin Med",
+    "pubdate": "2026 Jul 23",
+    "authors": [
+      "Yılmaz E",
+      "Kılıç H"
+    ],
+    "lastauthor": "Kılıç H",
+    "sortfirstauthor": "Yılmaz E",
+    "journal": "Journal of clinical medicine",
+    "issn": "2077-0383",
+    "essn": "2077-0383",
+    "doi": "doi: 10.3390/jcm15155778",
+    "sortpubdate": "2026/07/23 00:00",
+    "epubdate": "2026 Jul 23"
+  },
+  {
+    "name": "NHANES",
+    "id": "42588110",
+    "title": "Beverage-Derived Caffeine Intake, Sleep Duration, and Mental Health Among Korean Adults: A Cross-Sectional Analysis of KNHANES 2021-2024.",
+    "source": "Nutrients",
+    "pubdate": "2026 Aug 1",
+    "authors": [
+      "Kim J",
+      "Yi YH"
+    ],
+    "lastauthor": "Yi YH",
+    "sortfirstauthor": "Kim J",
+    "journal": "Nutrients",
+    "issn": "",
+    "essn": "2072-6643",
+    "doi": "doi: 10.3390/nu18152488",
+    "sortpubdate": "2026/08/01 00:00",
+    "epubdate": "2026 Aug 1"
   }
 ]
