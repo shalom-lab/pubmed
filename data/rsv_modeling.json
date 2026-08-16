@@ -8084,7 +8084,7 @@
     "id": "42417916",
     "title": "Analysis of the Economic and Public Health Impact of New Immunization Strategies in Infants Against Respiratory Syncytial Virus (RSV) in Colombia.",
     "source": "Infect Dis Ther",
-    "pubdate": "2026 Jul 8",
+    "pubdate": "2026 Sep",
     "authors": [
       "Carrasquilla-Sotomayor M",
       "Alvis-Zakzuk NJ",
@@ -8101,7 +8101,7 @@
     "issn": "2193-8229",
     "essn": "2193-6382",
     "doi": "doi: 10.1007/s40121-026-01382-9",
-    "sortpubdate": "2026/07/08 00:00",
+    "sortpubdate": "2026/09/01 00:00",
     "epubdate": "2026 Jul 8"
   },
   {
@@ -8721,5 +8721,57 @@
     "doi": "doi: 10.1093/jimmun/vkag207",
     "sortpubdate": "2026/08/04 00:00",
     "epubdate": ""
+  },
+  {
+    "name": "RSV modeling",
+    "id": "42602072",
+    "title": "Epidemiological patterns and trends of respiratory syncytial virus in Guangdong Province, China, 2019-2023.",
+    "source": "Front Public Health",
+    "pubdate": "2026",
+    "authors": [
+      "Chen J",
+      "Qiu H",
+      "Yu M",
+      "Xiao J",
+      "Jin W",
+      "Huang Y",
+      "Niu B",
+      "Lin D",
+      "Weng Y",
+      "Wen Y",
+      "Zeng Z",
+      "Yang Z",
+      "Deng X"
+    ],
+    "lastauthor": "Deng X",
+    "sortfirstauthor": "Chen J",
+    "journal": "Frontiers in public health",
+    "issn": "",
+    "essn": "2296-2565",
+    "doi": "doi: 10.3389/fpubh.2026.1851186",
+    "sortpubdate": "2026/07/31 00:00",
+    "epubdate": "2026 Jul 31"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "42601289",
+    "title": "Bidirectional changes in recorded pediatric asthma diagnoses with respiratory virus activity: A nationwide interrupted time-series analysis in Japan.",
+    "source": "Allergol Int",
+    "pubdate": "2026 Aug 14",
+    "authors": [
+      "Matsumoto N",
+      "Ishida H",
+      "Hayase S",
+      "Ikeda M",
+      "Yorifuji T"
+    ],
+    "lastauthor": "Yorifuji T",
+    "sortfirstauthor": "Matsumoto N",
+    "journal": "Allergology international : official journal of the Japanese Society of Allergology",
+    "issn": "1323-8930",
+    "essn": "1440-1592",
+    "doi": "pii: S1323-8930(26)00089-4. doi: 10.1016/j.alit.2026.07.008",
+    "sortpubdate": "2026/08/14 00:00",
+    "epubdate": "2026 Aug 14"
   }
 ]

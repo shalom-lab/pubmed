@@ -9745,7 +9745,7 @@
     "id": "42414831",
     "title": "Viral Pathogen-Specific Severe Acute Respiratory Infections in Hospitalised Adults in Europe: Epidemiological Findings from the id.DRIVE Study 2024-2025.",
     "source": "Infect Dis Ther",
-    "pubdate": "2026 Jul 7",
+    "pubdate": "2026 Sep",
     "authors": [
       "Newell K",
       "Vroom N",
@@ -9783,7 +9783,7 @@
     "issn": "2193-8229",
     "essn": "2193-6382",
     "doi": "doi: 10.1007/s40121-026-01399-0",
-    "sortpubdate": "2026/07/07 00:00",
+    "sortpubdate": "2026/09/01 00:00",
     "epubdate": "2026 Jul 7"
   },
   {
@@ -9791,7 +9791,7 @@
     "id": "42423941",
     "title": "Comparison of the Hospital Burden Associated with Respiratory Syncytial Virus and Human Metapneumovirus Across All Age Groups in Scotland: A Retrospective Analysis.",
     "source": "Infect Dis Ther",
-    "pubdate": "2026 Jul 9",
+    "pubdate": "2026 Sep",
     "authors": [
       "Kulkarni D",
       "Osei-Yeboah R",
@@ -9805,7 +9805,7 @@
     "issn": "2193-8229",
     "essn": "2193-6382",
     "doi": "doi: 10.1007/s40121-026-01402-8",
-    "sortpubdate": "2026/07/09 00:00",
+    "sortpubdate": "2026/09/01 00:00",
     "epubdate": "2026 Jul 9"
   },
   {
@@ -10598,5 +10598,35 @@
     "doi": "doi: 10.14745/ccdr.v52i06a01",
     "sortpubdate": "2026/06/30 00:00",
     "epubdate": "2026 Jun 30"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "42602072",
+    "title": "Epidemiological patterns and trends of respiratory syncytial virus in Guangdong Province, China, 2019-2023.",
+    "source": "Front Public Health",
+    "pubdate": "2026",
+    "authors": [
+      "Chen J",
+      "Qiu H",
+      "Yu M",
+      "Xiao J",
+      "Jin W",
+      "Huang Y",
+      "Niu B",
+      "Lin D",
+      "Weng Y",
+      "Wen Y",
+      "Zeng Z",
+      "Yang Z",
+      "Deng X"
+    ],
+    "lastauthor": "Deng X",
+    "sortfirstauthor": "Chen J",
+    "journal": "Frontiers in public health",
+    "issn": "",
+    "essn": "2296-2565",
+    "doi": "doi: 10.3389/fpubh.2026.1851186",
+    "sortpubdate": "2026/07/31 00:00",
+    "epubdate": "2026 Jul 31"
   }
 ]
