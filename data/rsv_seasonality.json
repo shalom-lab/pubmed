@@ -10628,5 +10628,27 @@
     "doi": "doi: 10.3389/fpubh.2026.1851186",
     "sortpubdate": "2026/07/31 00:00",
     "epubdate": "2026 Jul 31"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "42607096",
+    "title": "The limitations of non-mechanistic methods for characterizing pathogen-pathogen interactions: A simulation study.",
+    "source": "PLoS Comput Biol",
+    "pubdate": "2026 Aug",
+    "authors": [
+      "Kramer SC",
+      "Pirikahu S",
+      "Kussmaul C",
+      "Opatowski L",
+      "Domenech de Cellès M"
+    ],
+    "lastauthor": "Domenech de Cellès M",
+    "sortfirstauthor": "Kramer SC",
+    "journal": "PLoS computational biology",
+    "issn": "1553-734X",
+    "essn": "1553-7358",
+    "doi": "doi: 10.1371/journal.pcbi.1013859",
+    "sortpubdate": "2026/08/17 00:00",
+    "epubdate": "2026 Aug 17"
   }
 ]

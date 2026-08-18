@@ -8773,5 +8773,27 @@
     "doi": "pii: S1323-8930(26)00089-4. doi: 10.1016/j.alit.2026.07.008",
     "sortpubdate": "2026/08/14 00:00",
     "epubdate": "2026 Aug 14"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "42607096",
+    "title": "The limitations of non-mechanistic methods for characterizing pathogen-pathogen interactions: A simulation study.",
+    "source": "PLoS Comput Biol",
+    "pubdate": "2026 Aug",
+    "authors": [
+      "Kramer SC",
+      "Pirikahu S",
+      "Kussmaul C",
+      "Opatowski L",
+      "Domenech de Cellès M"
+    ],
+    "lastauthor": "Domenech de Cellès M",
+    "sortfirstauthor": "Kramer SC",
+    "journal": "PLoS computational biology",
+    "issn": "1553-734X",
+    "essn": "1553-7358",
+    "doi": "doi: 10.1371/journal.pcbi.1013859",
+    "sortpubdate": "2026/08/17 00:00",
+    "epubdate": "2026 Aug 17"
   }
 ]

@@ -91929,5 +91929,71 @@
     "doi": "doi: 10.34172/aim.34957",
     "sortpubdate": "2026/02/01 00:00",
     "epubdate": "2026 Feb 1"
+  },
+  {
+    "name": "GBD database",
+    "id": "42606789",
+    "title": "Comparative analysis of multiple sclerosis burden in China and India from 1990 to 2021 based on the Global Burden of Disease Study 2021.",
+    "source": "Immunol Res",
+    "pubdate": "2026 Aug 17",
+    "authors": [
+      "Cai ZL",
+      "Dong F",
+      "Ma J",
+      "Wang D",
+      "Yi W",
+      "Cao L",
+      "Cai ZY"
+    ],
+    "lastauthor": "Cai ZY",
+    "sortfirstauthor": "Cai ZL",
+    "journal": "Immunologic research",
+    "issn": "0257-277X",
+    "essn": "1559-0755",
+    "doi": "pii: 87. doi: 10.1007/s12026-026-09821-y",
+    "sortpubdate": "2026/08/17 00:00",
+    "epubdate": "2026 Aug 17"
+  },
+  {
+    "name": "GBD database",
+    "id": "42606758",
+    "title": "Disease burden of non-polio enterovirus-associated meningitis in children in G20 countries: an analysis based on GBD data and projections to 2050.",
+    "source": "Eur J Clin Microbiol Infect Dis",
+    "pubdate": "2026 Aug 17",
+    "authors": [
+      "Guo Y",
+      "Wei J",
+      "Luo Y",
+      "Zhang J"
+    ],
+    "lastauthor": "Zhang J",
+    "sortfirstauthor": "Guo Y",
+    "journal": "European journal of clinical microbiology & infectious diseases : official publication of the European Society of Clinical Microbiology",
+    "issn": "0934-9723",
+    "essn": "1435-4373",
+    "doi": "doi: 10.1007/s10096-026-05636-9",
+    "sortpubdate": "2026/08/17 00:00",
+    "epubdate": "2026 Aug 17"
+  },
+  {
+    "name": "GBD database",
+    "id": "42604692",
+    "title": "Anticipating years lived with vision loss attributable to diabetic retinopathy in Mexico: a quantitative simulation for 2040.",
+    "source": "Diabetes Res Clin Pract",
+    "pubdate": "2026 Aug 16",
+    "authors": [
+      "Pérez-Peralta L",
+      "Ríos JN",
+      "Burguete CP",
+      "Reynoso-Noverón N"
+    ],
+    "lastauthor": "Reynoso-Noverón N",
+    "sortfirstauthor": "Pérez-Peralta L",
+    "journal": "Diabetes research and clinical practice",
+    "issn": "0168-8227",
+    "essn": "1872-8227",
+    "doi": "doi: 10.1016/j.diabres.2026.113498",
+    "sortpubdate": "2026/08/16 00:00",
+    "epubdate": "2026 Aug 16"
   }
 ]

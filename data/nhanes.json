@@ -133050,5 +133050,92 @@
     "doi": "doi: 10.1016/j.ijcrp.2026.200691",
     "sortpubdate": "2026/08/07 00:00",
     "epubdate": "2026 Aug 7"
+  },
+  {
+    "name": "NHANES",
+    "id": "42606983",
+    "title": "Prevalence of Urinary Incontinence in the United States 2015-2020.",
+    "source": "Urogynecology (Phila)",
+    "pubdate": "2026 Aug 17",
+    "authors": [
+      "Jibrel F",
+      "Sung V",
+      "Khalid N",
+      "Shinnick J"
+    ],
+    "lastauthor": "Shinnick J",
+    "sortfirstauthor": "Jibrel F",
+    "journal": "Urogynecology (Philadelphia, Pa.)",
+    "issn": "",
+    "essn": "2771-1897",
+    "doi": "doi: 10.1097/SPV.0000000000001913",
+    "sortpubdate": "2026/08/17 00:00",
+    "epubdate": "2026 Aug 17"
+  },
+  {
+    "name": "NHANES",
+    "id": "42606884",
+    "title": "Serologic Immunity to Hepatitis A and B in US Adults and High-Risk Populations.",
+    "source": "JAMA Intern Med",
+    "pubdate": "2026 Aug 17",
+    "authors": [
+      "Roldan GA",
+      "Fletcher J",
+      "Davie T",
+      "Leventhal TM",
+      "Lake JR",
+      "Udompap P"
+    ],
+    "lastauthor": "Udompap P",
+    "sortfirstauthor": "Roldan GA",
+    "journal": "JAMA internal medicine",
+    "issn": "2168-6106",
+    "essn": "2168-6114",
+    "doi": "doi: 10.1001/jamainternmed.2026.3831",
+    "sortpubdate": "2026/08/17 00:00",
+    "epubdate": "2026 Aug 17"
+  },
+  {
+    "name": "NHANES",
+    "id": "42606618",
+    "title": "Analytical approaches to account for muscle size when evaluating strength.",
+    "source": "Eur J Appl Physiol",
+    "pubdate": "2026 Aug 17",
+    "authors": [
+      "Chatlaong MA",
+      "Bentley JP",
+      "Wohlgemuth KJ",
+      "Dankel SJ",
+      "Loenneke JP",
+      "Jessee MB"
+    ],
+    "lastauthor": "Jessee MB",
+    "sortfirstauthor": "Chatlaong MA",
+    "journal": "European journal of applied physiology",
+    "issn": "1439-6319",
+    "essn": "1439-6327",
+    "doi": "doi: 10.1007/s00421-026-06376-6",
+    "sortpubdate": "2026/08/17 00:00",
+    "epubdate": "2026 Aug 17"
+  },
+  {
+    "name": "NHANES",
+    "id": "42605007",
+    "title": "Sleep duration and sleep problems in non-Hispanic Black adults: a cross-sectional study of the 2015-2020 National Health and Nutritional Examination Survey.",
+    "source": "Ethn Health",
+    "pubdate": "2026 Aug 16",
+    "authors": [
+      "Ogugu EG",
+      "King AA",
+      "Bell JF"
+    ],
+    "lastauthor": "Bell JF",
+    "sortfirstauthor": "Ogugu EG",
+    "journal": "Ethnicity & health",
+    "issn": "1355-7858",
+    "essn": "1465-3419",
+    "doi": "doi: 10.1080/13557858.2026.2718703",
+    "sortpubdate": "2026/08/16 00:00",
+    "epubdate": "2026 Aug 16"
   }
 ]
