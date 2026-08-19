@@ -10531,21 +10531,21 @@
   {
     "name": "RSV seasonality",
     "id": "42575447",
-    "title": "Molecular Surveillance of Respiratory Viral Pathogens Detected by Multiplex PCR During the Post-COVID-19 Period: Distribution, Co-infections, and Seasonal Patterns.",
+    "title": "Molecular surveillance of respiratory viral pathogens detected by multiplex PCR during the post-COVID-19 period: Distribution, Co-infections, and seasonal patterns.",
     "source": "Indian J Med Microbiol",
     "pubdate": "2026 Aug 10",
     "authors": [
-      "Avcioğlu F",
+      "Avcioglu F",
       "Soysal E",
       "Behçet M",
-      "Kalaycioğlu O",
+      "Kalaycioglu O",
       "Afşar Y",
       "Aybek S",
       "Harre AÇ",
-      "Çelik HB"
+      "Çeli̇k HB"
     ],
-    "lastauthor": "Çelik HB",
-    "sortfirstauthor": "Avcioğlu F",
+    "lastauthor": "Çeli̇k HB",
+    "sortfirstauthor": "Avcioglu F",
     "journal": "Indian journal of medical microbiology",
     "issn": "0255-0857",
     "essn": "1998-3646",
@@ -10650,5 +10650,29 @@
     "doi": "doi: 10.1371/journal.pcbi.1013859",
     "sortpubdate": "2026/08/17 00:00",
     "epubdate": "2026 Aug 17"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "42609519",
+    "title": "Regional, altitudinal, and age-specific heterogeneity of bronchiolitis hospitalization seasonality in Ecuador, 2007-2024, and implications for RSV immunoprophylaxis timing.",
+    "source": "Front Public Health",
+    "pubdate": "2026",
+    "authors": [
+      "Angamarca-Iguago J",
+      "Cagua-Ordóñez J",
+      "Parise-Vasco JM",
+      "de Mora D",
+      "Escobar-Naranjo M",
+      "Bruno A",
+      "Simancas-Racines D"
+    ],
+    "lastauthor": "Simancas-Racines D",
+    "sortfirstauthor": "Angamarca-Iguago J",
+    "journal": "Frontiers in public health",
+    "issn": "",
+    "essn": "2296-2565",
+    "doi": "doi: 10.3389/fpubh.2026.1892098",
+    "sortpubdate": "2026/08/03 00:00",
+    "epubdate": "2026 Aug 3"
   }
 ]

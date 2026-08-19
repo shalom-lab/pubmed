@@ -8795,5 +8795,29 @@
     "doi": "doi: 10.1371/journal.pcbi.1013859",
     "sortpubdate": "2026/08/17 00:00",
     "epubdate": "2026 Aug 17"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "42436148",
+    "title": "Real-time estimation of pathogen transmission dynamics from wastewater.",
+    "source": "Nat Commun",
+    "pubdate": "2026 Jul 11",
+    "authors": [
+      "Lison A",
+      "McLeod RE",
+      "Huisman JS",
+      "Munday JD",
+      "Ort C",
+      "Julian TR",
+      "Stadler T"
+    ],
+    "lastauthor": "Stadler T",
+    "sortfirstauthor": "Lison A",
+    "journal": "Nature communications",
+    "issn": "",
+    "essn": "2041-1723",
+    "doi": "pii: 8563. doi: 10.1038/s41467-026-75380-3",
+    "sortpubdate": "2026/07/11 00:00",
+    "epubdate": "2026 Jul 11"
   }
 ]
