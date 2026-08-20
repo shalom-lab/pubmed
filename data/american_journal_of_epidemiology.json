@@ -11352,5 +11352,71 @@
     "doi": "pii: kwag190. doi: 10.1093/aje/kwag190",
     "sortpubdate": "2026/08/14 00:00",
     "epubdate": "2026 Aug 14"
+  },
+  {
+    "name": "American Journal of Epidemiology",
+    "id": "42615244",
+    "title": "Confusion in evaluating research quality comes from lack of clarity: The case for explicit research questions.",
+    "source": "Am J Epidemiol",
+    "pubdate": "2026 Aug 19",
+    "authors": [
+      "Fox MP",
+      "Wesselink A",
+      "Kezios KL",
+      "Jenson TE",
+      "Pescador-Jimenez M"
+    ],
+    "lastauthor": "Pescador-Jimenez M",
+    "sortfirstauthor": "Fox MP",
+    "journal": "American journal of epidemiology",
+    "issn": "0002-9262",
+    "essn": "1476-6256",
+    "doi": "pii: kwag201. doi: 10.1093/aje/kwag201",
+    "sortpubdate": "2026/08/19 00:00",
+    "epubdate": "2026 Aug 19"
+  },
+  {
+    "name": "American Journal of Epidemiology",
+    "id": "42615242",
+    "title": "IN MEMORIAM: The Enduring Legacy of Dr. Roger Detels (1936-2026).",
+    "source": "Am J Epidemiol",
+    "pubdate": "2026 Aug 19",
+    "authors": [
+      "Mimiaga MJ",
+      "Noori G",
+      "Shih R",
+      "Jamieson BD"
+    ],
+    "lastauthor": "Jamieson BD",
+    "sortfirstauthor": "Mimiaga MJ",
+    "journal": "American journal of epidemiology",
+    "issn": "0002-9262",
+    "essn": "1476-6256",
+    "doi": "pii: kwag199. doi: 10.1093/aje/kwag199",
+    "sortpubdate": "2026/08/19 00:00",
+    "epubdate": "2026 Aug 19"
+  },
+  {
+    "name": "American Journal of Epidemiology",
+    "id": "42470090",
+    "title": "Confidence regions for multiple outcomes, effect modifiers, and other multiple comparisons.",
+    "source": "Am J Epidemiol",
+    "pubdate": "2026 Jul 18",
+    "authors": [
+      "Zivich PN",
+      "Cole SR",
+      "Greifer N",
+      "Montoya L",
+      "Kosorok M",
+      "Edwards JK"
+    ],
+    "lastauthor": "Edwards JK",
+    "sortfirstauthor": "Zivich PN",
+    "journal": "American journal of epidemiology",
+    "issn": "0002-9262",
+    "essn": "1476-6256",
+    "doi": "doi: 10.1093/aje/kwag174",
+    "sortpubdate": "2026/07/18 00:00",
+    "epubdate": "2026 Jul 18"
   }
 ]
