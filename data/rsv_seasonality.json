@@ -10674,5 +10674,60 @@
     "doi": "doi: 10.3389/fpubh.2026.1892098",
     "sortpubdate": "2026/08/03 00:00",
     "epubdate": "2026 Aug 3"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "42622077",
+    "title": "Exploring the Relationship Between Respiratory Syncytial Virus and Asthma Using Calendar Time at Birth as a Source of Quasi-Random Variation.",
+    "source": "Paediatr Perinat Epidemiol",
+    "pubdate": "2026 Aug 20",
+    "authors": [
+      "Dimitris MC",
+      "Feikin DR",
+      "Sparrow E",
+      "Schultz SE",
+      "Kwong JC",
+      "Buchan SA",
+      "Savitz DA",
+      "Brunwasser SM",
+      "Fell DB"
+    ],
+    "lastauthor": "Fell DB",
+    "sortfirstauthor": "Dimitris MC",
+    "journal": "Paediatric and perinatal epidemiology",
+    "issn": "0269-5022",
+    "essn": "1365-3016",
+    "doi": "doi: 10.1111/ppe.70168",
+    "sortpubdate": "2026/08/20 00:00",
+    "epubdate": "2026 Aug 20"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "42618979",
+    "title": "Impact on Pediatric Respiratory Virus Epidemiology Following Nirsevimab Introduction.",
+    "source": "Pediatr Infect Dis J",
+    "pubdate": "2026 Aug 20",
+    "authors": [
+      "Di Chiara C",
+      "Rigamonti V",
+      "Campana BR",
+      "Monopoli D",
+      "Seferi H",
+      "Villani A",
+      "Vittucci AC",
+      "Antilici L",
+      "Brigadoi G",
+      "Donà D",
+      "Cantarutti A",
+      "Esposito S"
+    ],
+    "lastauthor": "Esposito S",
+    "sortfirstauthor": "Di Chiara C",
+    "journal": "The Pediatric infectious disease journal",
+    "issn": "0891-3668",
+    "essn": "1532-0987",
+    "doi": "doi: 10.1097/INF.0000000000005374",
+    "sortpubdate": "2026/08/20 00:00",
+    "epubdate": "2026 Aug 20"
   }
 ]

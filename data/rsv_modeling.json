@@ -8875,5 +8875,32 @@
     "doi": "pii: 313. doi: 10.1007/s00018-026-06265-3",
     "sortpubdate": "2026/06/13 00:00",
     "epubdate": "2026 Jun 13"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "42617510",
+    "title": "COVID-19 disruption and rebound of respiratory syncytial virus hospital burden in Australia: A national interrupted time-series analysis.",
+    "source": "J Infect Public Health",
+    "pubdate": "2026 Aug 13",
+    "authors": [
+      "Lu C",
+      "Barr IG",
+      "Lambert SB",
+      "Mengersen K",
+      "Wang L",
+      "Yang W",
+      "Li Z",
+      "Vardoulakis S",
+      "Bambrick H",
+      "Hu W"
+    ],
+    "lastauthor": "Hu W",
+    "sortfirstauthor": "Lu C",
+    "journal": "Journal of infection and public health",
+    "issn": "1876-0341",
+    "essn": "1876-035X",
+    "doi": "doi: 10.1016/j.jiph.2026.103337",
+    "sortpubdate": "2026/08/13 00:00",
+    "epubdate": "2026 Aug 13"
   }
 ]
