@@ -8902,5 +8902,29 @@
     "doi": "doi: 10.1016/j.jiph.2026.103337",
     "sortpubdate": "2026/08/13 00:00",
     "epubdate": "2026 Aug 13"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "42627815",
+    "title": "Distinguishing common respiratory pathogens using machine learning of symptom profiles to prioritize diagnostic testing.",
+    "source": "PLOS Digit Health",
+    "pubdate": "2026 Aug",
+    "authors": [
+      "Xiang C",
+      "You T",
+      "Zhou F",
+      "Liu D",
+      "Wang Y",
+      "Cao B",
+      "Wang Y"
+    ],
+    "lastauthor": "Wang Y",
+    "sortfirstauthor": "Xiang C",
+    "journal": "PLOS digital health",
+    "issn": "",
+    "essn": "2767-3170",
+    "doi": "doi: 10.1371/journal.pdig.0001656",
+    "sortpubdate": "2026/08/21 00:00",
+    "epubdate": "2026 Aug 21"
   }
 ]
