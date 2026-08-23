@@ -92758,5 +92758,73 @@
     "doi": "doi: 10.1038/s41467-026-76542-z",
     "sortpubdate": "2026/08/18 00:00",
     "epubdate": "2026 Aug 18"
+  },
+  {
+    "name": "GBD database",
+    "id": "42629759",
+    "title": "Global burden of esophagus cancer, stomach cancer and colon and rectal cancer from 1990 to 2050: A cross-sectional study.",
+    "source": "Medicine (Baltimore)",
+    "pubdate": "2026 Aug 21",
+    "authors": [
+      "Wang R",
+      "Liu WG"
+    ],
+    "lastauthor": "Liu WG",
+    "sortfirstauthor": "Wang R",
+    "journal": "Medicine",
+    "issn": "0025-7974",
+    "essn": "1536-5964",
+    "doi": "doi: 10.1097/MD.0000000000050376",
+    "sortpubdate": "2026/08/21 00:00",
+    "epubdate": ""
+  },
+  {
+    "name": "GBD database",
+    "id": "42629694",
+    "title": "Gut microbiota, immune cell traits, and major adverse cardiac events: A joint analysis of global burden of disease study and Mendelian randomization.",
+    "source": "Medicine (Baltimore)",
+    "pubdate": "2026 Aug 21",
+    "authors": [
+      "Liu J",
+      "Liao J",
+      "Liu C",
+      "Zhou Q",
+      "Lu T",
+      "Xu K",
+      "Zeng L"
+    ],
+    "lastauthor": "Zeng L",
+    "sortfirstauthor": "Liu J",
+    "journal": "Medicine",
+    "issn": "0025-7974",
+    "essn": "1536-5964",
+    "doi": "doi: 10.1097/MD.0000000000050188",
+    "sortpubdate": "2026/08/21 00:00",
+    "epubdate": ""
+  },
+  {
+    "name": "GBD database",
+    "id": "42629674",
+    "title": "Global burden of hand osteoarthritis in adults aged ≥55 years: An underestimated and fastest-growing subtype, 1990 to 2021 with projections to 2050: an analysis of GBD 2021 data.",
+    "source": "Medicine (Baltimore)",
+    "pubdate": "2026 Aug 21",
+    "authors": [
+      "Lin X",
+      "Zhang W",
+      "Wu B",
+      "Zhao M",
+      "Liu D",
+      "Wang M",
+      "Hou D",
+      "Zhuang J"
+    ],
+    "lastauthor": "Zhuang J",
+    "sortfirstauthor": "Lin X",
+    "journal": "Medicine",
+    "issn": "0025-7974",
+    "essn": "1536-5964",
+    "doi": "doi: 10.1097/MD.0000000000050098",
+    "sortpubdate": "2026/08/21 00:00",
+    "epubdate": ""
   }
 ]

@@ -134000,7 +134000,7 @@
     "sortfirstauthor": "Woo D",
     "journal": "Frontiers in nutrition",
     "issn": "2296-861X",
-    "essn": "",
+    "essn": "2296-861X",
     "doi": "doi: 10.3389/fnut.2026.1880706",
     "sortpubdate": "2026/08/06 00:00",
     "epubdate": "2026 Aug 6"
@@ -134023,7 +134023,7 @@
     "sortfirstauthor": "Deng J",
     "journal": "Frontiers in endocrinology",
     "issn": "1664-2392",
-    "essn": "",
+    "essn": "1664-2392",
     "doi": "doi: 10.3389/fendo.2026.1883581",
     "sortpubdate": "2026/08/06 00:00",
     "epubdate": "2026 Aug 6"
@@ -134090,5 +134090,264 @@
     "doi": "doi: 10.1016/j.psychres.2026.117388",
     "sortpubdate": "2026/08/14 00:00",
     "epubdate": "2026 Aug 14"
+  },
+  {
+    "name": "NHANES",
+    "id": "42629756",
+    "title": "Association of dietary inflammatory index and specific nutrients with anti-seizure medications use among U.S. adults.",
+    "source": "Medicine (Baltimore)",
+    "pubdate": "2026 Aug 21",
+    "authors": [
+      "Ma G",
+      "Zhang J",
+      "Wang H",
+      "Qiu J",
+      "Shu X"
+    ],
+    "lastauthor": "Shu X",
+    "sortfirstauthor": "Ma G",
+    "journal": "Medicine",
+    "issn": "0025-7974",
+    "essn": "1536-5964",
+    "doi": "doi: 10.1097/MD.0000000000049842",
+    "sortpubdate": "2026/08/21 00:00",
+    "epubdate": ""
+  },
+  {
+    "name": "NHANES",
+    "id": "42629730",
+    "title": "Association between systemic inflammation response index and depression in U.S. adults: A cross-sectional study from NHANES 2005-2016.",
+    "source": "Medicine (Baltimore)",
+    "pubdate": "2026 Aug 21",
+    "authors": [
+      "Zhan Q",
+      "Wu Y",
+      "Sun J",
+      "Liang Y",
+      "Jiang X",
+      "Ye F"
+    ],
+    "lastauthor": "Ye F",
+    "sortfirstauthor": "Zhan Q",
+    "journal": "Medicine",
+    "issn": "0025-7974",
+    "essn": "1536-5964",
+    "doi": "doi: 10.1097/MD.0000000000050379",
+    "sortpubdate": "2026/08/21 00:00",
+    "epubdate": ""
+  },
+  {
+    "name": "NHANES",
+    "id": "42629727",
+    "title": "The association between serum chloride levels and asthma prevalence: A cross-sectional study with variable screening and validation guided by machine learning.",
+    "source": "Medicine (Baltimore)",
+    "pubdate": "2026 Aug 21",
+    "authors": [
+      "Huang X",
+      "Wu X",
+      "Wang S",
+      "Wang G",
+      "He Y"
+    ],
+    "lastauthor": "He Y",
+    "sortfirstauthor": "Huang X",
+    "journal": "Medicine",
+    "issn": "0025-7974",
+    "essn": "1536-5964",
+    "doi": "doi: 10.1097/MD.0000000000050272",
+    "sortpubdate": "2026/08/21 00:00",
+    "epubdate": ""
+  },
+  {
+    "name": "NHANES",
+    "id": "42629718",
+    "title": "Association between the serum uric acid-to-high-density lipoprotein cholesterol ratio and gynecological cancer history: A cross-sectional study of NHANES 2003-2016.",
+    "source": "Medicine (Baltimore)",
+    "pubdate": "2026 Aug 21",
+    "authors": [
+      "Li Z",
+      "Xu H",
+      "Shi S"
+    ],
+    "lastauthor": "Shi S",
+    "sortfirstauthor": "Li Z",
+    "journal": "Medicine",
+    "issn": "0025-7974",
+    "essn": "1536-5964",
+    "doi": "doi: 10.1097/MD.0000000000050250",
+    "sortpubdate": "2026/08/21 00:00",
+    "epubdate": ""
+  },
+  {
+    "name": "NHANES",
+    "id": "42629717",
+    "title": "Association between the comprehensive dietary antioxidant index and adult asthma: A cross-sectional study based on NHANES 2003 to 2018.",
+    "source": "Medicine (Baltimore)",
+    "pubdate": "2026 Aug 21",
+    "authors": [
+      "Sun Z",
+      "Lai H",
+      "Sun R",
+      "Min L"
+    ],
+    "lastauthor": "Min L",
+    "sortfirstauthor": "Sun Z",
+    "journal": "Medicine",
+    "issn": "0025-7974",
+    "essn": "1536-5964",
+    "doi": "doi: 10.1097/MD.0000000000050226",
+    "sortpubdate": "2026/08/21 00:00",
+    "epubdate": ""
+  },
+  {
+    "name": "NHANES",
+    "id": "42629713",
+    "title": "Associations between sex steroid hormones and female malignancies: A cross-sectional analysis of NHANES data.",
+    "source": "Medicine (Baltimore)",
+    "pubdate": "2026 Aug 21",
+    "authors": [
+      "Ren N",
+      "Yang M",
+      "Zhou F",
+      "Ma J",
+      "Ji W",
+      "Ren X"
+    ],
+    "lastauthor": "Ren X",
+    "sortfirstauthor": "Ren N",
+    "journal": "Medicine",
+    "issn": "0025-7974",
+    "essn": "1536-5964",
+    "doi": "doi: 10.1097/MD.0000000000050317",
+    "sortpubdate": "2026/08/21 00:00",
+    "epubdate": ""
+  },
+  {
+    "name": "NHANES",
+    "id": "42629699",
+    "title": "Relationship between micronutrients and rheumatoid arthritis: A Mendelian randomization analysis and cross-sectional study using NHANES 2001-2006.",
+    "source": "Medicine (Baltimore)",
+    "pubdate": "2026 Aug 21",
+    "authors": [
+      "Xu Q",
+      "Chang Z",
+      "Lv J",
+      "Zhang Y"
+    ],
+    "lastauthor": "Zhang Y",
+    "sortfirstauthor": "Xu Q",
+    "journal": "Medicine",
+    "issn": "0025-7974",
+    "essn": "1536-5964",
+    "doi": "doi: 10.1097/MD.0000000000050349",
+    "sortpubdate": "2026/08/21 00:00",
+    "epubdate": ""
+  },
+  {
+    "name": "NHANES",
+    "id": "42629690",
+    "title": "The impact of cognitive impairment and possible sarcopenia on mortality: Evidence from a prospective NHANES cohort study.",
+    "source": "Medicine (Baltimore)",
+    "pubdate": "2026 Aug 21",
+    "authors": [
+      "Cao H",
+      "Ou J",
+      "Gao M",
+      "Zhong Y"
+    ],
+    "lastauthor": "Zhong Y",
+    "sortfirstauthor": "Cao H",
+    "journal": "Medicine",
+    "issn": "0025-7974",
+    "essn": "1536-5964",
+    "doi": "doi: 10.1097/MD.0000000000050350",
+    "sortpubdate": "2026/08/21 00:00",
+    "epubdate": ""
+  },
+  {
+    "name": "NHANES",
+    "id": "42629675",
+    "title": "Associations between per- and polyfluoroalkyl substances and dental caries in the US adults.",
+    "source": "Medicine (Baltimore)",
+    "pubdate": "2026 Aug 21",
+    "authors": [
+      "Chen Y",
+      "Huang Y",
+      "Yang Z",
+      "Zhu L"
+    ],
+    "lastauthor": "Zhu L",
+    "sortfirstauthor": "Chen Y",
+    "journal": "Medicine",
+    "issn": "0025-7974",
+    "essn": "1536-5964",
+    "doi": "doi: 10.1097/MD.0000000000050047",
+    "sortpubdate": "2026/08/21 00:00",
+    "epubdate": ""
+  },
+  {
+    "name": "NHANES",
+    "id": "42629670",
+    "title": "Composite dietary antioxidant index with hepatic indices for predicting mortality in cardiovascular-kidney-metabolic syndrome: Integrated analysis of a nationwide cohort study using machine learning approaches.",
+    "source": "Medicine (Baltimore)",
+    "pubdate": "2026 Aug 21",
+    "authors": [
+      "Yang Z",
+      "Song S",
+      "Li Y"
+    ],
+    "lastauthor": "Li Y",
+    "sortfirstauthor": "Yang Z",
+    "journal": "Medicine",
+    "issn": "0025-7974",
+    "essn": "1536-5964",
+    "doi": "doi: 10.1097/MD.0000000000050319",
+    "sortpubdate": "2026/08/21 00:00",
+    "epubdate": ""
+  },
+  {
+    "name": "NHANES",
+    "id": "42628793",
+    "title": "Association of Body Fluid Distribution with Bone Mineral Density and Osteoporosis in Men Aged under 50: A Cross-Sectional Study.",
+    "source": "Am J Med Sci",
+    "pubdate": "2026 Aug 21",
+    "authors": [
+      "Su W",
+      "Xiao S",
+      "Li Y",
+      "Yuan Z"
+    ],
+    "lastauthor": "Yuan Z",
+    "sortfirstauthor": "Su W",
+    "journal": "The American journal of the medical sciences",
+    "issn": "0002-9629",
+    "essn": "1538-2990",
+    "doi": "pii: S0002-9629(26)00320-4. doi: 10.1016/j.amjms.2026.08.009",
+    "sortpubdate": "2026/08/21 00:00",
+    "epubdate": "2026 Aug 21"
+  },
+  {
+    "name": "NHANES",
+    "id": "42625169",
+    "title": "Metabolic dysfunction reflected by METS-IR in the association between sleep disorders and tooth looseness: a secondary data analysis of NHANES 2011-2020.",
+    "source": "BMC Oral Health",
+    "pubdate": "2026 Jul 22",
+    "authors": [
+      "Zhang X",
+      "Li G",
+      "Zhang W",
+      "Tang R",
+      "Liang T",
+      "Liang J",
+      "Wen L"
+    ],
+    "lastauthor": "Wen L",
+    "sortfirstauthor": "Zhang X",
+    "journal": "BMC oral health",
+    "issn": "",
+    "essn": "1472-6831",
+    "doi": "doi: 10.1186/s12903-026-09383-3",
+    "sortpubdate": "2026/07/22 00:00",
+    "epubdate": "2026 Jul 22"
   }
 ]

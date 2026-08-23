@@ -4461,5 +4461,33 @@
     "doi": "doi: 10.3389/fimmu.2026.1905972",
     "sortpubdate": "2026/07/28 00:00",
     "epubdate": "2026 Jul 28"
+  },
+  {
+    "name": "Vitamin D and respiratory infections",
+    "id": "42480239",
+    "title": "Effect of moderate or high versus low dose daily vitamin D on COVID-19 incidence: A double-blind, parallel-group randomized clinical trial.",
+    "source": "Clin Nutr",
+    "pubdate": "2026 Sep",
+    "authors": [
+      "Meltzer DO",
+      "Moy JN",
+      "Schram AW",
+      "Tate A",
+      "Hyman MJ",
+      "Cursio JF",
+      "Vokes T",
+      "Yeo KJ",
+      "Prochaska M",
+      "Jacobs JJ",
+      "Solway J"
+    ],
+    "lastauthor": "Solway J",
+    "sortfirstauthor": "Meltzer DO",
+    "journal": "Clinical nutrition (Edinburgh, Scotland)",
+    "issn": "0261-5614",
+    "essn": "1532-1983",
+    "doi": "doi: 10.1016/j.clnu.2026.106722",
+    "sortpubdate": "2026/09/01 00:00",
+    "epubdate": "2026 Jul 4"
   }
 ]

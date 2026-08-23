@@ -8926,5 +8926,32 @@
     "doi": "doi: 10.1371/journal.pdig.0001656",
     "sortpubdate": "2026/08/21 00:00",
     "epubdate": "2026 Aug 21"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "42628195",
+    "title": "A health-economic assessment of the impact of different RSVpreF maternal vaccine strategies to prevent RSV infections among young infants, in France: EPIPACT.",
+    "source": "Vaccine",
+    "pubdate": "2026 Aug 21",
+    "authors": [
+      "Fahfouhi Y",
+      "Fiévez S",
+      "Cohen R",
+      "Levy C",
+      "Nunes MC",
+      "Chillotti L",
+      "Moreau R",
+      "Greenwood W",
+      "Blanc E",
+      "Law A"
+    ],
+    "lastauthor": "Law A",
+    "sortfirstauthor": "Fahfouhi Y",
+    "journal": "Vaccine",
+    "issn": "0264-410X",
+    "essn": "1873-2518",
+    "doi": "doi: 10.1016/j.vaccine.2026.129036",
+    "sortpubdate": "2026/08/21 00:00",
+    "epubdate": "2026 Aug 21"
   }
 ]
