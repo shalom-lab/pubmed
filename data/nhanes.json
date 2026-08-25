@@ -134503,5 +134503,90 @@
     "doi": "doi: 10.1177/15598276261478563",
     "sortpubdate": "2026/08/20 00:00",
     "epubdate": "2026 Aug 20"
+  },
+  {
+    "name": "NHANES",
+    "id": "42636098",
+    "title": "Association of triglyceride-glucose (TyG)-Derived inflammatory indices with the risk of all-cause and cardiovascular mortality in patients with chronic kidney disease: A retrospective cohort study based on NHANES 1999-2018.",
+    "source": "Sci Prog",
+    "pubdate": "2026 Jul-Sep",
+    "authors": [
+      "Lin R",
+      "Zhao H",
+      "Wu B"
+    ],
+    "lastauthor": "Wu B",
+    "sortfirstauthor": "Lin R",
+    "journal": "Science progress",
+    "issn": "0036-8504",
+    "essn": "2047-7163",
+    "doi": "doi: 10.1177/00368504261481922",
+    "sortpubdate": "2026/07/01 00:00",
+    "epubdate": "2026 Aug 24"
+  },
+  {
+    "name": "NHANES",
+    "id": "42635497",
+    "title": "Unraveling the protective effect of weekend catch-up sleep on overactive bladder risk.",
+    "source": "Ann Med",
+    "pubdate": "2026 Dec",
+    "authors": [
+      "Li Z",
+      "Liu X",
+      "Chen X",
+      "Li F",
+      "Xing W",
+      "Tian H",
+      "Song W",
+      "Cui J"
+    ],
+    "lastauthor": "Cui J",
+    "sortfirstauthor": "Li Z",
+    "journal": "Annals of medicine",
+    "issn": "0785-3890",
+    "essn": "1365-2060",
+    "doi": "doi: 10.1080/07853890.2026.2702805",
+    "sortpubdate": "2026/12/01 00:00",
+    "epubdate": "2026 Aug 24"
+  },
+  {
+    "name": "NHANES",
+    "id": "42633915",
+    "title": "Relationship of serum 25-hydroxyvitamin D with the metabolic score for insulin resistance in Korean adults.",
+    "source": "Endocr J",
+    "pubdate": "2026 Aug 22",
+    "authors": [
+      "Cho YH",
+      "Lee ES",
+      "Ahn J"
+    ],
+    "lastauthor": "Ahn J",
+    "sortfirstauthor": "Cho YH",
+    "journal": "Endocrine journal",
+    "issn": "0918-8959",
+    "essn": "1348-4540",
+    "doi": "doi: 10.1507/endocrj.EJ26-0266",
+    "sortpubdate": "2026/08/22 00:00",
+    "epubdate": "2026 Aug 22"
+  },
+  {
+    "name": "NHANES",
+    "id": "42633889",
+    "title": "Association between metabolic score for visceral fat and hypertension in Korean adults: a nationwide population-based study.",
+    "source": "Korean J Fam Med",
+    "pubdate": "2026 Aug 24",
+    "authors": [
+      "Kang E",
+      "Kim AH",
+      "Cho AR"
+    ],
+    "lastauthor": "Cho AR",
+    "sortfirstauthor": "Kang E",
+    "journal": "Korean journal of family medicine",
+    "issn": "2005-6443",
+    "essn": "",
+    "doi": "doi: 10.4082/kjfm.26.0122",
+    "sortpubdate": "2026/08/24 00:00",
+    "epubdate": "2026 Aug 24"
   }
 ]

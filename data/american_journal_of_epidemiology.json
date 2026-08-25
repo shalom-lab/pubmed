@@ -11465,5 +11465,58 @@
     "doi": "doi: 10.1093/aje/kwag165",
     "sortpubdate": "2026/07/13 00:00",
     "epubdate": "2026 Jul 13"
+  },
+  {
+    "name": "American Journal of Epidemiology",
+    "id": "42635107",
+    "title": "Improving Dietary Data Quality in Nutrition Studies: Development and Validation of an Explainable, Reproducible, Open Machine Learning-Assisted Framework for Outlier Detection in 24-Hour Recalls.",
+    "source": "Am J Epidemiol",
+    "pubdate": "2026 Aug 24",
+    "authors": [
+      "Massara P",
+      "Saab S",
+      "Asrar A",
+      "Omand J",
+      "Anderson LN",
+      "Keown-Stoneman C",
+      "Maguire JL",
+      "Bandsma RHJ",
+      "Birken CS",
+      "Comelli EM"
+    ],
+    "lastauthor": "Comelli EM",
+    "sortfirstauthor": "Massara P",
+    "journal": "American journal of epidemiology",
+    "issn": "0002-9262",
+    "essn": "1476-6256",
+    "doi": "pii: kwag204. doi: 10.1093/aje/kwag204",
+    "sortpubdate": "2026/08/24 00:00",
+    "epubdate": "2026 Aug 24"
+  },
+  {
+    "name": "American Journal of Epidemiology",
+    "id": "42635088",
+    "title": "Early-life and Adulthood Eviction and Risk of Depressive Symptoms in Black Reproductive Age Women: Social Epidemiology to Combat Unjust Residential Evictions (SECURE) Study.",
+    "source": "Am J Epidemiol",
+    "pubdate": "2026 Aug 24",
+    "authors": [
+      "Sealy-Jefferson S",
+      "Ross LJ",
+      "Mishra S",
+      "Anderson-Mays T",
+      "Sanders K",
+      "Anderson T",
+      "Booth JA",
+      "O'Neal R",
+      "Jones-McBryde C"
+    ],
+    "lastauthor": "Jones-McBryde C",
+    "sortfirstauthor": "Sealy-Jefferson S",
+    "journal": "American journal of epidemiology",
+    "issn": "0002-9262",
+    "essn": "1476-6256",
+    "doi": "pii: kwag203. doi: 10.1093/aje/kwag203",
+    "sortpubdate": "2026/08/24 00:00",
+    "epubdate": "2026 Aug 24"
   }
 ]
