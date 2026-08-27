@@ -10729,5 +10729,98 @@
     "doi": "doi: 10.1097/INF.0000000000005374",
     "sortpubdate": "2026/08/20 00:00",
     "epubdate": "2026 Aug 20"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "42648051",
+    "title": "Comparing the potential impacts of seasonal immunisation against year-round immunisation to prevent RSV infant hospitalisations in Japan: A modelling study.",
+    "source": "Vaccine",
+    "pubdate": "2026 Aug 26",
+    "authors": [
+      "Monoi A",
+      "Endo A",
+      "Kriznar M",
+      "Suzuki M",
+      "Flasche S"
+    ],
+    "lastauthor": "Flasche S",
+    "sortfirstauthor": "Monoi A",
+    "journal": "Vaccine",
+    "issn": "0264-410X",
+    "essn": "1873-2518",
+    "doi": "doi: 10.1016/j.vaccine.2026.129079",
+    "sortpubdate": "2026/08/26 00:00",
+    "epubdate": "2026 Aug 26"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "42646726",
+    "title": "mRNA-1010 and the Future of Seasonal Influenza Prevention: Towards Next-Generation Respiratory Vaccination.",
+    "source": "Vaccines (Basel)",
+    "pubdate": "2026 Aug 18",
+    "authors": [
+      "Panagiotopoulos AP",
+      "Tsakri D",
+      "Ranellou K",
+      "Anastassopoulou C",
+      "Tsakris A"
+    ],
+    "lastauthor": "Tsakris A",
+    "sortfirstauthor": "Panagiotopoulos AP",
+    "journal": "Vaccines",
+    "issn": "2076-393X",
+    "essn": "2076-393X",
+    "doi": "doi: 10.3390/vaccines14080709",
+    "sortpubdate": "2026/08/18 00:00",
+    "epubdate": "2026 Aug 18"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "42646670",
+    "title": "Comparison of the Clinical Course of Viral Respiratory Infections in Hospitalized Patients During the 2025/2026 Season in Poland.",
+    "source": "Vaccines (Basel)",
+    "pubdate": "2026 Jul 24",
+    "authors": [
+      "Rzymski P",
+      "Wajdowicz M",
+      "Piaszczyński S",
+      "Czupryna P",
+      "Turzańska K",
+      "Pazgan-Simon M",
+      "Skwara P",
+      "Hlebowicz J",
+      "Piaseck M",
+      "Zarębska-Michaluk D",
+      "Sikorska K",
+      "Flisiak R"
+    ],
+    "lastauthor": "Flisiak R",
+    "sortfirstauthor": "Rzymski P",
+    "journal": "Vaccines",
+    "issn": "2076-393X",
+    "essn": "2076-393X",
+    "doi": "doi: 10.3390/vaccines14080651",
+    "sortpubdate": "2026/07/24 00:00",
+    "epubdate": "2026 Jul 24"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "42641300",
+    "title": "Increased risk of pulmonary embolism following SARS-CoV-2 activity in Ontario, Canada.",
+    "source": "Public Health",
+    "pubdate": "2026 Aug 25",
+    "authors": [
+      "Lee CE",
+      "Wilson NJ",
+      "Fisman DN"
+    ],
+    "lastauthor": "Fisman DN",
+    "sortfirstauthor": "Lee CE",
+    "journal": "Public health",
+    "issn": "0033-3506",
+    "essn": "1476-5616",
+    "doi": "doi: 10.1016/j.puhe.2026.106463",
+    "sortpubdate": "2026/08/25 00:00",
+    "epubdate": "2026 Aug 25"
   }
 ]

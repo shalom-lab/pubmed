@@ -8953,5 +8953,94 @@
     "doi": "doi: 10.1016/j.vaccine.2026.129036",
     "sortpubdate": "2026/08/21 00:00",
     "epubdate": "2026 Aug 21"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "42648051",
+    "title": "Comparing the potential impacts of seasonal immunisation against year-round immunisation to prevent RSV infant hospitalisations in Japan: A modelling study.",
+    "source": "Vaccine",
+    "pubdate": "2026 Aug 26",
+    "authors": [
+      "Monoi A",
+      "Endo A",
+      "Kriznar M",
+      "Suzuki M",
+      "Flasche S"
+    ],
+    "lastauthor": "Flasche S",
+    "sortfirstauthor": "Monoi A",
+    "journal": "Vaccine",
+    "issn": "0264-410X",
+    "essn": "1873-2518",
+    "doi": "doi: 10.1016/j.vaccine.2026.129079",
+    "sortpubdate": "2026/08/26 00:00",
+    "epubdate": "2026 Aug 26"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "42646729",
+    "title": "Cost-Effectiveness Analysis of Older Adult Vaccination with the Bivalent Respiratory Syncytial Virus Prefusion F (RSVpreF) Vaccine in Mexico.",
+    "source": "Vaccines (Basel)",
+    "pubdate": "2026 Aug 19",
+    "authors": [
+      "Guajardo V",
+      "Shajarizadeh A",
+      "Gaind N",
+      "Ivkovic L",
+      "Kefalogianni R",
+      "Mendes D"
+    ],
+    "lastauthor": "Mendes D",
+    "sortfirstauthor": "Guajardo V",
+    "journal": "Vaccines",
+    "issn": "2076-393X",
+    "essn": "2076-393X",
+    "doi": "doi: 10.3390/vaccines14080713",
+    "sortpubdate": "2026/08/19 00:00",
+    "epubdate": "2026 Aug 19"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "42646720",
+    "title": "The Epidemiological and Economic Burden of Vaccine-Preventable Respiratory Diseases Among Adults Aged 65 Years and Older in the Nordic Countries.",
+    "source": "Vaccines (Basel)",
+    "pubdate": "2026 Aug 13",
+    "authors": [
+      "Reinstrup NW",
+      "Gidsel RH",
+      "Heikkinen T",
+      "Dyrhol-Riise AM",
+      "Levin LÅ",
+      "Østergaard LJ",
+      "Ehlers LH"
+    ],
+    "lastauthor": "Ehlers LH",
+    "sortfirstauthor": "Reinstrup NW",
+    "journal": "Vaccines",
+    "issn": "2076-393X",
+    "essn": "2076-393X",
+    "doi": "doi: 10.3390/vaccines14080703",
+    "sortpubdate": "2026/08/13 00:00",
+    "epubdate": "2026 Aug 13"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "42641300",
+    "title": "Increased risk of pulmonary embolism following SARS-CoV-2 activity in Ontario, Canada.",
+    "source": "Public Health",
+    "pubdate": "2026 Aug 25",
+    "authors": [
+      "Lee CE",
+      "Wilson NJ",
+      "Fisman DN"
+    ],
+    "lastauthor": "Fisman DN",
+    "sortfirstauthor": "Lee CE",
+    "journal": "Public health",
+    "issn": "0033-3506",
+    "essn": "1476-5616",
+    "doi": "doi: 10.1016/j.puhe.2026.106463",
+    "sortpubdate": "2026/08/25 00:00",
+    "epubdate": "2026 Aug 25"
   }
 ]

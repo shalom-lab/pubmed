@@ -6713,5 +6713,75 @@
     "doi": "doi: 10.24875/BMHIM.26000053",
     "sortpubdate": "2026/01/01 00:00",
     "epubdate": ""
+  },
+  {
+    "name": "Nirsevimab effectiveness",
+    "id": "42648051",
+    "title": "Comparing the potential impacts of seasonal immunisation against year-round immunisation to prevent RSV infant hospitalisations in Japan: A modelling study.",
+    "source": "Vaccine",
+    "pubdate": "2026 Aug 26",
+    "authors": [
+      "Monoi A",
+      "Endo A",
+      "Kriznar M",
+      "Suzuki M",
+      "Flasche S"
+    ],
+    "lastauthor": "Flasche S",
+    "sortfirstauthor": "Monoi A",
+    "journal": "Vaccine",
+    "issn": "0264-410X",
+    "essn": "1873-2518",
+    "doi": "doi: 10.1016/j.vaccine.2026.129079",
+    "sortpubdate": "2026/08/26 00:00",
+    "epubdate": "2026 Aug 26"
+  },
+  {
+    "name": "Nirsevimab effectiveness",
+    "id": "42646713",
+    "title": "Parental Acceptance of Nirsevimab for RSV Prevention in Infants Across Two Consecutive Seasons in Emilia-Romagna, Italy.",
+    "source": "Vaccines (Basel)",
+    "pubdate": "2026 Aug 12",
+    "authors": [
+      "Esposito S",
+      "Fainardi V",
+      "Capra ME",
+      "Aricò MO",
+      "Lanzoni A",
+      "Accomando F",
+      "Arnesano GG",
+      "Neglia C",
+      "Valletta E",
+      "Biasucci G",
+      "Perrone S"
+    ],
+    "lastauthor": "Perrone S",
+    "sortfirstauthor": "Esposito S",
+    "journal": "Vaccines",
+    "issn": "2076-393X",
+    "essn": "2076-393X",
+    "doi": "doi: 10.3390/vaccines14080696",
+    "sortpubdate": "2026/08/12 00:00",
+    "epubdate": "2026 Aug 12"
+  },
+  {
+    "name": "Nirsevimab effectiveness",
+    "id": "42646692",
+    "title": "Respiratory Syncytial Virus Prophylaxis: Maternal Vaccination or Long-Acting Monoclonal Antibodies? A Brief Narrative Review of Current Status.",
+    "source": "Vaccines (Basel)",
+    "pubdate": "2026 Aug 3",
+    "authors": [
+      "Ladomenou F",
+      "Psarra IA",
+      "Gkentzi D"
+    ],
+    "lastauthor": "Gkentzi D",
+    "sortfirstauthor": "Ladomenou F",
+    "journal": "Vaccines",
+    "issn": "2076-393X",
+    "essn": "2076-393X",
+    "doi": "doi: 10.3390/vaccines14080673",
+    "sortpubdate": "2026/08/03 00:00",
+    "epubdate": "2026 Aug 3"
   }
 ]
