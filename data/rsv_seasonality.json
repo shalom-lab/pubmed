@@ -10850,5 +10850,63 @@
     "doi": "doi: 10.7189/jogh.16.04251",
     "sortpubdate": "2026/08/28 00:00",
     "epubdate": "2026 Aug 28"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "42661820",
+    "title": "Surveillance of respiratory pathogens: emerging seasonal patterns from western India.",
+    "source": "Virusdisease",
+    "pubdate": "2026 Jun",
+    "authors": [
+      "Chheda P",
+      "Bhalerao R",
+      "Dama T",
+      "Biyani N",
+      "Shivaprakash S"
+    ],
+    "lastauthor": "Shivaprakash S",
+    "sortfirstauthor": "Chheda P",
+    "journal": "Virusdisease",
+    "issn": "2347-3584",
+    "essn": "2347-3517",
+    "doi": "doi: 10.1007/s13337-026-00958-w",
+    "sortpubdate": "2026/06/01 00:00",
+    "epubdate": "2026 Apr 13"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "42660413",
+    "title": "Changes in respiratory virus seasonality across the COVID-19 pandemic: a multicentre comparative study in Leicester, Rotterdam, Hong Kong, and Christchurch.",
+    "source": "Int J Infect Dis",
+    "pubdate": "2026 Aug 27",
+    "authors": [
+      "Wagatsuma K",
+      "Song Z",
+      "Lam TTY",
+      "Kwok KO",
+      "Chong MKC",
+      "Ip M",
+      "van Beek J",
+      "Dilcher M",
+      "Jennings LC",
+      "Foley DA",
+      "Levy A",
+      "Dwyer DE",
+      "Kok J",
+      "Lee CK",
+      "Bialasiewicz S",
+      "Koopmans MPG",
+      "Saito R",
+      "Bird PW",
+      "Tang JW"
+    ],
+    "lastauthor": "Tang JW",
+    "sortfirstauthor": "Wagatsuma K",
+    "journal": "International journal of infectious diseases : IJID : official publication of the International Society for Infectious Diseases",
+    "issn": "1201-9712",
+    "essn": "1878-3511",
+    "doi": "doi: 10.1016/j.ijid.2026.109080",
+    "sortpubdate": "2026/08/27 00:00",
+    "epubdate": "2026 Aug 27"
   }
 ]
