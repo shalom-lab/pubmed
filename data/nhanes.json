@@ -136168,5 +136168,137 @@
     "doi": "doi: 10.3390/diagnostics16162569",
     "sortpubdate": "2026/08/14 00:00",
     "epubdate": "2026 Aug 14"
+  },
+  {
+    "name": "NHANES",
+    "id": "42667983",
+    "title": "Associations of biological aging and biological age acceleration with mortality in patients with cardiorenal syndrome: A prospective cohort study.",
+    "source": "Am J Med Sci",
+    "pubdate": "2026 Aug 29",
+    "authors": [
+      "Yang X",
+      "Zhang Y",
+      "Zhong Y",
+      "Li Z",
+      "Yang X",
+      "Zhang T",
+      "Lu M"
+    ],
+    "lastauthor": "Lu M",
+    "sortfirstauthor": "Yang X",
+    "journal": "The American journal of the medical sciences",
+    "issn": "0002-9629",
+    "essn": "1538-2990",
+    "doi": "pii: S0002-9629(26)00357-5. doi: 10.1016/j.amjms.2026.08.025",
+    "sortpubdate": "2026/08/29 00:00",
+    "epubdate": "2026 Aug 29"
+  },
+  {
+    "name": "NHANES",
+    "id": "42667055",
+    "title": "Body size and composition trends in U.S. adults with a history of cancer: NHANES 1999-2018.",
+    "source": "Prev Oncol Epidemiol",
+    "pubdate": "2026",
+    "authors": [
+      "Brockbank B",
+      "Akasheh RT",
+      "Gokun Y",
+      "Kalam F",
+      "Mahenge CM",
+      "Paskett ED",
+      "Cheng TD"
+    ],
+    "lastauthor": "Cheng TD",
+    "sortfirstauthor": "Brockbank B",
+    "journal": "Preventive oncology & epidemiology",
+    "issn": "",
+    "essn": "2832-2134",
+    "doi": "pii: 2702673. doi: 10.1080/28322134.2026.2702673",
+    "sortpubdate": "2026/01/01 00:00",
+    "epubdate": "2026 Jul 18"
+  },
+  {
+    "name": "NHANES",
+    "id": "42666900",
+    "title": "Nonlinear Association of Estimated Pulse Wave Velocity With Bone Health Outcomes: Evidence From the NHANES Database.",
+    "source": "Int J Endocrinol",
+    "pubdate": "2026",
+    "authors": [
+      "Zhu X",
+      "Zhou Z"
+    ],
+    "lastauthor": "Zhou Z",
+    "sortfirstauthor": "Zhu X",
+    "journal": "International journal of endocrinology",
+    "issn": "1687-8337",
+    "essn": "1687-8345",
+    "doi": "doi: 10.1155/ije/4794146",
+    "sortpubdate": "2026/08/28 00:00",
+    "epubdate": "2026 Aug 28"
+  },
+  {
+    "name": "NHANES",
+    "id": "42666448",
+    "title": "Development, validation, and visualization of a machine learning-based predictive model for sarcopenia risk in patients with diabetes mellitus.",
+    "source": "Front Med (Lausanne)",
+    "pubdate": "2026",
+    "authors": [
+      "Tang M",
+      "Zheng S",
+      "Xu H",
+      "Li Y",
+      "Chen C"
+    ],
+    "lastauthor": "Chen C",
+    "sortfirstauthor": "Tang M",
+    "journal": "Frontiers in medicine",
+    "issn": "2296-858X",
+    "essn": "2296-858X",
+    "doi": "doi: 10.3389/fmed.2026.1904187",
+    "sortpubdate": "2026/08/14 00:00",
+    "epubdate": "2026 Aug 14"
+  },
+  {
+    "name": "NHANES",
+    "id": "42666135",
+    "title": "Cigarette smoking and cessation indicators by glycemic status among adults in the United States, 2011-2023.",
+    "source": "Prev Med Rep",
+    "pubdate": "2026 Oct",
+    "authors": [
+      "Wang F",
+      "Xu J",
+      "Ma Y",
+      "Wong J",
+      "Liu L",
+      "Huang Y"
+    ],
+    "lastauthor": "Huang Y",
+    "sortfirstauthor": "Wang F",
+    "journal": "Preventive medicine reports",
+    "issn": "2211-3355",
+    "essn": "2211-3355",
+    "doi": "doi: 10.1016/j.pmedr.2026.103597",
+    "sortpubdate": "2026/08/19 00:00",
+    "epubdate": "2026 Aug 19"
+  },
+  {
+    "name": "NHANES",
+    "id": "42666121",
+    "title": "Neutrophil to High-Density Lipoprotein Cholesterol Ratio and All-Cause Mortality Among Asthmatic Individuals: A Cohort Study.",
+    "source": "Mediators Inflamm",
+    "pubdate": "2026",
+    "authors": [
+      "Li D",
+      "Luo C",
+      "Xia J"
+    ],
+    "lastauthor": "Xia J",
+    "sortfirstauthor": "Li D",
+    "journal": "Mediators of inflammation",
+    "issn": "0962-9351",
+    "essn": "1466-1861",
+    "doi": "doi: 10.1155/mi/1427581",
+    "sortpubdate": "2026/01/01 00:00",
+    "epubdate": ""
   }
 ]
