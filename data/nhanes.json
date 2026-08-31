@@ -136300,5 +136300,120 @@
     "doi": "doi: 10.1155/mi/1427581",
     "sortpubdate": "2026/01/01 00:00",
     "epubdate": ""
+  },
+  {
+    "name": "NHANES",
+    "id": "42669380",
+    "title": "Associations of C-reactive protein-triglyceride glucose-related indices with mortality across glycemic states: a nationwide prospective cohort study.",
+    "source": "Diabetes Res Clin Pract",
+    "pubdate": "2026 Aug 30",
+    "authors": [
+      "Liao J",
+      "Yang J",
+      "Zhao Y",
+      "Tang Z",
+      "Wang M",
+      "Jiang S",
+      "Fang M",
+      "Liu H"
+    ],
+    "lastauthor": "Liu H",
+    "sortfirstauthor": "Liao J",
+    "journal": "Diabetes research and clinical practice",
+    "issn": "0168-8227",
+    "essn": "1872-8227",
+    "doi": "doi: 10.1016/j.diabres.2026.113541",
+    "sortpubdate": "2026/08/30 00:00",
+    "epubdate": "2026 Aug 30"
+  },
+  {
+    "name": "NHANES",
+    "id": "42669167",
+    "title": "Deep learning approaches to predict femoral neck T-score and osteopenia/osteoporosis status from wrist accelerometry data.",
+    "source": "Proc Inst Mech Eng H",
+    "pubdate": "2026 Aug 30",
+    "authors": [
+      "Sanchez-Trigo H",
+      "Farrahi V",
+      "Gamboa H",
+      "Solis-Martín D"
+    ],
+    "lastauthor": "Solis-Martín D",
+    "sortfirstauthor": "Sanchez-Trigo H",
+    "journal": "Proceedings of the Institution of Mechanical Engineers. Part H, Journal of engineering in medicine",
+    "issn": "0954-4119",
+    "essn": "2041-3033",
+    "doi": "doi: 10.1177/09544119261484225",
+    "sortpubdate": "2026/08/30 00:00",
+    "epubdate": "2026 Aug 30"
+  },
+  {
+    "name": "NHANES",
+    "id": "42668779",
+    "title": "Associations of Five Insulin Resistance-Related Indices With Gout Risk in the 2007-2018 NHANES Cross-Sectional Study.",
+    "source": "Int J Endocrinol",
+    "pubdate": "2026",
+    "authors": [
+      "Yang K",
+      "Yang K",
+      "Liu Y",
+      "Wang Q",
+      "Zhang N",
+      "Yin Y"
+    ],
+    "lastauthor": "Yin Y",
+    "sortfirstauthor": "Yang K",
+    "journal": "International journal of endocrinology",
+    "issn": "1687-8337",
+    "essn": "1687-8345",
+    "doi": "doi: 10.1155/ije/7431198",
+    "sortpubdate": "2026/08/29 00:00",
+    "epubdate": "2026 Aug 29"
+  },
+  {
+    "name": "NHANES",
+    "id": "42668651",
+    "title": "Aligning Dietary Intake and Food Purchase Data in United States Older Adults: Insights from the National Health and Nutrition Examination Survey and Circana Consumer Network.",
+    "source": "Curr Dev Nutr",
+    "pubdate": "2026 Aug",
+    "authors": [
+      "El-Abbadi NH",
+      "Rutt J",
+      "Lehr M",
+      "Nusetor F",
+      "Franco CM",
+      "Carlson AC",
+      "Shea MK",
+      "Lai CQ",
+      "Parnell LD",
+      "Miller E",
+      "Ordovas JM"
+    ],
+    "lastauthor": "Ordovas JM",
+    "sortfirstauthor": "El-Abbadi NH",
+    "journal": "Current developments in nutrition",
+    "issn": "",
+    "essn": "2475-2991",
+    "doi": "doi: 10.1016/j.cdnut.2026.109421",
+    "sortpubdate": "2026/06/29 00:00",
+    "epubdate": "2026 Jun 29"
+  },
+  {
+    "name": "NHANES",
+    "id": "42668349",
+    "title": "DXA-BIA discordance in low muscle mass and sarcopenia among older Korean adults under the AWGS 2025 criteria.",
+    "source": "Eur Geriatr Med",
+    "pubdate": "2026 Aug 29",
+    "authors": [
+      "Hyeon J"
+    ],
+    "lastauthor": "Hyeon J",
+    "sortfirstauthor": "Hyeon J",
+    "journal": "European geriatric medicine",
+    "issn": "1878-7649",
+    "essn": "",
+    "doi": "doi: 10.1007/s41999-026-01595-8",
+    "sortpubdate": "2026/08/29 00:00",
+    "epubdate": "2026 Aug 29"
   }
 ]
