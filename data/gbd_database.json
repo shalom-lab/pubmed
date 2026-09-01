@@ -94780,5 +94780,116 @@
     "doi": "doi: 10.1038/s41390-026-05311-x",
     "sortpubdate": "2026/08/29 00:00",
     "epubdate": "2026 Aug 29"
+  },
+  {
+    "name": "GBD database",
+    "id": "42674241",
+    "title": "Global burden of bacterial antimicrobial resistance among children under five years 1990-2021: a systematic analysis with forecasts to 2050.",
+    "source": "Int J Antimicrob Agents",
+    "pubdate": "2026 Aug 31",
+    "authors": [
+      "Wang S",
+      "Xie F",
+      "Sang S"
+    ],
+    "lastauthor": "Sang S",
+    "sortfirstauthor": "Wang S",
+    "journal": "International journal of antimicrobial agents",
+    "issn": "0924-8579",
+    "essn": "1872-7913",
+    "doi": "doi: 10.1016/j.ijantimicag.2026.107995",
+    "sortpubdate": "2026/08/31 00:00",
+    "epubdate": "2026 Aug 31"
+  },
+  {
+    "name": "GBD database",
+    "id": "42671942",
+    "title": "Global, regional and national burden of hypertension-associated chronic kidney disease attributable to high and low temperature from 1990 to 2021 and projections to 2050: a finding from the Global Burden of Disease Study 2021.",
+    "source": "Nephron",
+    "pubdate": "2026 Aug 31",
+    "authors": [
+      "Kong D",
+      "Hu R",
+      "Li J",
+      "Li L",
+      "Wu H",
+      "Li S",
+      "Wu W"
+    ],
+    "lastauthor": "Wu W",
+    "sortfirstauthor": "Kong D",
+    "journal": "Nephron",
+    "issn": "1660-8151",
+    "essn": "2235-3186",
+    "doi": "doi: 10.1159/nef/adtag001",
+    "sortpubdate": "2026/08/31 00:00",
+    "epubdate": "2026 Aug 31"
+  },
+  {
+    "name": "GBD database",
+    "id": "42671242",
+    "title": "Sex in CKD trials: representation and treatment effects of cardiorenoprotective therapies.",
+    "source": "Nephrol Dial Transplant",
+    "pubdate": "2026 Aug 31",
+    "authors": [
+      "Bellos I",
+      "Athanasiou M",
+      "Nikita KS",
+      "Benetou V"
+    ],
+    "lastauthor": "Benetou V",
+    "sortfirstauthor": "Bellos I",
+    "journal": "Nephrology, dialysis, transplantation : official publication of the European Dialysis and Transplant Association - European Renal Association",
+    "issn": "0931-0509",
+    "essn": "1460-2385",
+    "doi": "pii: gfag199. doi: 10.1093/ndt/gfag199",
+    "sortpubdate": "2026/08/31 00:00",
+    "epubdate": "2026 Aug 31"
+  },
+  {
+    "name": "GBD database",
+    "id": "42670400",
+    "title": "Global and Regional Burden of Crohn's Disease (1990-2023): A Global Burden of Disease Study Analysis.",
+    "source": "Cureus",
+    "pubdate": "2026 Jul",
+    "authors": [
+      "Abureesh O",
+      "Abu-Shaban M",
+      "Yousef Y",
+      "Elshebli S",
+      "Alsaleh M",
+      "Yousef M",
+      "Abureesh A",
+      "Maswadeh A",
+      "Ur Rahman A"
+    ],
+    "lastauthor": "Ur Rahman A",
+    "sortfirstauthor": "Abureesh O",
+    "journal": "Cureus",
+    "issn": "2168-8184",
+    "essn": "",
+    "doi": "doi: 10.7759/cureus.113724",
+    "sortpubdate": "2026/07/31 00:00",
+    "epubdate": "2026 Jul 31"
+  },
+  {
+    "name": "GBD database",
+    "id": "42663287",
+    "title": "The burden of male breast cancer (MBC) in the GBD Central, Eastern, and Western Europe Regions from 1990 to 2023: Results from the Global Burden of Disease Study 2023.",
+    "source": "Cancer",
+    "pubdate": "2026 Sep 1",
+    "authors": [
+      "Passera R",
+      "Fabbro E",
+      "Zamagni G"
+    ],
+    "lastauthor": "Zamagni G",
+    "sortfirstauthor": "Passera R",
+    "journal": "Cancer",
+    "issn": "0008-543X",
+    "essn": "1097-0142",
+    "doi": "doi: 10.1002/cncr.70585",
+    "sortpubdate": "2026/09/01 00:00",
+    "epubdate": ""
   }
 ]
