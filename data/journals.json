@@ -456,6 +456,7 @@
   {
     "source": "Int J Surg",
     "journal": "International journal of surgery (London, England)",
+    "issn": "1743-9191",
     "essn": "1743-9159"
   },
   {
@@ -16063,5 +16064,23 @@
     "journal": "Global public health",
     "issn": "1744-1692",
     "essn": "1744-1706"
+  },
+  {
+    "source": "Korean J Radiol",
+    "journal": "Korean journal of radiology",
+    "issn": "1229-6929",
+    "essn": "2005-8330"
+  },
+  {
+    "source": "Zdr Varst",
+    "journal": "Zdravstveno varstvo",
+    "issn": "0351-0026",
+    "essn": "1854-2476"
+  },
+  {
+    "source": "Child Obes",
+    "journal": "Childhood obesity (Print)",
+    "issn": "2153-2168",
+    "essn": "2153-2176"
   }
 ]

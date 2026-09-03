@@ -11422,9 +11422,9 @@
   {
     "name": "American Journal of Epidemiology",
     "id": "42442715",
-    "title": "Clasen et al. respond to \"thyroid autoimmunity in the TEDDY cohort: is HLA 8.1 haplotype the hidden driver?\".",
+    "title": "Clasen et al. respond to \"Thyroid autoimmunity in the TEDDY cohort: is HLA 8.1 haplotype the hidden driver?\".",
     "source": "Am J Epidemiol",
-    "pubdate": "2026 Jul 13",
+    "pubdate": "2026 Sep 3",
     "authors": [
       "Clasen JL",
       "Parikh HM",
@@ -11436,8 +11436,8 @@
     "issn": "0002-9262",
     "essn": "1476-6256",
     "doi": "doi: 10.1093/aje/kwag156",
-    "sortpubdate": "2026/07/13 00:00",
-    "epubdate": "2026 Jul 13"
+    "sortpubdate": "2026/09/03 00:00",
+    "epubdate": ""
   },
   {
     "name": "American Journal of Epidemiology",
@@ -11641,5 +11641,103 @@
     "doi": "pii: kwag210. doi: 10.1093/aje/kwag210",
     "sortpubdate": "2026/08/31 00:00",
     "epubdate": "2026 Aug 31"
+  },
+  {
+    "name": "American Journal of Epidemiology",
+    "id": "42683898",
+    "title": "Leveraging Google location history data to assess the impact of activities, locations, and time spent in green space on mental health during the COVID-19 pandemic.",
+    "source": "Am J Epidemiol",
+    "pubdate": "2026 Sep 2",
+    "authors": [
+      "Amiri S",
+      "Amram O",
+      "Oje F",
+      "Avery AR",
+      "Gebremedhin A",
+      "Duncan GE",
+      "Hystad P"
+    ],
+    "lastauthor": "Hystad P",
+    "sortfirstauthor": "Amiri S",
+    "journal": "American journal of epidemiology",
+    "issn": "0002-9262",
+    "essn": "1476-6256",
+    "doi": "pii: kwag209. doi: 10.1093/aje/kwag209",
+    "sortpubdate": "2026/09/02 00:00",
+    "epubdate": "2026 Sep 2"
+  },
+  {
+    "name": "American Journal of Epidemiology",
+    "id": "42680151",
+    "title": "Correction to: The PARLONSMAAT study: protocol for a participatory longitudinal study of the impacts of gender-affirming care among transgender and gender-diverse adolescents.",
+    "source": "Am J Epidemiol",
+    "pubdate": "2026 Sep 1",
+    "authors": [],
+    "lastauthor": "",
+    "sortfirstauthor": "",
+    "journal": "American journal of epidemiology",
+    "issn": "0002-9262",
+    "essn": "1476-6256",
+    "doi": "pii: kwag200. doi: 10.1093/aje/kwag200",
+    "sortpubdate": "2026/09/01 00:00",
+    "epubdate": "2026 Sep 1"
+  },
+  {
+    "name": "American Journal of Epidemiology",
+    "id": "42470138",
+    "title": "Correction to: Re: \"On variance of the treatment effect in the treated when estimated by inverse probability weighting\".",
+    "source": "Am J Epidemiol",
+    "pubdate": "2026 Sep 3",
+    "authors": [],
+    "lastauthor": "",
+    "sortfirstauthor": "",
+    "journal": "American journal of epidemiology",
+    "issn": "0002-9262",
+    "essn": "1476-6256",
+    "doi": "doi: 10.1093/aje/kwag164",
+    "sortpubdate": "2026/09/03 00:00",
+    "epubdate": ""
+  },
+  {
+    "name": "American Journal of Epidemiology",
+    "id": "42467412",
+    "title": "Correction to: Obtaining a probability sample of a pregnancy cohort of births: a review of the problem and a practical solution.",
+    "source": "Am J Epidemiol",
+    "pubdate": "2026 Sep 3",
+    "authors": [],
+    "lastauthor": "",
+    "sortfirstauthor": "",
+    "journal": "American journal of epidemiology",
+    "issn": "0002-9262",
+    "essn": "1476-6256",
+    "doi": "doi: 10.1093/aje/kwag163",
+    "sortpubdate": "2026/09/03 00:00",
+    "epubdate": ""
+  },
+  {
+    "name": "American Journal of Epidemiology",
+    "id": "42463231",
+    "title": "Time trends in susceptibility to scams in community-dwelling older adults.",
+    "source": "Am J Epidemiol",
+    "pubdate": "2026 Sep 3",
+    "authors": [
+      "Yu L",
+      "Du L",
+      "Wang T",
+      "Mottola G",
+      "Stewart CC",
+      "Lichtenberg PA",
+      "Grodstein F",
+      "Bennett DA",
+      "Boyle PA"
+    ],
+    "lastauthor": "Boyle PA",
+    "sortfirstauthor": "Yu L",
+    "journal": "American journal of epidemiology",
+    "issn": "0002-9262",
+    "essn": "1476-6256",
+    "doi": "doi: 10.1093/aje/kwag168",
+    "sortpubdate": "2026/09/03 00:00",
+    "epubdate": ""
   }
 ]
