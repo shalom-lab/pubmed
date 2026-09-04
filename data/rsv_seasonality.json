@@ -10928,5 +10928,39 @@
     "doi": "doi: 10.3389/fped.2026.1884107",
     "sortpubdate": "2026/08/14 00:00",
     "epubdate": "2026 Aug 14"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "42684248",
+    "title": "Influenza Vaccine Effectiveness and Safety for the 2026-2027 Respiratory Season.",
+    "source": "JAMA",
+    "pubdate": "2026 Sep 2",
+    "authors": [
+      "Senerth E",
+      "Sheikholeslamian SM",
+      "Sivakumaran K",
+      "Watson MA",
+      "Lipson RA",
+      "Saini H",
+      "Falk J",
+      "Tangri N",
+      "Babatunde I",
+      "Wharton M",
+      "Ulrich A",
+      "Moat LE",
+      "Stoddart CJ",
+      "Redepenning SG",
+      "Walensky RP",
+      "Basta NE",
+      "Morgan RL"
+    ],
+    "lastauthor": "Morgan RL",
+    "sortfirstauthor": "Senerth E",
+    "journal": "JAMA",
+    "issn": "0098-7484",
+    "essn": "1538-3598",
+    "doi": "doi: 10.1001/jama.2026.18126",
+    "sortpubdate": "2026/09/02 00:00",
+    "epubdate": "2026 Sep 2"
   }
 ]
