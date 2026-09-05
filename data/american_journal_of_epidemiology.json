@@ -11739,5 +11739,62 @@
     "doi": "doi: 10.1093/aje/kwag168",
     "sortpubdate": "2026/09/03 00:00",
     "epubdate": ""
+  },
+  {
+    "name": "American Journal of Epidemiology",
+    "id": "42695675",
+    "title": "Changes in COVID-19-related death certification practices and quality of cause-of-death reporting in the United States from 2020 to 2023.",
+    "source": "Am J Epidemiol",
+    "pubdate": "2026 Sep 4",
+    "authors": [
+      "Tai SY",
+      "Chien YW",
+      "Kawachi I",
+      "Lu TH"
+    ],
+    "lastauthor": "Lu TH",
+    "sortfirstauthor": "Tai SY",
+    "journal": "American journal of epidemiology",
+    "issn": "0002-9262",
+    "essn": "1476-6256",
+    "doi": "pii: kwag215. doi: 10.1093/aje/kwag215",
+    "sortpubdate": "2026/09/04 00:00",
+    "epubdate": "2026 Sep 4"
+  },
+  {
+    "name": "American Journal of Epidemiology",
+    "id": "42695670",
+    "title": "Doubly Robust Methods for Recurrent Event Outcomes: Causal Effects of Blood Pressure Medications on Acute Kidney Injuries.",
+    "source": "Am J Epidemiol",
+    "pubdate": "2026 Sep 4",
+    "authors": [
+      "Hang W",
+      "Cotton CA",
+      "Wen L"
+    ],
+    "lastauthor": "Wen L",
+    "sortfirstauthor": "Hang W",
+    "journal": "American journal of epidemiology",
+    "issn": "0002-9262",
+    "essn": "1476-6256",
+    "doi": "pii: kwag214. doi: 10.1093/aje/kwag214",
+    "sortpubdate": "2026/09/04 00:00",
+    "epubdate": "2026 Sep 4"
+  },
+  {
+    "name": "American Journal of Epidemiology",
+    "id": "42695216",
+    "title": "Correction to: How to identify the healthy worker survivor effect empirically and how to interpret results from published studies: the National Institute for Occupational Safety and Health ethylene oxide cohort as a case study.",
+    "source": "Am J Epidemiol",
+    "pubdate": "2026 Sep 4",
+    "authors": [],
+    "lastauthor": "",
+    "sortfirstauthor": "",
+    "journal": "American journal of epidemiology",
+    "issn": "0002-9262",
+    "essn": "1476-6256",
+    "doi": "pii: kwag202. doi: 10.1093/aje/kwag202",
+    "sortpubdate": "2026/09/04 00:00",
+    "epubdate": "2026 Sep 4"
   }
 ]

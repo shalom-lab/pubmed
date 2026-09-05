@@ -10962,5 +10962,52 @@
     "doi": "doi: 10.1001/jama.2026.18126",
     "sortpubdate": "2026/09/02 00:00",
     "epubdate": "2026 Sep 2"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "42694336",
+    "title": "Clinical and epidemiological profiles of six respiratory pathogens in hospitalized children in Lixin County, Anhui, China (2024-2025).",
+    "source": "Front Pediatr",
+    "pubdate": "2026",
+    "authors": [
+      "Xu T",
+      "Wu X",
+      "Lin F"
+    ],
+    "lastauthor": "Lin F",
+    "sortfirstauthor": "Xu T",
+    "journal": "Frontiers in pediatrics",
+    "issn": "2296-2360",
+    "essn": "2296-2360",
+    "doi": "doi: 10.3389/fped.2026.1918213",
+    "sortpubdate": "2026/08/20 00:00",
+    "epubdate": "2026 Aug 20"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "42694259",
+    "title": "Molecular epidemiology of respiratory viral infections in hospitalized children in Novosibirsk, Russia, 2021-2023.",
+    "source": "Front Pediatr",
+    "pubdate": "2026",
+    "authors": [
+      "Maslov DE",
+      "Osipov ID",
+      "Zabelina DS",
+      "Demina DS",
+      "Tomilova YE",
+      "Berdieva SB",
+      "Makukha VV",
+      "Komissarova TV",
+      "Agletdinov EF",
+      "Netesov SV"
+    ],
+    "lastauthor": "Netesov SV",
+    "sortfirstauthor": "Maslov DE",
+    "journal": "Frontiers in pediatrics",
+    "issn": "2296-2360",
+    "essn": "2296-2360",
+    "doi": "doi: 10.3389/fped.2026.1882419",
+    "sortpubdate": "2026/08/20 00:00",
+    "epubdate": "2026 Aug 20"
   }
 ]
