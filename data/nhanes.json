@@ -138008,5 +138008,56 @@
     "doi": "doi: 10.4178/epih.e2026049",
     "sortpubdate": "2026/08/31 00:00",
     "epubdate": "2026 Aug 31"
+  },
+  {
+    "name": "NHANES",
+    "id": "42698171",
+    "title": "Unveiling four sensitization patterns among sensitized U.S. participants: Associations with allergic disease outcomes.",
+    "source": "Allergy Asthma Proc",
+    "pubdate": "2026 Sep 1",
+    "authors": [
+      "Ye F",
+      "Ni M",
+      "Liu Y",
+      "Li X",
+      "Cui Q",
+      "Tian D",
+      "Wang J",
+      "Gan H"
+    ],
+    "lastauthor": "Gan H",
+    "sortfirstauthor": "Ye F",
+    "journal": "Allergy and asthma proceedings",
+    "issn": "1088-5412",
+    "essn": "1539-6304",
+    "doi": "doi: 10.2500/aap.2026.47.260060",
+    "sortpubdate": "2026/09/01 00:00",
+    "epubdate": ""
+  },
+  {
+    "name": "NHANES",
+    "id": "42697818",
+    "title": "Corrigendum to \"Low folate biomarker concentrations are associated with increase the risk and severity of periodontitis in adults: A cross-sectional study based on the National Health and Nutrition Examination Survey 2009-2014\" [Nutrition Research Volume 134, February 2025, Pages 73-87].",
+    "source": "Nutr Res",
+    "pubdate": "2026 Sep 4",
+    "authors": [
+      "Zhao LX",
+      "Hu CY",
+      "Li ZH",
+      "Shao MC",
+      "Liu JJ",
+      "Yan XR",
+      "Li J",
+      "Xu WH",
+      "Zhang XJ"
+    ],
+    "lastauthor": "Zhang XJ",
+    "sortfirstauthor": "Zhao LX",
+    "journal": "Nutrition research (New York, N.Y.)",
+    "issn": "0271-5317",
+    "essn": "1879-0739",
+    "doi": "pii: S0271-5317(26)00006-0. doi: 10.1016/j.nutres.2026.01.002",
+    "sortpubdate": "2026/09/04 00:00",
+    "epubdate": "2026 Sep 4"
   }
 ]

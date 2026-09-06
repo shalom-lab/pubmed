@@ -96105,5 +96105,71 @@
     "doi": "doi: 10.1186/s41182-026-01070-x",
     "sortpubdate": "2026/09/02 00:00",
     "epubdate": "2026 Sep 2"
+  },
+  {
+    "name": "GBD database",
+    "id": "42698008",
+    "title": "Global population-level concurrence and directional associations between rheumatoid arthritis and depressive disorders: an SDI-stratified time-series analysis using GBD 2021.",
+    "source": "Clin Rheumatol",
+    "pubdate": "2026 Sep 5",
+    "authors": [
+      "Lin Y",
+      "Qu Y",
+      "Qiu X",
+      "Huan Q",
+      "Wang J",
+      "Fang T",
+      "Qiu Z",
+      "Xie Y"
+    ],
+    "lastauthor": "Xie Y",
+    "sortfirstauthor": "Lin Y",
+    "journal": "Clinical rheumatology",
+    "issn": "0770-3198",
+    "essn": "1434-9949",
+    "doi": "doi: 10.1007/s10067-026-08358-7",
+    "sortpubdate": "2026/09/05 00:00",
+    "epubdate": "2026 Sep 5"
+  },
+  {
+    "name": "GBD database",
+    "id": "42697911",
+    "title": "The unmet burden of secondary SCI complications: lost in translation.",
+    "source": "Spinal Cord",
+    "pubdate": "2026 Sep 4",
+    "authors": [
+      "Sorani MD",
+      "Rabchevsky AG"
+    ],
+    "lastauthor": "Rabchevsky AG",
+    "sortfirstauthor": "Sorani MD",
+    "journal": "Spinal cord",
+    "issn": "1362-4393",
+    "essn": "1476-5624",
+    "doi": "doi: 10.1038/s41393-026-01266-2",
+    "sortpubdate": "2026/09/04 00:00",
+    "epubdate": "2026 Sep 4"
+  },
+  {
+    "name": "GBD database",
+    "id": "42697181",
+    "title": "Hypertension Care-Cascade Gaps and Stroke Burden From High Systolic Blood Pressure.",
+    "source": "Eur J Prev Cardiol",
+    "pubdate": "2026 Sep 4",
+    "authors": [
+      "Fang X",
+      "Huang P",
+      "Zheng L",
+      "Lin Y",
+      "Zheng X"
+    ],
+    "lastauthor": "Zheng X",
+    "sortfirstauthor": "Fang X",
+    "journal": "European journal of preventive cardiology",
+    "issn": "2047-4873",
+    "essn": "2047-4881",
+    "doi": "pii: zwag468. doi: 10.1093/eurjpc/zwag468",
+    "sortpubdate": "2026/09/04 00:00",
+    "epubdate": "2026 Sep 4"
   }
 ]
