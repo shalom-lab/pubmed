@@ -4574,5 +4574,31 @@
     "doi": "doi: 10.17116/otorino20269104161",
     "sortpubdate": "2026/01/01 00:00",
     "epubdate": ""
+  },
+  {
+    "name": "Vitamin D and respiratory infections",
+    "id": "42701811",
+    "title": "A Prediction Model for Persistent Inflammation-Immunosuppression-Catabolism Syndrome in Patients with Sepsis: An Ambispective Cohort Study.",
+    "source": "Infect Drug Resist",
+    "pubdate": "2026",
+    "authors": [
+      "Zhong X",
+      "Yang J",
+      "Chang L",
+      "Wang X",
+      "Peng L",
+      "Yan W",
+      "Hu H",
+      "Chen Z",
+      "Zhang Y"
+    ],
+    "lastauthor": "Zhang Y",
+    "sortfirstauthor": "Zhong X",
+    "journal": "Infection and drug resistance",
+    "issn": "1178-6973",
+    "essn": "1178-6973",
+    "doi": "doi: 10.2147/IDR.S623214",
+    "sortpubdate": "2026/09/01 00:00",
+    "epubdate": "2026 Sep 1"
   }
 ]

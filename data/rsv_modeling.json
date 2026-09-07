@@ -9303,5 +9303,55 @@
     "doi": "doi: 10.1038/s41467-026-77315-4",
     "sortpubdate": "2026/08/26 00:00",
     "epubdate": "2026 Aug 26"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "42700674",
+    "title": "The epidemiology of respiratory syncytial virus (RSV) in hospitalized children in Europe before the widespread implementation of new RSV prophylactic strategies: A systematic review and meta-analysis.",
+    "source": "J Clin Virol",
+    "pubdate": "2026 Sep 3",
+    "authors": [
+      "Berikopoulou MM",
+      "Giavasoglou DK",
+      "Konstantopoulou A",
+      "Gountas I",
+      "Siahanidou T",
+      "Michos A"
+    ],
+    "lastauthor": "Michos A",
+    "sortfirstauthor": "Berikopoulou MM",
+    "journal": "Journal of clinical virology : the official publication of the Pan American Society for Clinical Virology",
+    "issn": "1386-6532",
+    "essn": "1873-5967",
+    "doi": "doi: 10.1016/j.jcv.2026.105996",
+    "sortpubdate": "2026/09/03 00:00",
+    "epubdate": "2026 Sep 3"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "42700659",
+    "title": "Clinical Impact of Acute Respiratory Virus Infections in Nursing Home Residents.",
+    "source": "J Am Med Dir Assoc",
+    "pubdate": "2026 Sep 5",
+    "authors": [
+      "Kolodziej LM",
+      "Grootegoed LC",
+      "de Jong MD",
+      "Hertogh CMPM",
+      "Taat F",
+      "Huisman M",
+      "Peuscher R",
+      "Han AX",
+      "van Buul LW",
+      "Kuil SD"
+    ],
+    "lastauthor": "Kuil SD",
+    "sortfirstauthor": "Kolodziej LM",
+    "journal": "Journal of the American Medical Directors Association",
+    "issn": "1525-8610",
+    "essn": "1538-9375",
+    "doi": "doi: 10.1016/j.jamda.2026.106435",
+    "sortpubdate": "2026/09/05 00:00",
+    "epubdate": "2026 Sep 5"
   }
 ]
