@@ -138176,9 +138176,9 @@
   {
     "name": "NHANES",
     "id": "42700834",
-    "title": "Insights from Epidemiology and Network Toxicology into the Effect of Volatile Organic Compounds Exposure on Thyroid Function and the Underlying Mechanism.",
+    "title": "Insights from epidemiology and network toxicology into the effect of volatile organic compounds exposure on thyroid function and the underlying mechanism.",
     "source": "Environ Pollut",
-    "pubdate": "2026 Sep 5",
+    "pubdate": "2026 Sep 6",
     "authors": [
       "Liu Q",
       "Hong L",
@@ -138198,15 +138198,15 @@
     "issn": "0269-7491",
     "essn": "1873-6424",
     "doi": "doi: 10.1016/j.envpol.2026.129119",
-    "sortpubdate": "2026/09/05 00:00",
-    "epubdate": "2026 Sep 5"
+    "sortpubdate": "2026/09/06 00:00",
+    "epubdate": "2026 Sep 6"
   },
   {
     "name": "NHANES",
     "id": "42700802",
     "title": "Temporal coordination of light exposure, physical activity and eating rhythms in relation to prevalent diabetes and glycaemic traits: a cross-sectional NHANES study.",
     "source": "Diabetes Res Clin Pract",
-    "pubdate": "2026 Sep 5",
+    "pubdate": "2026 Sep 6",
     "authors": [
       "Liu Y",
       "Xu M",
@@ -138222,8 +138222,8 @@
     "issn": "0168-8227",
     "essn": "1872-8227",
     "doi": "doi: 10.1016/j.diabres.2026.113557",
-    "sortpubdate": "2026/09/05 00:00",
-    "epubdate": "2026 Sep 5"
+    "sortpubdate": "2026/09/06 00:00",
+    "epubdate": "2026 Sep 6"
   },
   {
     "name": "NHANES",
@@ -138641,5 +138641,198 @@
     "doi": "doi: 10.1186/s12902-026-02442-4",
     "sortpubdate": "2026/08/08 00:00",
     "epubdate": "2026 Aug 8"
+  },
+  {
+    "name": "NHANES",
+    "id": "42705843",
+    "title": "Reproductive lifespan in relation to diabetes mellitus and metabolic syndrome in a nationally representative population.",
+    "source": "BMJ Open Diabetes Res Care",
+    "pubdate": "2026 Sep 7",
+    "authors": [
+      "Cho A",
+      "Hong YS",
+      "Kim H"
+    ],
+    "lastauthor": "Kim H",
+    "sortfirstauthor": "Cho A",
+    "journal": "BMJ open diabetes research & care",
+    "issn": "",
+    "essn": "2052-4897",
+    "doi": "pii: e005990. doi: 10.1136/bmjdrc-2026-005990",
+    "sortpubdate": "2026/09/07 00:00",
+    "epubdate": "2026 Sep 7"
+  },
+  {
+    "name": "NHANES",
+    "id": "42705651",
+    "title": "Interpreting Population Survey Measures of Periodontal Disease Experience Under Severity-Dependent Tooth Loss.",
+    "source": "J Clin Periodontol",
+    "pubdate": "2026 Sep 7",
+    "authors": [
+      "McCormick KM",
+      "Amarasena N",
+      "Guzzo G",
+      "Nath S",
+      "Jamieson L"
+    ],
+    "lastauthor": "Jamieson L",
+    "sortfirstauthor": "McCormick KM",
+    "journal": "Journal of clinical periodontology",
+    "issn": "0303-6979",
+    "essn": "1600-051X",
+    "doi": "doi: 10.1111/jcpe.70198",
+    "sortpubdate": "2026/09/07 00:00",
+    "epubdate": "2026 Sep 7"
+  },
+  {
+    "name": "NHANES",
+    "id": "42705353",
+    "title": "Trends in Skin Cancer Literacy in U.S. Adults from 1999 to 2023: An NHANES Study in the Context of Increasing Health Information Access.",
+    "source": "J Am Acad Dermatol",
+    "pubdate": "2026 Sep 7",
+    "authors": [
+      "Bruno S",
+      "Yousaf A",
+      "Patton T"
+    ],
+    "lastauthor": "Patton T",
+    "sortfirstauthor": "Bruno S",
+    "journal": "Journal of the American Academy of Dermatology",
+    "issn": "0190-9622",
+    "essn": "1097-6787",
+    "doi": "pii: S0190-9622(26)03473-0. doi: 10.1016/j.jaad.2026.08.117",
+    "sortpubdate": "2026/09/07 00:00",
+    "epubdate": "2026 Sep 7"
+  },
+  {
+    "name": "NHANES",
+    "id": "42704465",
+    "title": "Linking disease severity and mortality in obstructive sleep apnea: the role of the endothelial activation and stress index.",
+    "source": "Eur Arch Otorhinolaryngol",
+    "pubdate": "2026 Sep 7",
+    "authors": [
+      "Deng S",
+      "Niu H",
+      "Li Y",
+      "Zhai L",
+      "Wang L",
+      "Zhao B",
+      "Qin Y",
+      "Gao X"
+    ],
+    "lastauthor": "Gao X",
+    "sortfirstauthor": "Deng S",
+    "journal": "European archives of oto-rhino-laryngology : official journal of the European Federation of Oto-Rhino-Laryngological Societies (EUFOS) : affiliated with the German Society for Oto-Rhino-Laryngology - Head and Neck Surgery",
+    "issn": "0937-4477",
+    "essn": "1434-4726",
+    "doi": "doi: 10.1007/s00405-026-10552-x",
+    "sortpubdate": "2026/09/07 00:00",
+    "epubdate": "2026 Sep 7"
+  },
+  {
+    "name": "NHANES",
+    "id": "42703876",
+    "title": "Associations of antihypertensive medication class with liver fibrosis and mortality in US adults with MASLD.",
+    "source": "Clin Exp Hypertens",
+    "pubdate": "2026 Dec 31",
+    "authors": [
+      "Wu Y",
+      "Fang F"
+    ],
+    "lastauthor": "Fang F",
+    "sortfirstauthor": "Wu Y",
+    "journal": "Clinical and experimental hypertension (New York, N.Y. : 1993)",
+    "issn": "1064-1963",
+    "essn": "1525-6006",
+    "doi": "doi: 10.1080/10641963.2026.2725928",
+    "sortpubdate": "2026/12/31 00:00",
+    "epubdate": "2026 Sep 7"
+  },
+  {
+    "name": "NHANES",
+    "id": "42703413",
+    "title": "A Shared EGR1-IL-32-Macrophage Polarisation Signature in Rheumatoid Arthritis and Metabolic Dysfunction-Associated Steatotic Liver Disease.",
+    "source": "J Inflamm Res",
+    "pubdate": "2026",
+    "authors": [
+      "Pang L",
+      "Li Y",
+      "Cheng L",
+      "Huang C"
+    ],
+    "lastauthor": "Huang C",
+    "sortfirstauthor": "Pang L",
+    "journal": "Journal of inflammation research",
+    "issn": "1178-7031",
+    "essn": "1178-7031",
+    "doi": "doi: 10.2147/JIR.S634146",
+    "sortpubdate": "2026/09/02 00:00",
+    "epubdate": "2026 Sep 2"
+  },
+  {
+    "name": "NHANES",
+    "id": "42703098",
+    "title": "Association between phase angle and albuminuria in Korean adults aged 40 years or older: a cross-sectional study of the 9th Korea National Health and Nutrition Examination Survey (2022-2023).",
+    "source": "Korean J Fam Med",
+    "pubdate": "2026 Sep 7",
+    "authors": [
+      "Park DS",
+      "Yeo Y",
+      "Cho JJ",
+      "Cho E",
+      "Lee D",
+      "Jeong YS"
+    ],
+    "lastauthor": "Jeong YS",
+    "sortfirstauthor": "Park DS",
+    "journal": "Korean journal of family medicine",
+    "issn": "2005-6443",
+    "essn": "",
+    "doi": "doi: 10.4082/kjfm.25.0305",
+    "sortpubdate": "2026/09/07 00:00",
+    "epubdate": "2026 Sep 7"
+  },
+  {
+    "name": "NHANES",
+    "id": "42702832",
+    "title": "Obesity-Related Inflammation Masks Iron Deficiency in US Women.",
+    "source": "Am J Hematol",
+    "pubdate": "2026 Sep 6",
+    "authors": [
+      "Aguree S",
+      "Tadikonda SC"
+    ],
+    "lastauthor": "Tadikonda SC",
+    "sortfirstauthor": "Aguree S",
+    "journal": "American journal of hematology",
+    "issn": "0361-8609",
+    "essn": "1096-8652",
+    "doi": "doi: 10.1002/ajh.70496",
+    "sortpubdate": "2026/09/06 00:00",
+    "epubdate": "2026 Sep 6"
+  },
+  {
+    "name": "NHANES",
+    "id": "42702103",
+    "title": "Divergent associations of TyG index and HOMA-IR with cardiovascular and cerebrovascular mortality in non-diabetic elderly: a competing risk analysis of NHANES 2003‒2020.",
+    "source": "Clinics (Sao Paulo)",
+    "pubdate": "2026 Sep 6",
+    "authors": [
+      "Xu X",
+      "Ye X",
+      "Xiao C",
+      "Cai Y",
+      "Chen H",
+      "Cai X",
+      "Sun J"
+    ],
+    "lastauthor": "Sun J",
+    "sortfirstauthor": "Xu X",
+    "journal": "Clinics (Sao Paulo, Brazil)",
+    "issn": "1807-5932",
+    "essn": "1980-5322",
+    "doi": "doi: 10.1016/j.clinsp.2026.101089",
+    "sortpubdate": "2026/09/06 00:00",
+    "epubdate": "2026 Sep 6"
   }
 ]
