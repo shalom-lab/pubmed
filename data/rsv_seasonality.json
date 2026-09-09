@@ -9661,7 +9661,7 @@
     "id": "42406366",
     "title": "Respiratory Outbreak Mitigation With Point-of-Care Testing in Long-Term Care: A Randomized Clinical Trial.",
     "source": "JAMA Intern Med",
-    "pubdate": "2026 Jul 6",
+    "pubdate": "2026 Sep 1",
     "authors": [
       "Kandel C",
       "Oriotis D",
@@ -9696,8 +9696,8 @@
     "issn": "2168-6106",
     "essn": "2168-6114",
     "doi": "doi: 10.1001/jamainternmed.2026.2644",
-    "sortpubdate": "2026/07/06 00:00",
-    "epubdate": "2026 Jul 6"
+    "sortpubdate": "2026/09/01 00:00",
+    "epubdate": ""
   },
   {
     "name": "RSV seasonality",
@@ -11009,5 +11009,31 @@
     "doi": "doi: 10.3389/fped.2026.1882419",
     "sortpubdate": "2026/08/20 00:00",
     "epubdate": "2026 Aug 20"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "42708519",
+    "title": "Epidemiological Profiles of Respiratory Syncytial Virus Infection Among Hospitalized Children in a Tropical Setting: A Large Laboratory-Based Surveillance Study From Hainan, China.",
+    "source": "J Med Virol",
+    "pubdate": "2026 Sep",
+    "authors": [
+      "Jia H",
+      "Zhao Z",
+      "Zhang X",
+      "Ji Z",
+      "Li R",
+      "Tian G",
+      "Zou C",
+      "Liu K",
+      "Wang M"
+    ],
+    "lastauthor": "Wang M",
+    "sortfirstauthor": "Jia H",
+    "journal": "Journal of medical virology",
+    "issn": "0146-6615",
+    "essn": "1096-9071",
+    "doi": "doi: 10.1002/jmv.71137",
+    "sortpubdate": "2026/09/01 00:00",
+    "epubdate": ""
   }
 ]
