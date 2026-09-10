@@ -8136,7 +8136,7 @@
     "id": "42424885",
     "title": "Label-free surface-enhanced Raman spectroscopy and machine learning for rapid classification and quantification of bovine respiratory disease complex viruses.",
     "source": "Talanta",
-    "pubdate": "2026 Jul 6",
+    "pubdate": "2027 Jan 1",
     "authors": [
       "Kumar A",
       "Van Den Hurk SS",
@@ -8154,7 +8154,7 @@
     "issn": "0039-9140",
     "essn": "1873-3573",
     "doi": "doi: 10.1016/j.talanta.2026.130265",
-    "sortpubdate": "2026/07/06 00:00",
+    "sortpubdate": "2027/01/01 00:00",
     "epubdate": "2026 Jul 6"
   },
   {
@@ -9353,5 +9353,51 @@
     "doi": "doi: 10.1016/j.jamda.2026.106435",
     "sortpubdate": "2026/09/05 00:00",
     "epubdate": "2026 Sep 5"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "42714825",
+    "title": "Early bedside risk stratification using Charlson comorbidity index and NEWS2 in adults hospitalized with respiratory syncytial virus infection: a multicentre cohort study.",
+    "source": "Eur J Clin Microbiol Infect Dis",
+    "pubdate": "2026 Sep 9",
+    "authors": [
+      "Couture P",
+      "Cruchet R",
+      "Bremaud C",
+      "Chamieh C",
+      "Pacanowski J",
+      "Meynard JL",
+      "Schnuriger A",
+      "Richier Q",
+      "Lacombe K"
+    ],
+    "lastauthor": "Lacombe K",
+    "sortfirstauthor": "Couture P",
+    "journal": "European journal of clinical microbiology & infectious diseases : official publication of the European Society of Clinical Microbiology",
+    "issn": "0934-9723",
+    "essn": "1435-4373",
+    "doi": "doi: 10.1007/s10096-026-05661-8",
+    "sortpubdate": "2026/09/09 00:00",
+    "epubdate": "2026 Sep 9"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "42713112",
+    "title": "When defense backfires: inflammatory determinants of RSV-induced disease severity.",
+    "source": "Future Virol",
+    "pubdate": "2026",
+    "authors": [
+      "Chasse AY",
+      "Miller AM",
+      "Varga SM"
+    ],
+    "lastauthor": "Varga SM",
+    "sortfirstauthor": "Chasse AY",
+    "journal": "Future virology",
+    "issn": "1746-0794",
+    "essn": "1746-0808",
+    "doi": "doi: 10.1080/17460794.2026.2705137",
+    "sortpubdate": "2026/01/01 00:00",
+    "epubdate": "2026 Jul 22"
   }
 ]
