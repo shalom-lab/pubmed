@@ -4622,5 +4622,52 @@
     "doi": "doi: 10.1155/bmri/8581187",
     "sortpubdate": "2026/01/01 00:00",
     "epubdate": ""
+  },
+  {
+    "name": "Vitamin D and respiratory infections",
+    "id": "42728078",
+    "title": "Beyond the pill count: unmasking the pharmacokinetic drivers of recurrent tuberculosis.",
+    "source": "BMJ Case Rep",
+    "pubdate": "2026 Sep 11",
+    "authors": [
+      "Shah AD",
+      "Garg N",
+      "Patel BM",
+      "Chakravarti CH"
+    ],
+    "lastauthor": "Chakravarti CH",
+    "sortfirstauthor": "Shah AD",
+    "journal": "BMJ case reports",
+    "issn": "",
+    "essn": "1757-790X",
+    "doi": "pii: e275440. doi: 10.1136/bcr-2026-275440",
+    "sortpubdate": "2026/09/11 00:00",
+    "epubdate": "2026 Sep 11"
+  },
+  {
+    "name": "Vitamin D and respiratory infections",
+    "id": "42726758",
+    "title": "SARS-CoV-2 infection induces functional impairment of vitamin D receptor signaling to drive interleukin 6-dependent hyperinflammation in mononuclear phagocytes.",
+    "source": "PLoS One",
+    "pubdate": "2026",
+    "authors": [
+      "Valdés-López JF",
+      "di Filippo D",
+      "Penagos S",
+      "Hernández-Sarmiento LJ",
+      "Arroyave-Ospina JC",
+      "Rojas M",
+      "Urcuqui-Inchima S",
+      "Aguilar-Jiménez W",
+      "Navas MC"
+    ],
+    "lastauthor": "Navas MC",
+    "sortfirstauthor": "Valdés-López JF",
+    "journal": "PloS one",
+    "issn": "",
+    "essn": "1932-6203",
+    "doi": "doi: 10.1371/journal.pone.0357030",
+    "sortpubdate": "2026/09/11 00:00",
+    "epubdate": "2026 Sep 11"
   }
 ]
