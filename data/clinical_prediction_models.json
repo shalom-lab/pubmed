@@ -396491,5 +396491,60 @@
     "doi": "doi: 10.21037/jtd-2026-0769",
     "sortpubdate": "2026/08/31 00:00",
     "epubdate": "2026 Jul 13"
+  },
+  {
+    "name": "Clinical prediction models",
+    "id": "42728083",
+    "title": "Compressive symptoms in fusiform intracranial aneurysms: insights from vessel wall enhancement imaging.",
+    "source": "J Neurointerv Surg",
+    "pubdate": "2026 Sep 11",
+    "authors": [
+      "Dier C",
+      "Gudino A",
+      "Sagues E",
+      "Shenoy N",
+      "Cabarique MA",
+      "Setia S",
+      "Chiriboga G",
+      "Wendt L",
+      "Zhu C",
+      "Tian B",
+      "Zhao H",
+      "Samaniego EA"
+    ],
+    "lastauthor": "Samaniego EA",
+    "sortfirstauthor": "Dier C",
+    "journal": "Journal of neurointerventional surgery",
+    "issn": "1759-8478",
+    "essn": "1759-8486",
+    "doi": "pii: jnis-2026-025733. doi: 10.1136/jnis-2026-025733",
+    "sortpubdate": "2026/09/11 00:00",
+    "epubdate": "2026 Sep 11"
+  },
+  {
+    "name": "Clinical prediction models",
+    "id": "42727384",
+    "title": "Development of an early warning model for sepsis-associated encephalopathy using LASSO-Boruta-Logistic regression.",
+    "source": "J Clin Neurosci",
+    "pubdate": "2026 Sep 11",
+    "authors": [
+      "Wei YB",
+      "Li HL",
+      "Han H",
+      "Li JG",
+      "Fan WQ",
+      "Han HY",
+      "Zhou ZH",
+      "Liu SK",
+      "Guo H"
+    ],
+    "lastauthor": "Guo H",
+    "sortfirstauthor": "Wei YB",
+    "journal": "Journal of clinical neuroscience : official journal of the Neurosurgical Society of Australasia",
+    "issn": "0967-5868",
+    "essn": "1532-2653",
+    "doi": "doi: 10.1016/j.jocn.2026.112272",
+    "sortpubdate": "2026/09/11 00:00",
+    "epubdate": "2026 Sep 11"
   }
 ]

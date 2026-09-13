@@ -139884,5 +139884,24 @@
     "doi": "doi: 10.1136/bmjdrc-2026-005990",
     "sortpubdate": "2026/09/07 00:00",
     "epubdate": "2026 Sep 7"
+  },
+  {
+    "name": "NHANES",
+    "id": "42727262",
+    "title": "Association between biological aging and premature mortality among patients with metabolic dysfunction-associated steatotic liver disease.",
+    "source": "Arch Gerontol Geriatr",
+    "pubdate": "2026 Sep 6",
+    "authors": [
+      "Li S",
+      "Chen B"
+    ],
+    "lastauthor": "Chen B",
+    "sortfirstauthor": "Li S",
+    "journal": "Archives of gerontology and geriatrics",
+    "issn": "0167-4943",
+    "essn": "1872-6976",
+    "doi": "doi: 10.1016/j.archger.2026.106400",
+    "sortpubdate": "2026/09/06 00:00",
+    "epubdate": "2026 Sep 6"
   }
 ]
