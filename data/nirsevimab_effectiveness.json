@@ -7078,5 +7078,42 @@
     "doi": "doi: 10.1001/jama.2026.17871",
     "sortpubdate": "2026/09/02 00:00",
     "epubdate": "2026 Sep 2"
+  },
+  {
+    "name": "Nirsevimab effectiveness",
+    "id": "42734914",
+    "title": "Respiratory Syncytial Virus-Related Hospitalizations Among Infants Receiving Nirsevimab.",
+    "source": "JAMA Netw Open",
+    "pubdate": "2026 Sep 1",
+    "authors": [
+      "Buchan SA",
+      "Xie J",
+      "Bhatt M",
+      "Papenburg J",
+      "Goldfarb DM",
+      "Pernica JM",
+      "Burstein B",
+      "Gravel J",
+      "Berthelot S",
+      "Kam AJ",
+      "Poonai N",
+      "Eltorki M",
+      "Finkelstein Y",
+      "Sabhaney V",
+      "Cheng J",
+      "Gill PJ",
+      "Dickinson JA",
+      "Kwong JC",
+      "Freedman SB",
+      "SPRINT-KIDS Project Team"
+    ],
+    "lastauthor": "Freedman SB",
+    "sortfirstauthor": "Buchan SA",
+    "journal": "JAMA network open",
+    "issn": "",
+    "essn": "2574-3805",
+    "doi": "doi: 10.1001/jamanetworkopen.2026.33621",
+    "sortpubdate": "2026/09/01 00:00",
+    "epubdate": "2026 Sep 1"
   }
 ]

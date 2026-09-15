@@ -139941,7 +139941,7 @@
     "sortfirstauthor": "Ma S",
     "journal": "Psychiatry investigation",
     "issn": "1738-3684",
-    "essn": "",
+    "essn": "1976-3026",
     "doi": "doi: 10.30773/pi.2025.0446",
     "sortpubdate": "2026/09/01 00:00",
     "epubdate": "2026 Sep 1"
@@ -140308,5 +140308,50 @@
     "doi": "doi: 10.1007/s12012-026-10188-7",
     "sortpubdate": "2026/09/11 00:00",
     "epubdate": "2026 Sep 11"
+  },
+  {
+    "name": "NHANES",
+    "id": "42734231",
+    "title": "Association between triglyceride-glucose-related indices and reproductive lifespan: a cross-sectional study from the NHANES (2007-2020).",
+    "source": "Climacteric",
+    "pubdate": "2026 Sep 14",
+    "authors": [
+      "Ding L",
+      "Jiang T",
+      "Jia X"
+    ],
+    "lastauthor": "Jia X",
+    "sortfirstauthor": "Ding L",
+    "journal": "Climacteric : the journal of the International Menopause Society",
+    "issn": "1369-7137",
+    "essn": "1473-0804",
+    "doi": "doi: 10.1080/13697137.2026.2722605",
+    "sortpubdate": "2026/09/14 00:00",
+    "epubdate": "2026 Sep 14"
+  },
+  {
+    "name": "NHANES",
+    "id": "42733050",
+    "title": "Revealing the Link Between Exposure to Per- and Polyfluoroalkyl Substances (PFAS) and Stroke: A Comprehensive Epidemiological and Network Toxicology Perspective.",
+    "source": "Cardiovasc Toxicol",
+    "pubdate": "2026 Sep 13",
+    "authors": [
+      "Li SS",
+      "Yang ZS",
+      "Tian XD",
+      "Wu YD",
+      "Song JK",
+      "Wang WL",
+      "Tang ZL",
+      "Wang JB"
+    ],
+    "lastauthor": "Wang JB",
+    "sortfirstauthor": "Li SS",
+    "journal": "Cardiovascular toxicology",
+    "issn": "1530-7905",
+    "essn": "1559-0259",
+    "doi": "pii: 109. doi: 10.1007/s12012-026-10157-0",
+    "sortpubdate": "2026/09/13 00:00",
+    "epubdate": "2026 Sep 13"
   }
 ]
