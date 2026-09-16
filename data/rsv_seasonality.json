@@ -10225,7 +10225,7 @@
     "id": "42526845",
     "title": "Clinical and epidemiological profile of infants with severe bronchiolitis before and after the COVID-19 pandemic.",
     "source": "J Pediatr (Rio J)",
-    "pubdate": "2026 Jul 29",
+    "pubdate": "2026 Sep 15",
     "authors": [
       "Wandalsen GF",
       "Ramos BCF",
@@ -10246,8 +10246,8 @@
     "issn": "0021-7557",
     "essn": "1678-4782",
     "doi": "doi: 10.1016/j.jped.2026.101595",
-    "sortpubdate": "2026/07/29 00:00",
-    "epubdate": "2026 Jul 29"
+    "sortpubdate": "2026/09/15 00:00",
+    "epubdate": "2026 Sep 15"
   },
   {
     "name": "RSV seasonality",
@@ -11035,5 +11035,31 @@
     "doi": "doi: 10.1002/jmv.71137",
     "sortpubdate": "2026/09/01 00:00",
     "epubdate": ""
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "42743209",
+    "title": "Estimating cumulative incidence from partially missing time series of respiratory viral infections.",
+    "source": "PLoS One",
+    "pubdate": "2026",
+    "authors": [
+      "Venkatesan S",
+      "White L",
+      "Koo HN",
+      "Dickerson J",
+      "Hu W",
+      "Kuntz J",
+      "Schmidt M",
+      "Taylor S",
+      "Talarico C"
+    ],
+    "lastauthor": "Talarico C",
+    "sortfirstauthor": "Venkatesan S",
+    "journal": "PloS one",
+    "issn": "",
+    "essn": "1932-6203",
+    "doi": "doi: 10.1371/journal.pone.0353681",
+    "sortpubdate": "2026/09/15 00:00",
+    "epubdate": "2026 Sep 15"
   }
 ]

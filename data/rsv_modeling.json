@@ -9426,5 +9426,50 @@
     "doi": "doi: 10.1080/14760584.2026.2725347",
     "sortpubdate": "2026/12/01 00:00",
     "epubdate": "2026 Sep 12"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "42743209",
+    "title": "Estimating cumulative incidence from partially missing time series of respiratory viral infections.",
+    "source": "PLoS One",
+    "pubdate": "2026",
+    "authors": [
+      "Venkatesan S",
+      "White L",
+      "Koo HN",
+      "Dickerson J",
+      "Hu W",
+      "Kuntz J",
+      "Schmidt M",
+      "Taylor S",
+      "Talarico C"
+    ],
+    "lastauthor": "Talarico C",
+    "sortfirstauthor": "Venkatesan S",
+    "journal": "PloS one",
+    "issn": "",
+    "essn": "1932-6203",
+    "doi": "doi: 10.1371/journal.pone.0353681",
+    "sortpubdate": "2026/09/15 00:00",
+    "epubdate": "2026 Sep 15"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "42736771",
+    "title": "Post-acute symptom persistence following SARS-CoV-2, RSV, and influenza in children: A retrospective cohort study.",
+    "source": "Medicine (Baltimore)",
+    "pubdate": "2026 Sep 11",
+    "authors": [
+      "Bedir F",
+      "Demir V"
+    ],
+    "lastauthor": "Demir V",
+    "sortfirstauthor": "Bedir F",
+    "journal": "Medicine",
+    "issn": "0025-7974",
+    "essn": "1536-5964",
+    "doi": "doi: 10.1097/MD.0000000000050497",
+    "sortpubdate": "2026/09/11 00:00",
+    "epubdate": ""
   }
 ]
