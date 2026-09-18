@@ -11088,5 +11088,102 @@
     "doi": "doi: 10.3201/eid3213.260709",
     "sortpubdate": "2026/08/01 00:00",
     "epubdate": ""
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "42753816",
+    "title": "Epidemiological analysis of respiratory and enteric outbreaks in long-term care homes in Ontario, Canada from 2020 to 2025. A retrospective longitudinal cross-sectional study.",
+    "source": "Am J Infect Control",
+    "pubdate": "2026 Sep 17",
+    "authors": [
+      "Ihekweazu E",
+      "Idogho J",
+      "Ayukekbong J"
+    ],
+    "lastauthor": "Ayukekbong J",
+    "sortfirstauthor": "Ihekweazu E",
+    "journal": "American journal of infection control",
+    "issn": "0196-6553",
+    "essn": "1527-3296",
+    "doi": "pii: S0196-6553(26)00691-7. doi: 10.1016/j.ajic.2026.09.008",
+    "sortpubdate": "2026/09/17 00:00",
+    "epubdate": "2026 Sep 17"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "42753487",
+    "title": "Respiratory pathogen dynamics in hospitalized children with lower respiratory tract infections: A 9-year hospital-based surveillance study in Beijing, China.",
+    "source": "J Infect Public Health",
+    "pubdate": "2026 Sep 7",
+    "authors": [
+      "Li Y",
+      "Kang X",
+      "Deng Z",
+      "Xu X",
+      "Xi Y",
+      "Sun H",
+      "Xie Z",
+      "Ning X",
+      "Zhao C",
+      "Liu G"
+    ],
+    "lastauthor": "Liu G",
+    "sortfirstauthor": "Li Y",
+    "journal": "Journal of infection and public health",
+    "issn": "1876-0341",
+    "essn": "1876-035X",
+    "doi": "doi: 10.1016/j.jiph.2026.103352",
+    "sortpubdate": "2026/09/07 00:00",
+    "epubdate": "2026 Sep 7"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "42752679",
+    "title": "Epidemiology of human RSV in Taiwan, 2018-2024.",
+    "source": "PLoS One",
+    "pubdate": "2026",
+    "authors": [
+      "Yang SL",
+      "Liu MT",
+      "Huang HH",
+      "Lin SW",
+      "Li YT",
+      "Cheng YH",
+      "Wu FT"
+    ],
+    "lastauthor": "Wu FT",
+    "sortfirstauthor": "Yang SL",
+    "journal": "PloS one",
+    "issn": "",
+    "essn": "1932-6203",
+    "doi": "doi: 10.1371/journal.pone.0357769",
+    "sortpubdate": "2026/09/17 00:00",
+    "epubdate": "2026 Sep 17"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "42735217",
+    "title": "Respiratory viral infections in patients with inherited metabolic disorders: Pathogen distribution and clinical outcomes.",
+    "source": "Arch Argent Pediatr",
+    "pubdate": "2026 Sep 17",
+    "authors": [
+      "Aykac K",
+      "Uzunoglu O",
+      "Kuruc AI",
+      "Demir OO",
+      "Yildiz Y",
+      "Sivri S",
+      "Dursun A",
+      "Cengiz AB",
+      "Ozsurekci Y"
+    ],
+    "lastauthor": "Ozsurekci Y",
+    "sortfirstauthor": "Aykac K",
+    "journal": "Archivos argentinos de pediatria",
+    "issn": "0325-0075",
+    "essn": "1668-3501",
+    "doi": "doi: 10.5546/aap.2026-11121.eng",
+    "sortpubdate": "2026/09/17 00:00",
+    "epubdate": "2026 Sep 17"
   }
 ]
