@@ -10229,7 +10229,7 @@
     "authors": [
       "Wandalsen GF",
       "Ramos BCF",
-      "Solé D",
+      "Sol�� D",
       "Miotto DASM",
       "Rondelli I",
       "Almeida BCM",
@@ -11185,5 +11185,57 @@
     "doi": "doi: 10.5546/aap.2026-11121.eng",
     "sortpubdate": "2026/09/17 00:00",
     "epubdate": "2026 Sep 17"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "42758792",
+    "title": "Burden of respiratory syncytial virus (RSV) hospitalizations among adults aged 60 years or more in Brazil: A retrospective surveillance database analysis (2013-2024).",
+    "source": "PLoS One",
+    "pubdate": "2026",
+    "authors": [
+      "de Veras BMG",
+      "Michelin L",
+      "Croda J",
+      "Berra TZ",
+      "Pires-Matheus G",
+      "Sampietri I",
+      "Araujo M",
+      "da Silva RM",
+      "Guzmán-Holst A"
+    ],
+    "lastauthor": "Guzmán-Holst A",
+    "sortfirstauthor": "de Veras BMG",
+    "journal": "PloS one",
+    "issn": "",
+    "essn": "1932-6203",
+    "doi": "doi: 10.1371/journal.pone.0357303",
+    "sortpubdate": "2026/09/18 00:00",
+    "epubdate": "2026 Sep 18"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "42756189",
+    "title": "Comparative epidemiology of six respiratory pathogens among children aged 28 days to 14 years with acute respiratory infections in coastal Xiamen and inland Linxia, China: a multicenter retrospective study.",
+    "source": "Front Public Health",
+    "pubdate": "2026",
+    "authors": [
+      "Zheng X",
+      "Ma H",
+      "Cao J",
+      "Liu J",
+      "Guo R",
+      "Xu Q",
+      "Chen X",
+      "Han S",
+      "Ye H"
+    ],
+    "lastauthor": "Ye H",
+    "sortfirstauthor": "Zheng X",
+    "journal": "Frontiers in public health",
+    "issn": "",
+    "essn": "2296-2565",
+    "doi": "doi: 10.3389/fpubh.2026.1926943",
+    "sortpubdate": "2026/09/03 00:00",
+    "epubdate": "2026 Sep 3"
   }
 ]
