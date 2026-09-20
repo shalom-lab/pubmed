@@ -99152,5 +99152,100 @@
     "doi": "doi: 10.1177/02601060261486933",
     "sortpubdate": "2026/09/17 00:00",
     "epubdate": "2026 Sep 17"
+  },
+  {
+    "name": "GBD database",
+    "id": "42763076",
+    "title": "High BMI-attributable burden of eight diseases relevant to the CKM framework in China: GBD 2023 estimates and projections to 2050.",
+    "source": "Exp Gerontol",
+    "pubdate": "2026 Sep 19",
+    "authors": [
+      "Li J",
+      "Xu Y",
+      "Guo M",
+      "Yang N",
+      "Yang X",
+      "Wang M",
+      "Yan J",
+      "Zhang Y",
+      "Zhang S",
+      "Wang Q",
+      "Qiao H"
+    ],
+    "lastauthor": "Qiao H",
+    "sortfirstauthor": "Li J",
+    "journal": "Experimental gerontology",
+    "issn": "0531-5565",
+    "essn": "1873-6815",
+    "doi": "doi: 10.1016/j.exger.2026.113331",
+    "sortpubdate": "2026/09/19 00:00",
+    "epubdate": "2026 Sep 19"
+  },
+  {
+    "name": "GBD database",
+    "id": "42761442",
+    "title": "Global, regional, and national age-gender-specific trends, decomposition analysis, and Bayesian age-period-cohort modelling for projections of the burden of leishmaniasis: A population-based ecological study.",
+    "source": "Curr Res Parasitol Vector Borne Dis",
+    "pubdate": "2026",
+    "authors": [
+      "Wang Y",
+      "Zhang R",
+      "Liu Z",
+      "Xu C",
+      "Zhang C",
+      "Lin F"
+    ],
+    "lastauthor": "Lin F",
+    "sortfirstauthor": "Wang Y",
+    "journal": "Current research in parasitology & vector-borne diseases",
+    "issn": "",
+    "essn": "2667-114X",
+    "doi": "doi: 10.1016/j.crpvbd.2026.100433",
+    "sortpubdate": "2026/09/08 00:00",
+    "epubdate": "2026 Sep 8"
+  },
+  {
+    "name": "GBD database",
+    "id": "42761424",
+    "title": "The burden of brain disorders in Norway: an analysis of data from the global burden of disease study 2023.",
+    "source": "Lancet Reg Health Eur",
+    "pubdate": "2026 Nov",
+    "authors": [
+      "Stovner LJ",
+      "Skrindo Knudsen AK",
+      "Lien L",
+      "Peersen H",
+      "Gilhus NE"
+    ],
+    "lastauthor": "Gilhus NE",
+    "sortfirstauthor": "Stovner LJ",
+    "journal": "The Lancet regional health. Europe",
+    "issn": "",
+    "essn": "2666-7762",
+    "doi": "doi: 10.1016/j.lanepe.2026.101857",
+    "sortpubdate": "2026/09/10 00:00",
+    "epubdate": "2026 Sep 10"
+  },
+  {
+    "name": "GBD database",
+    "id": "42760659",
+    "title": "Current-future burden concerning musculoskeletal diseases and high body mass index.",
+    "source": "Medicine (Baltimore)",
+    "pubdate": "2026 Sep 18",
+    "authors": [
+      "Wei J",
+      "Qin Q",
+      "Chen H",
+      "Liang W",
+      "Wang Y"
+    ],
+    "lastauthor": "Wang Y",
+    "sortfirstauthor": "Wei J",
+    "journal": "Medicine",
+    "issn": "0025-7974",
+    "essn": "1536-5964",
+    "doi": "doi: 10.1097/MD.0000000000050724",
+    "sortpubdate": "2026/09/18 00:00",
+    "epubdate": ""
   }
 ]
