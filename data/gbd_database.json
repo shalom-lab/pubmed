@@ -99247,5 +99247,58 @@
     "doi": "doi: 10.1097/MD.0000000000050724",
     "sortpubdate": "2026/09/18 00:00",
     "epubdate": ""
+  },
+  {
+    "name": "GBD database",
+    "id": "42763704",
+    "title": "Global, regional, and 204 countries burden of disease attributed to secondhand smoke-related COPD, 1990-2021: A secondary data analysis of the Global Burden of Disease Study 2021.",
+    "source": "Tob Induc Dis",
+    "pubdate": "2026",
+    "authors": [
+      "Huang Q",
+      "Fu L",
+      "Ali S",
+      "Hou S",
+      "Wang K",
+      "Li R",
+      "Ao B",
+      "Huang Y"
+    ],
+    "lastauthor": "Huang Y",
+    "sortfirstauthor": "Huang Q",
+    "journal": "Tobacco induced diseases",
+    "issn": "2070-7266",
+    "essn": "1617-9625",
+    "doi": "doi: 10.18332/tid/230940",
+    "sortpubdate": "2026/09/12 00:00",
+    "epubdate": "2026 Sep 12"
+  },
+  {
+    "name": "GBD database",
+    "id": "42763481",
+    "title": "Prevalence of overweight and obesity and the burden of high body-mass index in Latin America: a systematic analysis for the Global Burden of Disease Study 2023.",
+    "source": "Lancet Reg Health Am",
+    "pubdate": "2026 Nov",
+    "authors": [
+      "Arrieta A",
+      "Razo C",
+      "Cogen RM",
+      "Bejarano Ramirez DF",
+      "Carvalho Malta D",
+      "Morales-Juarez L",
+      "Ochoa-Avilés A",
+      "Zafra-Tanaka JH",
+      "Zitko P",
+      "Gakidou E",
+      "Lozano R"
+    ],
+    "lastauthor": "Lozano R",
+    "sortfirstauthor": "Arrieta A",
+    "journal": "Lancet regional health. Americas",
+    "issn": "",
+    "essn": "2667-193X",
+    "doi": "doi: 10.1016/j.lana.2026.101623",
+    "sortpubdate": "2026/09/11 00:00",
+    "epubdate": "2026 Sep 11"
   }
 ]

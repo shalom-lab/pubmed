@@ -142099,7 +142099,7 @@
     "sortfirstauthor": "Meng X",
     "journal": "Journal of oral microbiology",
     "issn": "2000-2297",
-    "essn": "",
+    "essn": "2000-2297",
     "doi": "doi: 10.1080/20002297.2026.2728750",
     "sortpubdate": "2026/09/17 00:00",
     "epubdate": "2026 Sep 17"
@@ -142120,7 +142120,7 @@
     "lastauthor": "Chen F",
     "sortfirstauthor": "He R",
     "journal": "Journal of diabetes research",
-    "issn": "",
+    "issn": "2314-6745",
     "essn": "2314-6753",
     "doi": "doi: 10.1155/jdr/3632830",
     "sortpubdate": "2026/01/01 00:00",
@@ -142414,5 +142414,48 @@
     "doi": "doi: 10.1097/MD.0000000000050614",
     "sortpubdate": "2026/09/18 00:00",
     "epubdate": ""
+  },
+  {
+    "name": "NHANES",
+    "id": "42764211",
+    "title": "Association of isolated systolic and diastolic hypertension with moderately increased albuminuria: the Korea National Health and Nutrition Examination Survey.",
+    "source": "Kidney Res Clin Pract",
+    "pubdate": "2026 Sep 18",
+    "authors": [
+      "Choi H",
+      "Moon J",
+      "Cho M",
+      "Jhee JH",
+      "Lee CJ",
+      "Kim HC",
+      "Lee H"
+    ],
+    "lastauthor": "Lee H",
+    "sortfirstauthor": "Choi H",
+    "journal": "Kidney research and clinical practice",
+    "issn": "2211-9132",
+    "essn": "",
+    "doi": "doi: 10.23876/j.krcp.26.188",
+    "sortpubdate": "2026/09/18 00:00",
+    "epubdate": "2026 Sep 18"
+  },
+  {
+    "name": "NHANES",
+    "id": "42763582",
+    "title": "The Association Between Depression and Survival in Asthma: The Mediating Role of Income.",
+    "source": "Depress Anxiety",
+    "pubdate": "2026",
+    "authors": [
+      "Wang Z",
+      "Teng X"
+    ],
+    "lastauthor": "Teng X",
+    "sortfirstauthor": "Wang Z",
+    "journal": "Depression and anxiety",
+    "issn": "1091-4269",
+    "essn": "1520-6394",
+    "doi": "doi: 10.1155/da/8153352",
+    "sortpubdate": "2026/09/19 00:00",
+    "epubdate": "2026 Sep 19"
   }
 ]
