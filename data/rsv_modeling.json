@@ -9498,5 +9498,33 @@
     "doi": "doi: 10.1111/irv.70323",
     "sortpubdate": "2026/09/01 00:00",
     "epubdate": ""
+  },
+  {
+    "name": "RSV modeling",
+    "id": "42769543",
+    "title": "The kynurenine pathway in RNA virus infection: immunometabolic control of antiviral defense and viral persistence.",
+    "source": "Front Immunol",
+    "pubdate": "2026",
+    "authors": [
+      "Calderón-Sandate DN",
+      "Huerta-Garza MJ",
+      "Márquez-Reyna BA",
+      "Cañedo-Figueroa DM",
+      "Hernández-Rodríguez X",
+      "Lira-Hernández FI",
+      "Osuna-Ramos JF",
+      "Cardoso-Ortiz J",
+      "Del Ángel RM",
+      "Santos-Mena AO",
+      "De Jesús-González LA"
+    ],
+    "lastauthor": "De Jesús-González LA",
+    "sortfirstauthor": "Calderón-Sandate DN",
+    "journal": "Frontiers in immunology",
+    "issn": "",
+    "essn": "1664-3224",
+    "doi": "doi: 10.3389/fimmu.2026.1923351",
+    "sortpubdate": "2026/09/07 00:00",
+    "epubdate": "2026 Sep 7"
   }
 ]
