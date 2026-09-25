@@ -16366,5 +16366,33 @@
     "source": "Heart Rhythm O2",
     "journal": "Heart rhythm O2",
     "essn": "2666-5018"
+  },
+  {
+    "source": "Blood",
+    "journal": "Blood",
+    "issn": "0006-4971",
+    "essn": "1528-0020"
+  },
+  {
+    "source": "Int Ophthalmol Clin",
+    "journal": "International ophthalmology clinics",
+    "issn": "0020-8167",
+    "essn": "1536-9617"
+  },
+  {
+    "source": "Acta Cardiol Sin",
+    "journal": "Acta Cardiologica Sinica",
+    "issn": "1011-6842"
+  },
+  {
+    "source": "Australas J Ageing",
+    "journal": "Australasian journal on ageing",
+    "issn": "1440-6381",
+    "essn": "1741-6612"
+  },
+  {
+    "source": "Nat Food",
+    "journal": "Nature food",
+    "essn": "2662-1355"
   }
 ]
