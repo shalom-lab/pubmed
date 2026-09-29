@@ -144042,7 +144042,7 @@
   {
     "name": "NHANES",
     "id": "42800548",
-    "title": "Red Light, Green Light: Activity Fragmentation and All-Cause Mortality in United States Adults.",
+    "title": "Red light, green light: Activity fragmentation and all-cause mortality in United States adults.",
     "source": "Ann Epidemiol",
     "pubdate": "2026 Sep 26",
     "authors": [
@@ -144455,5 +144455,303 @@
     "doi": "doi: 10.1186/s12944-026-03048-4",
     "sortpubdate": "2026/09/15 00:00",
     "epubdate": "2026 Sep 15"
+  },
+  {
+    "name": "NHANES",
+    "id": "42805389",
+    "title": "Association of Platelet-to-High-Density Lipoprotein Cholesterol Ratio With Helicobacter pylori Seropositivity and All-Cause Mortality: An Interpretable Predictive Modeling Study.",
+    "source": "Clin Res Hepatol Gastroenterol",
+    "pubdate": "2026 Sep 28",
+    "authors": [
+      "Wang Z",
+      "Lin X",
+      "Huang Y",
+      "Zhuang Y",
+      "Huang M",
+      "He Y",
+      "Chen Q"
+    ],
+    "lastauthor": "Chen Q",
+    "sortfirstauthor": "Wang Z",
+    "journal": "Clinics and research in hepatology and gastroenterology",
+    "issn": "2210-7401",
+    "essn": "2210-741X",
+    "doi": "doi: 10.1016/j.clinre.2026.102930",
+    "sortpubdate": "2026/09/28 00:00",
+    "epubdate": "2026 Sep 28"
+  },
+  {
+    "name": "NHANES",
+    "id": "42804938",
+    "title": "Association between lipid accumulation product and the prevalence of peripheral artery disease: A cross-sectional study based on NHANES 1999‒2004.",
+    "source": "Clinics (Sao Paulo)",
+    "pubdate": "2026 Sep 28",
+    "authors": [
+      "Mi LB",
+      "Li AB"
+    ],
+    "lastauthor": "Li AB",
+    "sortfirstauthor": "Mi LB",
+    "journal": "Clinics (Sao Paulo, Brazil)",
+    "issn": "1807-5932",
+    "essn": "1980-5322",
+    "doi": "doi: 10.1016/j.clinsp.2026.101175",
+    "sortpubdate": "2026/09/28 00:00",
+    "epubdate": "2026 Sep 28"
+  },
+  {
+    "name": "NHANES",
+    "id": "42804922",
+    "title": "Time-varying within-person association between daily physical activity and subsequent sleep in children and adolescents.",
+    "source": "Sleep Med",
+    "pubdate": "2026 Sep 26",
+    "authors": [
+      "Bourke M",
+      "Verswijveren SJJM",
+      "Hesketh KD"
+    ],
+    "lastauthor": "Hesketh KD",
+    "sortfirstauthor": "Bourke M",
+    "journal": "Sleep medicine",
+    "issn": "1389-9457",
+    "essn": "1878-5506",
+    "doi": "doi: 10.1016/j.sleep.2026.109289",
+    "sortpubdate": "2026/09/26 00:00",
+    "epubdate": "2026 Sep 26"
+  },
+  {
+    "name": "NHANES",
+    "id": "42804660",
+    "title": "Timing of Device-Measured Physical Activity and Sleep in Relation to Meeting Physical Activity Guidelines in U.S. Adults.",
+    "source": "Med Sci Sports Exerc",
+    "pubdate": "2026 Sep 28",
+    "authors": [
+      "Zhang K",
+      "Lang JJ",
+      "Chen S",
+      "Colley RC",
+      "Saint-Maurice PF",
+      "Dumas A",
+      "Tomkinson GR",
+      "Chaput JP"
+    ],
+    "lastauthor": "Chaput JP",
+    "sortfirstauthor": "Zhang K",
+    "journal": "Medicine and science in sports and exercise",
+    "issn": "0195-9131",
+    "essn": "1530-0315",
+    "doi": "doi: 10.1249/MSS.0000000000004154",
+    "sortpubdate": "2026/09/28 00:00",
+    "epubdate": "2026 Sep 28"
+  },
+  {
+    "name": "NHANES",
+    "id": "42803723",
+    "title": "Spirometry-defined obstructive airflow limitation and risk of incident dementia: A nationwide cohort study in South Korea.",
+    "source": "J Alzheimers Dis",
+    "pubdate": "2026 Sep 28",
+    "authors": [
+      "Yeo D",
+      "Kim S",
+      "Lee K",
+      "Son Y",
+      "Lee H",
+      "Kim S",
+      "Hwang HS",
+      "Yon DK"
+    ],
+    "lastauthor": "Yon DK",
+    "sortfirstauthor": "Yeo D",
+    "journal": "Journal of Alzheimer's disease : JAD",
+    "issn": "1387-2877",
+    "essn": "1875-8908",
+    "doi": "doi: 10.1177/13872877261489594",
+    "sortpubdate": "2026/09/28 00:00",
+    "epubdate": "2026 Sep 28"
+  },
+  {
+    "name": "NHANES",
+    "id": "42802194",
+    "title": "Cardiovascular Classification in Middle-Aged and Elderly CKD Patients: A Machine Learning Approach in China and the United States.",
+    "source": "Diabetes Obes Metab",
+    "pubdate": "2026 Sep 27",
+    "authors": [
+      "Zhang Y",
+      "Xu K",
+      "Zhang H",
+      "Pan Y",
+      "Zhu T"
+    ],
+    "lastauthor": "Zhu T",
+    "sortfirstauthor": "Zhang Y",
+    "journal": "Diabetes, obesity & metabolism",
+    "issn": "1462-8902",
+    "essn": "1463-1326",
+    "doi": "doi: 10.1111/dom.71380",
+    "sortpubdate": "2026/09/27 00:00",
+    "epubdate": "2026 Sep 27"
+  },
+  {
+    "name": "NHANES",
+    "id": "42797065",
+    "title": "Lower Health Literacy Is Associated with Poorer Diet Quality in Korean Adults: An Association Masked by Age.",
+    "source": "Nutrients",
+    "pubdate": "2026 Sep 20",
+    "authors": [
+      "Joo H",
+      "Choi J"
+    ],
+    "lastauthor": "Choi J",
+    "sortfirstauthor": "Joo H",
+    "journal": "Nutrients",
+    "issn": "",
+    "essn": "2072-6643",
+    "doi": "doi: 10.3390/nu18183082",
+    "sortpubdate": "2026/09/20 00:00",
+    "epubdate": "2026 Sep 20"
+  },
+  {
+    "name": "NHANES",
+    "id": "42795871",
+    "title": "Self-Rated Health Associated with Chronic Diseases and Types of Physical Activity Among Middle-Aged and Older Adults: A Cross-Sectional Study Using Explainable Machine Learning.",
+    "source": "J Clin Med",
+    "pubdate": "2026 Sep 13",
+    "authors": [
+      "Yang T",
+      "Choi Y",
+      "Kim Y",
+      "Song M"
+    ],
+    "lastauthor": "Song M",
+    "sortfirstauthor": "Yang T",
+    "journal": "Journal of clinical medicine",
+    "issn": "2077-0383",
+    "essn": "2077-0383",
+    "doi": "doi: 10.3390/jcm15187100",
+    "sortpubdate": "2026/09/13 00:00",
+    "epubdate": "2026 Sep 13"
+  },
+  {
+    "name": "NHANES",
+    "id": "42794143",
+    "title": "Device-Based Physical Activity Surveillance in Asian American Children and Adolescents: Participation and Activity Patterns in NHANES 2011-2014.",
+    "source": "Children (Basel)",
+    "pubdate": "2026 Aug 22",
+    "authors": [
+      "Kwon S",
+      "Tandon PS",
+      "Shah NS",
+      "Kandula NR"
+    ],
+    "lastauthor": "Kandula NR",
+    "sortfirstauthor": "Kwon S",
+    "journal": "Children (Basel, Switzerland)",
+    "issn": "2227-9067",
+    "essn": "2227-9067",
+    "doi": "doi: 10.3390/children13091123",
+    "sortpubdate": "2026/08/22 00:00",
+    "epubdate": "2026 Aug 22"
+  },
+  {
+    "name": "NHANES",
+    "id": "42793662",
+    "title": "Association of Estimated Pulse Wave Velocity with Chronic Kidney Disease Risk: A Machine Learning Analysis Based on NHANES and CHARLS.",
+    "source": "Healthcare (Basel)",
+    "pubdate": "2026 Sep 21",
+    "authors": [
+      "Wu Y",
+      "Yuan Y",
+      "Li Y",
+      "Li R",
+      "Pang J"
+    ],
+    "lastauthor": "Pang J",
+    "sortfirstauthor": "Wu Y",
+    "journal": "Healthcare (Basel, Switzerland)",
+    "issn": "2227-9032",
+    "essn": "2227-9032",
+    "doi": "doi: 10.3390/healthcare14183125",
+    "sortpubdate": "2026/09/21 00:00",
+    "epubdate": "2026 Sep 21"
+  },
+  {
+    "name": "NHANES",
+    "id": "42793632",
+    "title": "Sedentary Time and Current Tinnitus in Midlife Korean Women (Aged 40 to 64 Years): A Cross-Sectional Analysis from KNHANES 2014-2018.",
+    "source": "Healthcare (Basel)",
+    "pubdate": "2026 Sep 20",
+    "authors": [
+      "Ryu M"
+    ],
+    "lastauthor": "Ryu M",
+    "sortfirstauthor": "Ryu M",
+    "journal": "Healthcare (Basel, Switzerland)",
+    "issn": "2227-9032",
+    "essn": "2227-9032",
+    "doi": "doi: 10.3390/healthcare14183094",
+    "sortpubdate": "2026/09/20 00:00",
+    "epubdate": "2026 Sep 20"
+  },
+  {
+    "name": "NHANES",
+    "id": "42793580",
+    "title": "Muscle Strength Profiles According to Kidney Dysfunction and Anemia Status in Korean Adults Aged ≥40 Years: A Nationwide Cross-Sectional Study.",
+    "source": "Healthcare (Basel)",
+    "pubdate": "2026 Sep 16",
+    "authors": [
+      "Son H",
+      "Bak I",
+      "Lee J",
+      "Lee SJ"
+    ],
+    "lastauthor": "Lee SJ",
+    "sortfirstauthor": "Son H",
+    "journal": "Healthcare (Basel, Switzerland)",
+    "issn": "2227-9032",
+    "essn": "2227-9032",
+    "doi": "doi: 10.3390/healthcare14183043",
+    "sortpubdate": "2026/09/16 00:00",
+    "epubdate": "2026 Sep 16"
+  },
+  {
+    "name": "NHANES",
+    "id": "42793504",
+    "title": "Association Between Physical Activity Levels and Life Functioning in Korean Older Adults: A Cross-Sectional Analysis of the 2024 Korea National Health and Nutrition Examination Survey.",
+    "source": "Healthcare (Basel)",
+    "pubdate": "2026 Sep 11",
+    "authors": [
+      "Son N"
+    ],
+    "lastauthor": "Son N",
+    "sortfirstauthor": "Son N",
+    "journal": "Healthcare (Basel, Switzerland)",
+    "issn": "2227-9032",
+    "essn": "2227-9032",
+    "doi": "doi: 10.3390/healthcare14182965",
+    "sortpubdate": "2026/09/11 00:00",
+    "epubdate": "2026 Sep 11"
+  },
+  {
+    "name": "NHANES",
+    "id": "42792622",
+    "title": "Association of the Pan-Immune-Inflammation Value-to-Albumin Ratio as a Novel Cardiovascular Disease Predictor in Type 2 Diabetes: A Prospective Cohort Study.",
+    "source": "Biomedicines",
+    "pubdate": "2026 Aug 22",
+    "authors": [
+      "Liu F",
+      "Yang X",
+      "Gao B",
+      "Luo Y",
+      "Tao L",
+      "Guo X"
+    ],
+    "lastauthor": "Guo X",
+    "sortfirstauthor": "Liu F",
+    "journal": "Biomedicines",
+    "issn": "2227-9059",
+    "essn": "2227-9059",
+    "doi": "doi: 10.3390/biomedicines14091878",
+    "sortpubdate": "2026/08/22 00:00",
+    "epubdate": "2026 Aug 22"
   }
 ]

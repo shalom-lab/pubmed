@@ -9665,5 +9665,87 @@
     "doi": "pii: 1533. doi: 10.3390/life16091533",
     "sortpubdate": "2026/09/15 00:00",
     "epubdate": "2026 Sep 15"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "42797643",
+    "title": "Structured Pharmacist-Led Vaccine Recommendation and Coadministration in Community Pharmacies: Real-World Evidence from Poland.",
+    "source": "Vaccines (Basel)",
+    "pubdate": "2026 Sep 19",
+    "authors": [
+      "Kuczwalska E",
+      "Dworakowska AM",
+      "Skarżyńska M",
+      "Bujalska-Zadrożny M"
+    ],
+    "lastauthor": "Bujalska-Zadrożny M",
+    "sortfirstauthor": "Kuczwalska E",
+    "journal": "Vaccines",
+    "issn": "2076-393X",
+    "essn": "2076-393X",
+    "doi": "doi: 10.3390/vaccines14090823",
+    "sortpubdate": "2026/09/19 00:00",
+    "epubdate": "2026 Sep 19"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "42797557",
+    "title": "Estimating and Projecting Efficacy of Monoclonal Antibodies Against Respiratory Syncytial Virus Beyond Clinical Trial Periods.",
+    "source": "Vaccines (Basel)",
+    "pubdate": "2026 Aug 26",
+    "authors": [
+      "Wang D",
+      "Lang JC",
+      "Kura K",
+      "Chen YH"
+    ],
+    "lastauthor": "Chen YH",
+    "sortfirstauthor": "Wang D",
+    "journal": "Vaccines",
+    "issn": "2076-393X",
+    "essn": "2076-393X",
+    "doi": "doi: 10.3390/vaccines14090737",
+    "sortpubdate": "2026/08/26 00:00",
+    "epubdate": "2026 Aug 26"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "42796671",
+    "title": "Target-Based Antiviral Drug Development Against Human Respiratory Viruses.",
+    "source": "Pathogens",
+    "pubdate": "2026 Aug 27",
+    "authors": [
+      "Samrat SK",
+      "Srivastava G",
+      "Zhang R",
+      "Li Z",
+      "Li H"
+    ],
+    "lastauthor": "Li H",
+    "sortfirstauthor": "Samrat SK",
+    "journal": "Pathogens (Basel, Switzerland)",
+    "issn": "",
+    "essn": "2076-0817",
+    "doi": "doi: 10.3390/pathogens15090903",
+    "sortpubdate": "2026/08/27 00:00",
+    "epubdate": "2026 Aug 27"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "42795398",
+    "title": "Clinical Outcomes of Respiratory Syncytial Virus Versus Influenza Pneumonia in Critically Ill Adults.",
+    "source": "Life (Basel)",
+    "pubdate": "2026 Sep 15",
+    "authors": [
+      "Yayan J"
+    ],
+    "lastauthor": "Yayan J",
+    "sortfirstauthor": "Yayan J",
+    "journal": "Life (Basel, Switzerland)",
+    "issn": "2075-1729",
+    "essn": "2075-1729",
+    "doi": "doi: 10.3390/life16091533",
+    "sortpubdate": "2026/09/15 00:00",
+    "epubdate": "2026 Sep 15"
   }
 ]
