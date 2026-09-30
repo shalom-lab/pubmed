@@ -10878,7 +10878,7 @@
     "id": "42660413",
     "title": "Changes in respiratory virus seasonality across the COVID-19 pandemic: a multicenter comparative study in Leicester, Rotterdam, Hong Kong, and Christchurch.",
     "source": "Int J Infect Dis",
-    "pubdate": "2026 Aug 27",
+    "pubdate": "2026 Oct",
     "authors": [
       "Wagatsuma K",
       "Song Z",
@@ -10906,7 +10906,7 @@
     "issn": "1201-9712",
     "essn": "1878-3511",
     "doi": "doi: 10.1016/j.ijid.2026.109080",
-    "sortpubdate": "2026/08/27 00:00",
+    "sortpubdate": "2026/10/01 00:00",
     "epubdate": "2026 Aug 27"
   },
   {
@@ -11661,5 +11661,24 @@
     "doi": "doi: 10.3390/pathogens15090918",
     "sortpubdate": "2026/08/31 00:00",
     "epubdate": "2026 Aug 31"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "42807641",
+    "title": "Respiratory syncytial virus as a major driver of SARS in Brazilian children under five years of age: a national surveillance study, 2022-2023.",
+    "source": "Respir Res Clin Pract",
+    "pubdate": "2026",
+    "authors": [
+      "Bierrenbach AL",
+      "Ranzani OT"
+    ],
+    "lastauthor": "Ranzani OT",
+    "sortfirstauthor": "Bierrenbach AL",
+    "journal": "Respiratory research & clinical practice",
+    "issn": "",
+    "essn": "3086-3910",
+    "doi": "doi: 10.36416/1806-3756/e20250512",
+    "sortpubdate": "2026/09/14 00:00",
+    "epubdate": "2026 Sep 14"
   }
 ]

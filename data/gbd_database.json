@@ -99871,7 +99871,7 @@
     "id": "42785105",
     "title": "GPAT3 protects against lipid stress-induced ferroptosis in hepatocellular carcinoma: From multi-omics analysis to functional validation.",
     "source": "Biochim Biophys Acta Mol Basis Dis",
-    "pubdate": "2026 Sep 24",
+    "pubdate": "2027 Jan",
     "authors": [
       "Zhao Y",
       "Yang J",
@@ -99888,7 +99888,7 @@
     "issn": "0925-4439",
     "essn": "1879-260X",
     "doi": "doi: 10.1016/j.bbadis.2026.168471",
-    "sortpubdate": "2026/09/24 00:00",
+    "sortpubdate": "2027/01/01 00:00",
     "epubdate": "2026 Sep 24"
   },
   {
@@ -101035,5 +101035,145 @@
     "doi": "doi: 10.3390/bioengineering13090958",
     "sortpubdate": "2026/08/23 00:00",
     "epubdate": "2026 Aug 23"
+  },
+  {
+    "name": "GBD database",
+    "id": "42810962",
+    "title": "[Disease Burden of Non-alcoholic Steatohepatitis-Associated Hepatocellular Carcinoma in China,the Globe,and Regions with Different Socio-Demographic Indices,1990-2021].",
+    "source": "Zhongguo Yi Xue Ke Xue Yuan Xue Bao",
+    "pubdate": "2026 Sep 30",
+    "authors": [
+      "Yan YX",
+      "Zheng N",
+      "Li Y",
+      "Tang J",
+      "Pang YF",
+      "Ding XY",
+      "Ren XM"
+    ],
+    "lastauthor": "Ren XM",
+    "sortfirstauthor": "Yan YX",
+    "journal": "Zhongguo yi xue ke xue yuan xue bao. Acta Academiae Medicinae Sinicae",
+    "issn": "1000-503X",
+    "essn": "",
+    "doi": "doi: 10.3881/j.issn.1000-503X.17189",
+    "sortpubdate": "2026/09/30 00:00",
+    "epubdate": "2026 Sep 30"
+  },
+  {
+    "name": "GBD database",
+    "id": "42809481",
+    "title": "Trends and Projections of Alzheimer's Disease and Other Dementias in East Asia: Three Decades of Epidemiological Analysis (1990-2023) with Forecasts to 2050.",
+    "source": "Neuroepidemiology",
+    "pubdate": "2026 Sep 29",
+    "authors": [
+      "Qin R",
+      "Mao Z",
+      "Chen L"
+    ],
+    "lastauthor": "Chen L",
+    "sortfirstauthor": "Qin R",
+    "journal": "Neuroepidemiology",
+    "issn": "0251-5350",
+    "essn": "1423-0208",
+    "doi": "doi: 10.1159/ned/adwag040",
+    "sortpubdate": "2026/09/29 00:00",
+    "epubdate": "2026 Sep 29"
+  },
+  {
+    "name": "GBD database",
+    "id": "42808398",
+    "title": "Global Trends and Disparities in Cervical Cancer Control in Central Asia (1990-2023): A Comparative Age-Period-Cohort and Joinpoint Regression Analysis.",
+    "source": "Asian Pac J Cancer Prev",
+    "pubdate": "2026 Sep 1",
+    "authors": [
+      "Serikova-Esengeldina D",
+      "Issenova B",
+      "Siyazbekova Z",
+      "Samarova U",
+      "Rakhyzhanova S",
+      "Akhmetova K",
+      "Yessenbayeva A",
+      "Khismetova Z",
+      "Atabayeva A"
+    ],
+    "lastauthor": "Atabayeva A",
+    "sortfirstauthor": "Serikova-Esengeldina D",
+    "journal": "Asian Pacific journal of cancer prevention : APJCP",
+    "issn": "1513-7368",
+    "essn": "2476-762X",
+    "doi": "doi: 10.31557/APJCP.2026.27.9.3307",
+    "sortpubdate": "2026/09/01 00:00",
+    "epubdate": "2026 Sep 1"
+  },
+  {
+    "name": "GBD database",
+    "id": "42808188",
+    "title": "Machine learning insights into the burden and risk factors of lower respiratory infections in East Asia (1990-2033).",
+    "source": "J Int Med Res",
+    "pubdate": "2026 Sep",
+    "authors": [
+      "Su X",
+      "Xu W",
+      "Lv W",
+      "Zheng J",
+      "Wang Y",
+      "Wu T",
+      "Sun L",
+      "Hu H",
+      "Liu Y",
+      "Li Y"
+    ],
+    "lastauthor": "Li Y",
+    "sortfirstauthor": "Su X",
+    "journal": "The Journal of international medical research",
+    "issn": "0300-0605",
+    "essn": "1473-2300",
+    "doi": "doi: 10.1177/03000605261467663",
+    "sortpubdate": "2026/09/01 00:00",
+    "epubdate": "2026 Sep 29"
+  },
+  {
+    "name": "GBD database",
+    "id": "42808033",
+    "title": "Burden, Trends, Associated Diseases and Predictions of Alopecia Areata in China, Japan, South Korea, and Globally: A GBD 2023 Analysis.",
+    "source": "Clin Cosmet Investig Dermatol",
+    "pubdate": "2026",
+    "authors": [
+      "Pan Y",
+      "Li X",
+      "Wei G",
+      "Yao Z",
+      "Ruan Z"
+    ],
+    "lastauthor": "Ruan Z",
+    "sortfirstauthor": "Pan Y",
+    "journal": "Clinical, cosmetic and investigational dermatology",
+    "issn": "1178-7015",
+    "essn": "1178-7015",
+    "doi": "doi: 10.2147/CCID.S646030",
+    "sortpubdate": "2026/09/24 00:00",
+    "epubdate": "2026 Sep 24"
+  },
+  {
+    "name": "GBD database",
+    "id": "42806846",
+    "title": "Digital mental health: innovations in assessment and intervention.",
+    "source": "J Zhejiang Univ Sci B",
+    "pubdate": "2026 Sep 24",
+    "authors": [
+      "Lyu H",
+      "Ju Z",
+      "Yang J",
+      "Hu S"
+    ],
+    "lastauthor": "Hu S",
+    "sortfirstauthor": "Lyu H",
+    "journal": "Journal of Zhejiang University. Science. B",
+    "issn": "1673-1581",
+    "essn": "1862-1783",
+    "doi": "doi: 10.1631/jzus.B2610003",
+    "sortpubdate": "2026/09/24 00:00",
+    "epubdate": ""
   }
 ]
