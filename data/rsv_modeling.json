@@ -9508,7 +9508,7 @@
     "authors": [
       "Calderón-Sandate DN",
       "Huerta-Garza MJ",
-      "Márquez-Reyna BA",
+      "M��rquez-Reyna BA",
       "Cañedo-Figueroa DM",
       "Hernández-Rodríguez X",
       "Lira-Hernández FI",
@@ -9779,5 +9779,32 @@
     "doi": "doi: 10.3389/fped.2026.1880830",
     "sortpubdate": "2026/09/14 00:00",
     "epubdate": "2026 Sep 14"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "42811754",
+    "title": "Clinical and economic benefits of bivalent Respiratory syncytial virus prefusion F (RSVpreF) vaccine for prevention of RSV in adults: a cost-effectiveness analysis for Singapore.",
+    "source": "Expert Rev Pharmacoecon Outcomes Res",
+    "pubdate": "2026 Sep 29",
+    "authors": [
+      "Thakkar K",
+      "Shajarizadeh A",
+      "Gaind N",
+      "Ivkovic L",
+      "Balasubramanian G",
+      "Kefalogianni R",
+      "Zhang J",
+      "See KC",
+      "Kwa AL",
+      "Mendes D"
+    ],
+    "lastauthor": "Mendes D",
+    "sortfirstauthor": "Thakkar K",
+    "journal": "Expert review of pharmacoeconomics & outcomes research",
+    "issn": "1473-7167",
+    "essn": "1744-8379",
+    "doi": "doi: 10.1080/14737167.2026.2737558",
+    "sortpubdate": "2026/09/29 00:00",
+    "epubdate": "2026 Sep 29"
   }
 ]
