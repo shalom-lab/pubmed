@@ -145495,7 +145495,7 @@
   {
     "name": "NHANES",
     "id": "42822713",
-    "title": "Predictive Value of the Albumin-Bilirubin Score for All-Cause Mortality in Individuals with Stroke: Machine Learning Prediction Models with SHAP-Based Interpretation.",
+    "title": "Predictive value of the albumin-bilirubin score for all-cause mortality in individuals with stroke: machine learning prediction models with SHAP-based interpretation.",
     "source": "J Stroke Cerebrovasc Dis",
     "pubdate": "2026 Oct 1",
     "authors": [
@@ -146021,5 +146021,82 @@
     "doi": "doi: 10.1136/bmjdrc-2026-005941",
     "sortpubdate": "2026/09/30 00:00",
     "epubdate": "2026 Sep 30"
+  },
+  {
+    "name": "NHANES",
+    "id": "42828596",
+    "title": "Association of Mixed Metal Exposures with Cardiovascular Disease: Insights from a Population-Based Study.",
+    "source": "Cardiovasc Toxicol",
+    "pubdate": "2026 Oct 3",
+    "authors": [
+      "Jin X",
+      "Wu H",
+      "Zhang H",
+      "Jin Y",
+      "Feng Y",
+      "Liu Y",
+      "Li J",
+      "Wei L",
+      "Qi Z",
+      "Qi X"
+    ],
+    "lastauthor": "Qi X",
+    "sortfirstauthor": "Jin X",
+    "journal": "Cardiovascular toxicology",
+    "issn": "1530-7905",
+    "essn": "1559-0259",
+    "doi": "pii: 124. doi: 10.1007/s12012-026-10195-8",
+    "sortpubdate": "2026/10/03 00:00",
+    "epubdate": "2026 Oct 3"
+  },
+  {
+    "name": "NHANES",
+    "id": "42828261",
+    "title": "Cardiovascular health and depression among postpartum women in the United States.",
+    "source": "Am J Prev Cardiol",
+    "pubdate": "2026 Dec",
+    "authors": [
+      "McLaughlin MM",
+      "Lee C",
+      "Huang X",
+      "Parikh NI",
+      "Deligiannidis KM",
+      "Khan SS",
+      "Beatty AL"
+    ],
+    "lastauthor": "Beatty AL",
+    "sortfirstauthor": "McLaughlin MM",
+    "journal": "American journal of preventive cardiology",
+    "issn": "",
+    "essn": "2666-6677",
+    "doi": "doi: 10.1016/j.ajpc.2026.101756",
+    "sortpubdate": "2026/07/18 00:00",
+    "epubdate": "2026 Jul 18"
+  },
+  {
+    "name": "NHANES",
+    "id": "42828005",
+    "title": "Adolescent Hearing Loss in China and the United States: Trends, Socioeconomic Disparities, and Noise Exposure From GBD 1990-2023 and NHANES 2005-2020.",
+    "source": "Laryngoscope Investig Otolaryngol",
+    "pubdate": "2026 Oct",
+    "authors": [
+      "Zhang L",
+      "Wu X",
+      "Cao Y",
+      "Li J",
+      "Zhang J",
+      "Guan J",
+      "Guo Q",
+      "Wang D",
+      "Wang Q"
+    ],
+    "lastauthor": "Wang Q",
+    "sortfirstauthor": "Zhang L",
+    "journal": "Laryngoscope investigative otolaryngology",
+    "issn": "2378-8038",
+    "essn": "",
+    "doi": "doi: 10.1002/lio2.70558",
+    "sortpubdate": "2026/10/02 00:00",
+    "epubdate": "2026 Oct 2"
   }
 ]

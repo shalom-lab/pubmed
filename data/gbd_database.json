@@ -102100,7 +102100,7 @@
       "Ramadhan K",
       "Ramasamy C",
       "Ramasamy SK",
-      "Ram��rez-Vélez R",
+      "Ramírez-Vélez R",
       "Ramphul K",
       "Rao AG",
       "Rathi I",
@@ -103096,5 +103096,117 @@
     "doi": "doi: 10.1111/imj.70612",
     "sortpubdate": "2026/10/01 00:00",
     "epubdate": "2026 Oct 1"
+  },
+  {
+    "name": "GBD database",
+    "id": "42828565",
+    "title": "Increased glioblastoma risk in patients with myeloproliferative neoplasms and myelodysplastic syndromes.",
+    "source": "Clin Exp Med",
+    "pubdate": "2026 Aug 22",
+    "authors": [
+      "Zhou H",
+      "Jin S",
+      "Huang L",
+      "Liu W"
+    ],
+    "lastauthor": "Liu W",
+    "sortfirstauthor": "Zhou H",
+    "journal": "Clinical and experimental medicine",
+    "issn": "1591-8890",
+    "essn": "1591-9528",
+    "doi": "pii: 346. doi: 10.1007/s10238-026-02296-z",
+    "sortpubdate": "2026/08/22 00:00",
+    "epubdate": "2026 Aug 22"
+  },
+  {
+    "name": "GBD database",
+    "id": "42828267",
+    "title": "Dietary Risks and Cardiometabolic Disease Burden Across the United States: Geographic Inequalities, Age-Period-Cohort Patterns, and Projections to 2045.",
+    "source": "Am J Prev Cardiol",
+    "pubdate": "2026 Dec",
+    "authors": [
+      "Yao L",
+      "Landry MJ",
+      "Odegaard A"
+    ],
+    "lastauthor": "Odegaard A",
+    "sortfirstauthor": "Yao L",
+    "journal": "American journal of preventive cardiology",
+    "issn": "",
+    "essn": "2666-6677",
+    "doi": "doi: 10.1016/j.ajpc.2026.101786",
+    "sortpubdate": "2026/08/07 00:00",
+    "epubdate": "2026 Aug 7"
+  },
+  {
+    "name": "GBD database",
+    "id": "42828005",
+    "title": "Adolescent Hearing Loss in China and the United States: Trends, Socioeconomic Disparities, and Noise Exposure From GBD 1990-2023 and NHANES 2005-2020.",
+    "source": "Laryngoscope Investig Otolaryngol",
+    "pubdate": "2026 Oct",
+    "authors": [
+      "Zhang L",
+      "Wu X",
+      "Cao Y",
+      "Li J",
+      "Zhang J",
+      "Guan J",
+      "Guo Q",
+      "Wang D",
+      "Wang Q"
+    ],
+    "lastauthor": "Wang Q",
+    "sortfirstauthor": "Zhang L",
+    "journal": "Laryngoscope investigative otolaryngology",
+    "issn": "2378-8038",
+    "essn": "",
+    "doi": "doi: 10.1002/lio2.70558",
+    "sortpubdate": "2026/10/02 00:00",
+    "epubdate": "2026 Oct 2"
+  },
+  {
+    "name": "GBD database",
+    "id": "42827910",
+    "title": "Changing epidemiological patterns of tuberculosis in China from 1990 to 2023: trends and future projections of drug-resistant and HIV-associated tuberculosis.",
+    "source": "Front Public Health",
+    "pubdate": "2026",
+    "authors": [
+      "Chen J",
+      "Zheng P",
+      "Zuo Q",
+      "Zhang S",
+      "Qiu L",
+      "Wu X",
+      "Lu Z"
+    ],
+    "lastauthor": "Lu Z",
+    "sortfirstauthor": "Chen J",
+    "journal": "Frontiers in public health",
+    "issn": "",
+    "essn": "2296-2565",
+    "doi": "doi: 10.3389/fpubh.2026.1948171",
+    "sortpubdate": "2026/09/18 00:00",
+    "epubdate": "2026 Sep 18"
+  },
+  {
+    "name": "GBD database",
+    "id": "42827545",
+    "title": "Global burden of diarrheal diseases attributable to 13 pathogens in children under five: a comprehensive analysis from GBD 2021.",
+    "source": "Front Pediatr",
+    "pubdate": "2026",
+    "authors": [
+      "Li X",
+      "Guo L",
+      "Chen Y",
+      "Zhang H"
+    ],
+    "lastauthor": "Zhang H",
+    "sortfirstauthor": "Li X",
+    "journal": "Frontiers in pediatrics",
+    "issn": "2296-2360",
+    "essn": "",
+    "doi": "doi: 10.3389/fped.2026.1846669",
+    "sortpubdate": "2026/09/18 00:00",
+    "epubdate": "2026 Sep 18"
   }
 ]
