@@ -103159,7 +103159,7 @@
     "sortfirstauthor": "Zhang L",
     "journal": "Laryngoscope investigative otolaryngology",
     "issn": "2378-8038",
-    "essn": "",
+    "essn": "2378-8038",
     "doi": "doi: 10.1002/lio2.70558",
     "sortpubdate": "2026/10/02 00:00",
     "epubdate": "2026 Oct 2"
@@ -103204,9 +103204,30 @@
     "sortfirstauthor": "Li X",
     "journal": "Frontiers in pediatrics",
     "issn": "2296-2360",
-    "essn": "",
+    "essn": "2296-2360",
     "doi": "doi: 10.3389/fped.2026.1846669",
     "sortpubdate": "2026/09/18 00:00",
     "epubdate": "2026 Sep 18"
+  },
+  {
+    "name": "GBD database",
+    "id": "42830190",
+    "title": "Global trends in urological cancers: an analysis of the global burden of disease study 2023.",
+    "source": "BJU Int",
+    "pubdate": "2026 Oct 4",
+    "authors": [
+      "Lu H",
+      "Zhang Y",
+      "Zhao Y",
+      "Zhang Y"
+    ],
+    "lastauthor": "Zhang Y",
+    "sortfirstauthor": "Lu H",
+    "journal": "BJU international",
+    "issn": "1464-4096",
+    "essn": "1464-410X",
+    "doi": "doi: 10.1111/bju.70473",
+    "sortpubdate": "2026/10/04 00:00",
+    "epubdate": "2026 Oct 4"
   }
 ]
