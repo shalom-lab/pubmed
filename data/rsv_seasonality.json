@@ -11741,5 +11741,29 @@
     "doi": "doi: 10.1111/irv.70296",
     "sortpubdate": "2026/10/01 00:00",
     "epubdate": ""
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "42830752",
+    "title": "Trends in respiratory virus positivity across urban and rural hospitals in Ontario over three seasons.",
+    "source": "IJID Reg",
+    "pubdate": "2026 Dec",
+    "authors": [
+      "Deng R",
+      "Mendlowitz A",
+      "Katz K",
+      "Vermeiren C",
+      "Biondi M",
+      "Li X",
+      "Kozak R"
+    ],
+    "lastauthor": "Kozak R",
+    "sortfirstauthor": "Deng R",
+    "journal": "IJID regions",
+    "issn": "",
+    "essn": "2772-7076",
+    "doi": "doi: 10.1016/j.ijregi.2026.101005",
+    "sortpubdate": "2026/09/04 00:00",
+    "epubdate": "2026 Sep 4"
   }
 ]

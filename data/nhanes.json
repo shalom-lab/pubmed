@@ -146098,5 +146098,113 @@
     "doi": "doi: 10.1002/lio2.70558",
     "sortpubdate": "2026/10/02 00:00",
     "epubdate": "2026 Oct 2"
+  },
+  {
+    "name": "NHANES",
+    "id": "42833373",
+    "title": "Explainable Machine Learning to Identify Clinical, Environmental, and Social Factors Associated with Diagnosed Pediatric Asthma.",
+    "source": "Ann Allergy Asthma Immunol",
+    "pubdate": "2026 Oct 5",
+    "authors": [
+      "Micheals K",
+      "Nguyen W",
+      "Alwesabi Y"
+    ],
+    "lastauthor": "Alwesabi Y",
+    "sortfirstauthor": "Micheals K",
+    "journal": "Annals of allergy, asthma & immunology : official publication of the American College of Allergy, Asthma, & Immunology",
+    "issn": "1081-1206",
+    "essn": "1534-4436",
+    "doi": "pii: S1081-1206(26)01210-X. doi: 10.1016/j.anai.2026.09.748",
+    "sortpubdate": "2026/10/05 00:00",
+    "epubdate": "2026 Oct 5"
+  },
+  {
+    "name": "NHANES",
+    "id": "42831802",
+    "title": "Physical activity reduces but does not fully counteract the detrimental associations between alcohol use and metabolic syndrome.",
+    "source": "Alcohol Alcohol",
+    "pubdate": "2026 Sep 20",
+    "authors": [
+      "Courtney JB",
+      "Alam IZ",
+      "Evenson KR"
+    ],
+    "lastauthor": "Evenson KR",
+    "sortfirstauthor": "Courtney JB",
+    "journal": "Alcohol and alcoholism (Oxford, Oxfordshire)",
+    "issn": "0735-0414",
+    "essn": "1464-3502",
+    "doi": "pii: agag066. doi: 10.1093/alcalc/agag066",
+    "sortpubdate": "2026/09/20 00:00",
+    "epubdate": ""
+  },
+  {
+    "name": "NHANES",
+    "id": "42831448",
+    "title": "Disparities in Dental Care Access, Oral Cancer Counseling, and Oral Cancer Examination Among U.S. Adults with a History of Cancer: Results from NHANES, 2015-2018.",
+    "source": "Cancer Invest",
+    "pubdate": "2026 Oct 5",
+    "authors": [
+      "Bin Hamdan RH",
+      "Cruz AJS",
+      "AlDosari AM",
+      "Aldosari MA",
+      "Abreu MHNG"
+    ],
+    "lastauthor": "Abreu MHNG",
+    "sortfirstauthor": "Bin Hamdan RH",
+    "journal": "Cancer investigation",
+    "issn": "0735-7907",
+    "essn": "1532-4192",
+    "doi": "doi: 10.1080/07357907.2026.2739841",
+    "sortpubdate": "2026/10/05 00:00",
+    "epubdate": "2026 Oct 5"
+  },
+  {
+    "name": "NHANES",
+    "id": "42830764",
+    "title": "Changes in statin therapy eligibility under the 2026 versus 2018 dyslipidemia guidelines.",
+    "source": "Am J Prev Cardiol",
+    "pubdate": "2026 Dec",
+    "authors": [
+      "Spitz JA",
+      "Metlock FE",
+      "Nriagu B",
+      "Ade C",
+      "Scheuermann B",
+      "Dastmalchi L",
+      "Sharma G",
+      "Kim S"
+    ],
+    "lastauthor": "Kim S",
+    "sortfirstauthor": "Spitz JA",
+    "journal": "American journal of preventive cardiology",
+    "issn": "",
+    "essn": "2666-6677",
+    "doi": "doi: 10.1016/j.ajpc.2026.101719",
+    "sortpubdate": "2026/06/26 00:00",
+    "epubdate": "2026 Jun 26"
+  },
+  {
+    "name": "NHANES",
+    "id": "42830756",
+    "title": "Recognition and control gaps in advanced cardiovascular-kidney-metabolic syndrome among United States adults.",
+    "source": "Prev Med Rep",
+    "pubdate": "2026 Nov",
+    "authors": [
+      "Zhou M",
+      "Zhang F",
+      "Zhou B",
+      "Lv Y"
+    ],
+    "lastauthor": "Lv Y",
+    "sortfirstauthor": "Zhou M",
+    "journal": "Preventive medicine reports",
+    "issn": "2211-3355",
+    "essn": "2211-3355",
+    "doi": "doi: 10.1016/j.pmedr.2026.103635",
+    "sortpubdate": "2026/09/20 00:00",
+    "epubdate": "2026 Sep 20"
   }
 ]

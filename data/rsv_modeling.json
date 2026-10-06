@@ -9806,5 +9806,49 @@
     "doi": "doi: 10.1080/14737167.2026.2737558",
     "sortpubdate": "2026/10/02 00:00",
     "epubdate": "2026 Oct 2"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "42833395",
+    "title": "Plasmonic biosensor platforms for next-generation personalized medical diagnostics.",
+    "source": "Drug Discov Today",
+    "pubdate": "2026 Oct 5",
+    "authors": [
+      "Kashyap R",
+      "Kar RK"
+    ],
+    "lastauthor": "Kar RK",
+    "sortfirstauthor": "Kashyap R",
+    "journal": "Drug discovery today",
+    "issn": "1359-6446",
+    "essn": "1878-5832",
+    "doi": "doi: 10.1016/j.drudis.2026.104825",
+    "sortpubdate": "2026/10/05 00:00",
+    "epubdate": "2026 Oct 5"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "42831028",
+    "title": "Regional inequality in infant RSV morbidity and mortality burden in the era of expanded RSV passive immunisation: a global projection modelling study.",
+    "source": "EClinicalMedicine",
+    "pubdate": "2026 Oct",
+    "authors": [
+      "Ren S",
+      "Cong B",
+      "Zou J",
+      "Guo L",
+      "Nair H",
+      "Sparrow E",
+      "Feikin DR",
+      "Li Y"
+    ],
+    "lastauthor": "Li Y",
+    "sortfirstauthor": "Ren S",
+    "journal": "EClinicalMedicine",
+    "issn": "",
+    "essn": "2589-5370",
+    "doi": "doi: 10.1016/j.eclinm.2026.104219",
+    "sortpubdate": "2026/09/23 00:00",
+    "epubdate": "2026 Sep 23"
   }
 ]
