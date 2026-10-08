@@ -9028,7 +9028,7 @@
     "id": "42641300",
     "title": "Increased risk of pulmonary embolism following SARS-CoV-2 activity in Ontario, Canada.",
     "source": "Public Health",
-    "pubdate": "2026 Aug 25",
+    "pubdate": "2026 Oct",
     "authors": [
       "Lee CE",
       "Wilson NJ",
@@ -9040,7 +9040,7 @@
     "issn": "0033-3506",
     "essn": "1476-5616",
     "doi": "doi: 10.1016/j.puhe.2026.106463",
-    "sortpubdate": "2026/08/25 00:00",
+    "sortpubdate": "2026/10/01 00:00",
     "epubdate": "2026 Aug 25"
   },
   {
@@ -9850,5 +9850,30 @@
     "doi": "doi: 10.1016/j.eclinm.2026.104219",
     "sortpubdate": "2026/09/23 00:00",
     "epubdate": "2026 Sep 23"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "42843475",
+    "title": "ECDD-S16 exhibits broad-spectrum antiviral activity and inhibits an early, pH-dependent step of influenza virus entry.",
+    "source": "Biochem Pharmacol",
+    "pubdate": "2026 Oct 7",
+    "authors": [
+      "Saengfak R",
+      "Manopwisedjaroen S",
+      "Munyoo B",
+      "Chabang N",
+      "Borwornpinyo S",
+      "Hongeng S",
+      "Charoensutthivarakul S",
+      "Thitithanyanont A"
+    ],
+    "lastauthor": "Thitithanyanont A",
+    "sortfirstauthor": "Saengfak R",
+    "journal": "Biochemical pharmacology",
+    "issn": "0006-2952",
+    "essn": "1873-2968",
+    "doi": "doi: 10.1016/j.bcp.2026.118528",
+    "sortpubdate": "2026/10/07 00:00",
+    "epubdate": "2026 Oct 7"
   }
 ]
