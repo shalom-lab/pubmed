@@ -147792,5 +147792,30 @@
     "doi": "doi: 10.1007/s10067-026-08459-3",
     "sortpubdate": "2026/10/09 00:00",
     "epubdate": "2026 Oct 9"
+  },
+  {
+    "name": "NHANES",
+    "id": "42855674",
+    "title": "Dose-response associations of the composite dietary antioxidant index and related nutrients with prevalent chronic kidney disease: NHANES 2003-2018.",
+    "source": "BMC Nephrol",
+    "pubdate": "2026 Sep 18",
+    "authors": [
+      "Tang H",
+      "Nie H",
+      "Chen Z",
+      "Ao G",
+      "Wu Y",
+      "Li J",
+      "Chen Y",
+      "Chen M"
+    ],
+    "lastauthor": "Chen M",
+    "sortfirstauthor": "Tang H",
+    "journal": "BMC nephrology",
+    "issn": "",
+    "essn": "1471-2369",
+    "doi": "doi: 10.1186/s12882-026-05355-5",
+    "sortpubdate": "2026/09/18 00:00",
+    "epubdate": "2026 Sep 18"
   }
 ]
