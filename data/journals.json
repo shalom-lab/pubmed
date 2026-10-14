@@ -8706,7 +8706,8 @@
   {
     "source": "Crit Rev Eukaryot Gene Expr",
     "journal": "Critical reviews in eukaryotic gene expression",
-    "issn": "1045-4403"
+    "issn": "1045-4403",
+    "essn": "2162-6502"
   },
   {
     "source": "Oral Radiol",
@@ -16777,5 +16778,22 @@
     "journal": "MethodsX",
     "issn": "2215-0161",
     "essn": "2215-0161"
+  },
+  {
+    "source": "Crit Rev Biomed Eng",
+    "journal": "Critical reviews in biomedical engineering",
+    "issn": "0278-940X",
+    "essn": "1943-619X"
+  },
+  {
+    "source": "J Neurosurg Anesthesiol",
+    "journal": "Journal of neurosurgical anesthesiology",
+    "issn": "0898-4921",
+    "essn": "1537-1921"
+  },
+  {
+    "source": "Cannabis Cannabinoid Res",
+    "journal": "Cannabis and cannabinoid research",
+    "essn": "2378-8763"
   }
 ]

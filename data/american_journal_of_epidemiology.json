@@ -12703,5 +12703,74 @@
     "doi": "doi: 10.1093/aje/kwag209",
     "sortpubdate": "2026/09/02 00:00",
     "epubdate": "2026 Sep 2"
+  },
+  {
+    "name": "American Journal of Epidemiology",
+    "id": "42865085",
+    "title": "Estimate Optimal Dynamic Treatment Regimes with Partial Compatibility: An Application to data from a TREAT Asia HIV Observational Database (TAHOD) site in Pune, India.",
+    "source": "Am J Epidemiol",
+    "pubdate": "2026 Oct 13",
+    "authors": [
+      "Si C",
+      "Stephens DA",
+      "Moodie EEM",
+      "Marbaniang I",
+      "Mave V",
+      "Prasad H"
+    ],
+    "lastauthor": "Prasad H",
+    "sortfirstauthor": "Si C",
+    "journal": "American journal of epidemiology",
+    "issn": "0002-9262",
+    "essn": "1476-6256",
+    "doi": "pii: kwag254. doi: 10.1093/aje/kwag254",
+    "sortpubdate": "2026/10/13 00:00",
+    "epubdate": "2026 Oct 13"
+  },
+  {
+    "name": "American Journal of Epidemiology",
+    "id": "42865083",
+    "title": "Racial discrimination and preterm birth subtype among a prospective cohort of nulliparous Black women in the United States, 2010-2013.",
+    "source": "Am J Epidemiol",
+    "pubdate": "2026 Oct 13",
+    "authors": [
+      "Judge AS",
+      "Ncube CN",
+      "Beidelman ET",
+      "Howard T",
+      "Ryckman K",
+      "Ludema C"
+    ],
+    "lastauthor": "Ludema C",
+    "sortfirstauthor": "Judge AS",
+    "journal": "American journal of epidemiology",
+    "issn": "0002-9262",
+    "essn": "1476-6256",
+    "doi": "pii: kwag252. doi: 10.1093/aje/kwag252",
+    "sortpubdate": "2026/10/13 00:00",
+    "epubdate": "2026 Oct 13"
+  },
+  {
+    "name": "American Journal of Epidemiology",
+    "id": "42865042",
+    "title": "A Law of Iterated Expectation Primer for Causal Inference.",
+    "source": "Am J Epidemiol",
+    "pubdate": "2026 Oct 13",
+    "authors": [
+      "Naimi AI",
+      "Nabi R",
+      "Collin LJ",
+      "Zeng Z",
+      "Zivich PN",
+      "Cole SR"
+    ],
+    "lastauthor": "Cole SR",
+    "sortfirstauthor": "Naimi AI",
+    "journal": "American journal of epidemiology",
+    "issn": "0002-9262",
+    "essn": "1476-6256",
+    "doi": "pii: kwag258. doi: 10.1093/aje/kwag258",
+    "sortpubdate": "2026/10/13 00:00",
+    "epubdate": "2026 Oct 13"
   }
 ]
