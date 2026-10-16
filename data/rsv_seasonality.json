@@ -11813,7 +11813,7 @@
     "sortfirstauthor": "Katama EN",
     "journal": "Open forum infectious diseases",
     "issn": "2328-8957",
-    "essn": "",
+    "essn": "2328-8957",
     "doi": "doi: 10.1093/ofid/ofag600",
     "sortpubdate": "2026/09/22 00:00",
     "epubdate": "2026 Sep 22"
@@ -11850,5 +11850,28 @@
     "doi": "doi: 10.1097/INF.0000000000005427",
     "sortpubdate": "2026/10/14 00:00",
     "epubdate": "2026 Oct 14"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "42877217",
+    "title": "Shifts in acute respiratory pathogen epidemiology: an 8-year surveillance study in Hangzhou, China (2018-2025).",
+    "source": "Front Public Health",
+    "pubdate": "2026",
+    "authors": [
+      "Wang Y",
+      "Huo L",
+      "Wang J",
+      "Jin X",
+      "Wang J",
+      "Jiang L"
+    ],
+    "lastauthor": "Jiang L",
+    "sortfirstauthor": "Wang Y",
+    "journal": "Frontiers in public health",
+    "issn": "",
+    "essn": "2296-2565",
+    "doi": "doi: 10.3389/fpubh.2026.1907370",
+    "sortpubdate": "2026/09/30 00:00",
+    "epubdate": "2026 Sep 30"
   }
 ]
