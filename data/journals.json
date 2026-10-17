@@ -16849,7 +16849,8 @@
   {
     "source": "Open Access Rheumatol",
     "journal": "Open access rheumatology : research and reviews",
-    "issn": "1179-156X"
+    "issn": "1179-156X",
+    "essn": "1179-156X"
   },
   {
     "source": "Neuroendocrinology",
@@ -16868,5 +16869,16 @@
     "journal": "Drugs",
     "issn": "0012-6667",
     "essn": "1179-1950"
+  },
+  {
+    "source": "Neurorehabil Neural Repair",
+    "journal": "Neurorehabilitation and neural repair",
+    "issn": "1545-9683",
+    "essn": "1552-6844"
+  },
+  {
+    "source": "Animals (Basel)",
+    "journal": "Animals : an open access journal from MDPI",
+    "issn": "2076-2615"
   }
 ]

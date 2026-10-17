@@ -149108,7 +149108,7 @@
     "sortfirstauthor": "Yang F",
     "journal": "Archives of medical science : AMS",
     "issn": "1734-1922",
-    "essn": "",
+    "essn": "1896-9151",
     "doi": "doi: 10.5114/aoms/210479",
     "sortpubdate": "2025/11/07 00:00",
     "epubdate": "2025 Nov 7"
@@ -149131,7 +149131,7 @@
     "sortfirstauthor": "Zhang Y",
     "journal": "International journal of endocrinology",
     "issn": "1687-8337",
-    "essn": "",
+    "essn": "1687-8345",
     "doi": "doi: 10.1155/ije/5591067",
     "sortpubdate": "2026/10/13 00:00",
     "epubdate": "2026 Oct 13"
@@ -149174,7 +149174,7 @@
     "sortfirstauthor": "Lin W",
     "journal": "Journal of oral microbiology",
     "issn": "2000-2297",
-    "essn": "",
+    "essn": "2000-2297",
     "doi": "doi: 10.1080/20002297.2026.2744235",
     "sortpubdate": "2026/10/13 00:00",
     "epubdate": "2026 Oct 13"
@@ -149236,7 +149236,7 @@
     "sortfirstauthor": "Yang YL",
     "journal": "Archives of medical science : AMS",
     "issn": "1734-1922",
-    "essn": "",
+    "essn": "1896-9151",
     "doi": "doi: 10.5114/aoms/221198",
     "sortpubdate": "2026/08/20 00:00",
     "epubdate": "2026 Aug 20"
@@ -149257,7 +149257,7 @@
     "sortfirstauthor": "Yin L",
     "journal": "Archives of medical science : AMS",
     "issn": "1734-1922",
-    "essn": "",
+    "essn": "1896-9151",
     "doi": "doi: 10.5114/aoms/224184",
     "sortpubdate": "2026/07/25 00:00",
     "epubdate": "2026 Jul 25"
@@ -149278,7 +149278,7 @@
     "sortfirstauthor": "Liang Z",
     "journal": "Archives of medical science : AMS",
     "issn": "1734-1922",
-    "essn": "",
+    "essn": "1896-9151",
     "doi": "doi: 10.5114/aoms/215954",
     "sortpubdate": "2026/04/10 00:00",
     "epubdate": "2026 Apr 10"
@@ -149301,7 +149301,7 @@
     "sortfirstauthor": "Zhu X",
     "journal": "International journal of endocrinology",
     "issn": "1687-8337",
-    "essn": "",
+    "essn": "1687-8345",
     "doi": "doi: 10.1155/ije/5660424",
     "sortpubdate": "2026/10/14 00:00",
     "epubdate": "2026 Oct 14"
@@ -149394,5 +149394,369 @@
     "doi": "doi: 10.1186/s12902-026-02481-x",
     "sortpubdate": "2026/08/13 00:00",
     "epubdate": "2026 Aug 13"
+  },
+  {
+    "name": "NHANES",
+    "id": "42886648",
+    "title": "Vitamin D deficiency is associated with higher frailty risk among middle-aged and older adults: a national population-based analysis of NHANES 2007-2018.",
+    "source": "Aging Male",
+    "pubdate": "2026 Dec 31",
+    "authors": [
+      "Zheng J",
+      "Yang Q",
+      "Dou L",
+      "Zeng B"
+    ],
+    "lastauthor": "Zeng B",
+    "sortfirstauthor": "Zheng J",
+    "journal": "The aging male : the official journal of the International Society for the Study of the Aging Male",
+    "issn": "1368-5538",
+    "essn": "1473-0790",
+    "doi": "doi: 10.1080/13685538.2026.2749894",
+    "sortpubdate": "2026/12/31 00:00",
+    "epubdate": "2026 Oct 16"
+  },
+  {
+    "name": "NHANES",
+    "id": "42886528",
+    "title": "Oral High-Risk Human Papillomavirus Infection Among Women Reporting Same-Sex Sexual Contact: A Propensity Score-Matched Analysis of the National Health and Nutrition Examination Survey 2009-2016.",
+    "source": "Sex Transm Dis",
+    "pubdate": "2026 Oct 16",
+    "authors": [
+      "Meller N",
+      "Rothman N",
+      "Baum M"
+    ],
+    "lastauthor": "Baum M",
+    "sortfirstauthor": "Meller N",
+    "journal": "Sexually transmitted diseases",
+    "issn": "0148-5717",
+    "essn": "1537-4521",
+    "doi": "doi: 10.1097/OLQ.0000000000002435",
+    "sortpubdate": "2026/10/16 00:00",
+    "epubdate": "2026 Oct 16"
+  },
+  {
+    "name": "NHANES",
+    "id": "42886390",
+    "title": "Joint association of physical activity and sedentary time with all-cause and cardiovascular mortality among advanced CKM syndrome participants, insights from NHANES 2007-2018.",
+    "source": "Clin Exp Med",
+    "pubdate": "2026 Jul 24",
+    "authors": [
+      "Huang Y",
+      "Liu Q",
+      "Chen S",
+      "Xiang H",
+      "Long H",
+      "Ouyang J",
+      "Liao J",
+      "Qin S",
+      "Lu H"
+    ],
+    "lastauthor": "Lu H",
+    "sortfirstauthor": "Huang Y",
+    "journal": "Clinical and experimental medicine",
+    "issn": "1591-8890",
+    "essn": "1591-9528",
+    "doi": "pii: 357. doi: 10.1007/s10238-026-02202-7",
+    "sortpubdate": "2026/07/24 00:00",
+    "epubdate": "2026 Jul 24"
+  },
+  {
+    "name": "NHANES",
+    "id": "42885813",
+    "title": "Pulmonary Embolism-Attributable Mortality in Patients With Atherosclerotic Cardiovascular Disease in the United States from 2010 to 2023.",
+    "source": "J Am Heart Assoc",
+    "pubdate": "2026 Oct 16",
+    "authors": [
+      "Zuin M",
+      "Bilato C",
+      "Rigatelli G",
+      "Goldhaber S",
+      "Piazza G"
+    ],
+    "lastauthor": "Piazza G",
+    "sortfirstauthor": "Zuin M",
+    "journal": "Journal of the American Heart Association",
+    "issn": "",
+    "essn": "2047-9980",
+    "doi": "doi: 10.1161/JAHA.126.049510",
+    "sortpubdate": "2026/10/16 00:00",
+    "epubdate": "2026 Oct 16"
+  },
+  {
+    "name": "NHANES",
+    "id": "42885784",
+    "title": "American Heart Association Life's Essential 8 and Heart Failure in Black Individuals: An Analysis of the National Health and Nutrition Examination Survey.",
+    "source": "J Am Heart Assoc",
+    "pubdate": "2026 Oct 16",
+    "authors": [
+      "Rasberry KA",
+      "Oputa O",
+      "Boyd KP",
+      "Agunbiade TA",
+      "Awoyemi TA",
+      "Gao J",
+      "Harap RS",
+      "Wu T",
+      "Ositelu K",
+      "Princewill O",
+      "Youmans QR",
+      "Lewis AA",
+      "Okwuosa IS"
+    ],
+    "lastauthor": "Okwuosa IS",
+    "sortfirstauthor": "Rasberry KA",
+    "journal": "Journal of the American Heart Association",
+    "issn": "",
+    "essn": "2047-9980",
+    "doi": "doi: 10.1161/JAHA.126.049656",
+    "sortpubdate": "2026/10/16 00:00",
+    "epubdate": "2026 Oct 16"
+  },
+  {
+    "name": "NHANES",
+    "id": "42885713",
+    "title": "Association between total calcium intake and depressive symptoms in cancer survivors based on the National Health and Nutrition Examination Survey (NHANES) 2007-2018: a cross-sectional study - CORRIGENDUM.",
+    "source": "Br J Nutr",
+    "pubdate": "2026 Oct 16",
+    "authors": [
+      "Cheng XC",
+      "Li XR",
+      "Peng BQ",
+      "Mu LY",
+      "Qu XQ",
+      "Qiu P",
+      "Liu DL",
+      "Zhang XQ",
+      "Huang YX",
+      "Kong LQ"
+    ],
+    "lastauthor": "Kong LQ",
+    "sortfirstauthor": "Cheng XC",
+    "journal": "The British journal of nutrition",
+    "issn": "0007-1145",
+    "essn": "1475-2662",
+    "doi": "doi: 10.1017/S0007114526109301",
+    "sortpubdate": "2026/10/16 00:00",
+    "epubdate": "2026 Oct 16"
+  },
+  {
+    "name": "NHANES",
+    "id": "42884586",
+    "title": "Association Between Ultra-Processed Food Consumption and Frailty in Korean Older Adults.",
+    "source": "Nutrients",
+    "pubdate": "2026 Sep 23",
+    "authors": [
+      "Lee H",
+      "Park K"
+    ],
+    "lastauthor": "Park K",
+    "sortfirstauthor": "Lee H",
+    "journal": "Nutrients",
+    "issn": "",
+    "essn": "2072-6643",
+    "doi": "pii: 3135. doi: 10.3390/nu18193135",
+    "sortpubdate": "2026/09/23 00:00",
+    "epubdate": "2026 Sep 23"
+  },
+  {
+    "name": "NHANES",
+    "id": "42882206",
+    "title": "Association Between Periodontal Status and Undiagnosed Diabetes in Adults Without Diagnosed Chronic Diseases: The Korea National Health and Nutrition Examination Survey 2013-2015.",
+    "source": "J Clin Med",
+    "pubdate": "2026 Oct 8",
+    "authors": [
+      "Lyu YS",
+      "Kim SY",
+      "Jeong SH",
+      "Yoon Y",
+      "Kim SY",
+      "Kim JH"
+    ],
+    "lastauthor": "Kim JH",
+    "sortfirstauthor": "Lyu YS",
+    "journal": "Journal of clinical medicine",
+    "issn": "2077-0383",
+    "essn": "",
+    "doi": "pii: 7747. doi: 10.3390/jcm15197747",
+    "sortpubdate": "2026/10/08 00:00",
+    "epubdate": "2026 Oct 8"
+  },
+  {
+    "name": "NHANES",
+    "id": "42882132",
+    "title": "Interocular Differences in Visual Acuity and Refractive Status Between Unilateral Early and Late Age-Related Macular Degeneration: A Nationwide Population-Based Study.",
+    "source": "J Clin Med",
+    "pubdate": "2026 Oct 3",
+    "authors": [
+      "Kang CG",
+      "Kim SK",
+      "Kang H",
+      "Park SI"
+    ],
+    "lastauthor": "Park SI",
+    "sortfirstauthor": "Kang CG",
+    "journal": "Journal of clinical medicine",
+    "issn": "2077-0383",
+    "essn": "",
+    "doi": "pii: 7672. doi: 10.3390/jcm15197672",
+    "sortpubdate": "2026/10/03 00:00",
+    "epubdate": "2026 Oct 3"
+  },
+  {
+    "name": "NHANES",
+    "id": "42882003",
+    "title": "Impact of Insulin Resistance on Retinal Ganglion Cell Layer Structures: Findings from the Korea National Health and Nutrition Examination Survey.",
+    "source": "J Clin Med",
+    "pubdate": "2026 Sep 28",
+    "authors": [
+      "Lee Y",
+      "Seo JH",
+      "Lim SH"
+    ],
+    "lastauthor": "Lim SH",
+    "sortfirstauthor": "Lee Y",
+    "journal": "Journal of clinical medicine",
+    "issn": "2077-0383",
+    "essn": "",
+    "doi": "pii: 7541. doi: 10.3390/jcm15197541",
+    "sortpubdate": "2026/09/28 00:00",
+    "epubdate": "2026 Sep 28"
+  },
+  {
+    "name": "NHANES",
+    "id": "42881973",
+    "title": "Changes in Metabolic Syndrome and Its Components Across the Pre-Pandemic, Pandemic, and Recovery Periods Among Korean Adults.",
+    "source": "J Clin Med",
+    "pubdate": "2026 Sep 27",
+    "authors": [
+      "Kim SG",
+      "Lee DY"
+    ],
+    "lastauthor": "Lee DY",
+    "sortfirstauthor": "Kim SG",
+    "journal": "Journal of clinical medicine",
+    "issn": "2077-0383",
+    "essn": "",
+    "doi": "pii: 7512. doi: 10.3390/jcm15197512",
+    "sortpubdate": "2026/09/27 00:00",
+    "epubdate": "2026 Sep 27"
+  },
+  {
+    "name": "NHANES",
+    "id": "42881717",
+    "title": "Association Between Meal Regularity and Obesity Among Korean Older Adults: A Population-Based Study Using KNHANES VIII.",
+    "source": "Healthcare (Basel)",
+    "pubdate": "2026 Oct 2",
+    "authors": [
+      "Park HE",
+      "Jeong KE",
+      "Song HY"
+    ],
+    "lastauthor": "Song HY",
+    "sortfirstauthor": "Park HE",
+    "journal": "Healthcare (Basel, Switzerland)",
+    "issn": "2227-9032",
+    "essn": "",
+    "doi": "pii: 3278. doi: 10.3390/healthcare14193278",
+    "sortpubdate": "2026/10/02 00:00",
+    "epubdate": "2026 Oct 2"
+  },
+  {
+    "name": "NHANES",
+    "id": "42881666",
+    "title": "Association of Combined Cardiometabolic and Muscle Impairment Index with Cardiovascular-Kidney-Metabolic Syndrome Progression Among Middle-Aged and Older Adults: A Prospective Two-Cohort Study.",
+    "source": "Healthcare (Basel)",
+    "pubdate": "2026 Oct 1",
+    "authors": [
+      "Liu Z",
+      "Ren X",
+      "Su C",
+      "Wang G",
+      "Liu J"
+    ],
+    "lastauthor": "Liu J",
+    "sortfirstauthor": "Liu Z",
+    "journal": "Healthcare (Basel, Switzerland)",
+    "issn": "2227-9032",
+    "essn": "",
+    "doi": "pii: 3228. doi: 10.3390/healthcare14193228",
+    "sortpubdate": "2026/10/01 00:00",
+    "epubdate": "2026 Oct 1"
+  },
+  {
+    "name": "NHANES",
+    "id": "42881647",
+    "title": "Joint Association of Sedentary Time and Physical Activity with Metabolic Syndrome Among Korean Adults: A Cross-Sectional Analysis of the 2024 Korea National Health and Nutrition Examination Survey.",
+    "source": "Healthcare (Basel)",
+    "pubdate": "2026 Sep 28",
+    "authors": [
+      "Park KS"
+    ],
+    "lastauthor": "Park KS",
+    "sortfirstauthor": "Park KS",
+    "journal": "Healthcare (Basel, Switzerland)",
+    "issn": "2227-9032",
+    "essn": "",
+    "doi": "pii: 3208. doi: 10.3390/healthcare14193208",
+    "sortpubdate": "2026/09/28 00:00",
+    "epubdate": "2026 Sep 28"
+  },
+  {
+    "name": "NHANES",
+    "id": "42881636",
+    "title": "Activity Limitation, Health-Care Use, and Unmet Need Among Korean Adults: Cumulative and Conditional Cardiometabolic Care Cascades.",
+    "source": "Healthcare (Basel)",
+    "pubdate": "2026 Sep 28",
+    "authors": [
+      "Kim J"
+    ],
+    "lastauthor": "Kim J",
+    "sortfirstauthor": "Kim J",
+    "journal": "Healthcare (Basel, Switzerland)",
+    "issn": "2227-9032",
+    "essn": "",
+    "doi": "pii: 3198. doi: 10.3390/healthcare14193198",
+    "sortpubdate": "2026/09/28 00:00",
+    "epubdate": "2026 Sep 28"
+  },
+  {
+    "name": "NHANES",
+    "id": "42881584",
+    "title": "When Fiber Does Not Protect: Evaluating Statistical Interaction Between Dietary Fiber, Sodium-to-Potassium Ratio, and Metabolic Syndrome in South Korean Adults.",
+    "source": "Healthcare (Basel)",
+    "pubdate": "2026 Sep 22",
+    "authors": [
+      "Dundar C"
+    ],
+    "lastauthor": "Dundar C",
+    "sortfirstauthor": "Dundar C",
+    "journal": "Healthcare (Basel, Switzerland)",
+    "issn": "2227-9032",
+    "essn": "",
+    "doi": "pii: 3145. doi: 10.3390/healthcare14193145",
+    "sortpubdate": "2026/09/22 00:00",
+    "epubdate": "2026 Sep 22"
+  },
+  {
+    "name": "NHANES",
+    "id": "42881236",
+    "title": "Incremental value of DXA-derived visceral versus total adiposity beyond routine anthropometric assessment for hypertension discrimination: a population-based study.",
+    "source": "Hypertens Res",
+    "pubdate": "2026 Oct 15",
+    "authors": [
+      "Dejenie TA",
+      "Mannan H",
+      "Atlantis E"
+    ],
+    "lastauthor": "Atlantis E",
+    "sortfirstauthor": "Dejenie TA",
+    "journal": "Hypertension research : official journal of the Japanese Society of Hypertension",
+    "issn": "0916-9636",
+    "essn": "1348-4214",
+    "doi": "doi: 10.1038/s41440-026-02857-5",
+    "sortpubdate": "2026/10/15 00:00",
+    "epubdate": "2026 Oct 15"
   }
 ]

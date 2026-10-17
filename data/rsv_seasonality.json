@@ -11114,7 +11114,7 @@
     "id": "42753487",
     "title": "Respiratory pathogen dynamics in hospitalized children with lower respiratory tract infections: A 9-year hospital-based surveillance study in Beijing, China.",
     "source": "J Infect Public Health",
-    "pubdate": "2026 Sep 7",
+    "pubdate": "2026 Nov",
     "authors": [
       "Li Y",
       "Kang X",
@@ -11133,7 +11133,7 @@
     "issn": "1876-0341",
     "essn": "1876-035X",
     "doi": "doi: 10.1016/j.jiph.2026.103352",
-    "sortpubdate": "2026/09/07 00:00",
+    "sortpubdate": "2026/11/01 00:00",
     "epubdate": "2026 Sep 7"
   },
   {
@@ -11873,5 +11873,26 @@
     "doi": "doi: 10.3389/fpubh.2026.1907370",
     "sortpubdate": "2026/09/30 00:00",
     "epubdate": "2026 Sep 30"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "42881774",
+    "title": "Nosocomial Respiratory Syncytial Virus in the Post-Pandemic Era: Evolving Epidemiology and Integrated Prevention Strategies.",
+    "source": "Healthcare (Basel)",
+    "pubdate": "2026 Oct 6",
+    "authors": [
+      "Huang PH",
+      "Huang PH",
+      "Liu PY",
+      "Yeh TK"
+    ],
+    "lastauthor": "Yeh TK",
+    "sortfirstauthor": "Huang PH",
+    "journal": "Healthcare (Basel, Switzerland)",
+    "issn": "2227-9032",
+    "essn": "",
+    "doi": "pii: 3335. doi: 10.3390/healthcare14193335",
+    "sortpubdate": "2026/10/06 00:00",
+    "epubdate": "2026 Oct 6"
   }
 ]
