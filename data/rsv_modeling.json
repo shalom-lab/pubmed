@@ -9010,7 +9010,7 @@
       "Gidsel RH",
       "Heikkinen T",
       "Dyrhol-Riise AM",
-      "Levin LÅ",
+      "Levin L��",
       "Østergaard LJ",
       "Ehlers LH"
     ],
@@ -9970,5 +9970,34 @@
     "doi": "doi: 10.1038/s41390-026-05553-9",
     "sortpubdate": "2026/10/12 00:00",
     "epubdate": "2026 Oct 12"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "42892738",
+    "title": "The socioeconomic value of adult respiratory vaccination in Australia: a benefit-cost analysis.",
+    "source": "Expert Rev Vaccines",
+    "pubdate": "2026 Dec",
+    "authors": [
+      "Napier M",
+      "Macfarlane A",
+      "Tunnicliffe E",
+      "Brassel S",
+      "Cahill C",
+      "Ryan S",
+      "Lohan C",
+      "Struwig V",
+      "Vietri J",
+      "Mendes D",
+      "Hu T",
+      "Steuten L"
+    ],
+    "lastauthor": "Steuten L",
+    "sortfirstauthor": "Napier M",
+    "journal": "Expert review of vaccines",
+    "issn": "1476-0584",
+    "essn": "1744-8395",
+    "doi": "doi: 10.1080/14760584.2026.2748741",
+    "sortpubdate": "2026/12/01 00:00",
+    "epubdate": "2026 Oct 17"
   }
 ]

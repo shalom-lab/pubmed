@@ -11933,5 +11933,48 @@
     "doi": "doi: 10.1111/irv.70332",
     "sortpubdate": "2026/10/01 00:00",
     "epubdate": ""
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "42893913",
+    "title": "[Advances and challenges in the prevention and control of respiratory syncytial virus infection].",
+    "source": "Zhonghua Yu Fang Yi Xue Za Zhi",
+    "pubdate": "2026 Oct 6",
+    "authors": [
+      "Chen JD",
+      "Zheng XT",
+      "Li YG",
+      "Li ZF",
+      "Zhang JW"
+    ],
+    "lastauthor": "Zhang JW",
+    "sortfirstauthor": "Chen JD",
+    "journal": "Zhonghua yu fang yi xue za zhi [Chinese journal of preventive medicine]",
+    "issn": "0253-9624",
+    "essn": "",
+    "doi": "doi: 10.3760/cma.j.cn112150-20251215-01181",
+    "sortpubdate": "2026/10/06 00:00",
+    "epubdate": ""
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "42893803",
+    "title": "Exceptionally Early Onset of the Influenza Epidemic Season During Ongoing Respiratory Syncytial Virus Circulation in Japan, 2026.",
+    "source": "Influenza Other Respir Viruses",
+    "pubdate": "2026 Oct",
+    "authors": [
+      "Saito R",
+      "Ohnishi T",
+      "Kunikata T",
+      "Korematsu S"
+    ],
+    "lastauthor": "Korematsu S",
+    "sortfirstauthor": "Saito R",
+    "journal": "Influenza and other respiratory viruses",
+    "issn": "1750-2640",
+    "essn": "1750-2659",
+    "doi": "doi: 10.1111/irv.70339",
+    "sortpubdate": "2026/10/01 00:00",
+    "epubdate": ""
   }
 ]
