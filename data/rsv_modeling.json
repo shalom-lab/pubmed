@@ -9010,7 +9010,7 @@
       "Gidsel RH",
       "Heikkinen T",
       "Dyrhol-Riise AM",
-      "Levin L��",
+      "Levin LÅ",
       "Østergaard LJ",
       "Ehlers LH"
     ],
@@ -9999,5 +9999,74 @@
     "doi": "doi: 10.1080/14760584.2026.2748741",
     "sortpubdate": "2026/12/01 00:00",
     "epubdate": "2026 Oct 17"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "42896317",
+    "title": "Public Health Impact of Adjuvanted RSVPreF3 Vaccination Among US Adults Aged ≥60 Years Residing in Long-Term Care Settings.",
+    "source": "J Am Med Dir Assoc",
+    "pubdate": "2026 Oct 19",
+    "authors": [
+      "La EM",
+      "Graham J",
+      "Grace M",
+      "Zarkadoulas E",
+      "Shah N"
+    ],
+    "lastauthor": "Shah N",
+    "sortfirstauthor": "La EM",
+    "journal": "Journal of the American Medical Directors Association",
+    "issn": "1525-8610",
+    "essn": "1538-9375",
+    "doi": "doi: 10.1016/j.jamda.2026.106406",
+    "sortpubdate": "2026/10/19 00:00",
+    "epubdate": "2026 Oct 19"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "42895511",
+    "title": "Cost‑effectiveness analysis of the mRNA‑1345 RSV vaccine for older adults in Italy.",
+    "source": "J Med Econ",
+    "pubdate": "2026 Dec",
+    "authors": [
+      "Dronova M",
+      "Moyon C",
+      "Pyrek L",
+      "Hicks K",
+      "Xiao Z",
+      "Rumi F",
+      "de Waure C",
+      "Scholz S",
+      "Ghaswalla P"
+    ],
+    "lastauthor": "Ghaswalla P",
+    "sortfirstauthor": "Dronova M",
+    "journal": "Journal of medical economics",
+    "issn": "1369-6998",
+    "essn": "1941-837X",
+    "doi": "doi: 10.1080/13696998.2026.2746277",
+    "sortpubdate": "2026/12/01 00:00",
+    "epubdate": "2026 Oct 19"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "42895162",
+    "title": "Overview of Selective National Guidelines and Clinical Recommendations for Childhood Respiratory Syncytial Virus (RSV) Prophylaxis: A Hong Kong Perspective for Asia.",
+    "source": "Curr Pediatr Rev",
+    "pubdate": "2026 Oct 14",
+    "authors": [
+      "Hon KL",
+      "Fung GPG",
+      "Chan PKS",
+      "Leung AKC"
+    ],
+    "lastauthor": "Leung AKC",
+    "sortfirstauthor": "Hon KL",
+    "journal": "Current pediatric reviews",
+    "issn": "1573-3963",
+    "essn": "1875-6336",
+    "doi": "doi: 10.2174/0115733963467358260903071628",
+    "sortpubdate": "2026/10/14 00:00",
+    "epubdate": "2026 Oct 14"
   }
 ]

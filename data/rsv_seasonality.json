@@ -11241,21 +11241,21 @@
   {
     "name": "RSV seasonality",
     "id": "42767550",
-    "title": "Post-pandemic re-establishment of respiratory virus seasonality and molecular epidemiology of Rhinovirus/Enterovirus in Northern Italy: a three-year surveillance study (2023-2026).",
+    "title": "Postpandemic re-establishment of respiratory virus seasonality and molecular epidemiology of rhinovirus/enterovirus in Northern Italy: A 3-year surveillance study (2023-2026).",
     "source": "Int J Infect Dis",
     "pubdate": "2026 Sep 21",
     "authors": [
-      "Michele P",
-      "Serena M",
-      "Anna B",
-      "Alberto Z",
-      "Danilo L",
-      "Stefania M",
-      "Francesca C",
+      "Pellegrino M",
+      "Messali S",
+      "Bertelli A",
+      "Zani A",
+      "Lofaro D",
+      "Marsico S",
+      "Caccuri F",
       "Caruso A"
     ],
     "lastauthor": "Caruso A",
-    "sortfirstauthor": "Michele P",
+    "sortfirstauthor": "Pellegrino M",
     "journal": "International journal of infectious diseases : IJID : official publication of the International Society for Infectious Diseases",
     "issn": "1201-9712",
     "essn": "1878-3511",
@@ -11976,5 +11976,47 @@
     "doi": "doi: 10.1111/irv.70339",
     "sortpubdate": "2026/10/01 00:00",
     "epubdate": ""
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "42895936",
+    "title": "Prevalence of respiratory viruses among pilgrims in Saudi Arabia during the Hajj 2026: a cross-sectional study.",
+    "source": "J Travel Med",
+    "pubdate": "2026 Oct 19",
+    "authors": [
+      "Alshahrani NZ",
+      "Albeshry AM",
+      "Awan Z",
+      "Rashid H"
+    ],
+    "lastauthor": "Rashid H",
+    "sortfirstauthor": "Alshahrani NZ",
+    "journal": "Journal of travel medicine",
+    "issn": "1195-1982",
+    "essn": "1708-8305",
+    "doi": "pii: taag093. doi: 10.1093/jtm/taag093",
+    "sortpubdate": "2026/10/19 00:00",
+    "epubdate": "2026 Oct 19"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "42881774",
+    "title": "Nosocomial Respiratory Syncytial Virus in the Post-Pandemic Era: Evolving Epidemiology and Integrated Prevention Strategies.",
+    "source": "Healthcare (Basel)",
+    "pubdate": "2026 Oct 6",
+    "authors": [
+      "Huang PH",
+      "Huang PH",
+      "Liu PY",
+      "Yeh TK"
+    ],
+    "lastauthor": "Yeh TK",
+    "sortfirstauthor": "Huang PH",
+    "journal": "Healthcare (Basel, Switzerland)",
+    "issn": "2227-9032",
+    "essn": "2227-9032",
+    "doi": "doi: 10.3390/healthcare14193335",
+    "sortpubdate": "2026/10/06 00:00",
+    "epubdate": "2026 Oct 6"
   }
 ]

@@ -16879,7 +16879,8 @@
   {
     "source": "Animals (Basel)",
     "journal": "Animals : an open access journal from MDPI",
-    "issn": "2076-2615"
+    "issn": "2076-2615",
+    "essn": "2076-2615"
   },
   {
     "source": "Diabetes Obes Cardiometab CARE",
@@ -16904,5 +16905,22 @@
     "journal": "Journal of neuroendocrinology",
     "issn": "0953-8194",
     "essn": "1365-2826"
+  },
+  {
+    "source": "Biomater Adv",
+    "journal": "Biomaterials advances",
+    "essn": "2772-9508"
+  },
+  {
+    "source": "Physiother Res Int",
+    "journal": "Physiotherapy research international : the journal for researchers and clinicians in physical therapy",
+    "issn": "1358-2267",
+    "essn": "1471-2865"
+  },
+  {
+    "source": "Curr Pediatr Rev",
+    "journal": "Current pediatric reviews",
+    "issn": "1573-3963",
+    "essn": "1875-6336"
   }
 ]
