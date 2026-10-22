@@ -106676,5 +106676,46 @@
     "doi": "pii: 69. doi: 10.1186/s13027-026-00782-3",
     "sortpubdate": "2026/07/23 00:00",
     "epubdate": "2026 Jul 23"
+  },
+  {
+    "name": "GBD database",
+    "id": "42900799",
+    "title": "Forecasting risk-factor distributions by sex and age, 1990-2050: a parametric estimation framework using GBD summary exposure values, demonstrated for Australia.",
+    "source": "Int J Epidemiol",
+    "pubdate": "2026 Oct 14",
+    "authors": [
+      "Dhungel B",
+      "Wilson T",
+      "Khuu S",
+      "Blakely T"
+    ],
+    "lastauthor": "Blakely T",
+    "sortfirstauthor": "Dhungel B",
+    "journal": "International journal of epidemiology",
+    "issn": "0300-5771",
+    "essn": "1464-3685",
+    "doi": "doi: 10.1093/ije/dyag223",
+    "sortpubdate": "2026/10/14 00:00",
+    "epubdate": ""
+  },
+  {
+    "name": "GBD database",
+    "id": "42897658",
+    "title": "Bladder cancer in Africa, 2010-2023: burden, geographic heterogeneity, demographic drivers, pandemic-era temporal changes, and projections to 2030.",
+    "source": "Infect Agent Cancer",
+    "pubdate": "2026 Jul 23",
+    "authors": [
+      "Jin Y",
+      "Jin Y",
+      "Cui Y"
+    ],
+    "lastauthor": "Cui Y",
+    "sortfirstauthor": "Jin Y",
+    "journal": "Infectious agents and cancer",
+    "issn": "1750-9378",
+    "essn": "1750-9378",
+    "doi": "doi: 10.1186/s13027-026-00782-3",
+    "sortpubdate": "2026/07/23 00:00",
+    "epubdate": "2026 Jul 23"
   }
 ]
