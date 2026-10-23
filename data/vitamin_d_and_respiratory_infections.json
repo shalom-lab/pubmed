@@ -4095,7 +4095,7 @@
     "authors": [
       "Diaconu IE",
       "Onofrei MI",
-      "Vâ��ă A",
+      "Vâță A",
       "Roșu FM",
       "Ignat EB",
       "Cuciureanu ID",
@@ -4370,7 +4370,7 @@
     "id": "42525399",
     "title": "Early Respiratory Infection Burden and Atopic Dermatitis in Childhood.",
     "source": "JAMA Dermatol",
-    "pubdate": "2026 Jul 29",
+    "pubdate": "2026 Oct 1",
     "authors": [
       "Brustad N",
       "Wang T",
@@ -4391,8 +4391,8 @@
     "issn": "2168-6068",
     "essn": "2168-6084",
     "doi": "doi: 10.1001/jamadermatol.2026.2626",
-    "sortpubdate": "2026/07/29 00:00",
-    "epubdate": "2026 Jul 29"
+    "sortpubdate": "2026/10/01 00:00",
+    "epubdate": ""
   },
   {
     "name": "Vitamin D and respiratory infections",
@@ -4921,5 +4921,26 @@
     "doi": "doi: 10.1097/MCO.0000000000001253",
     "sortpubdate": "2026/11/01 00:00",
     "epubdate": "2026 Sep 1"
+  },
+  {
+    "name": "Vitamin D and respiratory infections",
+    "id": "42906703",
+    "title": "Micronutrient Status and Host Defense Against Infectious Diseases: Mechanisms, Clinical Evidence, and Context-Dependent Interventions.",
+    "source": "Ageing Res Rev",
+    "pubdate": "2026 Oct 21",
+    "authors": [
+      "Hasan S",
+      "Shareef RA",
+      "Shaida B",
+      "Siddiqui Z"
+    ],
+    "lastauthor": "Siddiqui Z",
+    "sortfirstauthor": "Hasan S",
+    "journal": "Ageing research reviews",
+    "issn": "1568-1637",
+    "essn": "1872-9649",
+    "doi": "doi: 10.1016/j.arr.2026.103425",
+    "sortpubdate": "2026/10/21 00:00",
+    "epubdate": "2026 Oct 21"
   }
 ]
