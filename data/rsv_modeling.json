@@ -10176,5 +10176,44 @@
     "doi": "pii: 260115. doi: 10.1183/16000617.0115-2026",
     "sortpubdate": "2026/10/21 00:00",
     "epubdate": "2026 Oct 21"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "42912758",
+    "title": "Data-driven forecasting of Flu, RSV, and COVID-19 related outcomes in the United States and Canada via Hankel dynamic mode decomposition.",
+    "source": "PLoS One",
+    "pubdate": "2026",
+    "authors": [
+      "Redman WT",
+      "Mullany LC"
+    ],
+    "lastauthor": "Mullany LC",
+    "sortfirstauthor": "Redman WT",
+    "journal": "PloS one",
+    "issn": "",
+    "essn": "1932-6203",
+    "doi": "doi: 10.1371/journal.pone.0360068",
+    "sortpubdate": "2026/10/23 00:00",
+    "epubdate": "2026 Oct 23"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "42909199",
+    "title": "Integrated pharmaceutical and behavioral strategies for long-term control of RSV transmission: An impulsive SEIRS-type modeling study.",
+    "source": "AIMS Public Health",
+    "pubdate": "2026",
+    "authors": [
+      "Gutiérrez-Jara JP",
+      "Muñoz-Quezada MT",
+      "Córdova-Lepe F"
+    ],
+    "lastauthor": "Córdova-Lepe F",
+    "sortfirstauthor": "Gutiérrez-Jara JP",
+    "journal": "AIMS public health",
+    "issn": "",
+    "essn": "2327-8994",
+    "doi": "doi: 10.3934/publichealth.2026046",
+    "sortpubdate": "2026/08/17 00:00",
+    "epubdate": "2026 Aug 17"
   }
 ]
