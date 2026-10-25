@@ -107220,7 +107220,7 @@
     "sortfirstauthor": "Wang Y",
     "journal": "Clinical, cosmetic and investigational dermatology",
     "issn": "1178-7015",
-    "essn": "",
+    "essn": "1178-7015",
     "doi": "doi: 10.2147/CCID.S633458",
     "sortpubdate": "2026/10/17 00:00",
     "epubdate": "2026 Oct 17"
@@ -107239,7 +107239,7 @@
     "sortfirstauthor": "Li J",
     "journal": "Risk management and healthcare policy",
     "issn": "1179-1594",
-    "essn": "",
+    "essn": "1179-1594",
     "doi": "doi: 10.2147/RMHP.S640948",
     "sortpubdate": "2026/10/17 00:00",
     "epubdate": "2026 Oct 17"
@@ -107332,5 +107332,30 @@
     "doi": "doi: 10.3389/fonc.2026.1859604",
     "sortpubdate": "2026/10/07 00:00",
     "epubdate": "2026 Oct 7"
+  },
+  {
+    "name": "GBD database",
+    "id": "42920545",
+    "title": "The metabolic transition of liver cancer: a 34-year analysis of global burden across the 10 most populous countries, 1990-2023.",
+    "source": "Front Public Health",
+    "pubdate": "2026",
+    "authors": [
+      "Luo Q",
+      "Lan S",
+      "Chen J",
+      "Han J",
+      "Gao S",
+      "Li Y",
+      "Deng H",
+      "Zhao Y"
+    ],
+    "lastauthor": "Zhao Y",
+    "sortfirstauthor": "Luo Q",
+    "journal": "Frontiers in public health",
+    "issn": "",
+    "essn": "2296-2565",
+    "doi": "doi: 10.3389/fpubh.2026.1945748",
+    "sortpubdate": "2026/10/09 00:00",
+    "epubdate": "2026 Oct 9"
   }
 ]

@@ -151815,7 +151815,7 @@
     "sortfirstauthor": "Zhong A",
     "journal": "Food science & nutrition",
     "issn": "2048-7177",
-    "essn": "",
+    "essn": "2048-7177",
     "doi": "doi: 10.1002/fsn3.72442",
     "sortpubdate": "2026/10/21 00:00",
     "epubdate": "2026 Oct 21"
@@ -151838,7 +151838,7 @@
     "sortfirstauthor": "Gao C",
     "journal": "Food science & nutrition",
     "issn": "2048-7177",
-    "essn": "",
+    "essn": "2048-7177",
     "doi": "doi: 10.1002/fsn3.72482",
     "sortpubdate": "2026/10/21 00:00",
     "epubdate": "2026 Oct 21"
@@ -151981,5 +151981,59 @@
     "doi": "doi: 10.1186/s12967-026-08673-2",
     "sortpubdate": "2026/07/25 00:00",
     "epubdate": "2026 Jul 25"
+  },
+  {
+    "name": "NHANES",
+    "id": "42920116",
+    "title": "Hemoglobin-to-red blood cell distribution width ratio is inversely associated with prevalent gastrointestinal cancers in NHANES and serves as an informative feature in machine-learning models.",
+    "source": "BMC Cancer",
+    "pubdate": "2026 Jul 21",
+    "authors": [
+      "Chen S",
+      "Zhao K",
+      "Zhang J",
+      "Niu Y",
+      "Zou R",
+      "Wang M",
+      "Li Y"
+    ],
+    "lastauthor": "Li Y",
+    "sortfirstauthor": "Chen S",
+    "journal": "BMC cancer",
+    "issn": "",
+    "essn": "1471-2407",
+    "doi": "pii: 1285. doi: 10.1186/s12885-026-16500-6",
+    "sortpubdate": "2026/07/21 00:00",
+    "epubdate": "2026 Jul 21"
+  },
+  {
+    "name": "NHANES",
+    "id": "42905363",
+    "title": "Population-specific association and risk discrimination utility of the cardiometabolic index for prevalent hypertension-diabetes comorbidity: insights from CHARLS and NHANES.",
+    "source": "Clin Exp Med",
+    "pubdate": "2026 Jul 26",
+    "authors": [
+      "You T",
+      "Xu J",
+      "Liu J",
+      "Jiang L",
+      "Deng Z",
+      "Liu Y",
+      "Qiu H",
+      "Zhou J",
+      "Sun C",
+      "Chen T",
+      "Zhou W",
+      "Zhang D",
+      "Zhuang J"
+    ],
+    "lastauthor": "Zhuang J",
+    "sortfirstauthor": "You T",
+    "journal": "Clinical and experimental medicine",
+    "issn": "1591-8890",
+    "essn": "1591-9528",
+    "doi": "doi: 10.1007/s10238-026-02248-7",
+    "sortpubdate": "2026/07/26 00:00",
+    "epubdate": "2026 Jul 26"
   }
 ]
