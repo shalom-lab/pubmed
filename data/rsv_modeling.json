@@ -10253,5 +10253,34 @@
     "doi": "doi: 10.1183/16000617.0115-2026",
     "sortpubdate": "2026/10/21 00:00",
     "epubdate": "2026 Oct 21"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "42921055",
+    "title": "A one health visual analytics approach for syndromic surveillance.",
+    "source": "One Health",
+    "pubdate": "2026 Dec",
+    "authors": [
+      "Basheer A",
+      "Saidi SJ",
+      "Khiabani PM",
+      "Jentner W",
+      "Wendelboe A",
+      "Vogel J",
+      "Kuhn K",
+      "Wimberly MC",
+      "Morrison JA",
+      "Topdjian K",
+      "Hougen D",
+      "Ebert D"
+    ],
+    "lastauthor": "Ebert D",
+    "sortfirstauthor": "Basheer A",
+    "journal": "One health (Amsterdam, Netherlands)",
+    "issn": "2352-7714",
+    "essn": "2352-7714",
+    "doi": "doi: 10.1016/j.onehlt.2026.101561",
+    "sortpubdate": "2026/10/14 00:00",
+    "epubdate": "2026 Oct 14"
   }
 ]
