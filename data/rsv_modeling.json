@@ -10282,5 +10282,58 @@
     "doi": "doi: 10.1016/j.onehlt.2026.101561",
     "sortpubdate": "2026/10/14 00:00",
     "epubdate": "2026 Oct 14"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "42932151",
+    "title": "Respiratory syncytial virus in adults aged ≥ 50 years in the Netherlands: a database and time-series modelling analysis (2013-2020).",
+    "source": "Infection",
+    "pubdate": "2026 Oct 26",
+    "authors": [
+      "Reeves RM",
+      "Parmar S",
+      "Hagenaars S",
+      "Baak BN",
+      "Lemmens L",
+      "Gaspersz J",
+      "Velthove KJ",
+      "Loubet P",
+      "Osei-Yeboah R",
+      "Amodio E",
+      "Fonseca MJ",
+      "Pliakas T",
+      "Turriani E",
+      "Marijam A",
+      "Russell CA"
+    ],
+    "lastauthor": "Russell CA",
+    "sortfirstauthor": "Reeves RM",
+    "journal": "Infection",
+    "issn": "0300-8126",
+    "essn": "1439-0973",
+    "doi": "doi: 10.1007/s15010-026-02981-x",
+    "sortpubdate": "2026/10/26 00:00",
+    "epubdate": "2026 Oct 26"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "42931233",
+    "title": "Pathogen-Specific Temporal Coupling Between Outpatient Influenza-like Illness and Hospitalized Severe Acute Respiratory Infection Positivity in China: A National Sentinel Surveillance Time-Series Study.",
+    "source": "Pathogens",
+    "pubdate": "2026 Oct 14",
+    "authors": [
+      "Chen Q",
+      "Tong S",
+      "Gao J",
+      "Xu S"
+    ],
+    "lastauthor": "Xu S",
+    "sortfirstauthor": "Chen Q",
+    "journal": "Pathogens (Basel, Switzerland)",
+    "issn": "",
+    "essn": "2076-0817",
+    "doi": "pii: 1081. doi: 10.3390/pathogens15101081",
+    "sortpubdate": "2026/10/14 00:00",
+    "epubdate": "2026 Oct 14"
   }
 ]
