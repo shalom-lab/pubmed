@@ -11215,7 +11215,7 @@
   {
     "name": "RSV seasonality",
     "id": "42756189",
-    "title": "Comparative epidemiology of six respiratory pathogens among children aged 28 days to 14��years with acute respiratory infections in coastal Xiamen and inland Linxia, China: a multicenter retrospective study.",
+    "title": "Comparative epidemiology of six respiratory pathogens among children aged 28 days to 14 years with acute respiratory infections in coastal Xiamen and inland Linxia, China: a multicenter retrospective study.",
     "source": "Front Public Health",
     "pubdate": "2026",
     "authors": [
@@ -12037,6 +12037,58 @@
     "issn": "",
     "essn": "2076-0817",
     "doi": "pii: 1081. doi: 10.3390/pathogens15101081",
+    "sortpubdate": "2026/10/14 00:00",
+    "epubdate": "2026 Oct 14"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "42943978",
+    "title": "Five Years After the Onset of the COVID-19 Pandemic: Changing Epidemiology of SARS-CoV-2 and Seasonal Respiratory Viruses in Hospitalized Adults.",
+    "source": "Viruses",
+    "pubdate": "2026 Sep 24",
+    "authors": [
+      "Usanmaz M",
+      "Günal Ö",
+      "Özdemir B",
+      "Aksu EA",
+      "Gegin S",
+      "Abdullah M",
+      "Gergin İN",
+      "Ata F",
+      "Öztürk MM",
+      "Karslıoğlu M",
+      "Yılmaz EM",
+      "Kara AŞ",
+      "Ceviz AB",
+      "Özdemir L"
+    ],
+    "lastauthor": "Özdemir L",
+    "sortfirstauthor": "Usanmaz M",
+    "journal": "Viruses",
+    "issn": "",
+    "essn": "1999-4915",
+    "doi": "doi: 10.3390/v18101057",
+    "sortpubdate": "2026/09/24 00:00",
+    "epubdate": "2026 Sep 24"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "42931233",
+    "title": "Pathogen-Specific Temporal Coupling Between Outpatient Influenza-like Illness and Hospitalized Severe Acute Respiratory Infection Positivity in China: A National Sentinel Surveillance Time-Series Study.",
+    "source": "Pathogens",
+    "pubdate": "2026 Oct 14",
+    "authors": [
+      "Chen Q",
+      "Tong S",
+      "Gao J",
+      "Xu S"
+    ],
+    "lastauthor": "Xu S",
+    "sortfirstauthor": "Chen Q",
+    "journal": "Pathogens (Basel, Switzerland)",
+    "issn": "",
+    "essn": "2076-0817",
+    "doi": "doi: 10.3390/pathogens15101081",
     "sortpubdate": "2026/10/14 00:00",
     "epubdate": "2026 Oct 14"
   }

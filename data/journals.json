@@ -14957,7 +14957,8 @@
   {
     "source": "Pharmaceutics",
     "journal": "Pharmaceutics",
-    "issn": "1999-4923"
+    "issn": "1999-4923",
+    "essn": "1999-4923"
   },
   {
     "source": "Horm Mol Biol Clin Investig",
@@ -17060,5 +17061,34 @@
     "source": "JBMR Plus",
     "journal": "JBMR plus",
     "essn": "2473-4039"
+  },
+  {
+    "source": "Hellenic J Cardiol",
+    "journal": "Hellenic journal of cardiology : HJC = Hellenike kardiologike epitheorese",
+    "issn": "1109-9666",
+    "essn": "2241-5955"
+  },
+  {
+    "source": "Acta Histochem",
+    "journal": "Acta histochemica",
+    "issn": "0065-1281",
+    "essn": "1618-0372"
+  },
+  {
+    "source": "Nanotechnology",
+    "journal": "Nanotechnology",
+    "issn": "0957-4484",
+    "essn": "1361-6528"
+  },
+  {
+    "source": "Vet Sci",
+    "journal": "Veterinary sciences",
+    "essn": "2306-7381"
+  },
+  {
+    "source": "J Aquat Anim Health",
+    "journal": "Journal of aquatic animal health",
+    "issn": "0899-7659",
+    "essn": "1548-8667"
   }
 ]

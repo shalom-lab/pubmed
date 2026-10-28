@@ -10335,5 +10335,56 @@
     "doi": "pii: 1081. doi: 10.3390/pathogens15101081",
     "sortpubdate": "2026/10/14 00:00",
     "epubdate": "2026 Oct 14"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "42943430",
+    "title": "An Autonomous Pathogen Detection System for Assessing Temporal Associations with Respiratory Pathogen Activity.",
+    "source": "Microorganisms",
+    "pubdate": "2026 Oct 1",
+    "authors": [
+      "Liu Y",
+      "Wang N",
+      "Wang Y",
+      "Zhao K",
+      "Li H",
+      "Yan Y",
+      "Li F",
+      "Yang R",
+      "Liu S",
+      "Xie Z",
+      "He Q",
+      "Niu Y",
+      "Hu K"
+    ],
+    "lastauthor": "Hu K",
+    "sortfirstauthor": "Liu Y",
+    "journal": "Microorganisms",
+    "issn": "2076-2607",
+    "essn": "2076-2607",
+    "doi": "doi: 10.3390/microorganisms14102192",
+    "sortpubdate": "2026/10/01 00:00",
+    "epubdate": "2026 Oct 1"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "42931233",
+    "title": "Pathogen-Specific Temporal Coupling Between Outpatient Influenza-like Illness and Hospitalized Severe Acute Respiratory Infection Positivity in China: A National Sentinel Surveillance Time-Series Study.",
+    "source": "Pathogens",
+    "pubdate": "2026 Oct 14",
+    "authors": [
+      "Chen Q",
+      "Tong S",
+      "Gao J",
+      "Xu S"
+    ],
+    "lastauthor": "Xu S",
+    "sortfirstauthor": "Chen Q",
+    "journal": "Pathogens (Basel, Switzerland)",
+    "issn": "",
+    "essn": "2076-0817",
+    "doi": "doi: 10.3390/pathogens15101081",
+    "sortpubdate": "2026/10/14 00:00",
+    "epubdate": "2026 Oct 14"
   }
 ]
