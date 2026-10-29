@@ -13424,5 +13424,31 @@
     "doi": "doi: 10.1093/aje/kwag256",
     "sortpubdate": "2026/10/14 00:00",
     "epubdate": "2026 Oct 14"
+  },
+  {
+    "name": "American Journal of Epidemiology",
+    "id": "42950419",
+    "title": "Causal Inference with Missing Exposures and Missing Outcomes.",
+    "source": "Am J Epidemiol",
+    "pubdate": "2026 Oct 28",
+    "authors": [
+      "Landsiedel KE",
+      "Abbott R",
+      "Mucunguzi A",
+      "Mwangwa F",
+      "Kakande E",
+      "Charlebois ED",
+      "Marquez C",
+      "Kamya MR",
+      "Balzer LB"
+    ],
+    "lastauthor": "Balzer LB",
+    "sortfirstauthor": "Landsiedel KE",
+    "journal": "American journal of epidemiology",
+    "issn": "0002-9262",
+    "essn": "1476-6256",
+    "doi": "pii: kwag281. doi: 10.1093/aje/kwag281",
+    "sortpubdate": "2026/10/28 00:00",
+    "epubdate": "2026 Oct 28"
   }
 ]

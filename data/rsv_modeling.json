@@ -10386,5 +10386,30 @@
     "doi": "doi: 10.3390/pathogens15101081",
     "sortpubdate": "2026/10/14 00:00",
     "epubdate": "2026 Oct 14"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "42951541",
+    "title": "A signal-enhanced competitive ELISA based on peptide screened by solid-liquid phase panning hybrid for sensitive detection of respiratory syncytial virus glycoprotein.",
+    "source": "Anal Chim Acta",
+    "pubdate": "2026 Dec 1",
+    "authors": [
+      "Yuan J",
+      "Sun H",
+      "Chen Y",
+      "Zhang H",
+      "Liu W",
+      "Wang M",
+      "Yang Z",
+      "Liu A"
+    ],
+    "lastauthor": "Liu A",
+    "sortfirstauthor": "Yuan J",
+    "journal": "Analytica chimica acta",
+    "issn": "0003-2670",
+    "essn": "1873-4324",
+    "doi": "doi: 10.1016/j.aca.2026.346304",
+    "sortpubdate": "2026/12/01 00:00",
+    "epubdate": "2026 Sep 21"
   }
 ]
