@@ -12118,5 +12118,56 @@
     "doi": "pii: 1902. doi: 10.1186/s12879-026-14106-8",
     "sortpubdate": "2026/08/01 00:00",
     "epubdate": "2026 Aug 1"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "42966443",
+    "title": "The Impact of Socioeconomic and Geographic Factors in Respiratory Virus Testing in Australia.",
+    "source": "Int J Infect Dis",
+    "pubdate": "2026 Oct 31",
+    "authors": [
+      "Kok J",
+      "Bott L",
+      "Wiid Z",
+      "Williamson A",
+      "Suresh T",
+      "Dwyer DE",
+      "Harris P"
+    ],
+    "lastauthor": "Harris P",
+    "sortfirstauthor": "Kok J",
+    "journal": "International journal of infectious diseases : IJID : official publication of the International Society for Infectious Diseases",
+    "issn": "1201-9712",
+    "essn": "1878-3511",
+    "doi": "doi: 10.1016/j.ijid.2026.109210",
+    "sortpubdate": "2026/10/31 00:00",
+    "epubdate": "2026 Oct 31"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "42958085",
+    "title": "Seasonality of influenza virus, respiratory syncytial virus, rhinovirus and metapneumovirus in patients managed at a tertiary care hospital in Martinique (French Caribbean Island), 2016-2021.",
+    "source": "BMC Infect Dis",
+    "pubdate": "2026 Aug 1",
+    "authors": [
+      "Agossou M",
+      "Rollier S",
+      "Enfissi A",
+      "Fagour L",
+      "Rousset D",
+      "Jean-Marie J",
+      "Césaire R",
+      "Fléchelles O",
+      "Dramé M",
+      "Najioullah F"
+    ],
+    "lastauthor": "Najioullah F",
+    "sortfirstauthor": "Agossou M",
+    "journal": "BMC infectious diseases",
+    "issn": "",
+    "essn": "1471-2334",
+    "doi": "doi: 10.1186/s12879-026-14106-8",
+    "sortpubdate": "2026/08/01 00:00",
+    "epubdate": "2026 Aug 1"
   }
 ]
