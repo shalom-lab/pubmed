@@ -154398,7 +154398,7 @@
     "sortfirstauthor": "Weber EN",
     "journal": "Cureus",
     "issn": "2168-8184",
-    "essn": "",
+    "essn": "2168-8184",
     "doi": "doi: 10.7759/cureus.117247",
     "sortpubdate": "2026/09/30 00:00",
     "epubdate": "2026 Sep 30"
@@ -154421,7 +154421,7 @@
     "sortfirstauthor": "Wang Z",
     "journal": "Sexual medicine",
     "issn": "2050-1161",
-    "essn": "",
+    "essn": "2050-1161",
     "doi": "doi: 10.1093/sexmed/qfag017",
     "sortpubdate": "2026/10/30 00:00",
     "epubdate": "2026 Oct 30"
@@ -154441,7 +154441,7 @@
     "sortfirstauthor": "Wu Y",
     "journal": "Frontiers in psychiatry",
     "issn": "1664-0640",
-    "essn": "",
+    "essn": "1664-0640",
     "doi": "doi: 10.3389/fpsyt.2026.1935185",
     "sortpubdate": "2026/10/16 00:00",
     "epubdate": "2026 Oct 16"
@@ -154539,5 +154539,42 @@
     "doi": "doi: 10.1186/s12889-026-28663-9",
     "sortpubdate": "2026/08/03 00:00",
     "epubdate": "2026 Aug 3"
+  },
+  {
+    "name": "NHANES",
+    "id": "42967511",
+    "title": "Prevalence and cardiometabolic determinants of subclinical albuminuria in strictly normotensive US adults with prediabetes: an NHANES 2013-2018 analysis.",
+    "source": "Diabetes Res Clin Pract",
+    "pubdate": "2026 Nov 1",
+    "authors": [
+      "Subramanian J"
+    ],
+    "lastauthor": "Subramanian J",
+    "sortfirstauthor": "Subramanian J",
+    "journal": "Diabetes research and clinical practice",
+    "issn": "0168-8227",
+    "essn": "1872-8227",
+    "doi": "doi: 10.1016/j.diabres.2026.113637",
+    "sortpubdate": "2026/11/01 00:00",
+    "epubdate": "2026 Nov 1"
+  },
+  {
+    "name": "NHANES",
+    "id": "42966802",
+    "title": "Measured olfactory dysfunction without past-year symptom reporting: Prevalence and nutritional correlates in U.S. adults.",
+    "source": "Eur Arch Otorhinolaryngol",
+    "pubdate": "2026 Oct 31",
+    "authors": [
+      "Huang M",
+      "Wu B"
+    ],
+    "lastauthor": "Wu B",
+    "sortfirstauthor": "Huang M",
+    "journal": "European archives of oto-rhino-laryngology : official journal of the European Federation of Oto-Rhino-Laryngological Societies (EUFOS) : affiliated with the German Society for Oto-Rhino-Laryngology - Head and Neck Surgery",
+    "issn": "0937-4477",
+    "essn": "1434-4726",
+    "doi": "doi: 10.1007/s00405-026-10747-2",
+    "sortpubdate": "2026/10/31 00:00",
+    "epubdate": "2026 Oct 31"
   }
 ]

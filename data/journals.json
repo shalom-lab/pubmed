@@ -17157,7 +17157,8 @@
   {
     "source": "Postepy Kardiol Interwencyjnej",
     "journal": "Postepy w kardiologii interwencyjnej = Advances in interventional cardiology",
-    "issn": "1734-9338"
+    "issn": "1734-9338",
+    "essn": "1897-4295"
   },
   {
     "source": "Pharmacogenet Genomics",
@@ -17170,5 +17171,10 @@
     "journal": "Frontiers in neurorobotics",
     "issn": "1662-5218",
     "essn": "1662-5218"
+  },
+  {
+    "source": "J Cardiovasc Comput Tomogr",
+    "journal": "Journal of cardiovascular computed tomography",
+    "essn": "1876-861X"
   }
 ]
