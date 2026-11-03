@@ -10430,5 +10430,45 @@
     "doi": "doi: 10.1016/j.ijbiomac.2026.155083",
     "sortpubdate": "2026/10/30 00:00",
     "epubdate": "2026 Oct 30"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "42971423",
+    "title": "Estimating viral interference from wastewater surveillance: a Bayesian multi-pathogen SEIR framework.",
+    "source": "Math Biosci",
+    "pubdate": "2026 Nov 2",
+    "authors": [
+      "Shoukat A",
+      "Moosavi M",
+      "Hansmeier N",
+      "Wu J"
+    ],
+    "lastauthor": "Wu J",
+    "sortfirstauthor": "Shoukat A",
+    "journal": "Mathematical biosciences",
+    "issn": "0025-5564",
+    "essn": "1879-3134",
+    "doi": "doi: 10.1016/j.mbs.2026.109845",
+    "sortpubdate": "2026/11/02 00:00",
+    "epubdate": "2026 Nov 2"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "42968145",
+    "title": "Cost-utility of respiratory syncytial virus prefusion F (RSVpreF) maternal vaccine for disease prevention among colombian infants.",
+    "source": "BMC Health Serv Res",
+    "pubdate": "2026 Aug 3",
+    "authors": [
+      "Ordóñez J",
+      "Ospina B"
+    ],
+    "lastauthor": "Ospina B",
+    "sortfirstauthor": "Ordóñez J",
+    "journal": "BMC health services research",
+    "issn": "",
+    "essn": "1472-6963",
+    "doi": "pii: 1506. doi: 10.1186/s12913-026-15139-0",
+    "sortpubdate": "2026/08/03 00:00",
+    "epubdate": "2026 Aug 3"
   }
 ]
