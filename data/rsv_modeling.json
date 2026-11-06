@@ -10005,7 +10005,7 @@
     "id": "42896317",
     "title": "Public Health Impact of Adjuvanted RSVPreF3 Vaccination Among US Adults Aged ≥60 Years Residing in Long-Term Care Settings.",
     "source": "J Am Med Dir Assoc",
-    "pubdate": "2026 Oct 19",
+    "pubdate": "2026 Nov",
     "authors": [
       "La EM",
       "Graham J",
@@ -10019,7 +10019,7 @@
     "issn": "1525-8610",
     "essn": "1538-9375",
     "doi": "doi: 10.1016/j.jamda.2026.106406",
-    "sortpubdate": "2026/10/19 00:00",
+    "sortpubdate": "2026/11/01 00:00",
     "epubdate": "2026 Oct 19"
   },
   {
@@ -10489,5 +10489,28 @@
     "doi": "doi: 10.1186/s12913-026-15139-0",
     "sortpubdate": "2026/08/03 00:00",
     "epubdate": "2026 Aug 3"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "42988209",
+    "title": "Human metapneumovirus-associated ARI hospitalisation rates in comparison to respiratory syncytial virus and influenza in eastern China, 2020-2024: a time-series analysis.",
+    "source": "Int J Infect Dis",
+    "pubdate": "2026 Nov 5",
+    "authors": [
+      "Lu M",
+      "Qiao M",
+      "Chen S",
+      "Zhu J",
+      "Li Y",
+      "Wang X"
+    ],
+    "lastauthor": "Wang X",
+    "sortfirstauthor": "Lu M",
+    "journal": "International journal of infectious diseases : IJID : official publication of the International Society for Infectious Diseases",
+    "issn": "1201-9712",
+    "essn": "1878-3511",
+    "doi": "doi: 10.1016/j.ijid.2026.109235",
+    "sortpubdate": "2026/11/05 00:00",
+    "epubdate": "2026 Nov 5"
   }
 ]
