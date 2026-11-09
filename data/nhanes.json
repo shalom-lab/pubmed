@@ -156177,5 +156177,243 @@
     "doi": "doi: 10.1186/s12902-026-02475-9",
     "sortpubdate": "2026/08/08 00:00",
     "epubdate": "2026 Aug 8"
+  },
+  {
+    "name": "NHANES",
+    "id": "43000027",
+    "title": "Lifetime Oestrogen Exposure Indices in Relation to Biological Aging and Future Life Expectancy: A Prospective Study of Two Cohorts.",
+    "source": "BJOG",
+    "pubdate": "2026 Nov 8",
+    "authors": [
+      "Xiang Y",
+      "Wu G",
+      "Zhang N",
+      "Zhang Y",
+      "Zhang H",
+      "Cai J",
+      "Xiao X",
+      "Zhao X"
+    ],
+    "lastauthor": "Zhao X",
+    "sortfirstauthor": "Xiang Y",
+    "journal": "BJOG : an international journal of obstetrics and gynaecology",
+    "issn": "1470-0328",
+    "essn": "1471-0528",
+    "doi": "doi: 10.1111/1471-0528.70374",
+    "sortpubdate": "2026/11/08 00:00",
+    "epubdate": "2026 Nov 8"
+  },
+  {
+    "name": "NHANES",
+    "id": "42999843",
+    "title": "Association Between the HbA1c-To-HDL-C Ratio and Female Infertility Among Reproductive-Aged Women: Evidence from NHANES.",
+    "source": "Int J Womens Health",
+    "pubdate": "2026",
+    "authors": [
+      "Wang X",
+      "Luo S",
+      "Cheng H"
+    ],
+    "lastauthor": "Cheng H",
+    "sortfirstauthor": "Wang X",
+    "journal": "International journal of women's health",
+    "issn": "1179-1411",
+    "essn": "1179-1411",
+    "doi": "doi: 10.2147/IJWH.S627767",
+    "sortpubdate": "2026/11/03 00:00",
+    "epubdate": "2026 Nov 3"
+  },
+  {
+    "name": "NHANES",
+    "id": "42999510",
+    "title": "Diabetes and Tuberculosis: harmonization of population-based datasets.",
+    "source": "Res Sq",
+    "pubdate": "2026 Oct 14",
+    "authors": [
+      "Yllu AG",
+      "Edupulapati B",
+      "Carrillo-Larco RM"
+    ],
+    "lastauthor": "Carrillo-Larco RM",
+    "sortfirstauthor": "Yllu AG",
+    "journal": "Research square",
+    "issn": "",
+    "essn": "2693-5015",
+    "doi": "pii: rs.3.rs-11311043. doi: 10.21203/rs.3.rs-11311043/v1",
+    "sortpubdate": "2026/10/14 00:00",
+    "epubdate": "2026 Oct 14"
+  },
+  {
+    "name": "NHANES",
+    "id": "42998864",
+    "title": "Beyond fixed serum vitamin B12 thresholds: A multivariable risk approach to reflex methylmalonic acid testing (NHANES 2011-2014).",
+    "source": "Clin Chim Acta",
+    "pubdate": "2026 Nov 7",
+    "authors": [
+      "Huang Z"
+    ],
+    "lastauthor": "Huang Z",
+    "sortfirstauthor": "Huang Z",
+    "journal": "Clinica chimica acta; international journal of clinical chemistry",
+    "issn": "0009-8981",
+    "essn": "1873-3492",
+    "doi": "doi: 10.1016/j.cca.2026.122966",
+    "sortpubdate": "2026/11/07 00:00",
+    "epubdate": "2026 Nov 7"
+  },
+  {
+    "name": "NHANES",
+    "id": "42998724",
+    "title": "Relation of advanced cardiovascular-kidney-metabolic syndrome with mortality risk in cancer survivors: joint effect and mediating role of PhenoAge acceleration.",
+    "source": "Diabetes Res Clin Pract",
+    "pubdate": "2026 Nov 7",
+    "authors": [
+      "Wu J",
+      "Kang Z",
+      "Wu D",
+      "Wang D"
+    ],
+    "lastauthor": "Wang D",
+    "sortfirstauthor": "Wu J",
+    "journal": "Diabetes research and clinical practice",
+    "issn": "0168-8227",
+    "essn": "1872-8227",
+    "doi": "doi: 10.1016/j.diabres.2026.113647",
+    "sortpubdate": "2026/11/07 00:00",
+    "epubdate": "2026 Nov 7"
+  },
+  {
+    "name": "NHANES",
+    "id": "42997991",
+    "title": "Burden of Albuminuria in US Adults and its Association with Obesity, Sex and Mortality: A Cross-sectional Analysis of NHANES 2003-2020.",
+    "source": "Am J Physiol Renal Physiol",
+    "pubdate": "2026 Nov 7",
+    "authors": [
+      "Batool A",
+      "Thorgerson A",
+      "Wang X",
+      "Gaddy A",
+      "Ozieh M",
+      "Dawson AZ",
+      "El-Meanawy A"
+    ],
+    "lastauthor": "El-Meanawy A",
+    "sortfirstauthor": "Batool A",
+    "journal": "American journal of physiology. Renal physiology",
+    "issn": "",
+    "essn": "1522-1466",
+    "doi": "doi: 10.1152/ajprenal.90014.2026",
+    "sortpubdate": "2026/11/07 00:00",
+    "epubdate": "2026 Nov 7"
+  },
+  {
+    "name": "NHANES",
+    "id": "42997696",
+    "title": "Estimand Alignment and Implementation Sensitivity in Causal Mediation Analysis of Environmental Mixtures: Simulation, Plasmode, and Applied Study.",
+    "source": "Stats (Basel)",
+    "pubdate": "2026 Dec",
+    "authors": [
+      "Odediran A",
+      "Obeng-Gyasi E"
+    ],
+    "lastauthor": "Obeng-Gyasi E",
+    "sortfirstauthor": "Odediran A",
+    "journal": "Stats",
+    "issn": "",
+    "essn": "2571-905X",
+    "doi": "doi: 10.3390/stats9060121",
+    "sortpubdate": "2026/12/01 00:00",
+    "epubdate": "2026 Oct 30"
+  },
+  {
+    "name": "NHANES",
+    "id": "42997261",
+    "title": "Correction: Association between family income to poverty ratio and severe headache/migraine in the American adults: data from NHANES 1999-2004.",
+    "source": "Front Neurol",
+    "pubdate": "2026",
+    "authors": [
+      "Sun L",
+      "Zhao R",
+      "You X",
+      "Meng J",
+      "Meng L",
+      "Di H"
+    ],
+    "lastauthor": "Di H",
+    "sortfirstauthor": "Sun L",
+    "journal": "Frontiers in neurology",
+    "issn": "",
+    "essn": "1664-2295",
+    "doi": "doi: 10.3389/fneur.2026.1982659",
+    "sortpubdate": "2026/10/23 00:00",
+    "epubdate": "2026 Oct 23"
+  },
+  {
+    "name": "NHANES",
+    "id": "42996933",
+    "title": "Revealing the complex association between environmental toxicants and preserved ratio impaired spirometry: an exploratory study.",
+    "source": "J Thorac Dis",
+    "pubdate": "2026 Oct 30",
+    "authors": [
+      "Deng C",
+      "Ma X",
+      "Jiang Y",
+      "Lin Y",
+      "Pan Y",
+      "Ke X",
+      "Wang W",
+      "He J",
+      "Yang C",
+      "Liang H",
+      "Song J"
+    ],
+    "lastauthor": "Song J",
+    "sortfirstauthor": "Deng C",
+    "journal": "Journal of thoracic disease",
+    "issn": "2072-1439",
+    "essn": "2077-6624",
+    "doi": "doi: 10.21037/jtd-2026-1830",
+    "sortpubdate": "2026/10/30 00:00",
+    "epubdate": "2026 Sep 29"
+  },
+  {
+    "name": "NHANES",
+    "id": "42995508",
+    "title": "The Goldilocks Regression Discontinuity Design: A Dual-Threshold Framework for Evaluating Interventions Outside an Optimal Range.",
+    "source": "Eval Rev",
+    "pubdate": "2026 Nov 6",
+    "authors": [
+      "Moss BG"
+    ],
+    "lastauthor": "Moss BG",
+    "sortfirstauthor": "Moss BG",
+    "journal": "Evaluation review",
+    "issn": "0193-841X",
+    "essn": "1552-3926",
+    "doi": "doi: 10.1177/0193841X261504243",
+    "sortpubdate": "2026/11/06 00:00",
+    "epubdate": "2026 Nov 6"
+  },
+  {
+    "name": "NHANES",
+    "id": "42989318",
+    "title": "Integrating machine learning and traditional statistics to evaluate the Uric acid-to-HDL cholesterol ratio for identification of prevalent COPD in older adults.",
+    "source": "Lipids Health Dis",
+    "pubdate": "2026 Oct 27",
+    "authors": [
+      "Li L",
+      "Fu C",
+      "Zhang R",
+      "Zhang M",
+      "Tian X"
+    ],
+    "lastauthor": "Tian X",
+    "sortfirstauthor": "Li L",
+    "journal": "Lipids in health and disease",
+    "issn": "",
+    "essn": "1476-511X",
+    "doi": "doi: 10.1186/s12944-026-03102-1",
+    "sortpubdate": "2026/10/27 00:00",
+    "epubdate": "2026 Oct 27"
   }
 ]
