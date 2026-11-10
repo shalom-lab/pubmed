@@ -12294,5 +12294,60 @@
     "doi": "doi: 10.5578/mb.20260420",
     "sortpubdate": "2026/10/01 00:00",
     "epubdate": ""
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "43001629",
+    "title": "Human Metapneumovirus in the Post-pandemic Era:: A Multicenter Comparative Study With Respiratory Syncytial Virus in Argentina, 2022-2025.",
+    "source": "Pediatr Infect Dis J",
+    "pubdate": "2026 Nov 5",
+    "authors": [
+      "Gentile A",
+      "Juarez MDV",
+      "Lucion MF",
+      "Gregorio G",
+      "Lopez O",
+      "Pejito MN",
+      "Falaschi A",
+      "Zuzel P",
+      "Lobertti S",
+      "Gioiosa A",
+      "Fernandez T",
+      "Lopez L",
+      "Guarnieri C",
+      "Ensinck G",
+      "Bakir J"
+    ],
+    "lastauthor": "Bakir J",
+    "sortfirstauthor": "Gentile A",
+    "journal": "The Pediatric infectious disease journal",
+    "issn": "0891-3668",
+    "essn": "1532-0987",
+    "doi": "doi: 10.1097/INF.0000000000005462",
+    "sortpubdate": "2026/11/05 00:00",
+    "epubdate": "2026 Nov 5"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "43001274",
+    "title": "Population attributable mortality associated with respiratory viruses in Ontario, Canada: a population-based ecological analysis.",
+    "source": "Lancet Reg Health Am",
+    "pubdate": "2027 Feb",
+    "authors": [
+      "Fisman DN",
+      "Grima AA",
+      "Wilson NJ",
+      "Mann S",
+      "Tuite AR",
+      "Lee CE"
+    ],
+    "lastauthor": "Lee CE",
+    "sortfirstauthor": "Fisman DN",
+    "journal": "Lancet regional health. Americas",
+    "issn": "",
+    "essn": "2667-193X",
+    "doi": "doi: 10.1016/j.lana.2026.101681",
+    "sortpubdate": "2026/10/31 00:00",
+    "epubdate": "2026 Oct 31"
   }
 ]
