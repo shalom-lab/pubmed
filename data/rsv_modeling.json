@@ -10538,5 +10538,53 @@
     "doi": "doi: 10.2147/CEOR.S622013",
     "sortpubdate": "2026/11/03 00:00",
     "epubdate": "2026 Nov 3"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "43006781",
+    "title": "Disparities in RSV Hospitalisations Among Children Under 2 Years in NSW, Australia.",
+    "source": "J Paediatr Child Health",
+    "pubdate": "2026 Nov 10",
+    "authors": [
+      "Soenong H",
+      "Hossain S",
+      "Oei JL",
+      "Munasinghe S",
+      "Dronavalli M",
+      "Lee E",
+      "Page A",
+      "Yeo KT"
+    ],
+    "lastauthor": "Yeo KT",
+    "sortfirstauthor": "Soenong H",
+    "journal": "Journal of paediatrics and child health",
+    "issn": "1034-4810",
+    "essn": "1440-1754",
+    "doi": "doi: 10.1111/jpc.70641",
+    "sortpubdate": "2026/11/10 00:00",
+    "epubdate": "2026 Nov 10"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "43006001",
+    "title": "Comprehensive structure-based virtual screening of natural products enabling the discovery of new activators of SIRT1.",
+    "source": "Res Pharm Sci",
+    "pubdate": "2026 Dec",
+    "authors": [
+      "Bigham A",
+      "Eslami K",
+      "Sirous H",
+      "Pourfarzam M",
+      "Brogi S",
+      "Calderone V"
+    ],
+    "lastauthor": "Calderone V",
+    "sortfirstauthor": "Bigham A",
+    "journal": "Research in pharmaceutical sciences",
+    "issn": "1735-5362",
+    "essn": "1735-9414",
+    "doi": "doi: 10.4103/RPS.RPS_232_25",
+    "sortpubdate": "2026/10/26 00:00",
+    "epubdate": "2026 Oct 26"
   }
 ]
