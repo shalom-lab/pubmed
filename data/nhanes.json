@@ -41182,10 +41182,10 @@
   },
   {
     "name": "NHANES",
-    "id": "41144613",
+    "id": "43024371",
     "title": "Association between A Body Shape Index and the Prevalence of Stroke: A Cross-Sectional Study.",
     "source": "Neuroepidemiology",
-    "pubdate": "2025 Oct 27",
+    "pubdate": "2026 Nov 13",
     "authors": [
       "Shi Y",
       "Qian C",
@@ -41198,8 +41198,8 @@
     "issn": "0251-5350",
     "essn": "1423-0208",
     "doi": "doi: 10.1159/000549080",
-    "sortpubdate": "2025/10/27 00:00",
-    "epubdate": "2025 Oct 27"
+    "sortpubdate": "2026/11/13 00:00",
+    "epubdate": ""
   },
   {
     "name": "NHANES",
@@ -157799,5 +157799,433 @@
     "doi": "doi: 10.1186/s12889-026-28894-w",
     "sortpubdate": "2026/08/05 00:00",
     "epubdate": "2026 Aug 5"
+  },
+  {
+    "name": "NHANES",
+    "id": "43024756",
+    "title": "Association between Dietary Index for Gut Microbiota and Current Asthma: A Cross-Sectional Study Based on NHANES.",
+    "source": "Pol J Microbiol",
+    "pubdate": "2026 Sep 1",
+    "authors": [
+      "Gu G",
+      "Cao X",
+      "Zheng Y",
+      "Zhang Y",
+      "Shao J"
+    ],
+    "lastauthor": "Shao J",
+    "sortfirstauthor": "Gu G",
+    "journal": "Polish journal of microbiology",
+    "issn": "1733-1331",
+    "essn": "2544-4646",
+    "doi": "doi: 10.33073/pjm-2026-028",
+    "sortpubdate": "2026/09/30 00:00",
+    "epubdate": "2026 Sep 30"
+  },
+  {
+    "name": "NHANES",
+    "id": "43024586",
+    "title": "Association between physical activity intensity and self-reported emphysema: A cross-sectional study using NHANES.",
+    "source": "PLoS One",
+    "pubdate": "2026",
+    "authors": [
+      "Wei Q",
+      "Song H",
+      "Jiang L",
+      "Li X",
+      "Zhu J"
+    ],
+    "lastauthor": "Zhu J",
+    "sortfirstauthor": "Wei Q",
+    "journal": "PloS one",
+    "issn": "",
+    "essn": "1932-6203",
+    "doi": "doi: 10.1371/journal.pone.0362852",
+    "sortpubdate": "2026/11/13 00:00",
+    "epubdate": "2026 Nov 13"
+  },
+  {
+    "name": "NHANES",
+    "id": "43024322",
+    "title": "Association between systemic immune-inflammation index and skeletal muscle mass in patients with nonalcoholic fatty liver disease: A cross-sectional study.",
+    "source": "Medicine (Baltimore)",
+    "pubdate": "2026 Nov 13",
+    "authors": [
+      "Peng Q",
+      "Yang W",
+      "Lu Z",
+      "Wu X",
+      "Zhang X",
+      "Chen X"
+    ],
+    "lastauthor": "Chen X",
+    "sortfirstauthor": "Peng Q",
+    "journal": "Medicine",
+    "issn": "0025-7974",
+    "essn": "1536-5964",
+    "doi": "doi: 10.1097/MD.0000000000051462",
+    "sortpubdate": "2026/11/13 00:00",
+    "epubdate": ""
+  },
+  {
+    "name": "NHANES",
+    "id": "43024320",
+    "title": "Association between arthritis and asthma: An observational analysis of NHANES and a Mendelian randomization study.",
+    "source": "Medicine (Baltimore)",
+    "pubdate": "2026 Nov 13",
+    "authors": [
+      "Chen T",
+      "Wang C"
+    ],
+    "lastauthor": "Wang C",
+    "sortfirstauthor": "Chen T",
+    "journal": "Medicine",
+    "issn": "0025-7974",
+    "essn": "1536-5964",
+    "doi": "doi: 10.1097/MD.0000000000051144",
+    "sortpubdate": "2026/11/13 00:00",
+    "epubdate": ""
+  },
+  {
+    "name": "NHANES",
+    "id": "43024304",
+    "title": "Association between depression and cognitive function in adults aged 50 years and older: A cross-sectional study of NHANES 2011-2014.",
+    "source": "Medicine (Baltimore)",
+    "pubdate": "2026 Nov 13",
+    "authors": [
+      "Chen X",
+      "Cao M",
+      "Chen H"
+    ],
+    "lastauthor": "Chen H",
+    "sortfirstauthor": "Chen X",
+    "journal": "Medicine",
+    "issn": "0025-7974",
+    "essn": "1536-5964",
+    "doi": "doi: 10.1097/MD.0000000000051213",
+    "sortpubdate": "2026/11/13 00:00",
+    "epubdate": ""
+  },
+  {
+    "name": "NHANES",
+    "id": "43024298",
+    "title": "Sufficient dietary iron intake is associated with lower all-cause mortality in elderly individuals with autoimmune thyroiditis but not in those without: A population-based study.",
+    "source": "Medicine (Baltimore)",
+    "pubdate": "2026 Nov 13",
+    "authors": [
+      "Hu T"
+    ],
+    "lastauthor": "Hu T",
+    "sortfirstauthor": "Hu T",
+    "journal": "Medicine",
+    "issn": "0025-7974",
+    "essn": "1536-5964",
+    "doi": "doi: 10.1097/MD.0000000000051543",
+    "sortpubdate": "2026/11/13 00:00",
+    "epubdate": ""
+  },
+  {
+    "name": "NHANES",
+    "id": "43024295",
+    "title": "Estimated glucose disposal rate is inversely associated with frailty and cardiovascular mortality: Evidence from NHANES 2001 to 2018.",
+    "source": "Medicine (Baltimore)",
+    "pubdate": "2026 Nov 13",
+    "authors": [
+      "Wei S",
+      "Yu S",
+      "Xue D"
+    ],
+    "lastauthor": "Xue D",
+    "sortfirstauthor": "Wei S",
+    "journal": "Medicine",
+    "issn": "0025-7974",
+    "essn": "1536-5964",
+    "doi": "doi: 10.1097/MD.0000000000051531",
+    "sortpubdate": "2026/11/13 00:00",
+    "epubdate": ""
+  },
+  {
+    "name": "NHANES",
+    "id": "43024276",
+    "title": "Temporal trends in obesity prevalence, weight loss attempts, and weight loss among US adults: A repeated cross-sectional analysis of NHANES 2011-2023.",
+    "source": "Medicine (Baltimore)",
+    "pubdate": "2026 Nov 13",
+    "authors": [
+      "Feng B",
+      "Si H",
+      "Qin X",
+      "Yao X",
+      "Liu Y",
+      "Li Y",
+      "Zhou R"
+    ],
+    "lastauthor": "Zhou R",
+    "sortfirstauthor": "Feng B",
+    "journal": "Medicine",
+    "issn": "0025-7974",
+    "essn": "1536-5964",
+    "doi": "doi: 10.1097/MD.0000000000051518",
+    "sortpubdate": "2026/11/13 00:00",
+    "epubdate": ""
+  },
+  {
+    "name": "NHANES",
+    "id": "43024270",
+    "title": "Are electrolyte levels associated with cholelithiasis risk?: A cross-sectional study of NHANES 2017 to 2023.",
+    "source": "Medicine (Baltimore)",
+    "pubdate": "2026 Nov 13",
+    "authors": [
+      "Li J",
+      "Bao Z",
+      "Zhang J"
+    ],
+    "lastauthor": "Zhang J",
+    "sortfirstauthor": "Li J",
+    "journal": "Medicine",
+    "issn": "0025-7974",
+    "essn": "1536-5964",
+    "doi": "doi: 10.1097/MD.0000000000051412",
+    "sortpubdate": "2026/11/13 00:00",
+    "epubdate": ""
+  },
+  {
+    "name": "NHANES",
+    "id": "43023201",
+    "title": "Physical Activity Levels and Depressive Symptoms in US Adults: NHANES 2007-2020.",
+    "source": "J Nerv Ment Dis",
+    "pubdate": "2026 Nov 13",
+    "authors": [
+      "Seok R",
+      "Chae J"
+    ],
+    "lastauthor": "Chae J",
+    "sortfirstauthor": "Seok R",
+    "journal": "The Journal of nervous and mental disease",
+    "issn": "0022-3018",
+    "essn": "1539-736X",
+    "doi": "doi: 10.1097/NMD.0000000000001893",
+    "sortpubdate": "2026/11/13 00:00",
+    "epubdate": "2026 Nov 13"
+  },
+  {
+    "name": "NHANES",
+    "id": "43023012",
+    "title": "Life's Essential 8 and Depression in the U.S.: Findings From National Health and Nutrition Examination Survey.",
+    "source": "AJPM Focus",
+    "pubdate": "2026 Dec",
+    "authors": [
+      "Enyeji AM",
+      "Roland AD",
+      "Forbes J",
+      "Wetzell D"
+    ],
+    "lastauthor": "Wetzell D",
+    "sortfirstauthor": "Enyeji AM",
+    "journal": "AJPM focus",
+    "issn": "",
+    "essn": "2773-0654",
+    "doi": "doi: 10.1016/j.focus.2026.100537",
+    "sortpubdate": "2026/07/27 00:00",
+    "epubdate": "2026 Jul 27"
+  },
+  {
+    "name": "NHANES",
+    "id": "43022888",
+    "title": "Dental fluorosis and self-reported depression among young adults in the United States.",
+    "source": "Front Environ Health",
+    "pubdate": "2026",
+    "authors": [
+      "Miles AM",
+      "Khan D",
+      "Mattia A",
+      "Wang Z",
+      "Malin AJ"
+    ],
+    "lastauthor": "Malin AJ",
+    "sortfirstauthor": "Miles AM",
+    "journal": "Frontiers in environmental health",
+    "issn": "",
+    "essn": "2813-558X",
+    "doi": "doi: 10.3389/fenvh.2026.1825971",
+    "sortpubdate": "2026/01/01 00:00",
+    "epubdate": "2026 Jun 23"
+  },
+  {
+    "name": "NHANES",
+    "id": "43022839",
+    "title": "Dietary Nutrient Intake and Self-Reported Dermatitis/Eczema in U.S. Adults: A Survey-Weighted Cross-Sectional Analysis of National Health and Nutrition Examination Survey (NHANES) 1999-2004.",
+    "source": "Cureus",
+    "pubdate": "2026 Oct",
+    "authors": [
+      "Alawfi WA",
+      "Aldhowayan H",
+      "Tahiri RM",
+      "Alrehaili GA",
+      "Basehi HA",
+      "Algarni NA",
+      "Kondarji ZW",
+      "Almuhaishi RJ",
+      "Alabdi MJ"
+    ],
+    "lastauthor": "Alabdi MJ",
+    "sortfirstauthor": "Alawfi WA",
+    "journal": "Cureus",
+    "issn": "2168-8184",
+    "essn": "2168-8184",
+    "doi": "doi: 10.7759/cureus.117871",
+    "sortpubdate": "2026/10/13 00:00",
+    "epubdate": "2026 Oct 13"
+  },
+  {
+    "name": "NHANES",
+    "id": "43022163",
+    "title": "National Epidemiological Trends in Hepatitis A-E Serologic and Virologic Markers in the United States, 2011-2023: A Population-Based Study.",
+    "source": "J Clin Transl Hepatol",
+    "pubdate": "2026 Oct 28",
+    "authors": [
+      "Li Z",
+      "Chen Y",
+      "Zhu Y",
+      "Chen Z",
+      "Hu P"
+    ],
+    "lastauthor": "Hu P",
+    "sortfirstauthor": "Li Z",
+    "journal": "Journal of clinical and translational hepatology",
+    "issn": "2225-0719",
+    "essn": "2310-8819",
+    "doi": "doi: 10.14218/JCTH.2026.00708",
+    "sortpubdate": "2026/10/28 00:00",
+    "epubdate": "2026 Sep 29"
+  },
+  {
+    "name": "NHANES",
+    "id": "43022046",
+    "title": "Association between platelet-to-albumin ratio and major depressive disorder: findings from a Chinese clinical cohort supported by population-based evidence.",
+    "source": "Front Psychiatry",
+    "pubdate": "2026",
+    "authors": [
+      "Wang K",
+      "Sun X",
+      "Li K",
+      "Fu Y",
+      "Zhang Y",
+      "Zhang X",
+      "Yao Y"
+    ],
+    "lastauthor": "Yao Y",
+    "sortfirstauthor": "Wang K",
+    "journal": "Frontiers in psychiatry",
+    "issn": "1664-0640",
+    "essn": "1664-0640",
+    "doi": "doi: 10.3389/fpsyt.2026.1995336",
+    "sortpubdate": "2026/10/29 00:00",
+    "epubdate": "2026 Oct 29"
+  },
+  {
+    "name": "NHANES",
+    "id": "43021359",
+    "title": "Nonlinear and linear associations of body roundness index with all-cause and cardiovascular mortality in US adults with cardiovascular-kidney-metabolic syndrome.",
+    "source": "Diabetol Metab Syndr",
+    "pubdate": "2026 Aug 18",
+    "authors": [
+      "Yu J",
+      "Chen Y",
+      "You X",
+      "Hua H"
+    ],
+    "lastauthor": "Hua H",
+    "sortfirstauthor": "Yu J",
+    "journal": "Diabetology & metabolic syndrome",
+    "issn": "1758-5996",
+    "essn": "",
+    "doi": "pii: 250. doi: 10.1186/s13098-026-02251-8",
+    "sortpubdate": "2026/08/18 00:00",
+    "epubdate": "2026 Aug 18"
+  },
+  {
+    "name": "NHANES",
+    "id": "43021137",
+    "title": "Association between dietary total antioxidant capacity and chronic obstructive pulmonary disease: findings from the national health and nutrition examination survey.",
+    "source": "BMC Pulm Med",
+    "pubdate": "2026 Aug 13",
+    "authors": [
+      "Tan H",
+      "Wang Y",
+      "Wu L"
+    ],
+    "lastauthor": "Wu L",
+    "sortfirstauthor": "Tan H",
+    "journal": "BMC pulmonary medicine",
+    "issn": "",
+    "essn": "1471-2466",
+    "doi": "pii: 559. doi: 10.1186/s12890-026-04595-3",
+    "sortpubdate": "2026/08/13 00:00",
+    "epubdate": "2026 Aug 13"
+  },
+  {
+    "name": "NHANES",
+    "id": "43015820",
+    "title": "Joint effects of phenotypic age acceleration and novel insulin resistance indicators on mortality in adults with metabolic dysfunction-associated steatotic liver disease: a prospective cohort study.",
+    "source": "Cardiovasc Diabetol",
+    "pubdate": "2026 Aug 17",
+    "authors": [
+      "Yang G",
+      "Shen S",
+      "He W",
+      "Feng Y",
+      "Zhang J",
+      "Qiu X"
+    ],
+    "lastauthor": "Qiu X",
+    "sortfirstauthor": "Yang G",
+    "journal": "Cardiovascular diabetology",
+    "issn": "",
+    "essn": "1475-2840",
+    "doi": "doi: 10.1186/s12933-026-03324-8",
+    "sortpubdate": "2026/08/17 00:00",
+    "epubdate": "2026 Aug 17"
+  },
+  {
+    "name": "NHANES",
+    "id": "43015811",
+    "title": "Bidirectional association between thyroid dysfunction and depressive symptoms: the role of levothyroxine therapy and shared molecular mechanisms.",
+    "source": "Ann Gen Psychiatry",
+    "pubdate": "2026 Aug 16",
+    "authors": [
+      "Fu HX",
+      "Wang JX",
+      "Qian B",
+      "Zhang X",
+      "Hu LL"
+    ],
+    "lastauthor": "Hu LL",
+    "sortfirstauthor": "Fu HX",
+    "journal": "Annals of general psychiatry",
+    "issn": "1744-859X",
+    "essn": "1744-859X",
+    "doi": "doi: 10.1186/s12991-026-00694-x",
+    "sortpubdate": "2026/08/16 00:00",
+    "epubdate": "2026 Aug 16"
+  },
+  {
+    "name": "NHANES",
+    "id": "43015806",
+    "title": "Endpoint-specific associations of the cholesterol, high-density lipoprotein, and glucose (CHG) index and its adiposity- and inflammation-related derivatives with incident cardiovascular disease and mortality: evidence from CHARLS and NHANES.",
+    "source": "Cardiovasc Diabetol",
+    "pubdate": "2026 Aug 17",
+    "authors": [
+      "Wu Z",
+      "Guo C",
+      "Li J"
+    ],
+    "lastauthor": "Li J",
+    "sortfirstauthor": "Wu Z",
+    "journal": "Cardiovascular diabetology",
+    "issn": "",
+    "essn": "1475-2840",
+    "doi": "doi: 10.1186/s12933-026-03327-5",
+    "sortpubdate": "2026/08/17 00:00",
+    "epubdate": "2026 Aug 17"
   }
 ]

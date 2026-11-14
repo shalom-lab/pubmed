@@ -12395,5 +12395,59 @@
     "doi": "pii: e2026078012. doi: 10.1542/peds.2026-078012",
     "sortpubdate": "2026/11/13 00:00",
     "epubdate": "2026 Nov 13"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "43023605",
+    "title": "Three-Year Polymerase Chain Reaction-Based Surveillance of Respiratory Tract Infections in Adults and Seasonal Patterns.",
+    "source": "Intervirology",
+    "pubdate": "2026 Nov 13",
+    "authors": [
+      "Xue L",
+      "Ye Y",
+      "Li Y"
+    ],
+    "lastauthor": "Li Y",
+    "sortfirstauthor": "Xue L",
+    "journal": "Intervirology",
+    "issn": "0300-5526",
+    "essn": "1423-0100",
+    "doi": "pii: adgag003. doi: 10.1159/int/adgag003",
+    "sortpubdate": "2026/11/13 00:00",
+    "epubdate": "2026 Nov 13"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "43003668",
+    "title": "Winter respiratory adult hospitalisations 2012-2025: a tertiary single-centre observational study assessing hospitalisation frequency and clinical severity of respiratory syncytial virus versus influenza infections.",
+    "source": "BMJ Open Respir Res",
+    "pubdate": "2026 Nov 9",
+    "authors": [
+      "Bourgeois M",
+      "Ausselet N",
+      "Plum PE",
+      "Berghmans M",
+      "Scius N",
+      "Thonon H",
+      "Couvreur C",
+      "Michaux I",
+      "Bulpa P",
+      "Gennart T",
+      "Huang TD",
+      "Deckers C",
+      "Bogaerts P",
+      "Dockx Y",
+      "Denayer S",
+      "Van Heden S",
+      "Delaere B"
+    ],
+    "lastauthor": "Delaere B",
+    "sortfirstauthor": "Bourgeois M",
+    "journal": "BMJ open respiratory research",
+    "issn": "",
+    "essn": "2052-4439",
+    "doi": "doi: 10.1136/bmjresp-2026-004457",
+    "sortpubdate": "2026/11/09 00:00",
+    "epubdate": "2026 Nov 9"
   }
 ]

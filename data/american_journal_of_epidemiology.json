@@ -13736,5 +13736,26 @@
     "doi": "pii: kwag289. doi: 10.1093/aje/kwag289",
     "sortpubdate": "2026/11/11 00:00",
     "epubdate": "2026 Nov 11"
+  },
+  {
+    "name": "American Journal of Epidemiology",
+    "id": "43023824",
+    "title": "Causal Machine Learning for Treatment Effect Heterogeneity: Interpretation, Benchmarking, Validation.",
+    "source": "Am J Epidemiol",
+    "pubdate": "2026 Nov 13",
+    "authors": [
+      "Heesen P",
+      "Schröder M",
+      "Desai RJ",
+      "Feuerriegel S"
+    ],
+    "lastauthor": "Feuerriegel S",
+    "sortfirstauthor": "Heesen P",
+    "journal": "American journal of epidemiology",
+    "issn": "0002-9262",
+    "essn": "1476-6256",
+    "doi": "pii: kwag294. doi: 10.1093/aje/kwag294",
+    "sortpubdate": "2026/11/13 00:00",
+    "epubdate": "2026 Nov 13"
   }
 ]

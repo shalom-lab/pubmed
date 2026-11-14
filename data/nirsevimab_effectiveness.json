@@ -7936,7 +7936,7 @@
       "Clerigue Arrieta N",
       "Izquierdo Frechilla J",
       "Cámara Otegui A",
-      "Baños López L",
+      "Ba��os López L",
       "Claret Teruel G",
       "Gijón Mediavilla M",
       "Ferrero García-Loygorri C",
@@ -7958,5 +7958,30 @@
     "doi": "pii: 932. doi: 10.1007/s00431-026-07596-w",
     "sortpubdate": "2026/11/12 00:00",
     "epubdate": "2026 Nov 12"
+  },
+  {
+    "name": "Nirsevimab effectiveness",
+    "id": "43022547",
+    "title": "Infant Respiratory Syncytial Virus Hospitalizations Before and After Introduction of Prophylaxis Programs in Spain and the United Kingdom, June 2022-May 2025.",
+    "source": "Open Forum Infect Dis",
+    "pubdate": "2026 Nov",
+    "authors": [
+      "Martyn O",
+      "Kramer R",
+      "Mari K",
+      "McDonald SA",
+      "Dronkers E",
+      "Schim van der Loeff R",
+      "Deuring JJ",
+      "Faust SN"
+    ],
+    "lastauthor": "Faust SN",
+    "sortfirstauthor": "Martyn O",
+    "journal": "Open forum infectious diseases",
+    "issn": "2328-8957",
+    "essn": "2328-8957",
+    "doi": "doi: 10.1093/ofid/ofag536",
+    "sortpubdate": "2026/08/24 00:00",
+    "epubdate": "2026 Aug 24"
   }
 ]

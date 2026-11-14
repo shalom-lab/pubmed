@@ -26930,10 +26930,10 @@
   },
   {
     "name": "GBD database",
-    "id": "41115122",
-    "title": "Global, Regional, and National Burden of Neonatal Encephalopathy Due to Birth Asphyxia and Trauma, Its Attributable Risk Factors, 1990-2021: Results from the Global Burden of Disease Study 2021.",
+    "id": "43024376",
+    "title": "Global, Regional, and National Burden of Neonatal Encephalopathy due to Birth Asphyxia and Trauma, Its Attributable Risk Factors, 1990-2021: Results from the Global Burden of Disease Study 2021.",
     "source": "Neuroepidemiology",
-    "pubdate": "2025 Oct 20",
+    "pubdate": "2026 Nov 13",
     "authors": [
       "Liu T",
       "Mei H",
@@ -26948,8 +26948,8 @@
     "issn": "0251-5350",
     "essn": "1423-0208",
     "doi": "doi: 10.1159/000548682",
-    "sortpubdate": "2025/10/20 00:00",
-    "epubdate": "2025 Oct 20"
+    "sortpubdate": "2026/11/13 00:00",
+    "epubdate": ""
   },
   {
     "name": "GBD database",
@@ -33825,10 +33825,10 @@
   },
   {
     "name": "GBD database",
-    "id": "41223133",
-    "title": "Global, regional, and national burden of intracerebral hemorrhage and its attributable risk factors in youth from 1990 to 2021: a Global Burden of Disease study.",
+    "id": "43024378",
+    "title": "Global, Regional, and National Burden of Intracerebral Hemorrhage and Its Attributable Risk Factors in Youth from 1990 to 2021: A Global Burden of Disease Study.",
     "source": "Neuroepidemiology",
-    "pubdate": "2025 Nov 12",
+    "pubdate": "2026 Nov 13",
     "authors": [
       "Tu QY",
       "Lin DR",
@@ -33842,8 +33842,8 @@
     "issn": "0251-5350",
     "essn": "1423-0208",
     "doi": "doi: 10.1159/000549426",
-    "sortpubdate": "2025/11/12 00:00",
-    "epubdate": "2025 Nov 12"
+    "sortpubdate": "2026/11/13 00:00",
+    "epubdate": ""
   },
   {
     "name": "GBD database",
@@ -36958,10 +36958,10 @@
   },
   {
     "name": "GBD database",
-    "id": "41289197",
-    "title": "Evaluation of Disease Burden in Parkinson&apos;s Disease for Individuals Aged 60 and Older.",
+    "id": "43024377",
+    "title": "Evaluation of Disease Burden in Parkinson's Disease for Individuals Aged 60 and Older.",
     "source": "Neuroepidemiology",
-    "pubdate": "2025 Nov 25",
+    "pubdate": "2026 Nov 13",
     "authors": [
       "Liu J",
       "Tong Y",
@@ -36976,8 +36976,8 @@
     "issn": "0251-5350",
     "essn": "1423-0208",
     "doi": "doi: 10.1159/000549622",
-    "sortpubdate": "2025/11/25 00:00",
-    "epubdate": "2025 Nov 25"
+    "sortpubdate": "2026/11/13 00:00",
+    "epubdate": ""
   },
   {
     "name": "GBD database",
@@ -60000,25 +60000,25 @@
   },
   {
     "name": "GBD database",
-    "id": "41838829",
-    "title": "Global statistics of attention-deficit/hyperactivity disorder, autism spectrum disorder, and conduct disorder among school-age children from 1990-2021, with forecasts to 2040.",
+    "id": "43024379",
+    "title": "Global Statistics of Attention-Deficit/Hyperactivity Disorder, Autism Spectrum Disorder, and Conduct Disorder among School-Age Children from 1990-2021, with Forecasts to 2040.",
     "source": "Neuroepidemiology",
-    "pubdate": "2026 Mar 16",
+    "pubdate": "2026 Nov 13",
     "authors": [
       "Wang P",
       "Shi Y",
       "Luo Z",
-      "Wang J",
-      "Zhang Y"
+      "Zhang Y",
+      "Wang J"
     ],
-    "lastauthor": "Zhang Y",
+    "lastauthor": "Wang J",
     "sortfirstauthor": "Wang P",
     "journal": "Neuroepidemiology",
     "issn": "0251-5350",
     "essn": "1423-0208",
     "doi": "doi: 10.1159/000550297",
-    "sortpubdate": "2026/03/16 00:00",
-    "epubdate": "2026 Mar 16"
+    "sortpubdate": "2026/11/13 00:00",
+    "epubdate": ""
   },
   {
     "name": "GBD database",
@@ -112548,5 +112548,174 @@
     "doi": "doi: 10.1186/s12885-026-16696-7",
     "sortpubdate": "2026/08/15 00:00",
     "epubdate": "2026 Aug 15"
+  },
+  {
+    "name": "GBD database",
+    "id": "43024327",
+    "title": "Metabolic abnormalities and colorectal cancer: An integrated secondary analysis triangulating Mendelian randomization with global burden and temporal trends.",
+    "source": "Medicine (Baltimore)",
+    "pubdate": "2026 Nov 13",
+    "authors": [
+      "Gao Z",
+      "Peng K"
+    ],
+    "lastauthor": "Peng K",
+    "sortfirstauthor": "Gao Z",
+    "journal": "Medicine",
+    "issn": "0025-7974",
+    "essn": "1536-5964",
+    "doi": "doi: 10.1097/MD.0000000000051519",
+    "sortpubdate": "2026/11/13 00:00",
+    "epubdate": ""
+  },
+  {
+    "name": "GBD database",
+    "id": "43024277",
+    "title": "Global, regional, and national burden of liver cancer attributable to high BMI and hyperglycemia from 1990 to 2021: A systematic analysis of the Global Burden of Disease Study 2021.",
+    "source": "Medicine (Baltimore)",
+    "pubdate": "2026 Nov 13",
+    "authors": [
+      "Yang X",
+      "Zhou W",
+      "Lu Y",
+      "Liu Z"
+    ],
+    "lastauthor": "Liu Z",
+    "sortfirstauthor": "Yang X",
+    "journal": "Medicine",
+    "issn": "0025-7974",
+    "essn": "1536-5964",
+    "doi": "doi: 10.1097/MD.0000000000051341",
+    "sortpubdate": "2026/11/13 00:00",
+    "epubdate": ""
+  },
+  {
+    "name": "GBD database",
+    "id": "43024275",
+    "title": "The epidemiological burden of cardiovascular diseases in BRICS from 1990 to 2021: A population-based time trend analysis using the Global Burden of Disease Study.",
+    "source": "Medicine (Baltimore)",
+    "pubdate": "2026 Nov 13",
+    "authors": [
+      "Li L",
+      "Wu C",
+      "Wang Z"
+    ],
+    "lastauthor": "Wang Z",
+    "sortfirstauthor": "Li L",
+    "journal": "Medicine",
+    "issn": "0025-7974",
+    "essn": "1536-5964",
+    "doi": "doi: 10.1097/MD.0000000000051557",
+    "sortpubdate": "2026/11/13 00:00",
+    "epubdate": ""
+  },
+  {
+    "name": "GBD database",
+    "id": "43024271",
+    "title": "Trends in chronic obstructive pulmonary disease incidence among Chinese adults aged 60 to 94 years from 1994 to 2023 and projections to 2035.",
+    "source": "Medicine (Baltimore)",
+    "pubdate": "2026 Nov 13",
+    "authors": [
+      "Xiong H",
+      "Ju D",
+      "Huang S",
+      "Xue J"
+    ],
+    "lastauthor": "Xue J",
+    "sortfirstauthor": "Xiong H",
+    "journal": "Medicine",
+    "issn": "0025-7974",
+    "essn": "1536-5964",
+    "doi": "doi: 10.1097/MD.0000000000051466",
+    "sortpubdate": "2026/11/13 00:00",
+    "epubdate": ""
+  },
+  {
+    "name": "GBD database",
+    "id": "43022800",
+    "title": "Trends in disability burden of site-specific osteoarthritis among elderly adults in China from 1990 to 2023 and projections to 2035: a comprehensive analysis based on GBD 2023.",
+    "source": "Open Med (Wars)",
+    "pubdate": "2026 Jan",
+    "authors": [
+      "Wang Y",
+      "Li L",
+      "Hu X",
+      "Li L"
+    ],
+    "lastauthor": "Li L",
+    "sortfirstauthor": "Wang Y",
+    "journal": "Open medicine (Warsaw, Poland)",
+    "issn": "2391-5463",
+    "essn": "2391-5463",
+    "doi": "doi: 10.1515/med-2026-1519",
+    "sortpubdate": "2026/11/12 00:00",
+    "epubdate": "2026 Nov 12"
+  },
+  {
+    "name": "GBD database",
+    "id": "43022413",
+    "title": "Brain-computer interfaces for neurodegenerative diseases: A comprehensive review of closed-loop systems from diagnosis to neural rehabilitation.",
+    "source": "iScience",
+    "pubdate": "2026 Nov 20",
+    "authors": [
+      "Shan Q",
+      "Li J",
+      "Wang Y",
+      "Gupta S",
+      "Song L",
+      "Zhang W",
+      "Su F",
+      "Guo Y"
+    ],
+    "lastauthor": "Guo Y",
+    "sortfirstauthor": "Shan Q",
+    "journal": "iScience",
+    "issn": "",
+    "essn": "2589-0042",
+    "doi": "doi: 10.1016/j.isci.2026.118073",
+    "sortpubdate": "2026/11/02 00:00",
+    "epubdate": "2026 Nov 2"
+  },
+  {
+    "name": "GBD database",
+    "id": "43021344",
+    "title": "Global disparities in dengue, climate, and extreme weather research: a bibliometric analysis of alignment with disease burden and climate-driven vector suitability.",
+    "source": "Trop Med Health",
+    "pubdate": "2026 Nov 13",
+    "authors": [
+      "Ai C",
+      "Teng Y",
+      "Mo G",
+      "Wang W",
+      "Biwott MK",
+      "Li J",
+      "Liu Q"
+    ],
+    "lastauthor": "Liu Q",
+    "sortfirstauthor": "Ai C",
+    "journal": "Tropical medicine and health",
+    "issn": "1348-8945",
+    "essn": "",
+    "doi": "pii: 238. doi: 10.1186/s41182-026-01110-6",
+    "sortpubdate": "2026/11/13 00:00",
+    "epubdate": "2026 Nov 13"
+  },
+  {
+    "name": "GBD database",
+    "id": "43021266",
+    "title": "Admission criteria and academic performance in first-year medical and dental students at a new medical school in Zambia: a historical cohort study.",
+    "source": "BMC Med Educ",
+    "pubdate": "2026 Aug 18",
+    "authors": [
+      "Bowa K"
+    ],
+    "lastauthor": "Bowa K",
+    "sortfirstauthor": "Bowa K",
+    "journal": "BMC medical education",
+    "issn": "",
+    "essn": "1472-6920",
+    "doi": "pii: 1842. doi: 10.1186/s12909-026-10171-4",
+    "sortpubdate": "2026/08/18 00:00",
+    "epubdate": "2026 Aug 18"
   }
 ]
