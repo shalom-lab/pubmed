@@ -10609,5 +10609,28 @@
     "doi": "doi: 10.3389/fped.2026.1915356",
     "sortpubdate": "2026/10/28 00:00",
     "epubdate": "2026 Oct 28"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "43026430",
+    "title": "Generative AI-Designed Immunoglobulin Domain Antibodies (IgDAbs) Against the Fusion Protein as a Neutralizing Agent for Respiratory Syncytial Virus.",
+    "source": "Pharm Res",
+    "pubdate": "2026 Nov 13",
+    "authors": [
+      "Prasad YR",
+      "Khandave PY",
+      "Ratnaparkhe M",
+      "Kendre AG",
+      "Bharatam PV",
+      "Pande AH"
+    ],
+    "lastauthor": "Pande AH",
+    "sortfirstauthor": "Prasad YR",
+    "journal": "Pharmaceutical research",
+    "issn": "0724-8741",
+    "essn": "1573-904X",
+    "doi": "doi: 10.1007/s11095-026-04226-w",
+    "sortpubdate": "2026/11/13 00:00",
+    "epubdate": "2026 Nov 13"
   }
 ]
