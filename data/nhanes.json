@@ -158587,5 +158587,360 @@
     "doi": "doi: 10.1186/s12890-026-04595-3",
     "sortpubdate": "2026/08/13 00:00",
     "epubdate": "2026 Aug 13"
+  },
+  {
+    "name": "NHANES",
+    "id": "43034091",
+    "title": "Weight-Adjusted Waist Index and Breast Cancer Prevalence in U.S. Adult Women: A Cross-Sectional NHANES Analysis (1999-2016).",
+    "source": "Cancer Med",
+    "pubdate": "2026 Nov",
+    "authors": [
+      "Li Y",
+      "Yang Z",
+      "An Y",
+      "Yu Y",
+      "Cao X",
+      "Wang X"
+    ],
+    "lastauthor": "Wang X",
+    "sortfirstauthor": "Li Y",
+    "journal": "Cancer medicine",
+    "issn": "",
+    "essn": "2045-7634",
+    "doi": "pii: e72505. doi: 10.1002/cam4.72505",
+    "sortpubdate": "2026/11/01 00:00",
+    "epubdate": ""
+  },
+  {
+    "name": "NHANES",
+    "id": "43033950",
+    "title": "Bisphenol A and its substitute bisphenol S promote lung inflammation and injury through LTB4-BLT1-associated neutrophil migration.",
+    "source": "Toxicol Lett",
+    "pubdate": "2026 Nov 14",
+    "authors": [
+      "Liu Q",
+      "Wang C",
+      "Cheng Y",
+      "Xu X"
+    ],
+    "lastauthor": "Xu X",
+    "sortfirstauthor": "Liu Q",
+    "journal": "Toxicology letters",
+    "issn": "0378-4274",
+    "essn": "1879-3169",
+    "doi": "doi: 10.1016/j.toxlet.2026.113231",
+    "sortpubdate": "2026/11/14 00:00",
+    "epubdate": "2026 Nov 14"
+  },
+  {
+    "name": "NHANES",
+    "id": "43033525",
+    "title": "Self-report label bias in machine learning screening for undiagnosed diabetes: development, validation and offline on-device deployment of an interpretable HbA1c-anchored tool.",
+    "source": "Int J Med Inform",
+    "pubdate": "2026 Nov 10",
+    "authors": [
+      "Chowdhury SH",
+      "Diptho RA",
+      "Ghosh P"
+    ],
+    "lastauthor": "Ghosh P",
+    "sortfirstauthor": "Chowdhury SH",
+    "journal": "International journal of medical informatics",
+    "issn": "1386-5056",
+    "essn": "1872-8243",
+    "doi": "doi: 10.1016/j.ijmedinf.2026.106811",
+    "sortpubdate": "2026/11/10 00:00",
+    "epubdate": "2026 Nov 10"
+  },
+  {
+    "name": "NHANES",
+    "id": "43032732",
+    "title": "Dietary Fiber Intake and Phenotypic Age Acceleration in United States Adults: A Nationally Representative Cross-Sectional Study.",
+    "source": "Cureus",
+    "pubdate": "2026 Oct",
+    "authors": [
+      "Joglekar KG"
+    ],
+    "lastauthor": "Joglekar KG",
+    "sortfirstauthor": "Joglekar KG",
+    "journal": "Cureus",
+    "issn": "2168-8184",
+    "essn": "2168-8184",
+    "doi": "doi: 10.7759/cureus.117915",
+    "sortpubdate": "2026/10/14 00:00",
+    "epubdate": "2026 Oct 14"
+  },
+  {
+    "name": "NHANES",
+    "id": "43030130",
+    "title": "Probiotic Supplement Use and Diabetic Retinopathy in Korean Adults with Diabetes: A Nationwide Population-Based Study.",
+    "source": "Nutrients",
+    "pubdate": "2026 Oct 25",
+    "authors": [
+      "Chung DH",
+      "Baek J",
+      "Park SP",
+      "Kim SH",
+      "Jee D"
+    ],
+    "lastauthor": "Jee D",
+    "sortfirstauthor": "Chung DH",
+    "journal": "Nutrients",
+    "issn": "",
+    "essn": "2072-6643",
+    "doi": "doi: 10.3390/nu18213501",
+    "sortpubdate": "2026/10/25 00:00",
+    "epubdate": "2026 Oct 25"
+  },
+  {
+    "name": "NHANES",
+    "id": "43030095",
+    "title": "Association Between Dietary Quality and Pulmonary Function Among Older Adults: Results from the Korea National Health and Nutrition Examination Survey, 2024.",
+    "source": "Nutrients",
+    "pubdate": "2026 Oct 22",
+    "authors": [
+      "Baek SU",
+      "Yoon JH"
+    ],
+    "lastauthor": "Yoon JH",
+    "sortfirstauthor": "Baek SU",
+    "journal": "Nutrients",
+    "issn": "",
+    "essn": "2072-6643",
+    "doi": "doi: 10.3390/nu18213467",
+    "sortpubdate": "2026/10/22 00:00",
+    "epubdate": "2026 Oct 22"
+  },
+  {
+    "name": "NHANES",
+    "id": "43028779",
+    "title": "Liver Age Acceleration and Kidney Abnormalities Among Adult NHANES Participants: A Cross-Sectional Study.",
+    "source": "Healthcare (Basel)",
+    "pubdate": "2026 Nov 4",
+    "authors": [
+      "Wang R",
+      "Wang B",
+      "Wang Y",
+      "Ren C"
+    ],
+    "lastauthor": "Ren C",
+    "sortfirstauthor": "Wang R",
+    "journal": "Healthcare (Basel, Switzerland)",
+    "issn": "2227-9032",
+    "essn": "2227-9032",
+    "doi": "doi: 10.3390/healthcare14213759",
+    "sortpubdate": "2026/11/04 00:00",
+    "epubdate": "2026 Nov 4"
+  },
+  {
+    "name": "NHANES",
+    "id": "43028777",
+    "title": "Association Between Household Type and Cardiovascular Disease Prevalence: A Korean National Health and Nutrition Examination Survey Study (2019-2021).",
+    "source": "Healthcare (Basel)",
+    "pubdate": "2026 Nov 4",
+    "authors": [
+      "Kim HS"
+    ],
+    "lastauthor": "Kim HS",
+    "sortfirstauthor": "Kim HS",
+    "journal": "Healthcare (Basel, Switzerland)",
+    "issn": "2227-9032",
+    "essn": "2227-9032",
+    "doi": "doi: 10.3390/healthcare14213757",
+    "sortpubdate": "2026/11/04 00:00",
+    "epubdate": "2026 Nov 4"
+  },
+  {
+    "name": "NHANES",
+    "id": "43028750",
+    "title": "Are Younger Korean Adults Getting Sicker or Getting Treated? Decomposing the Growth in Treated Chronic Disease Prevalence into Disease Burden, Treatment Uptake, and Claims Capture, 2010-2024.",
+    "source": "Healthcare (Basel)",
+    "pubdate": "2026 Nov 3",
+    "authors": [
+      "Kang T"
+    ],
+    "lastauthor": "Kang T",
+    "sortfirstauthor": "Kang T",
+    "journal": "Healthcare (Basel, Switzerland)",
+    "issn": "2227-9032",
+    "essn": "2227-9032",
+    "doi": "doi: 10.3390/healthcare14213729",
+    "sortpubdate": "2026/11/03 00:00",
+    "epubdate": "2026 Nov 3"
+  },
+  {
+    "name": "NHANES",
+    "id": "43028748",
+    "title": "Exploring the Relationship Between Spirometry-Defined COPD and Periodontitis Among US Adults.",
+    "source": "Healthcare (Basel)",
+    "pubdate": "2026 Nov 3",
+    "authors": [
+      "Alsaidi S",
+      "Douna M",
+      "Raghunanan E",
+      "Bodden D",
+      "Mandhidi B",
+      "Keskar M",
+      "Vu GT",
+      "Little B"
+    ],
+    "lastauthor": "Little B",
+    "sortfirstauthor": "Alsaidi S",
+    "journal": "Healthcare (Basel, Switzerland)",
+    "issn": "2227-9032",
+    "essn": "2227-9032",
+    "doi": "doi: 10.3390/healthcare14213727",
+    "sortpubdate": "2026/11/03 00:00",
+    "epubdate": "2026 Nov 3"
+  },
+  {
+    "name": "NHANES",
+    "id": "43028741",
+    "title": "Association Between Free Triiodothyronine and Metabolic Dysfunction-Associated Steatotic Liver Disease in Euthyroid Population: Evidence from NHANES 2007-2012.",
+    "source": "Healthcare (Basel)",
+    "pubdate": "2026 Nov 2",
+    "authors": [
+      "Zhang T",
+      "Peng S",
+      "He P",
+      "Wang X",
+      "Nie B",
+      "Feng Y",
+      "Yu Z",
+      "Zhu Q"
+    ],
+    "lastauthor": "Zhu Q",
+    "sortfirstauthor": "Zhang T",
+    "journal": "Healthcare (Basel, Switzerland)",
+    "issn": "2227-9032",
+    "essn": "2227-9032",
+    "doi": "doi: 10.3390/healthcare14213720",
+    "sortpubdate": "2026/11/02 00:00",
+    "epubdate": "2026 Nov 2"
+  },
+  {
+    "name": "NHANES",
+    "id": "43028737",
+    "title": "Association of the Physical Activity-Sitting Time Balance Index with Metabolic Syndrome and Depressive Symptoms in Korean Adults: KNHANES 2014-2024.",
+    "source": "Healthcare (Basel)",
+    "pubdate": "2026 Nov 2",
+    "authors": [
+      "Jin Y",
+      "Kim D"
+    ],
+    "lastauthor": "Kim D",
+    "sortfirstauthor": "Jin Y",
+    "journal": "Healthcare (Basel, Switzerland)",
+    "issn": "2227-9032",
+    "essn": "2227-9032",
+    "doi": "doi: 10.3390/healthcare14213714",
+    "sortpubdate": "2026/11/02 00:00",
+    "epubdate": "2026 Nov 2"
+  },
+  {
+    "name": "NHANES",
+    "id": "43028657",
+    "title": "Associations of Sitting Time and Leisure-Time Physical Activity with Mortality Across Cardiovascular-Kidney-Metabolic Syndrome Stages.",
+    "source": "Healthcare (Basel)",
+    "pubdate": "2026 Oct 27",
+    "authors": [
+      "Li F",
+      "Zhang Y",
+      "Yin Z",
+      "Zeng Q",
+      "Zhang Y",
+      "Liu Y"
+    ],
+    "lastauthor": "Liu Y",
+    "sortfirstauthor": "Li F",
+    "journal": "Healthcare (Basel, Switzerland)",
+    "issn": "2227-9032",
+    "essn": "2227-9032",
+    "doi": "doi: 10.3390/healthcare14213636",
+    "sortpubdate": "2026/10/27 00:00",
+    "epubdate": "2026 Oct 27"
+  },
+  {
+    "name": "NHANES",
+    "id": "43028602",
+    "title": "Long Sleep Duration and Multimorbidity in Older U.S. Adults: A Dose-Response Analysis of NHANES 2017-March 2020.",
+    "source": "Healthcare (Basel)",
+    "pubdate": "2026 Oct 22",
+    "authors": [
+      "Zhang J",
+      "Kim KH",
+      "Shin H",
+      "Choi W"
+    ],
+    "lastauthor": "Choi W",
+    "sortfirstauthor": "Zhang J",
+    "journal": "Healthcare (Basel, Switzerland)",
+    "issn": "2227-9032",
+    "essn": "2227-9032",
+    "doi": "doi: 10.3390/healthcare14213580",
+    "sortpubdate": "2026/10/22 00:00",
+    "epubdate": "2026 Oct 22"
+  },
+  {
+    "name": "NHANES",
+    "id": "43028546",
+    "title": "Eosinophil-to-Lymphocyte Ratio as a Potential Inflammatory Marker Associated with Endometrial Cancer: An Analysis of NHANES 2017-2023 and an Independent Institutional Cohort.",
+    "source": "Diagnostics (Basel)",
+    "pubdate": "2026 Nov 6",
+    "authors": [
+      "Moon H",
+      "Kim BY",
+      "Kim S"
+    ],
+    "lastauthor": "Kim S",
+    "sortfirstauthor": "Moon H",
+    "journal": "Diagnostics (Basel, Switzerland)",
+    "issn": "2075-4418",
+    "essn": "2075-4418",
+    "doi": "doi: 10.3390/diagnostics16213675",
+    "sortpubdate": "2026/11/06 00:00",
+    "epubdate": "2026 Nov 6"
+  },
+  {
+    "name": "NHANES",
+    "id": "43026917",
+    "title": "Magnesium Intake, Sociodemographic Determinants, and Memory Performance in Older Adults: A Sex-Stratified Analysis in NHANES 2011-2014.",
+    "source": "Biology (Basel)",
+    "pubdate": "2026 Oct 22",
+    "authors": [
+      "Shahzad H",
+      "Razzaque MS",
+      "Lopez-Alvarenga JC"
+    ],
+    "lastauthor": "Lopez-Alvarenga JC",
+    "sortfirstauthor": "Shahzad H",
+    "journal": "Biology",
+    "issn": "2079-7737",
+    "essn": "2079-7737",
+    "doi": "doi: 10.3390/biology15211906",
+    "sortpubdate": "2026/10/22 00:00",
+    "epubdate": "2026 Oct 22"
+  },
+  {
+    "name": "NHANES",
+    "id": "43026865",
+    "title": "Negative-Control Calibration and E-Value Bounding of Cancer-Survivor Mortality Contrasts: A Design-Aware Competing-Risks Analysis.",
+    "source": "Cancers (Basel)",
+    "pubdate": "2026 Nov 4",
+    "authors": [
+      "Naskinova I",
+      "Kolev M",
+      "Lazarova M",
+      "Kalinov H",
+      "Klisurov V"
+    ],
+    "lastauthor": "Klisurov V",
+    "sortfirstauthor": "Naskinova I",
+    "journal": "Cancers",
+    "issn": "2072-6694",
+    "essn": "2072-6694",
+    "doi": "doi: 10.3390/cancers18213544",
+    "sortpubdate": "2026/11/04 00:00",
+    "epubdate": "2026 Nov 4"
   }
 ]

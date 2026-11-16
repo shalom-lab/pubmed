@@ -10632,5 +10632,60 @@
     "doi": "doi: 10.1007/s11095-026-04226-w",
     "sortpubdate": "2026/11/13 00:00",
     "epubdate": "2026 Nov 13"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "43032701",
+    "title": "Epidemiology and seasonality of respiratory syncytial virus among hospitalized pediatric patients with lower respiratory tract infections in Negeri Sembilan, Malaysia (2017-2024).",
+    "source": "Front Public Health",
+    "pubdate": "2026",
+    "authors": [
+      "Iderus NHM",
+      "Singh S",
+      "Ng DC",
+      "Ghazali SM",
+      "Ghazali NM",
+      "Lim MC",
+      "Ahmad NAR",
+      "Ruslan Q",
+      "Liew CH",
+      "Ali MM",
+      "Abidin NZZ",
+      "Yusoff NHM",
+      "Gill BS",
+      "Omar MA",
+      "Ahmad LCRQ"
+    ],
+    "lastauthor": "Ahmad LCRQ",
+    "sortfirstauthor": "Iderus NHM",
+    "journal": "Frontiers in public health",
+    "issn": "",
+    "essn": "2296-2565",
+    "doi": "doi: 10.3389/fpubh.2026.1947126",
+    "sortpubdate": "2026/10/26 00:00",
+    "epubdate": "2026 Oct 26"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "43031927",
+    "title": "Resveratrol alleviates glucolipid metabolism disorders in diabetic nephropathy via the HIF-1α pathway: a network pharmacology and experimental validation study.",
+    "source": "Front Pharmacol",
+    "pubdate": "2026",
+    "authors": [
+      "Li S",
+      "Lyu D",
+      "Feng F",
+      "Zhou R",
+      "Zhang J",
+      "Deng Y"
+    ],
+    "lastauthor": "Deng Y",
+    "sortfirstauthor": "Li S",
+    "journal": "Frontiers in pharmacology",
+    "issn": "1663-9812",
+    "essn": "1663-9812",
+    "doi": "doi: 10.3389/fphar.2026.1971426",
+    "sortpubdate": "2026/10/30 00:00",
+    "epubdate": "2026 Oct 30"
   }
 ]
