@@ -10687,5 +10687,28 @@
     "doi": "doi: 10.3389/fphar.2026.1971426",
     "sortpubdate": "2026/10/30 00:00",
     "epubdate": "2026 Oct 30"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "43043950",
+    "title": "Spatiotemporal dynamics of human metapneumovirus and potential impact of respiratory syncytial virus interventions in the United States.",
+    "source": "PLoS Pathog",
+    "pubdate": "2026 Nov 17",
+    "authors": [
+      "Li K",
+      "Perniciaro S",
+      "Kwon J",
+      "Grubaugh ND",
+      "Weinberger DM",
+      "Pitzer VE"
+    ],
+    "lastauthor": "Pitzer VE",
+    "sortfirstauthor": "Li K",
+    "journal": "PLoS pathogens",
+    "issn": "1553-7366",
+    "essn": "1553-7374",
+    "doi": "doi: 10.1371/journal.ppat.1014810",
+    "sortpubdate": "2026/11/17 00:00",
+    "epubdate": "2026 Nov 17"
   }
 ]
