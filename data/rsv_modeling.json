@@ -10710,5 +10710,57 @@
     "doi": "doi: 10.1371/journal.ppat.1014810",
     "sortpubdate": "2026/11/17 00:00",
     "epubdate": "2026 Nov 17"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "43051072",
+    "title": "Corrigendum to \"COVID-19 disruption and rebound of respiratory syncytial virus hospital burden in Australia: A national interrupted time-series analysis\" [J Infect Public Health 19 (2026) 103337].",
+    "source": "J Infect Public Health",
+    "pubdate": "2026 Nov 18",
+    "authors": [
+      "Lu C",
+      "Barr IG",
+      "Lambert SB",
+      "Mengersen K",
+      "Wang L",
+      "Yang W",
+      "Li Z",
+      "Vardoulakis S",
+      "Bambrick H",
+      "Hu W"
+    ],
+    "lastauthor": "Hu W",
+    "sortfirstauthor": "Lu C",
+    "journal": "Journal of infection and public health",
+    "issn": "1876-0341",
+    "essn": "1876-035X",
+    "doi": "doi: 10.1016/j.jiph.2026.103417",
+    "sortpubdate": "2026/11/18 00:00",
+    "epubdate": "2026 Nov 18"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "42922681",
+    "title": "Forecasting viral antigenic evolution from phylogenetic trees.",
+    "source": "bioRxiv",
+    "pubdate": "2026 Nov 16",
+    "authors": [
+      "Specht I",
+      "Park S",
+      "Vermani A",
+      "Chithrananda S",
+      "Driscoll CL",
+      "Brixi G",
+      "Palacios JA",
+      "Hie BL"
+    ],
+    "lastauthor": "Hie BL",
+    "sortfirstauthor": "Specht I",
+    "journal": "bioRxiv : the preprint server for biology",
+    "issn": "",
+    "essn": "2692-8205",
+    "doi": "pii: 2026.08.27.741102. doi: 10.64898/2026.08.27.741102",
+    "sortpubdate": "2026/11/16 00:00",
+    "epubdate": "2026 Nov 16"
   }
 ]
