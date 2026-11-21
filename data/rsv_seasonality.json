@@ -12660,5 +12660,43 @@
     "doi": "doi: 10.3389/fimmu.2026.1980628",
     "sortpubdate": "2026/11/04 00:00",
     "epubdate": "2026 Nov 4"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "43064265",
+    "title": "Incremental predictive value of public surveillance indicators for RSV and influenza hospitalizations in older adults.",
+    "source": "Ann Epidemiol",
+    "pubdate": "2026 Nov 20",
+    "authors": [
+      "Zheng H",
+      "Zhang T",
+      "Lin S"
+    ],
+    "lastauthor": "Lin S",
+    "sortfirstauthor": "Zheng H",
+    "journal": "Annals of epidemiology",
+    "issn": "1047-2797",
+    "essn": "1873-2585",
+    "doi": "doi: 10.1016/j.annepidem.2026.110321",
+    "sortpubdate": "2026/11/20 00:00",
+    "epubdate": "2026 Nov 20"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "43061885",
+    "title": "Erratum: Julian GS, Spinardi JR, Flora AP, Valluri SR, d'Hellencourt FL, Liang C, Begier E, Berra TZ, Cortez LV, Vitorasso R, Kyaw MH. Seasonal dynamics and burden of respiratory syncytial virus, influenza, and COVID-19 in Brazil: a national surveillance study (2019-2023). J Glob Health. 2026;16:04251.",
+    "source": "J Glob Health",
+    "pubdate": "2026 Nov 20",
+    "authors": [
+      "Journal of Global Health Editorial Team"
+    ],
+    "lastauthor": "Journal of Global Health Editorial Team",
+    "sortfirstauthor": "Journal of Global Health Editorial Team",
+    "journal": "Journal of global health",
+    "issn": "2047-2978",
+    "essn": "2047-2986",
+    "doi": "doi: 10.7189/jogh.16.1604251err1",
+    "sortpubdate": "2026/11/20 00:00",
+    "epubdate": "2026 Nov 20"
   }
 ]

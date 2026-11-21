@@ -10762,5 +10762,69 @@
     "doi": "pii: 2026.08.27.741102. doi: 10.64898/2026.08.27.741102",
     "sortpubdate": "2026/11/16 00:00",
     "epubdate": "2026 Nov 16"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "43064265",
+    "title": "Incremental predictive value of public surveillance indicators for RSV and influenza hospitalizations in older adults.",
+    "source": "Ann Epidemiol",
+    "pubdate": "2026 Nov 20",
+    "authors": [
+      "Zheng H",
+      "Zhang T",
+      "Lin S"
+    ],
+    "lastauthor": "Lin S",
+    "sortfirstauthor": "Zheng H",
+    "journal": "Annals of epidemiology",
+    "issn": "1047-2797",
+    "essn": "1873-2585",
+    "doi": "doi: 10.1016/j.annepidem.2026.110321",
+    "sortpubdate": "2026/11/20 00:00",
+    "epubdate": "2026 Nov 20"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "43064129",
+    "title": "Spheroids in virology: Bridging the gap between conventional 2D cultures and in vivo models.",
+    "source": "Microb Pathog",
+    "pubdate": "2026 Nov 20",
+    "authors": [
+      "Adepoju FO",
+      "Sadek A",
+      "Ivashchenko IA",
+      "Shutova AA",
+      "Nevostrueva PA",
+      "Ostapchuk AV",
+      "Semenov AV"
+    ],
+    "lastauthor": "Semenov AV",
+    "sortfirstauthor": "Adepoju FO",
+    "journal": "Microbial pathogenesis",
+    "issn": "0882-4010",
+    "essn": "1096-1208",
+    "doi": "doi: 10.1016/j.micpath.2026.108931",
+    "sortpubdate": "2026/11/20 00:00",
+    "epubdate": "2026 Nov 20"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "43060710",
+    "title": "A Multilevel Framework for Evaluating the Impact of Monoclonal Antibodies Against Respiratory Syncytial Virus in Daycare and Households.",
+    "source": "medRxiv",
+    "pubdate": "2026 Nov 4",
+    "authors": [
+      "Li K",
+      "Pitzer VE",
+      "Weinberger DM"
+    ],
+    "lastauthor": "Weinberger DM",
+    "sortfirstauthor": "Li K",
+    "journal": "medRxiv : the preprint server for health sciences",
+    "issn": "",
+    "essn": "",
+    "doi": "pii: 2026.11.03.26367194. doi: 10.64898/2026.11.03.26367194",
+    "sortpubdate": "2026/11/04 00:00",
+    "epubdate": "2026 Nov 4"
   }
 ]
