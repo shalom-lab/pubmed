@@ -160656,5 +160656,74 @@
     "doi": "doi: 10.1038/s41467-026-78676-6",
     "sortpubdate": "2026/10/21 00:00",
     "epubdate": "2026 Oct 21"
+  },
+  {
+    "name": "NHANES",
+    "id": "43065005",
+    "title": "Association between pan-immune-inflammation value and metabolic syndrome in US adults: findings from NHANES 2013-2020.",
+    "source": "BMC Endocr Disord",
+    "pubdate": "2026 Aug 27",
+    "authors": [
+      "Dai Q",
+      "Zeng M",
+      "Chen H",
+      "Yang X",
+      "Xie D",
+      "Zhang D"
+    ],
+    "lastauthor": "Zhang D",
+    "sortfirstauthor": "Dai Q",
+    "journal": "BMC endocrine disorders",
+    "issn": "",
+    "essn": "1472-6823",
+    "doi": "pii: 394. doi: 10.1186/s12902-026-02513-6",
+    "sortpubdate": "2026/08/27 00:00",
+    "epubdate": "2026 Aug 27"
+  },
+  {
+    "name": "NHANES",
+    "id": "43058923",
+    "title": "Health outcomes in cancer survivors living alone vs. living with family: a multinational survey study.",
+    "source": "BMC Psychol",
+    "pubdate": "2026 Aug 27",
+    "authors": [
+      "Sim AH",
+      "Lee J",
+      "Kim S",
+      "Shin DW",
+      "Cho J",
+      "Kang D"
+    ],
+    "lastauthor": "Kang D",
+    "sortfirstauthor": "Sim AH",
+    "journal": "BMC psychology",
+    "issn": "",
+    "essn": "2050-7283",
+    "doi": "doi: 10.1186/s40359-026-05461-x",
+    "sortpubdate": "2026/08/27 00:00",
+    "epubdate": "2026 Aug 27"
+  },
+  {
+    "name": "NHANES",
+    "id": "43056011",
+    "title": "From gingiva to brain: cadmium promotes stroke via vascular mechanisms in periodontitis while vitamin k protects.",
+    "source": "Cell Biol Toxicol",
+    "pubdate": "2026 Aug 26",
+    "authors": [
+      "Li F",
+      "Lin B",
+      "Tian S",
+      "Gao J",
+      "Wang H",
+      "Zhao B"
+    ],
+    "lastauthor": "Zhao B",
+    "sortfirstauthor": "Li F",
+    "journal": "Cell biology and toxicology",
+    "issn": "0742-2091",
+    "essn": "1573-6822",
+    "doi": "doi: 10.1007/s10565-026-10255-3",
+    "sortpubdate": "2026/08/26 00:00",
+    "epubdate": "2026 Aug 26"
   }
 ]
