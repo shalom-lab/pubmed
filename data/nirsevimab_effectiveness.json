@@ -7936,7 +7936,7 @@
       "Clerigue Arrieta N",
       "Izquierdo Frechilla J",
       "Cámara Otegui A",
-      "Ba��os López L",
+      "Baños López L",
       "Claret Teruel G",
       "Gijón Mediavilla M",
       "Ferrero García-Loygorri C",
@@ -7983,5 +7983,28 @@
     "doi": "doi: 10.1093/ofid/ofag536",
     "sortpubdate": "2026/08/24 00:00",
     "epubdate": "2026 Aug 24"
+  },
+  {
+    "name": "Nirsevimab effectiveness",
+    "id": "43070911",
+    "title": "Fulminant Necrotizing Enterocolitis Associated With Severe Respiratory Syncytial Virus Infection in a Preterm Infant Following Nirsevimab Prophylaxis: A Case Report.",
+    "source": "Neonatology",
+    "pubdate": "2026 Oct 23",
+    "authors": [
+      "Weber C",
+      "Menter T",
+      "Vuille-Dit-Bille RN",
+      "Meyer P",
+      "Holland-Cunz S",
+      "Andre MC"
+    ],
+    "lastauthor": "Andre MC",
+    "sortfirstauthor": "Weber C",
+    "journal": "Neonatology",
+    "issn": "1661-7800",
+    "essn": "1661-7819",
+    "doi": "pii: adsag035. doi: 10.1159/neo/adsag035",
+    "sortpubdate": "2026/10/23 00:00",
+    "epubdate": "2026 Oct 23"
   }
 ]

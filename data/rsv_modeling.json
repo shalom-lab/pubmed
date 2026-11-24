@@ -10693,7 +10693,7 @@
     "id": "43043950",
     "title": "Spatiotemporal dynamics of human metapneumovirus and potential impact of respiratory syncytial virus interventions in the United States.",
     "source": "PLoS Pathog",
-    "pubdate": "2026 Nov 17",
+    "pubdate": "2026 Nov",
     "authors": [
       "Li K",
       "Perniciaro S",
@@ -10788,7 +10788,7 @@
     "id": "43064129",
     "title": "Spheroids in virology: Bridging the gap between conventional 2D cultures and in vivo models.",
     "source": "Microb Pathog",
-    "pubdate": "2026 Nov 20",
+    "pubdate": "2026 Nov 21",
     "authors": [
       "Adepoju FO",
       "Sadek A",
@@ -10804,8 +10804,8 @@
     "issn": "0882-4010",
     "essn": "1096-1208",
     "doi": "doi: 10.1016/j.micpath.2026.108931",
-    "sortpubdate": "2026/11/20 00:00",
-    "epubdate": "2026 Nov 20"
+    "sortpubdate": "2026/11/21 00:00",
+    "epubdate": "2026 Nov 21"
   },
   {
     "name": "RSV modeling",
@@ -10853,5 +10853,88 @@
     "doi": "doi: 10.1093/ofid/ofag712",
     "sortpubdate": "2026/11/03 00:00",
     "epubdate": "2026 Nov 3"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "43071705",
+    "title": "Multi-model forecasting of respiratory disease activity in Germany during the 2024-2025 season.",
+    "source": "PLoS Comput Biol",
+    "pubdate": "2026 Nov 23",
+    "authors": [
+      "Bracher J",
+      "Wolffram D",
+      "Amaral Lind R",
+      "Bardeck N",
+      "Böhm M",
+      "Contreras S",
+      "Dönges P",
+      "Günther F",
+      "Kaiser R",
+      "van de Kassteele J",
+      "Kuhlmann A",
+      "Lange B",
+      "Němcová B",
+      "Priesemann V",
+      "Reinacher U",
+      "Rodiah I",
+      "Sandmann F",
+      "RESPINOW Study Group",
+      "Schienle M"
+    ],
+    "lastauthor": "Schienle M",
+    "sortfirstauthor": "Bracher J",
+    "journal": "PLoS computational biology",
+    "issn": "1553-734X",
+    "essn": "1553-7358",
+    "doi": "doi: 10.1371/journal.pcbi.1014985",
+    "sortpubdate": "2026/11/23 00:00",
+    "epubdate": "2026 Nov 23"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "43070210",
+    "title": "Admission serum GDF-15 and soluble CD8A in pediatric RSV infection: an exploratory cross-sectional study.",
+    "source": "Biomark Med",
+    "pubdate": "2026 Nov 23",
+    "authors": [
+      "Ezer B",
+      "Genceli M",
+      "Ustuntas T",
+      "Esen HS",
+      "Kasapoglu E",
+      "Bala AF",
+      "Akkus A",
+      "Metin Akcan O",
+      "Ozdemir M"
+    ],
+    "lastauthor": "Ozdemir M",
+    "sortfirstauthor": "Ezer B",
+    "journal": "Biomarkers in medicine",
+    "issn": "1752-0363",
+    "essn": "1752-0371",
+    "doi": "doi: 10.1080/17520363.2026.2753182",
+    "sortpubdate": "2026/11/23 00:00",
+    "epubdate": "2026 Nov 23"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "43069102",
+    "title": "Google trends analysis of emerging tobacco and nicotine products in countries with the highest tobacco production and marketing between 2015 and 2024.",
+    "source": "BMC Public Health",
+    "pubdate": "2026 Aug 29",
+    "authors": [
+      "Uğurlu G",
+      "Erkaya P",
+      "Yozgatlıgil C",
+      "Aslan D"
+    ],
+    "lastauthor": "Aslan D",
+    "sortfirstauthor": "Uğurlu G",
+    "journal": "BMC public health",
+    "issn": "",
+    "essn": "1471-2458",
+    "doi": "pii: 3491. doi: 10.1186/s12889-026-29133-y",
+    "sortpubdate": "2026/08/29 00:00",
+    "epubdate": "2026 Aug 29"
   }
 ]

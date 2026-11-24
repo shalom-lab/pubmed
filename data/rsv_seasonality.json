@@ -12698,5 +12698,41 @@
     "doi": "doi: 10.7189/jogh.16.1604251err1",
     "sortpubdate": "2026/11/20 00:00",
     "epubdate": "2026 Nov 20"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "43071705",
+    "title": "Multi-model forecasting of respiratory disease activity in Germany during the 2024-2025 season.",
+    "source": "PLoS Comput Biol",
+    "pubdate": "2026 Nov 23",
+    "authors": [
+      "Bracher J",
+      "Wolffram D",
+      "Amaral Lind R",
+      "Bardeck N",
+      "Böhm M",
+      "Contreras S",
+      "Dönges P",
+      "Günther F",
+      "Kaiser R",
+      "van de Kassteele J",
+      "Kuhlmann A",
+      "Lange B",
+      "Němcová B",
+      "Priesemann V",
+      "Reinacher U",
+      "Rodiah I",
+      "Sandmann F",
+      "RESPINOW Study Group",
+      "Schienle M"
+    ],
+    "lastauthor": "Schienle M",
+    "sortfirstauthor": "Bracher J",
+    "journal": "PLoS computational biology",
+    "issn": "1553-734X",
+    "essn": "1553-7358",
+    "doi": "doi: 10.1371/journal.pcbi.1014985",
+    "sortpubdate": "2026/11/23 00:00",
+    "epubdate": "2026 Nov 23"
   }
 ]
