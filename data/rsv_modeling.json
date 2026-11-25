@@ -10286,7 +10286,7 @@
   {
     "name": "RSV modeling",
     "id": "42932151",
-    "title": "Respiratory syncytial virus in adults aged ≥ 50 years in the Netherlands: a database and time-series modelling analysis (2013-2020).",
+    "title": "Respiratory syncytial virus in adults aged ��� 50 years in the Netherlands: a database and time-series modelling analysis (2013-2020).",
     "source": "Infection",
     "pubdate": "2026 Oct 26",
     "authors": [
@@ -10934,6 +10934,27 @@
     "issn": "",
     "essn": "1471-2458",
     "doi": "pii: 3491. doi: 10.1186/s12889-026-29133-y",
+    "sortpubdate": "2026/08/29 00:00",
+    "epubdate": "2026 Aug 29"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "43069102",
+    "title": "Google trends analysis of emerging tobacco and nicotine products in countries with the highest tobacco production and marketing between 2015 and 2024.",
+    "source": "BMC Public Health",
+    "pubdate": "2026 Aug 29",
+    "authors": [
+      "Uğurlu G",
+      "Erkaya P",
+      "Yozgatlıgil C",
+      "Aslan D"
+    ],
+    "lastauthor": "Aslan D",
+    "sortfirstauthor": "Uğurlu G",
+    "journal": "BMC public health",
+    "issn": "",
+    "essn": "1471-2458",
+    "doi": "doi: 10.1186/s12889-026-29133-y",
     "sortpubdate": "2026/08/29 00:00",
     "epubdate": "2026 Aug 29"
   }

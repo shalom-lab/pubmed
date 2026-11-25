@@ -12540,6 +12540,7 @@
   {
     "source": "J Immunol Res",
     "journal": "Journal of immunology research",
+    "issn": "2314-8861",
     "essn": "2314-7156"
   },
   {
@@ -17531,5 +17532,11 @@
     "journal": "European psychiatry : the journal of the Association of European Psychiatrists",
     "issn": "0924-9338",
     "essn": "1778-3585"
+  },
+  {
+    "source": "Int J Audiol",
+    "journal": "International journal of audiology",
+    "issn": "1499-2027",
+    "essn": "1708-8186"
   }
 ]

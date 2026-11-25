@@ -12734,5 +12734,29 @@
     "doi": "doi: 10.1371/journal.pcbi.1014985",
     "sortpubdate": "2026/11/23 00:00",
     "epubdate": "2026 Nov 23"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "43074097",
+    "title": "Impact of respiratory syncytial virus immunization in older adults: the importance of a valid burden estimation.",
+    "source": "Arch Public Health",
+    "pubdate": "2026 Aug 29",
+    "authors": [
+      "Guay CA",
+      "Doggui R",
+      "Fortin P",
+      "Fortin É",
+      "Amini R",
+      "Bemmo A",
+      "Gilca R"
+    ],
+    "lastauthor": "Gilca R",
+    "sortfirstauthor": "Guay CA",
+    "journal": "Archives of public health = Archives belges de sante publique",
+    "issn": "0778-7367",
+    "essn": "2049-3258",
+    "doi": "doi: 10.1186/s13690-026-02054-3",
+    "sortpubdate": "2026/08/29 00:00",
+    "epubdate": "2026 Aug 29"
   }
 ]
