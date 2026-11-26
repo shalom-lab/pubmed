@@ -11243,7 +11243,7 @@
     "id": "42767550",
     "title": "Postpandemic re-establishment of respiratory virus seasonality and molecular epidemiology of rhinovirus/enterovirus in Northern Italy: A 3-year surveillance study (2023-2026).",
     "source": "Int J Infect Dis",
-    "pubdate": "2026 Sep 21",
+    "pubdate": "2026 Dec",
     "authors": [
       "Pellegrino M",
       "Messali S",
@@ -11260,7 +11260,7 @@
     "issn": "1201-9712",
     "essn": "1878-3511",
     "doi": "doi: 10.1016/j.ijid.2026.109132",
-    "sortpubdate": "2026/09/21 00:00",
+    "sortpubdate": "2026/12/01 00:00",
     "epubdate": "2026 Sep 21"
   },
   {
@@ -12758,5 +12758,77 @@
     "doi": "doi: 10.1186/s13690-026-02054-3",
     "sortpubdate": "2026/08/29 00:00",
     "epubdate": "2026 Aug 29"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "43083805",
+    "title": "Does the Effectiveness of the Nirsevimab Immunization Programs Decline from One RSV Season to the Next? Real-World Evidence from Northeastern Italy.",
+    "source": "Vaccines (Basel)",
+    "pubdate": "2026 Nov 12",
+    "authors": [
+      "Valent F",
+      "Degani G"
+    ],
+    "lastauthor": "Degani G",
+    "sortfirstauthor": "Valent F",
+    "journal": "Vaccines",
+    "issn": "2076-393X",
+    "essn": "",
+    "doi": "pii: 975. doi: 10.3390/vaccines14110975",
+    "sortpubdate": "2026/11/12 00:00",
+    "epubdate": "2026 Nov 12"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "43081556",
+    "title": "Temporal Patterns and Distribution of Laboratory-Confirmed Respiratory Pathogen Detections in a Tertiary Hospital in Southern Brazil (2023-2026).",
+    "source": "Infect Dis Rep",
+    "pubdate": "2026 Nov 9",
+    "authors": [
+      "Silva RMD",
+      "Neves JH",
+      "Wolf ACM",
+      "Soper MS",
+      "Kist LF",
+      "Soares DRA",
+      "Melo ME",
+      "Flores DP",
+      "Maccari JG",
+      "Nasi LA",
+      "Wolf JM"
+    ],
+    "lastauthor": "Wolf JM",
+    "sortfirstauthor": "Silva RMD",
+    "journal": "Infectious disease reports",
+    "issn": "2036-7430",
+    "essn": "",
+    "doi": "pii: 130. doi: 10.3390/idr18060130",
+    "sortpubdate": "2026/11/09 00:00",
+    "epubdate": "2026 Nov 9"
+  },
+  {
+    "name": "RSV seasonality",
+    "id": "43081030",
+    "title": "Air pollution and pathogen-specific acute exacerbations of COPD.",
+    "source": "ERJ Open Res",
+    "pubdate": "2026 Nov",
+    "authors": [
+      "Kim MJ",
+      "An TJ",
+      "Lee J",
+      "Shin M",
+      "Kwon OB",
+      "Kim WJ",
+      "Kim DK",
+      "Rhee CK"
+    ],
+    "lastauthor": "Rhee CK",
+    "sortfirstauthor": "Kim MJ",
+    "journal": "ERJ open research",
+    "issn": "2312-0541",
+    "essn": "2312-0541",
+    "doi": "pii: 00111-2026. doi: 10.1183/23120541.00111-2026",
+    "sortpubdate": "2026/11/23 00:00",
+    "epubdate": "2026 Nov 23"
   }
 ]
