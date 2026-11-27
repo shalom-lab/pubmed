@@ -10957,5 +10957,54 @@
     "doi": "doi: 10.1186/s12889-026-29133-y",
     "sortpubdate": "2026/08/29 00:00",
     "epubdate": "2026 Aug 29"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "43098202",
+    "title": "Immunogenicity and protective efficacy of a respiratory syncytial virus virus-like particle vaccine following long-term storage and thermal stress.",
+    "source": "J Pharm Sci",
+    "pubdate": "2026 Nov 26",
+    "authors": [
+      "Chu KB",
+      "Yoon KW",
+      "Eom GD",
+      "Piao Y",
+      "Singh MK",
+      "Kim SS",
+      "Quan FS"
+    ],
+    "lastauthor": "Quan FS",
+    "sortfirstauthor": "Chu KB",
+    "journal": "Journal of pharmaceutical sciences",
+    "issn": "0022-3549",
+    "essn": "1520-6017",
+    "doi": "doi: 10.1016/j.xphs.2026.104627",
+    "sortpubdate": "2026/11/26 00:00",
+    "epubdate": "2026 Nov 26"
+  },
+  {
+    "name": "RSV modeling",
+    "id": "43097836",
+    "title": "Boronic acid-directed antibody modification meets machine learning: a paper-based electrochemical sensor for dual respiratory virus antigens.",
+    "source": "Talanta",
+    "pubdate": "2026 Nov 23",
+    "authors": [
+      "Yu X",
+      "Wang JX",
+      "Pang S",
+      "Cao Y",
+      "Yang HK",
+      "Jie J",
+      "Wang JH",
+      "Yang T"
+    ],
+    "lastauthor": "Yang T",
+    "sortfirstauthor": "Yu X",
+    "journal": "Talanta",
+    "issn": "0039-9140",
+    "essn": "1873-3573",
+    "doi": "doi: 10.1016/j.talanta.2026.131016",
+    "sortpubdate": "2026/11/23 00:00",
+    "epubdate": "2026 Nov 23"
   }
 ]

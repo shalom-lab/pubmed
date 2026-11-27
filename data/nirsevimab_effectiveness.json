@@ -7812,7 +7812,7 @@
     "id": "42987753",
     "title": "Respiratory syncytial virus (RSV) in Saudi Arabian children: Epidemiological burden, seasonality, and the evolving landscape of prevention.",
     "source": "J Infect Public Health",
-    "pubdate": "2026 Nov 3",
+    "pubdate": "2026 Dec",
     "authors": [
       "Basabrain AA",
       "Alkinani AM",
@@ -7826,7 +7826,7 @@
     "issn": "1876-0341",
     "essn": "1876-035X",
     "doi": "doi: 10.1016/j.jiph.2026.103411",
-    "sortpubdate": "2026/11/03 00:00",
+    "sortpubdate": "2026/12/01 00:00",
     "epubdate": "2026 Nov 3"
   },
   {
@@ -8048,6 +8048,55 @@
     "issn": "2076-393X",
     "essn": "",
     "doi": "pii: 975. doi: 10.3390/vaccines14110975",
+    "sortpubdate": "2026/11/12 00:00",
+    "epubdate": "2026 Nov 12"
+  },
+  {
+    "name": "Nirsevimab effectiveness",
+    "id": "43092288",
+    "title": "Impact of Universal Nirsevimab Immunoprophylaxis on Bronchiolitis Hospitalizations and Disease Severity in Neonates: A Real-World Single-Centre Study.",
+    "source": "Microorganisms",
+    "pubdate": "2026 Oct 22",
+    "authors": [
+      "De Rose DU",
+      "Antilici L",
+      "Salvatori A",
+      "Vittucci AC",
+      "Di Maio VC",
+      "Musolino AM",
+      "Cortazzo V",
+      "Lozzi S",
+      "Ronchetti MP",
+      "Braguglia A",
+      "Perno CF",
+      "Villani A",
+      "Dotta A"
+    ],
+    "lastauthor": "Dotta A",
+    "sortfirstauthor": "De Rose DU",
+    "journal": "Microorganisms",
+    "issn": "2076-2607",
+    "essn": "2076-2607",
+    "doi": "doi: 10.3390/microorganisms14112423",
+    "sortpubdate": "2026/10/22 00:00",
+    "epubdate": "2026 Oct 22"
+  },
+  {
+    "name": "Nirsevimab effectiveness",
+    "id": "43083805",
+    "title": "Does the Effectiveness of the Nirsevimab Immunization Programs Decline from One RSV Season to the Next? Real-World Evidence from Northeastern Italy.",
+    "source": "Vaccines (Basel)",
+    "pubdate": "2026 Nov 12",
+    "authors": [
+      "Valent F",
+      "Degani G"
+    ],
+    "lastauthor": "Degani G",
+    "sortfirstauthor": "Valent F",
+    "journal": "Vaccines",
+    "issn": "2076-393X",
+    "essn": "2076-393X",
+    "doi": "doi: 10.3390/vaccines14110975",
     "sortpubdate": "2026/11/12 00:00",
     "epubdate": "2026 Nov 12"
   }
